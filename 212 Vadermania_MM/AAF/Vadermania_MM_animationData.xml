@@ -1,7 +1,7 @@
 <meta title="Vadermania - MM Animation Data" version="1.1.0" dataSet="animation"/>
 <defaults source="Vadermania[AAF_anims].esp"/>
 
-<animation id="MM vad_Doggy" offset="0,0,0,0:0,-70,0,0" time="60">
+<animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" time="60">
 	<actor gender="M">
 		<idle form="01000f9e" id="vad_Doggy_Female"/>
 	</actor>
@@ -10,7 +10,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Table" offset="0,0,0,0:0,-70,0,0" time="60">
+<animation id="VM_Table_MM_01" offset="0,0,0,0:0,-70,0,0" time="60">
 	<actor gender="M">
 		<idle form="01000f9b" id="vad_Table_Female"/>
 	</actor>
@@ -19,7 +19,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Dogmeat02" time="60">
+<animation id="VM_Dogmeat_MM_01" time="60">
 	<actor gender="M">
 		<idle form="01000f9f" id="vad_Dogmeat02_Female"/>
 	</actor>
@@ -28,7 +28,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Deathclaw02" time="480">
+<animation id="VM_Deathclaw_MM_Slow_01" time="480">
 	<actor gender="M">
 		<idle form="01002e07" id="vad_Deathclaw02_Human01"/>
 	</actor>
@@ -39,7 +39,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Deathclaw0202" time="480">
+<animation id="VM_Deathclaw_MM_Fast_02" time="480">
 	<actor gender="M">
 		<idle form="010044DB" id="vad_Deathclaw02_Human02"/>
 	</actor>
@@ -50,7 +50,7 @@
 	</actor>
 </animation>
 
-<animation id="vad_Cat01" offset="0,0,0,0:0,0,0,0" time="60">
+<animation id="VM_Cat_MM_01" offset="0,0,0,0:0,0,0,0" time="60">
 	<actor gender="F" race="Cat">
 		<idle form="01002e0a" id="vad_Cat01_Cat_f"/>
 	</actor>
@@ -59,7 +59,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Ghoul02" time="120">
+<animation id="VM_Ghoul_MM_02" time="120">
 	<actor gender="M">
 		<idle form="0100173c" id="vad_Ghoul02_Human01"/>
 	</actor>
@@ -68,7 +68,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Ghoul03" time="240">
+<animation id="VM_Ghoul_MM_Aggressive_03" time="240">
 	<actor gender="M">
 		<idle form="0100173D" id="vad_Ghoul03_Human01"/>
 	</actor>
@@ -77,7 +77,7 @@
 	</actor>
 </animation>
 
-<animation id="vad_Ghoul4w MMMM" time="60">
+<animation id="VM_Ghoul_MM_04" time="60">
 	<actor gender="M">
 		<idle form="01001ed8" id="vad_Ghoul4w_Human_01"/>
 	</actor>
@@ -92,7 +92,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_FEVHound01" time="100">
+<animation id="VM_FEVHound_MM_01" time="100">
 	<actor gender="M">
 		<idle form="01002E13" id="vad_FEVHound01_Human_01"/>
 	</actor>
@@ -101,7 +101,7 @@
 	</actor>
 </animation>
 
-<animation id="MM vad_Gorilla01" time="240">
+<animation id="VM_Gorilla_MM_01" time="240">
 	<actor gender="M">
 		<idle form="010035b5" id="vad_Gorilla01_Human_01"/>
 	</actor>
