@@ -1,14 +1,14 @@
-<meta title="Mutated Lust - Equipment Set Data" version="1.2.0" dataSet="equipmentSet"/>
+<meta title="Mutated Lust - Equipment Set Data" version="1.3.0" dataSet="equipmentSet"/>
 <defaults source="Mutated Lust.esp"/>
 
 <equipmentSet id="addTongue">
     <condition>
-        <addEquipment form="006AD9"/>
+        <addEquipment form="00006AD9"/>
     </condition>
 </equipmentSet>
 
 <equipmentSet id="removeTongue">
     <condition>
-        <removeEquipment form="006AD9"/>
+        <removeEquipment form="00006AD9"/>
     </condition>
 </equipmentSet>
