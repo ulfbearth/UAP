@@ -1,0 +1,10 @@
+<meta title="Gray User's Creature Pack - FM Position Data" version="2.0.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Bloatfly Staged" animationGroup="Bloatfly_Staged"/>
+<position id="Bloodbug Staged" animationGroup="Bloodbug_Staged"/>
+<position id="Mirelurk Staged" animationGroup="Mirelurk_Staged"/>
+<position id="Mirelurk Queen Staged" animationGroup="Mirelurk_Queen_Staged"/>
+<position id="Rad Scorpion Staged" animationGroup="Rad_Scorpion_Staged"/>
+<position id="Stingwing Staged" animationGroup="Stingwing_Staged"/>
+<position id="Yao-Guai Staged" animationGroup="Yao-Guai_Staged"/>

@@ -1,0 +1,193 @@
+<meta title="SavageCabbage's Animation Pack - Furniture Data" version="1.0.4" dataSet="furniture"/>
+<defaults source="Fallout4.esm"/>
+
+<group id="Single_Bed">
+	<furniture form="1340D3" id="NpcBedMetalLay01"/>
+	<furniture form="1340D4" id="NpcBedMetalLay02"/>
+	<furniture form="AB567" id="NpcBedVaultLay01"/>
+	<furniture form="4329F" id="NpcBedVaultLay02"/>
+	<furniture form="488E6" id="InstituteBedWallMounted01"/>
+	<furniture form="E6952" id="NPCBedInstituteSleep01"/>
+	<furniture form="DB85E" id="NPCBedInstituteSleep02"/>
+	<furniture form="118F4B" id="WorkshopNpcBedVaultLay01"/>
+	<furniture form="18C56F" id="WorkshopNpcBedMetalLay01"/>
+	<furniture form="52390" id="WorkshopNpcBedMetalLay02NoEdit"/>
+	<furniture form="23C9C4" id="WorkshopNpcBedMilitaryCottLay01"/>
+	<furniture form="14EA9F" id="NpcBedMetalLay02Dbl"/>
+	<furniture form="249040" id="WorkshopNpcBedVaultLay01DblNoEdit"/>
+	<furniture form="18C570" id="WorkshopNpcBedWoodLay01"/>
+</group>
+
+<group id="Bunk_Bed">
+	<furniture form="AB568" id="NpcBedVaultBunkLay01"/>
+	<furniture form="432A8" id="NpcBedVaultBunkLay02"/>
+	<furniture form="18E7AA" id="WorkshopNpcBedVaultBunkLay01NoEditNEW"/>
+	<furniture form="2462E4" id="WorkshopNpcBedVaultBunkLay02NoEdit"/>
+</group>
+
+<group id="Double_Bed">
+	<furniture form="54835" id="NpcBedPlayerHouseLay01"/>
+	<furniture form="18E7AC" id="WorkshopNpcBedPlayerHouseLay01NoEdit"/>
+	<furniture form="1027A7" id="NpcBedPlayerHouseLay01_NoActivate"/>
+	<furniture form="1340D5" id="NpcBedWoodLay01"/>
+	<furniture form="550D3" id="NPCBedInstituteMountedSleepDbl01"/>
+	<furniture form="18C570" id="WorkshopNpcBedWoodLay01"/>
+</group>
+
+<group id="Bench">
+	<furniture form="DF45A" id="NPCBenchParkSit01"/>
+	<furniture form="17D83" id="NPCBenchStadiumSit01"/>
+	<furniture form="1F483" id="NPCBenchShortFederalistSit01"/>
+	<furniture form="1F484" id="NPCBenchFederalistSit01"/>
+	<furniture form="51C9B" id="NPCBenchHighTechMetalBenchSit01"/>
+	<furniture form="51C9D" id="NPCBenchHighTechMetalBenchDirtySit01"/>
+	<furniture form="7D61B" id="NPCBenchDinerIntBoothSingleSit01"/>
+	<furniture form="7D623" id="NPCBenchDinerIntBoothSingleSit02"/>
+	<furniture form="7D625" id="NPCBenchDinerIntBoothSit01"/>
+	<furniture form="89505" id="NPCBenchChurchSit01"/>
+	<furniture form="B30BA" id="NPCBenchShortVaultSit01"/>
+	<furniture form="B30BC" id="NPCBenchVaultSit01"/>
+	<furniture form="DB85C" id="NPCBenchStoneSit01"/>
+	<furniture form="F16A0" id="NPCBenchShortVaultSit01NoWait"/>
+	<furniture form="F16A1" id="NPCBenchVaultSit01NoWait"/>
+	<furniture form="11807C" id="NPCBenchFederalistSit01OneSlot"/>
+	<furniture form="1203DE" id="NPCBenchInstituteSit01"/>
+</group>
+
+<group id="ArmChair">
+	<furniture form="4D1CC" id="PlayerHouse_Chair01"/>
+	<furniture form="74BB0" id="PlayerHouse_Ruin_Chair01"/>
+</group>
+
+<group id="ChairHigh">
+	<furniture form="DB861" id="InstituteOfficeChair01"/>
+	<furniture form="DF45C" id="MemoryLoungeChair01"/>
+	<furniture form="EA1BB" id="ModernDomesticLoungeChair03"/>
+	<furniture form="1F74E" id="FederalistChair01"/>
+</group>
+
+<group id="ChairLow">
+	<furniture form="E37D3" id="IndustrialMetalDiningChair01"/>
+	<furniture form="EA1BA" id="ModernDomesticLoungeChair02"/>
+</group>
+
+<group id="ChairMedium">
+	<furniture form="DB860" id="InstituteChair01"/>
+	<furniture form="121CA2" id="InstituteChair02"/>
+</group>
+
+<group id="ChairVeryLow">
+	<furniture form="EA1B9" id="ModernDomesticLoungeChair01"/>
+</group>
+
+<group id="Couches">
+	<furniture form="EA1BC" id="NPCCouchModernDomesticSit01"/>
+	<furniture form="1F6A3" id="NPCCouchFederalistSit01"/>
+	<furniture form="3F432" id="NPCCouchOfficeSit01"/>
+	<furniture form="4D1D8" id="NPCCouchPlayerHouseSit01"/>
+	<furniture form="74BB1" id="NPCCouchPlayerHouseRuinSit01"/>
+	<furniture form="1E437A" id="MQ101_NpcCouchPlayerHouseRuinSit01"/>
+	<furniture form="DB85F" id="NPCCouchInstituteSit01"/>
+	<furniture form="DF459" id="NPCCouchMemoryLoungeSit01"/>
+	<furniture form="FDC8B" id="NPCCouchModernDomesticCleanSit01"/>
+	<furniture form="120451" id="NPCCouchInstituteSit02"/>
+	<furniture form="149E61" id="NPCCouchAirplaneSit01"/>
+	<furniture form="149E91" id="NPCCouchAirplaneSit02"/>
+</group>
+
+<group id="Desk">
+	<furniture form="F15C0" id="PrewarFederalistTableSquare01"/>
+	<furniture form="BA4AC" id="FederalistTableSquare01"/>
+	<furniture form="BA4AD" id="FederalistTableLong01"/>
+	<furniture form="1D9FEB" id="FederalistDesk01_Prewar_Empty"/>
+	<furniture form="1F453" id="FederalistDesk01_Prewar"/>
+	<furniture form="43B49" id="DN001_BADTFLCheifDesk"/>
+	<furniture form="A0703" id="DN027_CroupDesk"/>
+	<furniture form="DDB32" id="DN046_FederalistDesk01_Prewar"/>
+	<furniture form="118B1B" id="DN154_MarcWilsonsDesk"/>
+	<furniture form="245FB7" id="DN124_FederalistDesk01_Prewar"/>
+	<furniture form="EA1B8" id="ModernDomesticTableSmall01"/>
+	<furniture form="1820E" id="MetalTable02"/>
+	<furniture form="FDBA8" id="MetalTable02Prewar"/>
+	<furniture form="E6964" id="InstituteTable02"/>
+	<furniture form="EA1AD" id="IndustrialMetalTableSmall01A"/>
+	<furniture form="1793E8" id="IndustrialMetalTableSmall01B"/>
+	<furniture form="1793E9" id="IndustrialMetalTableSmall01C"/>
+	<furniture form="1793EA" id="IndustrialMetalTableSmall01D"/>
+	<furniture form="978CA" id="FancyTableRectangle01"/>
+</group>
+
+<group id="Motorbike">
+	<furniture form="188D3C" id="Motorcycle01"/>
+	<furniture form="188D2A" id="Motorcycle01_Prewar"/>
+	<furniture form="17AD86" id="Motorcycle01_Prewar_Static"/>
+	<furniture form="17935A" id="Motorcycle01_Static"/>
+</group>
+
+<group id="PoolTable">
+	<furniture form="907A" id="PoolTable01"/>
+	<furniture form="10907A" id="PoolTable01"/>
+</group>
+
+<group id="RoundTable">
+	<furniture form="1820D" id="MetalTableRound01"/>
+	<furniture form="5B2E9" id="MemDenClothTable01"/>
+	<furniture form="1F440" id="FederalistTableCircle01"/>
+	<furniture form="978C6" id="FancyTableCircle01"/>
+	<furniture form="4CD63" id="HighTechRoundTable01"/>
+	<furniture form="4CD67" id="HighTechRoundTable01_Dirty"/>
+</group>
+
+<group id="Stool">
+	<furniture form="17A7F" id="NpcStoolStadiumSit01"/>
+	<furniture form="1F93B" id="NpcStoolFederalistSit01"/>
+	<furniture form="4D1DF" id="NpcStoolPlayerHouseSit01"/>
+	<furniture form="6FA2E" id="NpcStoolPlayerHouseRuinSit01"/>
+	<furniture form="711B3" id="NpcStoolPlayerHouseRuinSit02"/>
+	<furniture form="711B4" id="NpcStoolPlayerHouseRuinSit03"/>
+	<furniture form="7D5D8" id="NpcStoolDinerIntSit01"/>
+	<furniture form="7D5E6" id="NpcStoolDinerIntSit02"/>
+	<furniture form="D83C4" id="NpcStoolIndustrialMetalSit01"/>
+	<furniture form="EA1BD" id="NpcStoolModernDomesticSit01"/>
+	<furniture form="E6971" id="NpcOfficeStoolInstituteSit01"/>
+	<furniture form="1437F9" id="NpcStoolStadiumSit01WithBar"/>
+	<furniture form="1437FC" id="NpcStoolStadiumIntSit01EatNoodles"/>
+</group>
+
+<group id="WallChurch">
+	<furniture form="DD7EB" id="ChurchMainA1x2Wall01"/>
+	<furniture form="DD7E8" id="ChurchMainA1x2Win01"/>
+	<furniture form="DD7E9" id="ChurchMainA1x2Win01Full01"/>
+	<furniture form="DD80F" id="ChurchMainAButtress01"/>
+	<furniture form="DD84A" id="ChurchMainA1x2WallHalf01Full01"/>
+	<furniture form="DD88C" id="ChurchMainA1x2Wall01Full01"/>
+</group>
+
+<group id="MediumTable">
+	<furniture form="9F431" id="FancyTableDinner01"/>
+</group>
+
+<group id="Seat">
+	<furniture form="4D1E4" id="NpcChairPlayerHouseKitchenSit01"/>
+	<furniture form="6F9DC" id="NpcChairPlayerHouseRuinKitchenSit01"/>
+	<furniture form="6F9DD" id="NpcChairPlayerHouseRuinKitchenSit02"/>
+	<furniture form="6F9DE" id="NpcChairPlayerHouseRuinKitchenSit03"/>
+</group>
+
+<group id="Sedan_PreWar01">
+	<furniture form="A9774" id="Sedan01_Prewar"/>
+	<furniture form="24972F" id="LS_Sedan01_Prewar"/>
+</group>
+
+<group id="Sedan_PostWar01">
+	<furniture form="194634" id="CarSedan01"/>
+	<furniture form="194635" id="CarSedan04"/>
+	<furniture form="194636" id="CarSedan07"/>
+	<furniture form="194637" id="CarSedan10"/>
+</group>
+
+<group id="Sleeping_Bag">
+	<furniture form="D75BC" id="NpcBedSleepingBagSleep01"/>
+	<furniture form="EE9EF" id="NpcBedSleepingBagSleep01Static"/>
+	<furniture form="118F57" id="WorkshopNpcBedSleepingBagSleep01"/>
+</group>

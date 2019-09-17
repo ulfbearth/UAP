@@ -1,0 +1,1279 @@
+<meta title="ShinoPoses - Animation Data" version="5.1.0" dataSet="animation"/>
+<defaults source="Shino Poses.esp"/>
+
+<!-- Normal -->
+
+<animation id="Shino1">
+	<actor>
+		<idle form="00000F99"/>
+	</actor>
+</animation>
+<animation id="Shino2">
+	<actor>
+		<idle form="00000F9A"/>
+	</actor>
+</animation>
+<animation id="Shino3">
+	<actor>
+		<idle form="00000F9B"/>
+	</actor>
+</animation>
+<animation id="Shino4">
+	<actor>
+		<idle form="00000F9E"/>
+	</actor>
+</animation>
+<animation id="Shino5">
+	<actor>
+		<idle form="00000F9F"/>
+	</actor>
+</animation>
+<animation id="Shino6">
+	<actor>
+		<idle form="00000FA0"/>
+	</actor>
+</animation>
+<animation id="Shino7">
+	<actor>
+		<idle form="00000FA1"/>
+	</actor>
+</animation>
+<animation id="Shino8">
+	<actor>
+		<idle form="00000FA2"/>
+	</actor>
+</animation>
+<animation id="Shino9">
+	<actor>
+		<idle form="00000FA3"/>
+	</actor>
+</animation>
+<animation id="Shino10">
+	<actor>
+		<idle form="00000FA4"/>
+	</actor>
+</animation>
+<animation id="Shino11">
+	<actor>
+		<idle form="00000FA5"/>
+	</actor>
+</animation>
+<animation id="Shino12">
+	<actor>
+		<idle form="00000FA6"/>
+	</actor>
+</animation>
+<animation id="Shino13">
+	<actor>
+		<idle form="00000FA7"/>
+	</actor>
+</animation>
+<animation id="Shino14">
+	<actor>
+		<idle form="00000FA8"/>
+	</actor>
+</animation>
+<animation id="Shino15">
+	<actor>
+		<idle form="00000FA9"/>
+	</actor>
+</animation>
+<animation id="Shino16">
+	<actor>
+		<idle form="00000FAA"/>
+	</actor>
+</animation>
+<animation id="Shino17">
+	<actor>
+		<idle form="00000FAB"/>
+	</actor>
+</animation>
+<animation id="Shino18">
+	<actor>
+		<idle form="00000FAC"/>
+	</actor>
+</animation>
+<animation id="Shino19">
+	<actor>
+		<idle form="00000FAD"/>
+	</actor>
+</animation>
+<animation id="Shino20">
+	<actor>
+		<idle form="00000FAE"/>
+	</actor>
+</animation>
+<animation id="Shino21">
+	<actor>
+		<idle form="00000FAF"/>
+	</actor>
+</animation>
+<animation id="Shino22">
+	<actor>
+		<idle form="00000FB0"/>
+	</actor>
+</animation>
+<animation id="Shino23">
+	<actor>
+		<idle form="00000FB1"/>
+	</actor>
+</animation>
+<animation id="Shino24">
+	<actor>
+		<idle form="00000FB2"/>
+	</actor>
+</animation>
+<animation id="Shino25">
+	<actor>
+		<idle form="00000FB3"/>
+	</actor>
+</animation>
+<animation id="Shino26">
+	<actor>
+		<idle form="00000FB4"/>
+	</actor>
+</animation>
+<animation id="Shino27">
+	<actor>
+		<idle form="00000FB5"/>
+	</actor>
+</animation>
+<animation id="Shino28">
+	<actor>
+		<idle form="00000FB6"/>
+	</actor>
+</animation>
+<animation id="Shino29">
+	<actor>
+		<idle form="00000FB7"/>
+	</actor>
+</animation>
+<animation id="Shino30">
+	<actor>
+		<idle form="00000FB8"/>
+	</actor>
+</animation>
+<animation id="Shino31">
+	<actor>
+		<idle form="00000FB9"/>
+	</actor>
+</animation>
+<animation id="Shino32">
+	<actor>
+		<idle form="00000FBA"/>
+	</actor>
+</animation>
+<animation id="Shino33">
+	<actor>
+		<idle form="00000FBB"/>
+	</actor>
+</animation>
+<animation id="Shino34">
+	<actor>
+		<idle form="00000FBC"/>
+	</actor>
+</animation>
+<animation id="Shino35">
+	<actor>
+		<idle form="00001756"/>
+	</actor>
+</animation>
+<animation id="Shino36">
+	<actor>
+		<idle form="00001757"/>
+	</actor>
+</animation>
+<animation id="Shino37">
+	<actor>
+		<idle form="00001EF1"/>
+	</actor>
+</animation>
+<animation id="Shino38">
+	<actor>
+		<idle form="00001EF2"/>
+	</actor>
+</animation>
+<animation id="Shino39">
+	<actor>
+		<idle form="00001EF3"/>
+	</actor>
+</animation>
+<animation id="Shino40">
+	<actor>
+		<idle form="0000268D"/>
+	</actor>
+</animation>
+<animation id="Shino41">
+	<actor>
+		<idle form="0000268E"/>
+	</actor>
+</animation>
+<animation id="Shino42">
+	<actor>
+		<idle form="0000268F"/>
+	</actor>
+</animation>
+<animation id="Shino43">
+	<actor>
+		<idle form="00002690"/>
+	</actor>
+</animation>
+<animation id="Shino44">
+	<actor>
+		<idle form="00002691"/>
+	</actor>
+</animation>
+<animation id="Shino45">
+	<actor>
+		<idle form="00002692"/>
+	</actor>
+</animation>
+<animation id="Shino46">
+	<actor>
+		<idle form="00002693"/>
+	</actor>
+</animation>
+<animation id="Shino47">
+	<actor>
+		<idle form="00002E2D"/>
+	</actor>
+</animation>
+<animation id="Shino48">
+	<actor>
+		<idle form="00002E2E"/>
+	</actor>
+</animation>
+<animation id="Shino49">
+	<actor>
+		<idle form="00002E2F"/>
+	</actor>
+</animation>
+<animation id="Shino50">
+	<actor>
+		<idle form="00002E30"/>
+	</actor>
+</animation>
+<animation id="Shino51">
+	<actor>
+		<idle form="00010356"/>
+	</actor>
+</animation>
+<animation id="Shino52">
+	<actor>
+		<idle form="0001128D"/>
+	</actor>
+</animation>
+<animation id="Shino53">
+	<actor>
+		<idle form="0001128E"/>
+	</actor>
+</animation>
+<animation id="Shino54">
+	<actor>
+		<idle form="00010357"/>
+	</actor>
+</animation>
+<animation id="Shino55">
+	<actor>
+		<idle form="00010358"/>
+	</actor>
+</animation>
+<animation id="Shino56">
+	<actor>
+		<idle form="00010AF2"/>
+	</actor>
+</animation>
+<animation id="Shino57">
+	<actor>
+		<idle form="00010AF3"/>
+	</actor>
+</animation>
+<animation id="Shino58">
+	<actor>
+		<idle form="00011A2C"/>
+	</actor>
+</animation>
+<animation id="Shino59">
+	<actor>
+		<idle form="000121C6"/>
+	</actor>
+</animation>
+<animation id="Shino60">
+	<actor>
+		<idle form="0001128F"/>
+	</actor>
+</animation>
+<animation id="Shino61">
+	<actor>
+		<idle form="00011290"/>
+	</actor>
+</animation>
+<animation id="Shino62">
+	<actor>
+		<idle form="00012964"/>
+	</actor>
+</animation>
+<animation id="Shino63">
+	<actor>
+		<idle form="000130FE"/>
+	</actor>
+</animation>
+<animation id="Shino64">
+	<actor>
+		<idle form="000130FF"/>
+	</actor>
+</animation>
+<animation id="Shino65">
+	<actor>
+		<idle form="00013100"/>
+	</actor>
+</animation>
+<animation id="Shino66">
+	<actor>
+		<idle form="0001389C"/>
+	</actor>
+</animation>
+<animation id="Shino67">
+	<actor>
+		<idle form="0001389D"/>
+	</actor>
+</animation>
+<animation id="Shino68">
+	<actor>
+		<idle form="0001389E"/>
+	</actor>
+</animation>
+<animation id="Shino69">
+	<actor>
+		<idle form="00014038"/>
+	</actor>
+</animation>
+<animation id="Shino70">
+	<actor>
+		<idle form="00014039"/>
+	</actor>
+</animation>
+<animation id="Shino71">
+	<actor>
+		<idle form="000147D3"/>
+	</actor>
+</animation>
+<animation id="Shino72">
+	<actor>
+		<idle form="00014F6D"/>
+	</actor>
+</animation>
+<animation id="Shino73">
+	<actor>
+		<idle form="00015707"/>
+	</actor>
+</animation>
+<animation id="Shino74">
+	<actor>
+		<idle form="00015708"/>
+	</actor>
+</animation>
+<animation id="Shino75">
+	<actor>
+		<idle form="00015709"/>
+	</actor>
+</animation>
+<animation id="Shino76">
+	<actor>
+		<idle form="0001570A"/>
+	</actor>
+</animation>
+<animation id="Shino77">
+	<actor>
+		<idle form="0001570B"/>
+	</actor>
+</animation>
+<animation id="Shino78">
+	<actor>
+		<idle form="00015EA5"/>
+	</actor>
+</animation>
+<animation id="Shino79">
+	<actor>
+		<idle form="00015EA6"/>
+	</actor>
+</animation>
+<animation id="Shino80">
+	<actor>
+		<idle form="00015EA7"/>
+	</actor>
+</animation>
+<animation id="Shino81">
+	<actor>
+		<idle form="00015EA8"/>
+	</actor>
+</animation>
+<animation id="Shino82">
+	<actor>
+		<idle form="00015EA9"/>
+	</actor>
+</animation>
+<animation id="Shino83">
+	<actor>
+		<idle form="00016643"/>
+	</actor>
+</animation>
+<animation id="Shino84">
+	<actor>
+		<idle form="00016DDD"/>
+	</actor>
+</animation>
+<animation id="Shino85">
+	<actor>
+		<idle form="00016DDE"/>
+	</actor>
+</animation>
+<animation id="Shino86">
+	<actor>
+		<idle form="00017578"/>
+	</actor>
+</animation>
+<animation id="Shino87">
+	<actor>
+		<idle form="0001757A"/>
+	</actor>
+</animation>
+<animation id="Shino88">
+	<actor>
+		<idle form="0001757B"/>
+	</actor>
+</animation>
+<animation id="Shino89">
+	<actor>
+		<idle form="0001757C"/>
+	</actor>
+</animation>
+<animation id="Shino90">
+	<actor>
+		<idle form="0001757D"/>
+	</actor>
+</animation>
+<animation id="Shino91">
+	<actor>
+		<idle form="0001757E"/>
+	</actor>
+</animation>
+<animation id="Shino92">
+	<actor>
+		<idle form="0001757F"/>
+	</actor>
+</animation>
+<animation id="Shino93">
+	<actor>
+		<idle form="00017580"/>
+	</actor>
+</animation>
+<animation id="Shino94">
+	<actor>
+		<idle form="00017581"/>
+	</actor>
+</animation>
+<animation id="Shino95">
+	<actor>
+		<idle form="00017582"/>
+	</actor>
+</animation>
+<animation id="Shino96">
+	<actor>
+		<idle form="00017D1C"/>
+	</actor>
+</animation>
+<animation id="Shino97">
+	<actor>
+		<idle form="00017D1D"/>
+	</actor>
+</animation>
+<animation id="Shino98">
+	<actor>
+		<idle form="00017D1E"/>
+	</actor>
+</animation>
+<animation id="Shino99">
+	<actor>
+		<idle form="00017D1F"/>
+	</actor>
+</animation>
+<animation id="Shino100">
+	<actor>
+		<idle form="000184BA"/>
+	</actor>
+</animation>
+<animation id="Shino101">
+	<actor>
+		<idle form="00019B92"/>
+	</actor>
+</animation>
+<animation id="Shino102">
+	<actor>
+		<idle form="00019B93"/>
+	</actor>
+</animation>
+<animation id="Shino103">
+	<actor>
+		<idle form="0001A32D"/>
+	</actor>
+</animation>
+<animation id="Shino104">
+	<actor>
+		<idle form="0001AAC7"/>
+	</actor>
+</animation>
+<animation id="Shino105">
+	<actor>
+		<idle form="0001AAC8"/>
+	</actor>
+</animation>
+<animation id="Shino106">
+	<actor>
+		<idle form="0001B262"/>
+	</actor>
+</animation>
+<animation id="Shino107">
+	<actor>
+		<idle form="0001B263"/>
+	</actor>
+</animation>
+<animation id="Shino108">
+	<actor>
+		<idle form="0001B264"/>
+	</actor>
+</animation>
+<animation id="Shino109">
+	<actor>
+		<idle form="0001B265"/>
+	</actor>
+</animation>
+<animation id="Shino110">
+	<actor>
+		<idle form="0001B266"/>
+	</actor>
+</animation>
+<animation id="Shino111">
+	<actor>
+		<idle form="0001B267"/>
+	</actor>
+</animation>
+<animation id="Shino112">
+	<actor>
+		<idle form="0001BA01"/>
+	</actor>
+</animation>
+<animation id="Shino113">
+	<actor>
+		<idle form="0001BA02"/>
+	</actor>
+</animation>
+<animation id="Shino114">
+	<actor>
+		<idle form="0001BA03"/>
+	</actor>
+</animation>
+<animation id="Shino115">
+	<actor>
+		<idle form="0001C19D"/>
+	</actor>
+</animation>
+<animation id="Shino116">
+	<actor>
+		<idle form="0001C937"/>
+	</actor>
+</animation>
+<animation id="Shino117">
+	<actor>
+		<idle form="0001C938"/>
+	</actor>
+</animation>
+<animation id="Shino118">
+	<actor>
+		<idle form="0001C939"/>
+	</actor>
+</animation>
+<animation id="Shino119">
+	<actor>
+		<idle form="0001C93A"/>
+	</actor>
+</animation>
+<animation id="Shino120">
+	<actor>
+		<idle form="0001C93B"/>
+	</actor>
+</animation>
+<animation id="Shino121">
+	<actor>
+		<idle form="0001C93C"/>
+	</actor>
+</animation>
+<animation id="Shino122">
+	<actor>
+		<idle form="0001D0D6"/>
+	</actor>
+</animation>
+<animation id="Shino123">
+	<actor>
+		<idle form="0001D0D7"/>
+	</actor>
+</animation>
+<animation id="Shino124">
+	<actor>
+		<idle form="0001D0D8"/>
+	</actor>
+</animation>
+<animation id="Shino125">
+	<actor>
+		<idle form="0001D872"/>
+	</actor>
+</animation>
+<animation id="Shino126">
+	<actor>
+		<idle form="0001D873"/>
+	</actor>
+</animation>
+<animation id="Shino127">
+	<actor>
+		<idle form="0001D874"/>
+	</actor>
+</animation>
+<animation id="Shino128">
+	<actor>
+		<idle form="0001E00E"/>
+	</actor>
+</animation>
+<animation id="Shino129">
+	<actor>
+		<idle form="0001E00F"/>
+	</actor>
+</animation>
+<animation id="Shino130">
+	<actor>
+		<idle form="0001E010"/>
+	</actor>
+</animation>
+<animation id="Shino131">
+	<actor>
+		<idle form="0001E011"/>
+	</actor>
+</animation>
+<animation id="Shino132">
+	<actor>
+		<idle form="0001EF54"/>
+	</actor>
+</animation>
+<animation id="Shino133">
+	<actor>
+		<idle form="0001EF55"/>
+	</actor>
+</animation>
+<animation id="Shino134">
+	<actor>
+		<idle form="0001EF56"/>
+	</actor>
+</animation>
+<animation id="Shino135">
+	<actor>
+		<idle form="0001EF57"/>
+	</actor>
+</animation>
+
+<!-- Firearms -->
+
+<animation id="ShinoFW1">
+	<actor>
+		<idle form="00004508"/>
+	</actor>
+</animation>
+<animation id="ShinoFW2">
+	<actor>
+		<idle form="00004CA2"/>
+	</actor>
+</animation>
+<animation id="ShinoFW3">
+	<actor>
+		<idle form="000098BC"/>
+	</actor>
+</animation>
+<animation id="ShinoFW4">
+	<actor>
+		<idle form="0000A056"/>
+	</actor>
+</animation>
+<animation id="ShinoFW5">
+	<actor>
+		<idle form="0000A058"/>
+	</actor>
+</animation>
+<animation id="ShinoFW6">
+	<actor>
+		<idle form="0000A057"/>
+	</actor>
+</animation>
+<animation id="ShinoFW7">
+	<actor>
+		<idle form="0000A059"/>
+	</actor>
+</animation>
+<animation id="ShinoFW8">
+	<actor>
+		<idle form="0000A7F3"/>
+	</actor>
+</animation>
+<animation id="ShinoFW9">
+	<actor>
+		<idle form="0000A7F4"/>
+	</actor>
+</animation>
+<animation id="ShinoFW10">
+	<actor>
+		<idle form="0000AF8E"/>
+	</actor>
+</animation>
+<animation id="ShinoFw11">
+	<actor>
+		<idle form="0000AF8F"/>
+	</actor>
+</animation>
+<animation id="ShinoFW12">
+	<actor>
+		<idle form="0000B729"/>
+	</actor>
+</animation>
+<animation id="ShinoFW13">
+	<actor>
+		<idle form="0000B72A"/>
+	</actor>
+</animation>
+<animation id="ShinoFW14">
+	<actor>
+		<idle form="0000B72B"/>
+	</actor>
+</animation>
+<animation id="ShinoFW15">
+	<actor>
+		<idle form="0000B72C"/>
+	</actor>
+</animation>
+<animation id="ShinoFW16">
+	<actor>
+		<idle form="0000B72D"/>
+	</actor>
+</animation>
+<animation id="ShinoFW17">
+	<actor>
+		<idle form="0000B72E"/>
+	</actor>
+</animation>
+<animation id="ShinoFW18">
+	<actor>
+		<idle form="0000B72F"/>
+	</actor>
+</animation>
+<animation id="ShinoFW19">
+	<actor>
+		<idle form="0000B730"/>
+	</actor>
+</animation>
+<animation id="ShinoFW20">
+	<actor>
+		<idle form="0000BECA"/>
+	</actor>
+</animation>
+<animation id="ShinoFW21">
+	<actor>
+		<idle form="0000BECB"/>
+	</actor>
+</animation>
+<animation id="ShinoFW22">
+	<actor>
+		<idle form="0000BECC"/>
+	</actor>
+</animation>
+<animation id="ShinoFW23">
+	<actor>
+		<idle form="0000BECD"/>
+	</actor>
+</animation>
+<animation id="ShinoFW24">
+	<actor>
+		<idle form="0000C667"/>
+	</actor>
+</animation>
+<animation id="ShinoFW25">
+	<actor>
+		<idle form="0000C668"/>
+	</actor>
+</animation>
+<animation id="ShinoFW26">
+	<actor>
+		<idle form="0000C669"/>
+	</actor>
+</animation>
+<animation id="ShinoFW27">
+	<actor>
+		<idle form="0000C66A"/>
+	</actor>
+</animation>
+<animation id="ShinoFW28">
+	<actor>
+		<idle form="0000EC75"/>
+	</actor>
+</animation>
+<animation id="ShinoFW29">
+	<actor>
+		<idle form="0000F40F"/>
+	</actor>
+</animation>
+<animation id="ShinoFW30">
+	<actor>
+		<idle form="0000F410"/>
+	</actor>
+</animation>
+<animation id="ShinoFW31">
+	<actor>
+		<idle form="0000F411"/>
+	</actor>
+</animation>
+<animation id="ShinoFW32">
+	<actor>
+		<idle form="0000FBAB"/>
+	</actor>
+</animation>
+<animation id="ShinoFW33">
+	<actor>
+		<idle form="0000FBAC"/>
+	</actor>
+</animation>
+<animation id="ShinoFW34">
+	<actor>
+		<idle form="0000FBAD"/>
+	</actor>
+</animation>
+<animation id="ShinoFW35">
+	<actor>
+		<idle form="0000FBAE"/>
+	</actor>
+</animation>
+<animation id="ShinoFW36">
+	<actor>
+		<idle form="0000FBAF"/>
+	</actor>
+</animation>
+<animation id="ShinoFW37">
+	<actor>
+		<idle form="0000FBB1"/>
+	</actor>
+</animation>
+<animation id="ShinoFW38">
+	<actor>
+		<idle form="0000FBB0"/>
+	</actor>
+</animation>
+
+<!-- Groups -->
+
+<animation id="ShinoGA1">
+	<actor>
+		<idle form="00003D6D"/>
+	</actor>
+</animation>
+<animation id="ShinoGA2">
+	<actor>
+		<idle form="00003D6E"/>
+	</actor>
+</animation>
+<animation id="ShinoGB1">
+	<actor>
+		<idle form="00011A2A"/>
+	</actor>
+</animation>
+<animation id="ShinoGB2">
+	<actor>
+		<idle form="00011A2B"/>
+	</actor>
+</animation>
+<animation id="ShinoGC1">
+	<actor>
+		<idle form="000121C7"/>
+	</actor>
+</animation>
+<animation id="ShinoGC2">
+	<actor>
+		<idle form="000121C8"/>
+	</actor>
+</animation>
+<animation id="ShinoGD1">
+	<actor>
+		<idle form="000121C9"/>
+	</actor>
+</animation>
+<animation id="ShinoGD2">
+	<actor>
+		<idle form="000121CA"/>
+	</actor>
+</animation>
+<animation id="ShinoGE1">
+	<actor>
+		<idle form="0001389A"/>
+	</actor>
+</animation>
+<animation id="ShinoGE2">
+	<actor>
+		<idle form="0001389B"/>
+	</actor>
+</animation>
+<animation id="ShinoGE3">
+	<actor>
+		<idle form="00017D20"/>
+	</actor>
+</animation>
+
+<!-- Groups Duo -->
+
+<animation id="ShinoGA">
+	<actor>
+		<idle form="00003D6D"/>
+	</actor>
+	<actor>
+		<idle form="00003D6E"/>
+	</actor>
+</animation>
+<animation id="ShinoGB">
+	<actor>
+		<idle form="00011A2A"/>
+	</actor>
+	<actor>
+		<idle form="00011A2B"/>
+	</actor>
+</animation>
+<animation id="ShinoGC">
+	<actor>
+		<idle form="000121C7"/>
+	</actor>
+	<actor>
+		<idle form="000121C8"/>
+	</actor>
+</animation>
+<animation id="ShinoGD">
+	<actor>
+		<idle form="000121C9"/>
+	</actor>
+	<actor>
+		<idle form="000121CA"/>
+	</actor>
+</animation>
+
+<!-- Groups Trio -->
+
+<animation id="ShinoGE">
+	<actor>
+		<idle form="0001389A"/>
+	</actor>
+	<actor>
+		<idle form="0001389B"/>
+	</actor>
+	<actor>
+		<idle form="00017D20"/>
+	</actor>
+</animation>
+
+<!-- Melee Weapons -->
+
+<animation id="ShinoMW1">
+	<actor>
+		<idle form="000035CA"/>
+	</actor>
+</animation>
+<animation id="ShinoMW2">
+	<actor>
+		<idle form="000035CB"/>
+	</actor>
+</animation>
+<animation id="ShinoMW3">
+	<actor>
+		<idle form="000035CC"/>
+	</actor>
+</animation>
+<animation id="ShinoMW4">
+	<actor>
+		<idle form="000035CD"/>
+	</actor>
+</animation>
+<animation id="ShinoMW5">
+	<actor>
+		<idle form="000035CE"/>
+	</actor>
+</animation>
+<animation id="ShinoMW6">
+	<actor>
+		<idle form="000035CF"/>
+	</actor>
+</animation>
+<animation id="ShinoMW7">
+	<actor>
+		<idle form="000035D0"/>
+	</actor>
+</animation>
+<animation id="ShinoMW8">
+	<actor>
+		<idle form="000035D1"/>
+	</actor>
+</animation>
+<animation id="ShinoMW9">
+	<actor>
+		<idle form="00003D6B"/>
+	</actor>
+</animation>
+<animation id="ShinoMW10">
+	<actor>
+		<idle form="00003D6C"/>
+	</actor>
+</animation>
+<animation id="ShinoMW11">
+	<actor>
+		<idle form="00005BD6"/>
+	</actor>
+</animation>
+<animation id="ShinoMW12">
+	<actor>
+		<idle form="0000543C"/>
+	</actor>
+</animation>
+<animation id="ShinoMW13">
+	<actor>
+		<idle form="00005BD7"/>
+	</actor>
+</animation>
+<animation id="ShinoMW14">
+	<actor>
+		<idle form="00006371"/>
+	</actor>
+</animation>
+<animation id="ShinoMW15">
+	<actor>
+		<idle form="00006372"/>
+	</actor>
+</animation>
+<animation id="ShinoMW16">
+	<actor>
+		<idle form="00006373"/>
+	</actor>
+</animation>
+<animation id="ShinoMW17">
+	<actor>
+		<idle form="00006B0D"/>
+	</actor>
+</animation>
+<animation id="ShinoMW18">
+	<actor>
+		<idle form="00006B0E"/>
+	</actor>
+</animation>
+<animation id="ShinoMw19">
+	<actor>
+		<idle form="00006B0F"/>
+	</actor>
+</animation>
+<animation id="ShinoMW20">
+	<actor>
+		<idle form="000072A9"/>
+	</actor>
+</animation>
+<animation id="ShinoMW21">
+	<actor>
+		<idle form="000072AA"/>
+	</actor>
+</animation>
+<animation id="ShinoMw22">
+	<actor>
+		<idle form="00007A44"/>
+	</actor>
+</animation>
+<animation id="ShinoMW23">
+	<actor>
+		<idle form="00007A45"/>
+	</actor>
+</animation>
+<animation id="ShinoMW24">
+	<actor>
+		<idle form="00007A46"/>
+	</actor>
+</animation>
+<animation id="ShinoMW25">
+	<actor>
+		<idle form="00007A47"/>
+	</actor>
+</animation>
+<animation id="ShinoMW26">
+	<actor>
+		<idle form="000081E1"/>
+	</actor>
+</animation>
+<animation id="ShinoMW27">
+	<actor>
+		<idle form="000081E2"/>
+	</actor>
+</animation>
+<animation id="ShinoMW28">
+	<actor>
+		<idle form="000081E3"/>
+	</actor>
+</animation>
+<animation id="ShinoMW29">
+	<actor>
+		<idle form="0000897D"/>
+	</actor>
+</animation>
+<animation id="ShinoMW30">
+	<actor>
+		<idle form="0000897E"/>
+	</actor>
+</animation>
+<animation id="ShinoMW31">
+	<actor>
+		<idle form="0000897F"/>
+	</actor>
+</animation>
+<animation id="ShinoMW32">
+	<actor>
+		<idle form="00008980"/>
+	</actor>
+</animation>
+<animation id="ShinoMW33">
+	<actor>
+		<idle form="00008981"/>
+	</actor>
+</animation>
+<animation id="ShinoMW34">
+	<actor>
+		<idle form="00008982"/>
+	</actor>
+</animation>
+<animation id="ShinoMW35">
+	<actor>
+		<idle form="00008983"/>
+	</actor>
+</animation>
+<animation id="ShinoMW36">
+	<actor>
+		<idle form="00008984"/>
+	</actor>
+</animation>
+<animation id="ShinoMW37">
+	<actor>
+		<idle form="0000911E"/>
+	</actor>
+</animation>
+<animation id="ShinoMW38">
+	<actor>
+		<idle form="0000911F"/>
+	</actor>
+</animation>
+<animation id="ShinoMw39">
+	<actor>
+		<idle form="00009120"/>
+	</actor>
+</animation>
+<animation id="ShinoMW40">
+	<actor>
+		<idle form="00009121"/>
+	</actor>
+</animation>
+<animation id="ShinoMW41">
+	<actor>
+		<idle form="00009122"/>
+	</actor>
+</animation>
+
+<!-- SunJeong -->
+
+<animation id="ShinoSun1">
+	<actor>
+		<idle form="0001E7AB"/>
+	</actor>
+</animation>
+<animation id="ShinoSun2">
+	<actor>
+		<idle form="0001E7AC"/>
+	</actor>
+</animation>
+<animation id="ShinoSun3">
+	<actor>
+		<idle form="0001E7AD"/>
+	</actor>
+</animation>
+<animation id="ShinoSun4">
+	<actor>
+		<idle form="0001E7AE"/>
+	</actor>
+</animation>
+<animation id="ShinoSun5">
+	<actor>
+		<idle form="0001E7AF"/>
+	</actor>
+</animation>
+<animation id="ShinoSun6">
+	<actor>
+		<idle form="0001E7B0"/>
+	</actor>
+</animation>
+<animation id="ShinoSun7">
+	<actor>
+		<idle form="0001E7B1"/>
+	</actor>
+</animation>
+<animation id="ShinoSun8">
+	<actor>
+		<idle form="0001E7B2"/>
+	</actor>
+</animation>
+<animation id="ShinoSun9">
+	<actor>
+		<idle form="0001E7B3"/>
+	</actor>
+</animation>
+<animation id="ShinoSun10">
+	<actor>
+		<idle form="0001E7B4"/>
+	</actor>
+</animation>
+<animation id="ShinoSun11">
+	<actor>
+		<idle form="0001E7B5"/>
+	</actor>
+</animation>
+<animation id="ShinoSun12">
+	<actor>
+		<idle form="0001E7B6"/>
+	</actor>
+</animation>
+<animation id="ShinoSun13">
+	<actor>
+		<idle form="0001E7B7"/>
+	</actor>
+</animation>
+<animation id="ShinoSun14">
+	<actor>
+		<idle form="0001E7B8"/>
+	</actor>
+</animation>
+<animation id="ShinoSun15">
+	<actor>
+		<idle form="0001E7B9"/>
+	</actor>
+</animation>
+<animation id="ShinoSun16">
+	<actor>
+		<idle form="0001E7BA"/>
+	</actor>
+</animation>
+
+<!-- Extras -->
+
+<animation id="ShinoVP1">
+	<actor>
+		<idle form="00010355"/>
+	</actor>
+</animation>

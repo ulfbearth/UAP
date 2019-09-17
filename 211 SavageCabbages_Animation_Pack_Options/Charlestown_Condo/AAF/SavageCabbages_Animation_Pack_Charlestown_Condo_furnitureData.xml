@@ -1,0 +1,37 @@
+<meta title="SavageCabbage's Animation Pack - Charlestown Condo Furniture Data" version="1.0.4" dataSet="furniture"/>
+<defaults source="cczsef04001-bhouse.esm"/>
+
+<group id="Double_Bed">
+	<furniture form="BA2" id="ccZSEFO4001_NpcBedPlayerHouseLay01"/>
+</group>
+
+<group id="ArmChair">
+	<furniture form="81D" id="ccZSEFO4001_ChairBlack"/>
+	<furniture form="81B" id="ccZSEFO4001_ChairGrey"/>
+</group>
+
+<group id="ChairLow">
+	<furniture form="A7D" id="ccZSEFO4001_NpcChairIndustrialMetalDiningSit01"/>
+	<furniture form="B3F" id="ccZSEFO4001_WoodenChair"/>
+	<furniture form="818" id="ccZSEFO4001_NpcChairPatioSit01"/>
+	<furniture form="819" id="ccZSEFO4001_NpcChairPatioSit02"/>
+	<furniture form="81A" id="ccZSEFO4001_Toilet"/>
+</group>
+
+<group id="Couches">
+	<furniture form="81C" id="ccZSEFO4001_CouchBlack"/>
+</group>
+
+<group id="MediumTable">
+	<furniture form="9E7" id="ccZSEFO4001_DinerIntTable03"/>
+	<furniture form="B40" id="ccZSEFO4001_CafeTable02"/>
+	<furniture form="B40" id="ccZSEFO4001_CafeTable02"/>
+</group>
+
+<group id="Seat">
+	<furniture form="A7D" id="ccZSEFO4001_NpcChairIndustrialMetalDiningSit01"/>
+	<furniture form="B3F" id="ccZSEFO4001_WoodenChair"/>
+	<furniture form="818" id="ccZSEFO4001_NpcChairPatioSit01"/>
+	<furniture form="819" id="ccZSEFO4001_NpcChairPatioSit02"/>
+	<furniture form="81A" id="ccZSEFO4001_Toilet"/>
+</group>

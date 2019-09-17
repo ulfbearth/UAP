@@ -1,0 +1,23 @@
+<meta title="Atomic Lust - FM Position Tree Data" version="2.5.1-b" dataSet="positionTree"/>
+<defaults/>
+
+<tree id="Atomic Lust">
+	<branch id="Standing" positionID="Standing Idle">
+			<branch id="Holding Hands" positionID="Holding Hands">
+					<branch id="Holding Kissing" positionID="Holding Kissing">
+					</branch>
+					<branch id="Holding Jerking" positionID="Holding Hands to Holding Jerking">
+					</branch>
+			</branch>
+	</branch>
+</tree>
+
+<tree id="Atomic Spanking">
+	<branch id="Spanking S1" positionID="Atomic Spanking S1">
+			<branch id="Spanking S2" positionID="Atomic Spanking S2">
+					<branch id="Spanking S3" positionID="Atomic Spanking S3">
+						<branch id="Spanking S3 Spank" positionID="Atomic Spanking S3 Spank" isFlavor="true"></branch>
+					</branch>
+			</branch>
+	</branch>
+</tree>

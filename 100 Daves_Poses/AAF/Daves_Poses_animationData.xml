@@ -1,0 +1,1809 @@
+<meta title="Dave's Poses - Animation Data" version="2.2.0" dataSet="animation"/>
+<defaults source="DavesPoses.esp"/>
+
+<!-- Dave -->
+
+<animation id="dave01">
+	<actor>
+		<idle form="00000F99"/>
+	</actor>
+</animation>
+<animation id="dave02">
+	<actor>
+		<idle form="00000F9A"/>
+	</actor>
+</animation>
+<animation id="dave03">
+	<actor>
+		<idle form="00001734"/>
+	</actor>
+</animation>
+<animation id="dave04">
+	<actor>
+		<idle form="00001735"/>
+	</actor>
+</animation>
+<animation id="dave05">
+	<actor>
+		<idle form="00001ED5"/>
+	</actor>
+</animation>
+<animation id="dave06">
+	<actor>
+		<idle form="00001736"/>
+	</actor>
+</animation>
+<animation id="dave07">
+	<actor>
+		<idle form="00001737"/>
+	</actor>
+</animation>
+<animation id="dave08">
+	<actor>
+		<idle form="00001ED1"/>
+	</actor>
+</animation>
+<animation id="dave09">
+	<actor>
+		<idle form="00001ED4"/>
+	</actor>
+</animation>
+<animation id="dave10">
+	<actor>
+		<idle form="00001ED2"/>
+	</actor>
+</animation>
+<animation id="dave11">
+	<actor>
+		<idle form="00001ED3"/>
+	</actor>
+</animation>
+<animation id="dave12">
+	<actor>
+		<idle form="00005596"/>
+	</actor>
+</animation>
+<animation id="dave13">
+	<actor>
+		<idle form="00005597"/>
+	</actor>
+</animation>
+<animation id="dave14">
+	<actor>
+		<idle form="00005598"/>
+	</actor>
+</animation>
+<animation id="dave15">
+	<actor>
+		<idle form="00005599"/>
+	</actor>
+</animation>
+<animation id="dave16">
+	<actor>
+		<idle form="0000559A"/>
+	</actor>
+</animation>
+<animation id="dave17">
+	<actor>
+		<idle form="00005D50"/>
+	</actor>
+</animation>
+<animation id="dave18">
+	<actor>
+		<idle form="00005D51"/>
+	</actor>
+</animation>
+<animation id="dave19">
+	<actor>
+		<idle form="00005D52"/>
+	</actor>
+</animation>
+<animation id="dave20">
+	<actor>
+		<idle form="00005D53"/>
+	</actor>
+</animation>
+<animation id="dave21">
+	<actor>
+		<idle form="00005D54"/>
+	</actor>
+</animation>
+<animation id="dave22">
+	<actor>
+		<idle form="000083A8"/>
+	</actor>
+</animation>
+<animation id="dave23">
+	<actor>
+		<idle form="000083A9"/>
+	</actor>
+</animation>
+<animation id="dave24">
+	<actor>
+		<idle form="000083AA"/>
+	</actor>
+</animation>
+<animation id="dave25">
+	<actor>
+		<idle form="000083AB"/>
+	</actor>
+</animation>
+<animation id="dave26">
+	<actor>
+		<idle form="000083AC"/>
+	</actor>
+</animation>
+<animation id="dave27">
+	<actor>
+		<idle form="000083AD"/>
+	</actor>
+</animation>
+<animation id="dave28">
+	<actor>
+		<idle form="000083AE"/>
+	</actor>
+</animation>
+<animation id="dave29">
+	<actor>
+		<idle form="000083AF"/>
+	</actor>
+</animation>
+<animation id="dave30">
+	<actor>
+		<idle form="000083B0"/>
+	</actor>
+</animation>
+<animation id="dave31">
+	<actor>
+		<idle form="000083B1"/>
+	</actor>
+</animation>
+<animation id="dave32">
+	<actor>
+		<idle form="000083B2"/>
+	</actor>
+</animation>
+<animation id="dave33">
+	<actor>
+		<idle form="000083B3"/>
+	</actor>
+</animation>
+<animation id="dave34">
+	<actor>
+		<idle form="000083B4"/>
+	</actor>
+</animation>
+<animation id="dave35">
+	<actor>
+		<idle form="000083B5"/>
+	</actor>
+</animation>
+<animation id="dave36">
+	<actor>
+		<idle form="000083B6"/>
+	</actor>
+</animation>
+<animation id="dave37">
+	<actor>
+		<idle form="000036B6"/>
+	</actor>
+</animation>
+<animation id="dave38">
+	<actor>
+		<idle form="000036B7"/>
+	</actor>
+</animation>
+<animation id="dave39">
+	<actor>
+		<idle form="00002EF0"/>
+	</actor>
+</animation>
+<animation id="dave40">
+	<actor>
+		<idle form="00002EF1"/>
+	</actor>
+</animation>
+<animation id="dave41">
+	<actor>
+		<idle form="00002EF2"/>
+	</actor>
+</animation>
+<animation id="dave42">
+	<actor>
+		<idle form="00002EF3"/>
+	</actor>
+</animation>
+<animation id="dave43">
+	<actor>
+		<idle form="00002EF4"/>
+	</actor>
+</animation>
+<animation id="dave44">
+	<actor>
+		<idle form="00002EF5"/>
+	</actor>
+</animation>
+<animation id="dave45">
+	<actor>
+		<idle form="00002EF6"/>
+	</actor>
+</animation>
+<animation id="dave46">
+	<actor>
+		<idle form="00002EF7"/>
+	</actor>
+</animation>
+<animation id="dave47">
+	<actor>
+		<idle form="00004622"/>
+	</actor>
+</animation>
+<animation id="dave48">
+	<actor>
+		<idle form="00004624"/>
+	</actor>
+</animation>
+<animation id="dave49">
+	<actor>
+		<idle form="00004DE6"/>
+	</actor>
+</animation>
+<animation id="dave50">
+	<actor>
+		<idle form="00004647"/>
+	</actor>
+</animation>
+<animation id="dave51">
+	<actor>
+		<idle form="00004648"/>
+	</actor>
+</animation>
+<animation id="dave52">
+	<actor>
+		<idle form="00004649"/>
+	</actor>
+</animation>
+<animation id="dave53">
+	<actor>
+		<idle form="0000464A"/>
+	</actor>
+</animation>
+<animation id="dave54">
+	<actor>
+		<idle form="0000464B"/>
+	</actor>
+</animation>
+
+<!-- Gun -->
+
+<animation id="gun01">
+	<actor>
+		<idle form="00005BC7"/>
+	</actor>
+</animation>
+<animation id="gun02">
+	<actor>
+		<idle form="00005BC8"/>
+	</actor>
+</animation>
+<animation id="gun03">
+	<actor>
+		<idle form="00005BC9"/>
+	</actor>
+</animation>
+<animation id="gun04">
+	<actor>
+		<idle form="00005BCA"/>
+	</actor>
+</animation>
+<animation id="gun05">
+	<actor>
+		<idle form="00005BCB"/>
+	</actor>
+</animation>
+<animation id="gun06">
+	<actor>
+		<idle form="00005BCC"/>
+	</actor>
+</animation>
+<animation id="gun07">
+	<actor>
+		<idle form="00005BCD"/>
+	</actor>
+</animation>
+<animation id="gun08">
+	<actor>
+		<idle form="00005BCE"/>
+	</actor>
+</animation>
+<animation id="gun09">
+	<actor>
+		<idle form="00005BCF"/>
+	</actor>
+</animation>
+<animation id="gun10">
+	<actor>
+		<idle form="00005BD0"/>
+	</actor>
+</animation>
+<animation id="gun11">
+	<actor>
+		<idle form="00005BD1"/>
+	</actor>
+</animation>
+<animation id="gun12">
+	<actor>
+		<idle form="00005BD2"/>
+	</actor>
+</animation>
+<animation id="gun13">
+	<actor>
+		<idle form="0000636C"/>
+	</actor>
+</animation>
+<animation id="gun14">
+	<actor>
+		<idle form="0000636D"/>
+	</actor>
+</animation>
+<animation id="gun15">
+	<actor>
+		<idle form="0000636E"/>
+	</actor>
+</animation>
+<animation id="gun16">
+	<actor>
+		<idle form="0000636F"/>
+	</actor>
+</animation>
+<animation id="gun17">
+	<actor>
+		<idle form="00006370"/>
+	</actor>
+</animation>
+<animation id="gun18">
+	<actor>
+		<idle form="00006B0D"/>
+	</actor>
+</animation>
+<animation id="gun19">
+	<actor>
+		<idle form="00006B0E"/>
+	</actor>
+</animation>
+<animation id="gun20">
+	<actor>
+		<idle form="00006B0F"/>
+	</actor>
+</animation>
+<animation id="gun21">
+	<actor>
+		<idle form="00006B10"/>
+	</actor>
+</animation>
+<animation id="gun22">
+	<actor>
+		<idle form="00006B11"/>
+	</actor>
+</animation>
+<animation id="gun23">
+	<actor>
+		<idle form="00006B12"/>
+	</actor>
+</animation>
+<animation id="gun24">
+	<actor>
+		<idle form="00006B13"/>
+	</actor>
+</animation>
+
+<!-- Masculine -->
+
+<animation id="masculine01">
+	<actor>
+		<idle form="00003D68"/>
+	</actor>
+</animation>
+<animation id="masculine02">
+	<actor>
+		<idle form="00003D69"/>
+	</actor>
+</animation>
+<animation id="masculine03">
+	<actor>
+		<idle form="00003D6A"/>
+	</actor>
+</animation>
+<animation id="masculine04">
+	<actor>
+		<idle form="00003D6B"/>
+	</actor>
+</animation>
+<animation id="masculine05">
+	<actor>
+		<idle form="00003D6C"/>
+	</actor>
+</animation>
+<animation id="masculine06">
+	<actor>
+		<idle form="00003D6D"/>
+	</actor>
+</animation>
+<animation id="masculine07">
+	<actor>
+		<idle form="00003D6E"/>
+	</actor>
+</animation>
+<animation id="masculine08">
+	<actor>
+		<idle form="00003D6F"/>
+	</actor>
+</animation>
+<animation id="masculine09">
+	<actor>
+		<idle form="00003D70"/>
+	</actor>
+</animation>
+<animation id="masculine10">
+	<actor>
+		<idle form="00003D71"/>
+	</actor>
+</animation>
+<animation id="masculine11">
+	<actor>
+		<idle form="00003D72"/>
+	</actor>
+</animation>
+<animation id="masculine12">
+	<actor>
+		<idle form="00003D73"/>
+	</actor>
+</animation>
+<animation id="masculine13">
+	<actor>
+		<idle form="00003D74"/>
+	</actor>
+</animation>
+<animation id="masculine14">
+	<actor>
+		<idle form="00003D75"/>
+	</actor>
+</animation>
+<animation id="masculine15">
+	<actor>
+		<idle form="00003D76"/>
+	</actor>
+</animation>
+<animation id="masculine16">
+	<actor>
+		<idle form="00003D77"/>
+	</actor>
+</animation>
+<animation id="masculine17">
+	<actor>
+		<idle form="00003D79"/>
+	</actor>
+</animation>
+<animation id="masculine18">
+	<actor>
+		<idle form="00003D7A"/>
+	</actor>
+</animation>
+<animation id="masculine19">
+	<actor>
+		<idle form="00003D7B"/>
+	</actor>
+</animation>
+<animation id="masculine20">
+	<actor>
+		<idle form="00003D7C"/>
+	</actor>
+</animation>
+<animation id="masculine21">
+	<actor>
+		<idle form="00003D7D"/>
+	</actor>
+</animation>
+<animation id="masculine22">
+	<actor>
+		<idle form="00003D7E"/>
+	</actor>
+</animation>
+<animation id="masculine23">
+	<actor>
+		<idle form="00003D7F"/>
+	</actor>
+</animation>
+<animation id="masculine24">
+	<actor>
+		<idle form="00003D80"/>
+	</actor>
+</animation>
+<animation id="masculine25">
+	<actor>
+		<idle form="00003D81"/>
+	</actor>
+</animation>
+<animation id="masculine26">
+	<actor>
+		<idle form="00003D82"/>
+	</actor>
+</animation>
+<animation id="masculine27">
+	<actor>
+		<idle form="00003D83"/>
+	</actor>
+</animation>
+<animation id="masculine28">
+	<actor>
+		<idle form="00003D84"/>
+	</actor>
+</animation>
+<animation id="masculine29">
+	<actor>
+		<idle form="00003D85"/>
+	</actor>
+</animation>
+<animation id="masculine30">
+	<actor>
+		<idle form="00003D86"/>
+	</actor>
+</animation>
+<animation id="masculine31">
+	<actor>
+		<idle form="00003D87"/>
+	</actor>
+</animation>
+<animation id="masculine32">
+	<actor>
+		<idle form="00003D88"/>
+	</actor>
+</animation>
+<animation id="masculine33">
+	<actor>
+		<idle form="00003D89"/>
+	</actor>
+</animation>
+<animation id="masculine34">
+	<actor>
+		<idle form="00004526"/>
+	</actor>
+</animation>
+<animation id="masculine35">
+	<actor>
+		<idle form="00004527"/>
+	</actor>
+</animation>
+<animation id="masculine36">
+	<actor>
+		<idle form="00004528"/>
+	</actor>
+</animation>
+<animation id="masculine37">
+	<actor>
+		<idle form="00004529"/>
+	</actor>
+</animation>
+
+<!-- Pose Requests -->
+
+<animation id="poserequest01">
+	<actor>
+		<idle form="00004D15"/>
+	</actor>
+</animation>
+<animation id="poserequest02">
+	<actor>
+		<idle form="00004D16"/>
+	</actor>
+</animation>
+<animation id="poserequest03">
+	<actor>
+		<idle form="00004D17"/>
+	</actor>
+</animation>
+<animation id="poserequest04">
+	<actor>
+		<idle form="00004D18"/>
+	</actor>
+</animation>
+<animation id="poserequest05">
+	<actor>
+		<idle form="00004D19"/>
+	</actor>
+</animation>
+<animation id="poserequest06">
+	<actor>
+		<idle form="00004D1A"/>
+	</actor>
+</animation>
+<animation id="poserequest07">
+	<actor>
+		<idle form="00004D1B"/>
+	</actor>
+</animation>
+<animation id="poserequest08">
+	<actor>
+		<idle form="00004D1C"/>
+	</actor>
+</animation>
+<animation id="poserequest09">
+	<actor>
+		<idle form="00004D1D"/>
+	</actor>
+</animation>
+<animation id="poserequest10">
+	<actor>
+		<idle form="00004D1E"/>
+	</actor>
+</animation>
+<animation id="poserequest11">
+	<actor>
+		<idle form="00004D1F"/>
+	</actor>
+</animation>
+<animation id="poserequest12">
+	<actor>
+		<idle form="00004D20"/>
+	</actor>
+</animation>
+<animation id="poserequest13">
+	<actor>
+		<idle form="00004D21"/>
+	</actor>
+</animation>
+<animation id="poserequest14">
+	<actor>
+		<idle form="00004D22"/>
+	</actor>
+</animation>
+<animation id="poserequest15">
+	<actor>
+		<idle form="00004D23"/>
+	</actor>
+</animation>
+<animation id="poserequest16">
+	<actor>
+		<idle form="00005C62"/>
+	</actor>
+</animation>
+<animation id="poserequest17">
+	<actor>
+		<idle form="00005C63"/>
+	</actor>
+</animation>
+<animation id="poserequest18">
+	<actor>
+		<idle form="00005C64"/>
+	</actor>
+</animation>
+<animation id="poserequest19">
+	<actor>
+		<idle form="00005C65"/>
+	</actor>
+</animation>
+<animation id="poserequest20">
+	<actor>
+		<idle form="00005C66"/>
+	</actor>
+</animation>
+<animation id="poserequest21">
+	<actor>
+		<idle form="00005C67"/>
+	</actor>
+</animation>
+<animation id="poserequest22">
+	<actor>
+		<idle form="00005C68"/>
+	</actor>
+</animation>
+<animation id="poserequest23">
+	<actor>
+		<idle form="00005C69"/>
+	</actor>
+</animation>
+<animation id="poserequest24">
+	<actor>
+		<idle form="00006408"/>
+	</actor>
+</animation>
+<animation id="poserequest25">
+	<actor>
+		<idle form="00006409"/>
+	</actor>
+</animation>
+<animation id="poserequest26">
+	<actor>
+		<idle form="0000640A"/>
+	</actor>
+</animation>
+<animation id="poserequest27">
+	<actor>
+		<idle form="0000640B"/>
+	</actor>
+</animation>
+<animation id="poserequest28">
+	<actor>
+		<idle form="00006BAC"/>
+	</actor>
+</animation>
+<animation id="poserequest29">
+	<actor>
+		<idle form="00006BAD"/>
+	</actor>
+</animation>
+<animation id="poserequest30">
+	<actor>
+		<idle form="00006BAE"/>
+	</actor>
+</animation>
+<animation id="poserequest31">
+	<actor>
+		<idle form="00006BAF"/>
+	</actor>
+</animation>
+<animation id="poserequest32">
+	<actor>
+		<idle form="00006BB0"/>
+	</actor>
+</animation>
+<animation id="poserequest33">
+	<actor>
+		<idle form="00006BB1"/>
+	</actor>
+</animation>
+<animation id="poserequest34">
+	<actor>
+		<idle form="00006BB2"/>
+	</actor>
+</animation>
+<animation id="poserequest35">
+	<actor>
+		<idle form="00006BB3"/>
+	</actor>
+</animation>
+<animation id="poserequest36">
+	<actor>
+		<idle form="00006BB4"/>
+	</actor>
+</animation>
+<animation id="poserequest37">
+	<actor>
+		<idle form="00006BB5"/>
+	</actor>
+</animation>
+<animation id="poserequest38">
+	<actor>
+		<idle form="00006BB6"/>
+	</actor>
+</animation>
+<animation id="poserequest39">
+	<actor>
+		<idle form="00006BB7"/>
+	</actor>
+</animation>
+<animation id="poserequest40">
+	<actor>
+		<idle form="00007351"/>
+	</actor>
+</animation>
+<animation id="poserequest41">
+	<actor>
+		<idle form="00007352"/>
+	</actor>
+</animation>
+<animation id="poserequest42">
+	<actor>
+		<idle form="00007353"/>
+	</actor>
+</animation>
+<animation id="poserequest43">
+	<actor>
+		<idle form="00007354"/>
+	</actor>
+</animation>
+<animation id="poserequest44">
+	<actor>
+		<idle form="00007355"/>
+	</actor>
+</animation>
+<animation id="poserequest45">
+	<actor>
+		<idle form="00007356"/>
+	</actor>
+</animation>
+<animation id="poserequest46">
+	<actor>
+		<idle form="00007357"/>
+	</actor>
+</animation>
+<animation id="poserequest47">
+	<actor>
+		<idle form="00007358"/>
+	</actor>
+</animation>
+<animation id="poserequest48">
+	<actor>
+		<idle form="00007359"/>
+	</actor>
+</animation>
+<animation id="poserequest49">
+	<actor>
+		<idle form="0000735A"/>
+	</actor>
+</animation>
+<animation id="poserequest50">
+	<actor>
+		<idle form="0000735B"/>
+	</actor>
+</animation>
+<animation id="poserequest51">
+	<actor>
+		<idle form="00003E44"/>
+	</actor>
+</animation>
+<animation id="poserequest51alt">
+	<actor>
+		<idle form="00003E45"/>
+	</actor>
+</animation>
+<animation id="poserequest52">
+	<actor>
+		<idle form="00003E46"/>
+	</actor>
+</animation>
+<animation id="poserequest53">
+	<actor>
+		<idle form="00003E47"/>
+	</actor>
+</animation>
+<animation id="poserequest54">
+	<actor>
+		<idle form="00003E48"/>
+	</actor>
+</animation>
+<animation id="poserequest55">
+	<actor>
+		<idle form="00003E49"/>
+	</actor>
+</animation>
+<animation id="poserequest56">
+	<actor>
+		<idle form="00007BDA"/>
+	</actor>
+</animation>
+<animation id="poserequest56attack">
+	<actor>
+		<idle form="00003E4A"/>
+	</actor>
+</animation>
+<animation id="poserequest56defend">
+	<actor>
+		<idle form="00003E4B"/>
+	</actor>
+</animation>
+<animation id="poserequest57">
+	<actor>
+		<idle form="00007BDB"/>
+	</actor>
+</animation>
+<animation id="poserequest57f">
+	<actor>
+		<idle form="00003E4C"/>
+	</actor>
+</animation>
+<animation id="poserequest57m">
+	<actor>
+		<idle form="00003E4D"/>
+	</actor>
+</animation>
+<animation id="poserequest58">
+	<actor>
+		<idle form="00003E4E"/>
+	</actor>
+</animation>
+<animation id="poserequest59">
+	<actor>
+		<idle form="00003E4F"/>
+	</actor>
+</animation>
+<animation id="poserequest60">
+	<actor>
+		<idle form="00003E50"/>
+	</actor>
+</animation>
+<animation id="poserequest61">
+	<actor>
+		<idle form="00003E51"/>
+	</actor>
+</animation>
+<animation id="poserequest62">
+	<actor>
+		<idle form="00003E52"/>
+	</actor>
+</animation>
+<animation id="poserequest63">
+	<actor>
+		<idle form="00007BDC"/>
+	</actor>
+</animation>
+<animation id="poserequest63f">
+	<actor>
+		<idle form="00004DBF"/>
+	</actor>
+</animation>
+<animation id="poserequest63m">
+	<actor>
+		<idle form="00004DBE"/>
+	</actor>
+</animation>
+<animation id="poserequest64">
+	<actor>
+		<idle form="0000557B"/>
+	</actor>
+</animation>
+<animation id="poserequest65">
+	<actor>
+		<idle form="0000557C"/>
+	</actor>
+</animation>
+<animation id="poserequest66">
+	<actor>
+		<idle form="0000557D"/>
+	</actor>
+</animation>
+<animation id="poserequest67">
+	<actor>
+		<idle form="0000557E"/>
+	</actor>
+</animation>
+<animation id="poserequest68">
+	<actor>
+		<idle form="0000557F"/>
+	</actor>
+</animation>
+<animation id="poserequest69">
+	<actor>
+		<idle form="00005580"/>
+	</actor>
+</animation>
+<animation id="poserequest70">
+	<actor>
+		<idle form="00005D2E"/>
+	</actor>
+</animation>
+<animation id="poserequest71">
+	<actor>
+		<idle form="00005D2F"/>
+	</actor>
+</animation>
+<animation id="poserequest72">
+	<actor>
+		<idle form="00005D30"/>
+	</actor>
+</animation>
+<animation id="poserequest73">
+	<actor>
+		<idle form="00005D31"/>
+	</actor>
+</animation>
+<animation id="poserequest74">
+	<actor>
+		<idle form="00005D32"/>
+	</actor>
+</animation>
+<animation id="poserequest75">
+	<actor>
+		<idle form="00005D33"/>
+	</actor>
+</animation>
+<animation id="poserequest76">
+	<actor>
+		<idle form="00005D34"/>
+	</actor>
+</animation>
+<animation id="poserequest77">
+	<actor>
+		<idle form="00005D35"/>
+	</actor>
+</animation>
+<animation id="poserequest78">
+	<actor>
+		<idle form="000064D8"/>
+	</actor>
+</animation>
+<animation id="poserequest79">
+	<actor>
+		<idle form="000064D9"/>
+	</actor>
+</animation>
+<animation id="poserequest80">
+	<actor>
+		<idle form="000064DA"/>
+	</actor>
+</animation>
+<animation id="poserequest81">
+	<actor>
+		<idle form="000064DB"/>
+	</actor>
+</animation>
+<animation id="poserequest82">
+	<actor>
+		<idle form="000064DC"/>
+	</actor>
+</animation>
+<animation id="poserequest83">
+	<actor>
+		<idle form="00006C89"/>
+	</actor>
+</animation>
+<animation id="poserequest84">
+	<actor>
+		<idle form="00006C8A"/>
+	</actor>
+</animation>
+<animation id="poserequest85">
+	<actor>
+		<idle form="00006C8B"/>
+	</actor>
+</animation>
+<animation id="poserequest86">
+	<actor>
+		<idle form="00006C8C"/>
+	</actor>
+</animation>
+<animation id="poserequest87">
+	<actor>
+		<idle form="00006C8D"/>
+	</actor>
+</animation>
+<animation id="poserequest88">
+	<actor>
+		<idle form="00006C8E"/>
+	</actor>
+</animation>
+<animation id="poserequest89">
+	<actor>
+		<idle form="00006C8F"/>
+	</actor>
+</animation>
+<animation id="poserequest90">
+	<actor>
+		<idle form="00006C90"/>
+	</actor>
+</animation>
+<animation id="poserequest94f">
+	<actor>
+		<idle form="00007439"/>
+	</actor>
+</animation>
+<animation id="poserequest94m">
+	<actor>
+		<idle form="0000743A"/>
+	</actor>
+</animation>
+<animation id="poserequest95f">
+	<actor>
+		<idle form="0000743B"/>
+	</actor>
+</animation>
+<animation id="poserequest95m">
+	<actor>
+		<idle form="0000743C"/>
+	</actor>
+</animation>
+
+<!-- Pose Requests Duo -->
+
+<animation id="poserequest56attackdefend" offset="0,0,0,0:0,0,0,180">
+	<actor>
+		<idle form="00003E4A"/>
+	</actor>
+	<actor>
+		<idle form="00003E4B"/>
+	</actor>
+</animation>
+<animation id="poserequest57fm">
+	<actor>
+		<idle form="00003E4C"/>
+	</actor>
+	<actor>
+		<idle form="00003E4D"/>
+	</actor>
+</animation>
+<animation id="poserequest63fm">
+	<actor>
+		<idle form="00004DBF"/>
+	</actor>
+	<actor>
+		<idle form="00004DBE"/>
+	</actor>
+</animation>
+<animation id="poserequest94fm">
+	<actor>
+		<idle form="00007439"/>
+	</actor>
+	<actor>
+		<idle form="0000743A"/>
+	</actor>
+</animation>
+<animation id="poserequest95fm">
+	<actor>
+		<idle form="0000743B"/>
+	</actor>
+	<actor>
+		<idle form="0000743C"/>
+	</actor>
+</animation>
+
+<!-- Romance -->
+
+<animation id="romance1f">
+	<actor>
+		<idle form="000035C6"/>
+	</actor>
+</animation>
+<animation id="romance1m">
+	<actor>
+		<idle form="000035C5"/>
+	</actor>
+</animation>
+<animation id="romance1falt">
+	<actor>
+		<idle form="000035C7"/>
+	</actor>
+</animation>
+<animation id="romance2f">
+	<actor>
+		<idle form="000035C9"/>
+	</actor>
+</animation>
+<animation id="romance2m">
+	<actor>
+		<idle form="000035C8"/>
+	</actor>
+</animation>
+<animation id="romance3f">
+	<actor>
+		<idle form="000035CA"/>
+	</actor>
+</animation>
+<animation id="romance3m">
+	<actor>
+		<idle form="000035CB"/>
+	</actor>
+</animation>
+<animation id="romance4f">
+	<actor>
+		<idle form="000035CD"/>
+	</actor>
+</animation>
+<animation id="romance4m">
+	<actor>
+		<idle form="000035CC"/>
+	</actor>
+</animation>
+
+<!-- Romance Duo -->
+
+<animation id="romance1fm" offset="0,0,0,0:0,25,0,180">
+	<actor>
+		<idle form="000035C6"/>
+	</actor>
+	<actor>
+		<idle form="000035C5"/>
+	</actor>
+</animation>
+<animation id="romance1fmalt" offset="0,0,0,0:0,25,0,180">
+	<actor>
+		<idle form="000035C7"/>
+	</actor>
+	<actor>
+		<idle form="000035C5"/>
+	</actor>
+</animation>
+<animation id="romance2fm" offset="0,0,0,0:0,20,0,180">
+	<actor>
+		<idle form="000035C9"/>
+	</actor>
+	<actor>
+		<idle form="000035C8"/>
+	</actor>
+</animation>
+<animation id="romance3fm" offset="0,0,0,0:0,20,0,180">
+	<actor>
+		<idle form="000035CA"/>
+	</actor>
+	<actor>
+		<idle form="000035CB"/>
+	</actor>
+</animation>
+<animation id="romance4fm" offset="0,20,0,0:0,0,0,0">
+	<actor>
+		<idle form="000035CD"/>
+	</actor>
+	<actor>
+		<idle form="000035CC"/>
+	</actor>
+</animation>
+
+<!-- Sword -->
+
+<animation id="sword01">
+	<actor>
+		<idle form="00002E09"/>
+	</actor>
+</animation>
+<animation id="sword02">
+	<actor>
+		<idle form="000035A3"/>
+	</actor>
+</animation>
+<animation id="sword03">
+	<actor>
+		<idle form="000035A4"/>
+	</actor>
+</animation>
+<animation id="sword04">
+	<actor>
+		<idle form="000035A5"/>
+	</actor>
+</animation>
+<animation id="sword05">
+	<actor>
+		<idle form="000035A6"/>
+	</actor>
+</animation>
+<animation id="sword06">
+	<actor>
+		<idle form="000035A7"/>
+	</actor>
+</animation>
+<animation id="sword07">
+	<actor>
+		<idle form="000035A8"/>
+	</actor>
+</animation>
+<animation id="sword08">
+	<actor>
+		<idle form="000035A9"/>
+	</actor>
+</animation>
+<animation id="sword09">
+	<actor>
+		<idle form="000035AA"/>
+	</actor>
+</animation>
+<animation id="sword10">
+	<actor>
+		<idle form="000035AB"/>
+	</actor>
+</animation>
+<animation id="sword11">
+	<actor>
+		<idle form="000035AC"/>
+	</actor>
+</animation>
+<animation id="sword12">
+	<actor>
+		<idle form="000035AD"/>
+	</actor>
+</animation>
+<animation id="sword13">
+	<actor>
+		<idle form="000035AE"/>
+	</actor>
+</animation>
+<animation id="sword14">
+	<actor>
+		<idle form="000035AF"/>
+	</actor>
+</animation>
+<animation id="sword15">
+	<actor>
+		<idle form="000035B0"/>
+	</actor>
+</animation>
+<animation id="sword16">
+	<actor>
+		<idle form="000035B1"/>
+	</actor>
+</animation>
+<animation id="sword17">
+	<actor>
+		<idle form="000035B2"/>
+	</actor>
+</animation>
+<animation id="sword18">
+	<actor>
+		<idle form="000035B3"/>
+	</actor>
+</animation>
+<animation id="sword19">
+	<actor>
+		<idle form="000035B4"/>
+	</actor>
+</animation>
+
+<!-- TrophiHunter -->
+
+<animation id="trophihunter01">
+	<actor>
+		<idle form="00008B33"/>
+	</actor>
+</animation>
+<animation id="trophihunter02">
+	<actor>
+		<idle form="00008B34"/>
+	</actor>
+</animation>
+<animation id="trophihunter03">
+	<actor>
+		<idle form="00008B35"/>
+	</actor>
+</animation>
+<animation id="trophihunter04">
+	<actor>
+		<idle form="00008B36"/>
+	</actor>
+</animation>
+<animation id="trophihunter05">
+	<actor>
+		<idle form="00008B37"/>
+	</actor>
+</animation>
+<animation id="trophihunter06">
+	<actor>
+		<idle form="00008B38"/>
+	</actor>
+</animation>
+<animation id="trophihunter07">
+	<actor>
+		<idle form="00008B39"/>
+	</actor>
+</animation>
+<animation id="trophihunter08">
+	<actor>
+		<idle form="00008B3A"/>
+	</actor>
+</animation>
+<animation id="trophihunter09">
+	<actor>
+		<idle form="00008B3B"/>
+	</actor>
+</animation>
+<animation id="trophihunter10">
+	<actor>
+		<idle form="00008B3C"/>
+	</actor>
+</animation>
+<animation id="trophihunter11">
+	<actor>
+		<idle form="00008B3D"/>
+	</actor>
+</animation>
+<animation id="trophihunter12">
+	<actor>
+		<idle form="00008B3E"/>
+	</actor>
+</animation>
+<animation id="trophihunter13">
+	<actor>
+		<idle form="00008B3F"/>
+	</actor>
+</animation>
+<animation id="trophihunter14">
+	<actor>
+		<idle form="00008B40"/>
+	</actor>
+</animation>
+<animation id="trophihunter15">
+	<actor>
+		<idle form="00008B41"/>
+	</actor>
+</animation>
+<animation id="trophihunter16">
+	<actor>
+		<idle form="00008B42"/>
+	</actor>
+</animation>
+<animation id="trophihunter17">
+	<actor>
+		<idle form="00008B43"/>
+	</actor>
+</animation>
+<animation id="trophihunter18">
+	<actor>
+		<idle form="00008B44"/>
+	</actor>
+</animation>
+<animation id="trophihunter19">
+	<actor>
+		<idle form="00008B45"/>
+	</actor>
+</animation>
+<animation id="trophihunter20">
+	<actor>
+		<idle form="00008B46"/>
+	</actor>
+</animation>
+<animation id="trophihunter21">
+	<actor>
+		<idle form="00008B47"/>
+	</actor>
+</animation>
+<animation id="trophihunter22">
+	<actor>
+		<idle form="00008B48"/>
+	</actor>
+</animation>
+<animation id="trophihunter23">
+	<actor>
+		<idle form="00008B49"/>
+	</actor>
+</animation>
+<animation id="trophihunter24">
+	<actor>
+		<idle form="00008B4A"/>
+	</actor>
+</animation>
+<animation id="trophihunter25">
+	<actor>
+		<idle form="00008B4B"/>
+	</actor>
+</animation>
+<animation id="trophihunter26">
+	<actor>
+		<idle form="00008B4C"/>
+	</actor>
+</animation>
+<animation id="trophihunter27">
+	<actor>
+		<idle form="00008B4D"/>
+	</actor>
+</animation>
+<animation id="trophihunter28">
+	<actor>
+		<idle form="00008B4E"/>
+	</actor>
+</animation>
+<animation id="trophihunter29">
+	<actor>
+		<idle form="00008B4F"/>
+	</actor>
+</animation>
+<animation id="trophihunter30">
+	<actor>
+		<idle form="00008B50"/>
+	</actor>
+</animation>
+<animation id="trophihunter31">
+	<actor>
+		<idle form="00008B51"/>
+	</actor>
+</animation>
+<animation id="trophihunter32">
+	<actor>
+		<idle form="00008B52"/>
+	</actor>
+</animation>
+<animation id="trophihunter33">
+	<actor>
+		<idle form="00008B53"/>
+	</actor>
+</animation>
+<animation id="trophihunter34">
+	<actor>
+		<idle form="00008B54"/>
+	</actor>
+</animation>
+<animation id="trophihunter35">
+	<actor>
+		<idle form="00008B55"/>
+	</actor>
+</animation>
+<animation id="trophihunter36">
+	<actor>
+		<idle form="00008B56"/>
+	</actor>
+</animation>
+<animation id="trophihunter37">
+	<actor>
+		<idle form="00008B57"/>
+	</actor>
+</animation>
+<animation id="trophihunter38">
+	<actor>
+		<idle form="00008B58"/>
+	</actor>
+</animation>
+<animation id="trophihunter39">
+	<actor>
+		<idle form="00008B59"/>
+	</actor>
+</animation>
+<animation id="trophihunter40">
+	<actor>
+		<idle form="00008B5A"/>
+	</actor>
+</animation>
+<animation id="trophihunter41">
+	<actor>
+		<idle form="00008B5B"/>
+	</actor>
+</animation>
+<animation id="trophihunter42">
+	<actor>
+		<idle form="00008B5C"/>
+	</actor>
+</animation>
+<animation id="trophihunter43">
+	<actor>
+		<idle form="00008B5D"/>
+	</actor>
+</animation>
+<animation id="trophihunter44">
+	<actor>
+		<idle form="00008B5E"/>
+	</actor>
+</animation>
+<animation id="trophihunter45">
+	<actor>
+		<idle form="00008B5F"/>
+	</actor>
+</animation>
+<animation id="trophihunter46">
+	<actor>
+		<idle form="00008B60"/>
+	</actor>
+</animation>
+<animation id="trophihunter47">
+	<actor>
+		<idle form="00008B61"/>
+	</actor>
+</animation>
+<animation id="trophihunter48">
+	<actor>
+		<idle form="00008B62"/>
+	</actor>
+</animation>
+<animation id="trophihunter49">
+	<actor>
+		<idle form="00008B63"/>
+	</actor>
+</animation>
+<animation id="trophihunter50">
+	<actor>
+		<idle form="00008B64"/>
+	</actor>
+</animation>
+<animation id="trophihunter51">
+	<actor>
+		<idle form="00008B65"/>
+	</actor>
+</animation>
+<animation id="trophihunter52">
+	<actor>
+		<idle form="00008B66"/>
+	</actor>
+</animation>
+<animation id="trophihunter53">
+	<actor>
+		<idle form="00008B67"/>
+	</actor>
+</animation>
+<animation id="trophihunter54">
+	<actor>
+		<idle form="00008B68"/>
+	</actor>
+</animation>
+<animation id="trophihunter55">
+	<actor>
+		<idle form="00008B69"/>
+	</actor>
+</animation>
+<animation id="trophihunter56">
+	<actor>
+		<idle form="00008B6A"/>
+	</actor>
+</animation>
+<animation id="trophihunter57">
+	<actor>
+		<idle form="00008B6B"/>
+	</actor>
+</animation>
+<animation id="trophihunter58">
+	<actor>
+		<idle form="00008B6C"/>
+	</actor>
+</animation>
+<animation id="trophihunter59">
+	<actor>
+		<idle form="00008B6D"/>
+	</actor>
+</animation>
+<animation id="trophihunter60">
+	<actor>
+		<idle form="00008B6E"/>
+	</actor>
+</animation>
+<animation id="trophihunter61">
+	<actor>
+		<idle form="00008B6F"/>
+	</actor>
+</animation>
+
+<!-- Extras > Christmas -->
+
+<animation id="christmas01">
+	<actor>
+		<idle form="00001F50"/>
+	</actor>
+</animation>
+<animation id="christmas02">
+	<actor>
+		<idle form="00001F51"/>
+	</actor>
+</animation>
+<animation id="christmas03">
+	<actor>
+		<idle form="00001F52"/>
+	</actor>
+</animation>
+<animation id="christmas04">
+	<actor>
+		<idle form="00001F53"/>
+	</actor>
+</animation>
+<animation id="christmas05">
+	<actor>
+		<idle form="00001F54"/>
+	</actor>
+</animation>
+<animation id="christmas06">
+	<actor>
+		<idle form="00001F55"/>
+	</actor>
+</animation>
+<animation id="christmas07">
+	<actor>
+		<idle form="00001F56"/>
+	</actor>
+</animation>
+<animation id="christmas08">
+	<actor>
+		<idle form="00001F57"/>
+	</actor>
+</animation>
+<animation id="christmas08alt">
+	<actor>
+		<idle form="00001F58"/>
+	</actor>
+</animation>
+<animation id="christmas09">
+	<actor>
+		<idle form="00001F59"/>
+	</actor>
+</animation>
+<animation id="christmas10">
+	<actor>
+		<idle form="0000271A"/>
+	</actor>
+</animation>
+
+<!-- Extras > Halloween -->
+
+<animation id="halloween04">
+	<actor>
+		<idle form="00004DE7"/>
+	</actor>
+</animation>
+<animation id="halloween05">
+	<actor>
+		<idle form="00004DE8"/>
+	</actor>
+</animation>
+<animation id="halloween06">
+	<actor>
+		<idle form="00004DE9"/>
+	</actor>
+</animation>
+<animation id="halloween07">
+	<actor>
+		<idle form="00004DEA"/>
+	</actor>
+</animation>
+<animation id="halloween08">
+	<actor>
+		<idle form="00004DEB"/>
+	</actor>
+</animation>
+<animation id="halloween09">
+	<actor>
+		<idle form="00004DEC"/>
+	</actor>
+</animation>
+<animation id="halloween10">
+	<actor>
+		<idle form="00004DED"/>
+	</actor>
+</animation>
+
+<!-- Extras > Animations -->
+
+<animation id="dancetest">
+	<actor>
+		<idle form="00004DD5"/>
+	</actor>
+</animation>
+<animation id="deathdance1">
+	<actor>
+		<idle form="00002EDD"/>
+	</actor>
+</animation>
+<animation id="deathdance2">
+	<actor>
+		<idle form="00003698"/>
+	</actor>
+</animation>
+<animation id="drink1">
+	<actor>
+		<idle form="000064FD"/>
+	</actor>
+</animation>
+<animation id="runningman">
+	<actor>
+		<idle form="00009349"/>
+	</actor>
+</animation>
+<animation id="camtest">
+	<actor>
+		<idle form="00002726"/>
+	</actor>
+</animation>
+<animation id="testdance">
+	<actor>
+		<idle form="00003683"/>
+	</actor>
+</animation>
+<animation id="twerk">
+	<actor>
+		<idle form="00004614"/>
+	</actor>
+</animation>
+
+<!-- Extras > Vanilla -->
+
+<animation id="praying_kneel">
+	<actor>
+		<idle form="0000174F"/>
+	</actor>
+</animation>
+<animation id="pushups">
+	<actor>
+		<idle form="00001755"/>
+	</actor>
+</animation>
+<animation id="radiolisten_sit">
+	<actor>
+		<idle form="00001758"/>
+	</actor>
+</animation>
+<animation id="warmhands_kneel">
+	<actor>
+		<idle form="0000175E"/>
+	</actor>
+</animation>
+<animation id="warmhands_stand">
+	<actor>
+		<idle form="00001762"/>
+	</actor>
+</animation>
+
+<!-- Extras > Unknown -->
+
+<animation id="Stop">
+	<actor>
+		<idle form="00004C83"/>
+	</actor>
+</animation>

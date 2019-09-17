@@ -1,0 +1,28 @@
+<meta title="FO4 Animations by Leito - Bed Position Data" version="2.0.1-a" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,0,43,0"/>
+<animationOffset actor="2" offset="0,0,43,0"/>
+
+<position id="Leito Aggressive Bed Cowgirl" location="Single_Bed,Double_Bed" animation="Leito_Bed_Cowgirl_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Bed Doggy" location="Single_Bed,Double_Bed" animation="Leito_Bed_Doggy_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Bed Missionary" location="Single_Bed,Double_Bed" animation="Leito_Bed_Missionary_Aggressive" tags="aggressive"/>
+
+<position id="Leito Bed Blowjob" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Blowjob_1_Staged"/>
+<position id="Leito Bed Carry" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Carry_1_Staged"/>
+<position id="Leito Bed Carry 2" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Carry_2_Staged"/>
+<position id="Leito Bed Cowgirl" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Cowgirl_1_Staged"/>
+<position id="Leito Bed Cowgirl 2" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Cowgirl_2_Staged"/>
+<position id="Leito Bed Cowgirl 3" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Cowgirl_3_Staged"/>
+<position id="Leito Bed Cowgirl 4" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Cowgirl_4_Staged"/>
+<position id="Leito Bed Doggy" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Doggy_1_Staged"/>
+<position id="Leito Bed Doggy 2" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Doggy_2_Staged"/>
+<position id="Leito Bed Missionary" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Missionary_1_Staged"/>
+<position id="Leito Bed Missionary 2" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Missionary_2_Staged"/>
+<position id="Leito Bed Powerbomb" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Powerbomb_1_Staged"/>
+<position id="Leito Bed Reverse Carry" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_ReverseCarry_1_Staged"/>
+<position id="Leito Bed Reverse Cowgirl" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_ReverseCowgirl_1_Staged"/>
+<position id="Leito Bed Reverse Cowgirl 2" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_ReverseCowgirl_2_Staged"/>
+<position id="Leito Bed Spoon" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_Spoon_1_Staged"/>
+<position id="Leito Bed Standing Doggy" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_StandingDoggy_1_Staged"/>
+<position id="Leito Bed Standing Doggy 2" location="Single_Bed,Double_Bed" animationGroup="Leito_Bed_StandingDoggy_2_Staged"/>

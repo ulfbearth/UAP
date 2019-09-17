@@ -1,0 +1,23 @@
+<meta title="Just a Lesbian Pose Mod - Position Tree Data" version="1.3.0" dataSet="positionTree"/>
+<defaults/>
+
+<tree id="Just_a_Lesbian_Pose_Mod_Menu">
+	<branch id="Just a Lesbian Pose Mod - Menu" positionID="Just a Lesbian Pose Mod - lesb1">
+		<branch id="lesb1" positionID="Just a Lesbian Pose Mod - lesb1"></branch>
+		<branch id="lesb2" positionID="Just a Lesbian Pose Mod - lesb2"></branch>
+		<branch id="lesb3" positionID="Just a Lesbian Pose Mod - lesb3"></branch>
+		<branch id="lesb4" positionID="Just a Lesbian Pose Mod - lesb4"></branch>
+		<branch id="lescuna1" positionID="Just a Lesbian Pose Mod - lescuna01"></branch>
+		<branch id="lescuna2" positionID="Just a Lesbian Pose Mod - lescuna02"></branch>
+		<branch id="lescuna3" positionID="Just a Lesbian Pose Mod - lescuna03"></branch>
+		<branch id="lescuna4" positionID="Just a Lesbian Pose Mod - lescuna04"></branch>
+		<branch id="lescuna5" positionID="Just a Lesbian Pose Mod - lescuna05"></branch>
+		<branch id="lescuna6" positionID="Just a Lesbian Pose Mod - lescuna06"></branch>
+		<branch id="lescuna7" positionID="Just a Lesbian Pose Mod - lescuna07"></branch>
+		<branch id="lescuna8" positionID="Just a Lesbian Pose Mod - lescuna08"></branch>
+		<branch id="lescuna9" positionID="Just a Lesbian Pose Mod - lescuna09"></branch>
+		<branch id="lescuna10" positionID="Just a Lesbian Pose Mod - lescuna10"></branch>
+		<branch id="lescuna11" positionID="Just a Lesbian Pose Mod - lescuna11"></branch>
+		<branch id="lescuna12" positionID="Just a Lesbian Pose Mod - lescuna12"></branch>
+	</branch>
+</tree>

@@ -1,0 +1,7 @@
+<meta title="SavageCabbage's Animation Pack - Prisoner Shackles FM Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<position id="FM-Shackles01-01Start" location="Shackles"/>
+<position id="FM-Shackles01-02Held" location="Shackles"/>
+
+<position id="FMM-Shackles01-02Held" location="Shackles"/>

@@ -1,0 +1,59 @@
+<meta title="FO4 Animations by Leito - SM Animation Data" version="2.0.1-a" dataSet="animation"/>
+<defaults source="FO4_AnimationsByLeito.esp"/>
+
+<animation id="Leito_SuperMutant_Carry" frames="306">
+	<actor gender="F">
+		<idle form="1EDC" id="Leito_SuperMutant_Carry_F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="1EDD" id="Leito_SuperMutant_Carry_M"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_SuperMutant_Doggy" frames="308">
+	<actor gender="F">
+		<idle form="542A" id="Leito_SuperMutant_Doggy_F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="542D" id="Leito_SuperMutant_Doggy_M"/>
+	</actor>
+</animation>
+
+<animation id="Leito_SuperMutant_Powerbomb" frames="300">
+	<actor gender="F">
+		<idle form="B73D" id="Leito_SuperMutant_Powerbomb_F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="B73E" id="Leito_SuperMutant_Powerbomb_M"/>
+		<value path="morph" value="Erection Down" to="1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_SuperMutant_ReverseCarry" frames="304">
+	<actor gender="F">
+		<idle form="4C8F" id="Leito_SuperMutant_ReverseCarry_F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="4C8C" id="Leito_SuperMutant_ReverseCarry_M"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_SuperMutant_StandingDoggy" frames="288">
+	<actor gender="F">
+		<idle form="542B" id="Leito_SuperMutant_StandingDoggy_F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="542E" id="Leito_SuperMutant_StandingDoggy_M"/>
+	</actor>
+</animation>
+
+<animation id="Leito_SuperMutant_StandingSideways" frames="304">
+	<actor gender="F">
+		<idle form="542C" id="Leito_SuperMutant_StandingSideways_F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="542F" id="Leito_SuperMutant_StandingSideways_M"/>
+	</actor>
+</animation>

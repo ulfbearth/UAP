@@ -1,0 +1,83 @@
+<meta title="SavageCabbage's Animation Pack - FG Animation Data" version="1.0.4" dataSet="animation"/>
+<defaults source="SavageCabbage_Animations.esp"/>
+
+<animation id="FFG-Standing01-03Doggy" time="500">
+	<actor gender="F">
+		<idle form="276A"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="2769"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing01-04Doggy" time="500">
+	<actor gender="F">
+		<idle form="B0BC"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="B0BD"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing01-05Doggy" time="500">
+	<actor gender="F">
+		<idle form="B0BE"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="B0BF"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing01-06Doggy" time="500">
+	<actor gender="F">
+		<idle form="B0C0"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="B0C1"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing01-07Climax" time="500">
+	<actor gender="F">
+		<idle form="1231C"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="1231D"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing02-03Handjob" time="500">
+	<actor gender="F">
+		<idle form="14198"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="14199"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing02-04Handjob" time="500">
+	<actor gender="F">
+		<idle form="1419A"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="1419B"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing02-05Blowjob" time="500">
+	<actor gender="F">
+		<idle form="1419D"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="1419E"/>
+	</actor>
+</animation>
+
+<animation id="FFG-Standing02-06Blowjob" time="500">
+	<actor gender="F">
+		<idle form="1419F"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="141A0"/>
+	</actor>
+</animation>

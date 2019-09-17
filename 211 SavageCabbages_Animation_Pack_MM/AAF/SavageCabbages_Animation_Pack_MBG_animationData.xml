@@ -1,0 +1,110 @@
+<meta title="SavageCabbage's Animation Pack - SC-MBG Animation Data" version="1.0.4" dataSet="animation"/>
+<defaults source="SavageCabbage_Animations.esp"/>
+
+<animation id="SC-MBG-Floor01-03Doggy" time="500">
+	<actor gender="M">
+		<idle form="45E2"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="45E3"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Floor01-04Doggy" time="500">
+	<actor gender="M">
+		<idle form="4D85"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="4D86"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Floor01-05Doggy" time="500">
+	<actor gender="M">
+		<idle form="5525"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="5526"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Floor01-06Doggy" time="500">
+	<actor gender="M">
+		<idle form="5CC2"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="5CC3"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Floor01-07Climax" time="250">
+	<actor gender="M">
+		<idle form="6469"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="646A"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing01-03Carry" time="500">
+	<actor gender="M">
+		<idle form="A17F"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="A180"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing01-04Carry" time="500">
+	<actor gender="M">
+		<idle form="12322"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="12323"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing01-05Carry" time="500">
+	<actor gender="M">
+		<idle form="12324"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="12325"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing01-06Climax" time="500">
+	<actor gender="M">
+		<idle form="12AC1"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="12AC2"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing02-03Blowjob" time="500">
+	<actor gender="M">
+		<idle form="A182"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="A183"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing02-04Blowjob" time="500">
+	<actor gender="M">
+		<idle form="1231E"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="1231F"/>
+	</actor>
+</animation>
+
+<animation id="SC-MBG-Standing02-05Blowjob" time="500">
+	<actor gender="M">
+		<idle form="12320"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="12321"/>
+	</actor>
+</animation>

@@ -1,0 +1,13 @@
+<meta title="Atomic Lust - FM Transition Data" version="2.5.1-b" dataSet="transition"/>
+<defaults/>
+
+<!-- Atomic Lust -->
+
+<transition from="Standing Idle" to="Holding Hands" animation="Standing Idle to Holding Hands"/>
+<transition from="Holding Hands" to="Holding Kissing" animation="Holding Hands to Holding Kissing"/>
+<transition from="Holding Hands" to="Holding Hands to Holding Jerking" animation="Holding Hands to Holding Jerking"/>
+
+<!-- Atomic Spanking -->
+
+<transition from="Atomic Spanking S1" to="Atomic Spanking S2" animation="Atomic Spanking S1 Tran"/>
+<transition from="Atomic Spanking S2" to="Atomic Spanking S3" animation="Atomic Spanking S2 Tran"/>

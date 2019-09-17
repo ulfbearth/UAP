@@ -1,0 +1,7 @@
+<meta title="Atomic Lust - AWKCR FM Position Data" version="2.5.1-b" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<!-- Furniture Animations -->
+
+<position id="Atomic Cunnilingus PA AWKCR FM" location="AWKCR Power Armor Station" animation="Atomic Cunnilingus PA AWKCR FM"/>
+<position id="Atomic Cunnilingus Alt PA AWKCR FM" location="AWKCR Compact PA Station" animation="Atomic Cunnilingus Alt PA AWKCR FM"/>

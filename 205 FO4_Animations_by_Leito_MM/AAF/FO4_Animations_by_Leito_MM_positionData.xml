@@ -1,0 +1,28 @@
+<meta title="FO4 Animations by Leito - MM Position Data" version="2.0.1-a" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Leito MM Aggressive Blowjob" animation="Leito_MM_Blowjob_Aggressive" tags="aggressive"/>
+<position id="Leito MM Aggressive Carry" animation="Leito_MM_Carry_Aggressive" tags="aggressive"/>
+<position id="Leito MM Aggressive Cowgirl" animation="Leito_MM_Cowgirl_Aggressive" tags="aggressive"/>
+<position id="Leito MM Aggressive Doggy" animation="Leito_MM_Doggy_Aggressive" tags="aggressive"/>
+<position id="Leito MM Aggressive Missionary" animation="Leito_MM_Missionary_Aggressive" tags="aggressive"/>
+<position id="Leito MM Aggressive Powerbomb" animation="Leito_MM_Powerbomb_Aggressive" tags="aggressive"/>
+
+<position id="Leito MM Blowjob" animationGroup="Leito_MM_Blowjob_1_Staged"/>
+<position id="Leito MM Carry" animationGroup="Leito_MM_Carry_1_Staged"/>
+<position id="Leito MM Carry 2" animationGroup="Leito_MM_Carry_2_Staged"/>
+<position id="Leito MM Cowgirl" animationGroup="Leito_MM_Cowgirl_1_Staged"/>
+<position id="Leito MM Cowgirl 2" animationGroup="Leito_MM_Cowgirl_2_Staged"/>
+<position id="Leito MM Cowgirl 3" animationGroup="Leito_MM_Cowgirl_3_Staged"/>
+<position id="Leito MM Cowgirl 4" animationGroup="Leito_MM_Cowgirl_4_Staged"/>
+<position id="Leito MM Doggy" animationGroup="Leito_MM_Doggy_1_Staged"/>
+<position id="Leito MM Doggy 2" animationGroup="Leito_MM_Doggy_2_Staged"/>
+<position id="Leito MM Missionary" animationGroup="Leito_MM_Missionary_1_Staged"/>
+<position id="Leito MM Missionary 2" animationGroup="Leito_MM_Missionary_2_Staged"/>
+<position id="Leito MM Powerbomb" animationGroup="Leito_MM_Powerbomb_1_Staged"/>
+<position id="Leito MM Reverse Carry" animationGroup="Leito_MM_ReverseCarry_1_Staged"/>
+<position id="Leito MM Reverse Cowgirl" animationGroup="Leito_MM_ReverseCowgirl_1_Staged"/>
+<position id="Leito MM Reverse Cowgirl 2" animationGroup="Leito_MM_ReverseCowgirl_2_Staged"/>
+<position id="Leito MM Spoon" animationGroup="Leito_MM_Spoon_1_Staged"/>
+<position id="Leito MM Standing Doggy" animationGroup="Leito_MM_StandingDoggy_1_Staged"/>
+<position id="Leito MM Standing Doggy 2" animationGroup="Leito_MM_StandingDoggy_2_Staged"/>

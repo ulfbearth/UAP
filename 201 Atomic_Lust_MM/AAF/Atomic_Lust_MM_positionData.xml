@@ -1,0 +1,98 @@
+<meta title="Atomic Lust_positionData.xml" version="2.5b" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<!-- Male/Female Animations -->
+
+<position id="Atomic MM Spork I" animation="Atomic MM Spork I"/>
+
+<position id="Atomic MM Spork II" animation="Atomic MM Spork II"/>
+
+<position id="Atomic MM Cowgirl" animation="Atomic MM Cowgirl"/>
+
+<position id="Atomic MM Cowgirl 2" animation="Atomic MM Cowgirl 2"/>
+
+<position id="Atomic MM Cowgirl 2 Alt 1" animation="Atomic MM Cowgirl 2 Alt 1"/>
+
+<position id="Atomic MM Embrace" animation="Atomic MM Embrace"/>
+
+<position id="Atomic MM Kissing" animation="Atomic MM Kissing"/>
+
+<position id="Atomic MM Spanking S1" animation="Atomic MM Spanking S1" isHidden="true"/>
+
+<position id="Atomic MM Spanking S1 Tran" animation="Atomic MM Spanking S1 Tran" isHidden="true"/>
+
+<position id="Atomic MM Spanking S2" animation="Atomic MM Spanking S2" isHidden="true"/>
+
+<position id="Atomic MM Spanking S2 Tran" animation="Atomic MM Spanking S2 Tran" isHidden="true"/>
+
+<position id="Atomic MM Spanking S3" animation="Atomic MM Spanking S3" isHidden="true"/>
+
+<position id="Atomic MM Spanking S3 Spank" animation="Atomic MM Spanking S3 Spank" isHidden="true"/>
+
+<position id="Atomic MM Threesome Handjob" animation="Atomic MM Threesome Handjob"/>
+
+<position id="Atomic MM Threesome 2" animation="Atomic MM Threesome 2"/>
+
+
+
+<position id="Atomic MM Standing Idle" animation="Atomic MM Standing Idle" isHidden="true"/>
+
+<position id="Atomic MM Standing Idle to Holding Hands" animation="Atomic MM Standing Idle to Holding Hands" isHidden="true"/>
+
+<position id="Atomic MM Holding Hands" animation="Atomic MM Holding Hands" isHidden="true"/>
+
+<position id="Atomic MM Holding Hands to Holding Jerking" animation="Atomic MM Holding Hands to Holding Jerking" isHidden="true"/>
+
+<position id="Atomic MM Holding Hands to Holding Kissing" animation="Atomic MM Holding Hands to Holding Kissing" isHidden="true"/>
+
+<position id="Atomic MM Holding Kissing" animation="Atomic MM Holding Kissing" isHidden="true"/>
+
+<!-- Male/Male Animations -->
+
+<position id="Atomic MM Rocket 69 (Gay)" animation="Atomic MM Rocket 69 (Gay)"/>
+
+<position id="Atomic MM Cowboy" animation="Atomic MM Cowboy"/>
+
+<!-- Furniture Animations -->
+
+<position id="Atomic MM Reversed Cowgirl (Vault Bed)" animation="Atomic MM Reversed Cowgirl (Vault Bed)" location="Single Bed"/>
+
+<position id="Atomic MM Reversed Cowgirl (Vault Bed) Orgasm" animation="Atomic MM Reversed Cowgirl (Vault Bed) Orgasm" location="Single Bed"/>
+
+<position id="Atomic MM Cryo Pod" location="Cryo Pod" animation="Atomic MM Cryo Pod"/>
+
+<position id="Atomic MM Blowjob (Player House Chair)" location="Player House Chair" animation="Atomic MM Blowjob (Player House Chair)"/>
+
+<position id="Atomic MM Bed Cuddle" location="Double Bed" animation="Atomic MM Bed Cuddle"/>
+
+<position id="Atomic MM Cowgirl (Double Bed)" location="Double Bed" animation="Atomic MM Cowgirl (Double Bed)"/>
+
+<position id="Atomic MM Cowgirl (Pre-War Bed)" location="Pre-War Double Bed" animation="Atomic MM Cowgirl (Pre-War Bed)"/>
+
+<position id="Atomic MM Cowgirl (Vault Bed)" location="Single Bed" animation="Atomic MM Cowgirl (Vault Bed)"/>
+
+<position id="Atomic MM Cowgirl (Bunk Bed Top)" location="Bunk Bed" animation="Atomic MM Cowgirl (Bunk Bed Top)"/>
+
+<position id="Atomic MM Cowgirl (Bunk Bed Bottom)" location="Bunk Bed" animation="Atomic MM Cowgirl (Bunk Bed Bottom)"/>
+
+<position id="Atomic MM Cowgirl (Institute Single Bed)" location="Institute Single Bed" animation="Atomic MM Cowgirl (Institute Single Bed)"/>
+
+<position id="Atomic MM Cowgirl (Institute Double Bed)" location="Institute Double Bed" animation="Atomic MM Cowgirl (Institute Double Bed)"/>
+
+<position id="Atomic MM Cowgirl (Institute Wallmounted Bed)" location="Institute Wallmounted Bed" animation="Atomic MM Cowgirl (Institute Wallmounted Bed)"/>
+
+<position id="Atomic MM Cowgirl (Institute Med Bay)" location="Institute Med Bay" animation="Atomic MM Cowgirl (Institute Med Bay)"/>
+
+<position id="Atomic MM Cowgirl (Institute Med Bay Inclined)" location="Institute Med Bay Inclined" animation="Atomic MM Cowgirl (Institute Med Bay Inclined)"/>
+
+<!-- Solo Male Animations -->
+
+<position id="Atomic Jerking" animation="Atomic Jerking"/>
+
+<position id="Atomic Jerking (Orgasm)" animation="Atomic Jerking (Orgasm)"/>
+
+<!-- Position Trees -->
+
+<position id="Atomic MM Spanking" positionTree="Atomic MM Spanking"/>
+
+<position id="Atomic MM Lust" positionTree="Atomic MM Lust"/>

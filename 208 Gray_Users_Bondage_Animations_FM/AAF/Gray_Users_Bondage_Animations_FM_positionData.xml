@@ -1,0 +1,30 @@
+<meta title="Gray User's Bondage Animations - FM Position Data" version="2.0.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="GrayUserBPFacedown00" animation="GrayUserBPFacedown00" isHidden="true"/>
+<position id="GrayUserBPFacedown01" animation="GrayUserBPFacedown01" isHidden="true"/>
+<position id="GrayUserBPFacedown02" animation="GrayUserBPFacedown02" isHidden="true"/>
+<position id="GrayUserBPFacedownkneel00" animation="GrayUserBPFacedownkneel00" isHidden="true"/>
+<position id="GrayUserBPFacedownkneel01" animation="GrayUserBPFacedownkneel01" isHidden="true"/>
+<position id="GrayUserBPHogtie00" animation="GrayUserBPHogtie00" isHidden="true"/>
+<position id="GrayUserBPHogtie01" animation="GrayUserBPHogtie01" isHidden="true"/>
+<position id="GrayUserBPHogtie02" animation="GrayUserBPHogtie02" isHidden="true"/>
+<position id="GrayUserBPHogtie03" animation="GrayUserBPHogtie03" isHidden="true"/>
+<position id="GrayUserBPSide00" animation="GrayUserBPSide00" isHidden="true"/>
+<position id="GrayUserBPSide01" animation="GrayUserBPSide01" isHidden="true"/>
+<position id="GrayUserBPSide02" animation="GrayUserBPSide02" isHidden="true"/>
+<position id="GrayUserBPSide03" animation="GrayUserBPSide03" isHidden="true"/>
+
+<!-- Position Trees -->
+
+<position id="GrayUser BP Tree Facedown" positionTree="GrayUser BP Facedown"/>
+<position id="GrayUser BP Tree Facedown Kneel" positionTree="GrayUser BP Facedown Kneel"/>
+<position id="GrayUser BP Tree Hogtie" positionTree="GrayUser BP Hogtie"/>
+<position id="GrayUser BP Tree Side" positionTree="GrayUser BP Side"/>
+
+<!-- Animation Groups -->
+
+<position id="GrayUser BP Staged Facedown" animationGroup="GrayUser BP Facedown Staged"/>
+<position id="GrayUser BP Staged Facedown Kneel" animationGroup="GrayUser BP Facedown Kneel Staged"/>
+<position id="GrayUser BP Staged Hogtie" animationGroup="GrayUser BP Hogtie Staged"/>
+<position id="GrayUser BP Staged Side" animationGroup="GrayUser BP Side Staged"/>

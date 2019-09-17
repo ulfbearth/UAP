@@ -1,0 +1,146 @@
+<meta title="UPC - Unisex Pose Collection - Position Tree Data" version="5.0.0" dataSet="positionTree"/>
+<defaults/>
+
+<tree id="UPC_Unisex_Pose_Collection_Menu">
+	<branch id="UPC - Unisex Pose Collection - Menu" positionID="UPC - Unisex Pose Collection - upc01">
+		<branch id="Normal" positionID="UPC - Unisex Pose Collection - upc01">		
+			<branch id="upc1" positionID="UPC - Unisex Pose Collection - upc01"></branch>
+			<branch id="upc2" positionID="UPC - Unisex Pose Collection - upc02"></branch>
+			<branch id="upc3" positionID="UPC - Unisex Pose Collection - upc03"></branch>
+			<branch id="upc4" positionID="UPC - Unisex Pose Collection - upc04"></branch>
+			<branch id="upc5" positionID="UPC - Unisex Pose Collection - upc05"></branch>
+			<branch id="upc6" positionID="UPC - Unisex Pose Collection - upc06"></branch>
+			<branch id="upc7" positionID="UPC - Unisex Pose Collection - upc07"></branch>
+			<branch id="upc8" positionID="UPC - Unisex Pose Collection - upc08"></branch>
+			<branch id="upc9" positionID="UPC - Unisex Pose Collection - upc09"></branch>
+			<branch id="upc10" positionID="UPC - Unisex Pose Collection - upc10"></branch>
+			<branch id="upc11" positionID="UPC - Unisex Pose Collection - upc11"></branch>
+			<branch id="upc12" positionID="UPC - Unisex Pose Collection - upc12"></branch>
+			<branch id="upc13" positionID="UPC - Unisex Pose Collection - upc13"></branch>
+			<branch id="upc14" positionID="UPC - Unisex Pose Collection - upc14"></branch>
+			<branch id="upc15" positionID="UPC - Unisex Pose Collection - upc15"></branch>
+			<branch id="upc16" positionID="UPC - Unisex Pose Collection - upc16"></branch>
+			<branch id="upc17" positionID="UPC - Unisex Pose Collection - upc17"></branch>
+			<branch id="upc18" positionID="UPC - Unisex Pose Collection - upc18"></branch>
+			<branch id="upc19" positionID="UPC - Unisex Pose Collection - upc19"></branch>
+			<branch id="upc20" positionID="UPC - Unisex Pose Collection - upc20"></branch>
+			<branch id="upc21" positionID="UPC - Unisex Pose Collection - upc21"></branch>
+			<branch id="upc22" positionID="UPC - Unisex Pose Collection - upc22"></branch>
+			<branch id="upc23" positionID="UPC - Unisex Pose Collection - upc23"></branch>
+			<branch id="upc24" positionID="UPC - Unisex Pose Collection - upc24"></branch>
+			<branch id="upc25" positionID="UPC - Unisex Pose Collection - upc25"></branch>
+			<branch id="upc26" positionID="UPC - Unisex Pose Collection - upc26"></branch>
+			<branch id="upc27" positionID="UPC - Unisex Pose Collection - upc27"></branch>
+			<branch id="upc27alt" positionID="UPC - Unisex Pose Collection - upc27alt"></branch>
+			<branch id="upc28" positionID="UPC - Unisex Pose Collection - upc28"></branch>
+			<branch id="upc29" positionID="UPC - Unisex Pose Collection - upc29"></branch>
+			<branch id="upc30" positionID="UPC - Unisex Pose Collection - upc30"></branch>
+			<branch id="upc31" positionID="UPC - Unisex Pose Collection - upc31"></branch>
+			<branch id="upc32" positionID="UPC - Unisex Pose Collection - upc32"></branch>
+			<branch id="upc33" positionID="UPC - Unisex Pose Collection - upc33"></branch>
+			<branch id="upc34" positionID="UPC - Unisex Pose Collection - upc34"></branch>
+			<branch id="upc35" positionID="UPC - Unisex Pose Collection - upc35"></branch>
+			<branch id="upc35alt" positionID="UPC - Unisex Pose Collection - upc35alt"></branch>
+			<branch id="upc36" positionID="UPC - Unisex Pose Collection - upc36"></branch>
+			<branch id="upc36alt" positionID="UPC - Unisex Pose Collection - upc36alt"></branch>
+			<branch id="upc37" positionID="UPC - Unisex Pose Collection - upc37"></branch>
+			<branch id="upc38" positionID="UPC - Unisex Pose Collection - upc38"></branch>
+			<branch id="upc38alt" positionID="UPC - Unisex Pose Collection - upc38alt"></branch>
+			<branch id="upc39" positionID="UPC - Unisex Pose Collection - upc39"></branch>
+			<branch id="upc40" positionID="UPC - Unisex Pose Collection - upc40"></branch>
+			<branch id="upc41" positionID="UPC - Unisex Pose Collection - upc41"></branch>
+			<branch id="upc42" positionID="UPC - Unisex Pose Collection - upc42"></branch>
+			<branch id="upc43" positionID="UPC - Unisex Pose Collection - upc43"></branch>
+			<branch id="upc44" positionID="UPC - Unisex Pose Collection - upc44"></branch>
+			<branch id="upc45" positionID="UPC - Unisex Pose Collection - upc45"></branch>
+			<branch id="upc46" positionID="UPC - Unisex Pose Collection - upc46"></branch>
+			<branch id="upc46alt" positionID="UPC - Unisex Pose Collection - upc46alt"></branch>
+			<branch id="upc47" positionID="UPC - Unisex Pose Collection - upc47"></branch>
+			<branch id="upc48" positionID="UPC - Unisex Pose Collection - upc48"></branch>
+			<branch id="upc48alt" positionID="UPC - Unisex Pose Collection - upc48alt"></branch>
+			<branch id="upc48alt2" positionID="UPC - Unisex Pose Collection - upc48alt2"></branch>
+			<branch id="upc49" positionID="UPC - Unisex Pose Collection - upc49"></branch>
+			<branch id="upc50" positionID="UPC - Unisex Pose Collection - upc50"></branch>
+			<branch id="upc51" positionID="UPC - Unisex Pose Collection - upc51"></branch>
+			<branch id="upc52" positionID="UPC - Unisex Pose Collection - upc52"></branch>
+			<branch id="upc52alt" positionID="UPC - Unisex Pose Collection - upc52alt"></branch>
+			<branch id="upc53" positionID="UPC - Unisex Pose Collection - upc53"></branch>
+			<branch id="upc53alt" positionID="UPC - Unisex Pose Collection - upc53alt"></branch>
+			<branch id="upc54" positionID="UPC - Unisex Pose Collection - upc54"></branch>
+			<branch id="upc55" positionID="UPC - Unisex Pose Collection - upc55"></branch>
+			<branch id="upc56" positionID="UPC - Unisex Pose Collection - upc56"></branch>
+			<branch id="upc57" positionID="UPC - Unisex Pose Collection - upc57"></branch>
+			<branch id="upc58" positionID="UPC - Unisex Pose Collection - upc58"></branch>
+			<branch id="upc58alt" positionID="UPC - Unisex Pose Collection - upc58alt"></branch>
+			<branch id="upc59" positionID="UPC - Unisex Pose Collection - upc59"></branch>
+			<branch id="upc60" positionID="UPC - Unisex Pose Collection - upc60"></branch>
+			<branch id="upc61" positionID="UPC - Unisex Pose Collection - upc61"></branch>
+			<branch id="upc62" positionID="UPC - Unisex Pose Collection - upc62"></branch>
+			<branch id="upc63" positionID="UPC - Unisex Pose Collection - upc63"></branch>
+			<branch id="upc64" positionID="UPC - Unisex Pose Collection - upc64"></branch>
+			<branch id="upc65" positionID="UPC - Unisex Pose Collection - upc65"></branch>
+			<branch id="upc66" positionID="UPC - Unisex Pose Collection - upc66"></branch>
+			<branch id="upc67" positionID="UPC - Unisex Pose Collection - upc67"></branch>
+			<branch id="upc67alt" positionID="UPC - Unisex Pose Collection - upc67alt"></branch>
+			<branch id="upc67alt2" positionID="UPC - Unisex Pose Collection - upc67alt2"></branch>
+			<branch id="upc68" positionID="UPC - Unisex Pose Collection - upc68"></branch>
+			<branch id="upc68alt" positionID="UPC - Unisex Pose Collection - upc68alt"></branch>
+			<branch id="upc69" positionID="UPC - Unisex Pose Collection - upc69"></branch>
+			<branch id="upc70" positionID="UPC - Unisex Pose Collection - upc70"></branch>
+			<branch id="upc71" positionID="UPC - Unisex Pose Collection - upc71"></branch>
+			<branch id="upc72" positionID="UPC - Unisex Pose Collection - upc72"></branch>
+			<branch id="upc72alt" positionID="UPC - Unisex Pose Collection - upc72alt"></branch>
+			<branch id="upc73" positionID="UPC - Unisex Pose Collection - upc73"></branch>
+			<branch id="upc73alt" positionID="UPC - Unisex Pose Collection - upc73alt"></branch>
+			<branch id="upc74" positionID="UPC - Unisex Pose Collection - upc74"></branch>
+			<branch id="upc74alt" positionID="UPC - Unisex Pose Collection - upc74alt"></branch>
+			<branch id="upc75" positionID="UPC - Unisex Pose Collection - upc75"></branch>
+			<branch id="upc76" positionID="UPC - Unisex Pose Collection - upc76"></branch>
+			<branch id="upc76alt" positionID="UPC - Unisex Pose Collection - upc76alt"></branch>
+			<branch id="upc77" positionID="UPC - Unisex Pose Collection - upc77"></branch>
+			<branch id="upc78" positionID="UPC - Unisex Pose Collection - upc78"></branch>
+			<branch id="upc78alt" positionID="UPC - Unisex Pose Collection - upc78alt"></branch>
+			<branch id="upc79" positionID="UPC - Unisex Pose Collection - upc79"></branch>
+		</branch>
+		<branch id="Power Armor" positionID="UPC - Unisex Pose Collection - upcPA01">		
+			<branch id="upcPA1" positionID="UPC - Unisex Pose Collection - upcPA01"></branch>
+			<branch id="upcPA2" positionID="UPC - Unisex Pose Collection - upcPA02"></branch>
+			<branch id="upcPA3" positionID="UPC - Unisex Pose Collection - upcPA03"></branch>
+			<branch id="upcPA4" positionID="UPC - Unisex Pose Collection - upcPA04"></branch>
+			<branch id="upcPA5" positionID="UPC - Unisex Pose Collection - upcPA05"></branch>
+			<branch id="upcPA6" positionID="UPC - Unisex Pose Collection - upcPA06"></branch>
+			<branch id="upcPA7" positionID="UPC - Unisex Pose Collection - upcPA07"></branch>
+			<branch id="upcPA8" positionID="UPC - Unisex Pose Collection - upcPA08"></branch>
+			<branch id="upcPA9" positionID="UPC - Unisex Pose Collection - upcPA09"></branch>
+			<branch id="upcPA10" positionID="UPC - Unisex Pose Collection - upcPA10"></branch>
+		</branch>
+	</branch>
+</tree>
+<tree id="UPC_Unisex_Pose_Collection_Duo_Menu">
+	<branch id="UPC - Unisex Pose Collection - Duo Menu" positionID="UPC - Unisex Pose Collection - upcduo01">
+		<branch id="Normal" positionID="UPC - Unisex Pose Collection - upcduo01">		
+			<branch id="upcduo1" positionID="UPC - Unisex Pose Collection - upcduo01"></branch>
+			<branch id="upcduo2" positionID="UPC - Unisex Pose Collection - upcduo02"></branch>
+			<branch id="upcduo3" positionID="UPC - Unisex Pose Collection - upcduo03"></branch>
+			<branch id="upcduo4" positionID="UPC - Unisex Pose Collection - upcduo04"></branch>
+			<branch id="upcduo5" positionID="UPC - Unisex Pose Collection - upcduo05"></branch>
+			<branch id="upcduo6" positionID="UPC - Unisex Pose Collection - upcduo06"></branch>
+			<branch id="upcduo7" positionID="UPC - Unisex Pose Collection - upcduo07"></branch>
+			<branch id="upcduo8" positionID="UPC - Unisex Pose Collection - upcduo08"></branch>
+			<branch id="upcduo9" positionID="UPC - Unisex Pose Collection - upcduo09"></branch>
+			<branch id="upcduo9alt" positionID="UPC - Unisex Pose Collection - upcduo09alt"></branch>
+			<branch id="upcduo10" positionID="UPC - Unisex Pose Collection - upcduo10"></branch>
+			<branch id="upcduo11" positionID="UPC - Unisex Pose Collection - upcduo11"></branch>
+			<branch id="upcduo12" positionID="UPC - Unisex Pose Collection - upcduo12"></branch>
+			<branch id="upcduo13" positionID="UPC - Unisex Pose Collection - upcduo13"></branch>
+			<branch id="upcduo14" positionID="UPC - Unisex Pose Collection - upcduo14"></branch>
+			<branch id="upcduo15" positionID="UPC - Unisex Pose Collection - upcduo15"></branch>
+			<branch id="upcduo16" positionID="UPC - Unisex Pose Collection - upcduo16"></branch>
+			<branch id="upcduo17" positionID="UPC - Unisex Pose Collection - upcduo17"></branch>
+		</branch>
+		<branch id="Power Armor" positionID="UPC - Unisex Pose Collection - upcPAduo01">
+			<branch id="upcPAduo1" positionID="UPC - Unisex Pose Collection - upcPAduo01"></branch>
+			<branch id="upcPAduo1alt" positionID="UPC - Unisex Pose Collection - upcPAduo01alt"></branch>
+		</branch>
+	</branch>
+</tree>

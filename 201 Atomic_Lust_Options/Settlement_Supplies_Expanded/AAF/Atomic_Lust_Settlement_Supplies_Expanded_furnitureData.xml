@@ -1,0 +1,39 @@
+<meta title="Atomic Lust - Settlement Supplies Expanded Furniture Data.xml" version="2.5.1-b" dataSet="furniture"/>
+<defaults source="SSEX.esp"/>
+
+<group id="Single Bed">
+	<furniture form="01000BA0" id="SSEX_NpcBedVaultLay02"/>
+</group>
+
+<group id="Bunk Bed">
+	<furniture form="01000B9B" id="SSEX_NpcBedVaultBunkLay01"/>
+	<furniture form="01000B9C" id="SSEX_NpcBedVaultBunkLay02"/>
+</group>
+
+<group id="Double Bed">
+	<furniture form="01000BA2" id="SSEX_NpcBedWoodLay01"/>
+</group>
+
+<group id="Pre-War Double Bed">
+	<furniture form="01000B95" id="SSEX_NpcBedPlayerHouseLay01"/>
+</group>
+
+<group id="Institute Wallmounted Bed">
+	<furniture form="01000B8B" id="SSEX_NPCBedInstituteMountedSleep01"/>
+</group>
+
+<group id="Institute Double Bed">
+	<furniture form="01000B8C" id="SSEX_NPCBedInstituteMountedSleepDbl01"/>
+</group>
+
+<group id="Institute Single Bed">
+	<furniture form="01000B8D" id="SSEX_NPCBedInstituteSleep01"/>
+</group>
+
+<group id="Institute Med Bay">
+	<furniture form="01000B8A" id="SSEX_NPCBedInstituteMedBaySleep01"/>
+</group>
+
+<group id="Alternative PA Station">
+	<furniture form="01000A58" id="SSEX_WorkbenchPowerArmorSmall"/>
+</group>

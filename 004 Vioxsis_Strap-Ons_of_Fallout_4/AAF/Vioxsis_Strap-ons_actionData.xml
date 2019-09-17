@@ -1,0 +1,7 @@
+<meta title="Vioxsis' Strap-on's of Fallout 4﻿ - Action Data" version="4.0" dataSet="action"/>
+<defaults/>
+
+<action id="FF_activity">
+	<self startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	</self>
+</action>

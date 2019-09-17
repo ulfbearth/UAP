@@ -1,0 +1,116 @@
+<meta title="FO4 Animations by Leito - Dog Bed Animation Data" version="2.0.1-a" dataSet="animation"/>
+<defaults source="FO4_AnimationsByLeito.esp"/>
+
+<!------------------------------------- LEITO DOGGY 1 ------------------------------------->
+
+<animation id="Leito_Canine_Bed_Doggy_1_S1" frames="240">
+	<actor gender="F">
+		<idle form="4523" id="LeitoCanineDoggy_A1_S1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="4524" id="LeitoCanineDoggy_A2_S1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Doggy_1_S2" frames="200">
+	<actor gender="F">
+		<idle form="268B" id="LeitoCanineDoggy_A1_S2"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="2688" id="LeitoCanineDoggy_A2_S2"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Doggy_1_S3" frames="200">
+	<actor gender="F">
+		<idle form="268C" id="LeitoCanineDoggy_A1_S3"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="2689" id="LeitoCanineDoggy_A2_S3"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Doggy_1_S4" frames="160">
+	<actor gender="F">
+		<idle form="268D" id="LeitoCanineDoggy_A1_S4"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="268A" id="LeitoCanineDoggy_A2_S4"/>
+	</actor>
+</animation>
+
+<!------------------------------------- LEITO DOGGY 2 ------------------------------------->
+
+<animation id="Leito_Canine_Bed_Doggy_2_S1" frames="240">
+	<actor gender="F">
+		<idle form="3D80" id="LeitoCanineDoggy_A1_S1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="3D7C" id="LeitoCanineDoggy_A2_S1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Doggy_2_S2" frames="200">
+	<actor gender="F">
+		<idle form="3D81" id="LeitoCanineDoggy2_A1_S2"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="3D7D" id="LeitoCanineDoggy2_A2_S2"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Doggy_2_S3" frames="200">
+	<actor gender="F">
+		<idle form="3D82" id="LeitoCanineDoggy2_A1_S3"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="3D7E" id="LeitoCanineDoggy2_A2_S3"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Doggy_2_S4" frames="210">
+	<actor gender="F">
+		<idle form="3d83" id="LeitoCanineDoggy2_A1_S4"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="3D7F" id="LeitoCanineDoggy2_A2_S4"/>
+	</actor>
+</animation>
+
+<!------------------------------------- LEITO MISSIONARY 1 ------------------------------------->
+
+<animation id="Leito_Canine_Bed_Missionary_1_S1" frames="128">
+	<actor gender="F">
+		<idle form="1EE4" id="LeitoCanineMissionary_A1_S1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="1EE8" id="LeitoCanineMissionary_A2_S1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Missionary_1_S2" frames="200">
+	<actor gender="F">
+		<idle form="1EE5" id="LeitoCanineMissionary_A1_S2"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="1EE9" id="LeitoCanineMissionary_A2_S2"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Missionary_1_S3" frames="200">
+	<actor gender="F">
+		<idle form="1EE6" id="LeitoCanineMissionary_A1_S3"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="1EEA" id="LeitoCanineMissionary_A2_S3"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Canine_Bed_Missionary_1_S4" frames="170">
+	<actor gender="F">
+		<idle form="1EE7" id="LeitoCanineMissionary_A1_S4"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="1EEB" id="LeitoCanineMissionary_A2_S4"/>
+	</actor>
+</animation>

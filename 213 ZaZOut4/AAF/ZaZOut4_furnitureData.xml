@@ -1,0 +1,9 @@
+<meta title="ZaZOut4 - Furniture Data" version="0.0.3-b" dataSet="furniture"/>
+<defaults source="ZaZOut4.esp"/>
+
+<group id="Hydraulic_Pillory">
+	<furniture form="2670" id="ZOut4-Furn_HydraulicPillory_Wasteland"/>
+	<furniture form="4CA1" id="ZOut4-Furn_HydraulicPillory_Raider"/>
+	<furniture form="4CA3" id="ZOut4-Furn_HydraulicPillory_Vault-Tec"/>
+	<furniture form="4CA5" id="ZOut4-Furn_HydraulicPillory_Institute"/>
+</group>

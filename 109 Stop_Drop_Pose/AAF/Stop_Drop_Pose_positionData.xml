@@ -1,0 +1,276 @@
+<meta title="Stop. Drop Pose - Position Data" version="1.0.0" dataSet="position"/>
+<defaults/>
+
+<!-- Position Tree -->
+
+<position id="Stop. Drop Pose - Menu" positionTree="Stop_Drop_Pose_Menu"/>
+<position id="Stop. Drop Pose - Duo Menu" positionTree="Stop_Drop_Pose_Duo_Menu"/>
+<position id="Stop. Drop Pose - Trio Menu" positionTree="Stop_Drop_Pose_Trio_Menu"/>
+
+<!-- Adult -->
+
+<position id="Stop. Drop Pose - adp1a" animation="adp1a" isHidden="true"/>
+<position id="Stop. Drop Pose - adp1b" animation="adp1b" isHidden="true"/>
+<position id="Stop. Drop Pose - adp2a" animation="adp2a" isHidden="true"/>
+<position id="Stop. Drop Pose - adp2b" animation="adp2b" isHidden="true"/>
+<position id="Stop. Drop Pose - adp3a" animation="adp3a" isHidden="true"/>
+<position id="Stop. Drop Pose - adp3b" animation="adp3b" isHidden="true"/>
+<position id="Stop. Drop Pose - adp4a" animation="adp4a" isHidden="true"/>
+<position id="Stop. Drop Pose - adp4b" animation="adp4b" isHidden="true"/>
+
+<!-- Adult Duo -->
+
+<position id="Stop. Drop Pose - adp1" animation="adp1" isHidden="true"/>
+<position id="Stop. Drop Pose - adp2" animation="adp2" isHidden="true"/>
+<position id="Stop. Drop Pose - adp3" animation="adp3" isHidden="true"/>
+<position id="Stop. Drop Pose - adp4" animation="adp4" isHidden="true"/>
+
+<!-- Couple -->
+
+<position id="Stop. Drop Pose - cp01a" animation="cp1a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp01b" animation="cp1b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp02a" animation="cp2a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp02b" animation="cp2b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp03a" animation="cp3a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp03b" animation="cp3b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp04a" animation="cp4a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp04b" animation="cp4b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp05a" animation="cp5a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp05b" animation="cp5b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp06a" animation="cp6a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp06b" animation="cp6b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp07a" animation="cp7a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp07b" animation="cp7b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp08a" animation="cp8a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp08b" animation="cp8b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp09a" animation="cp9a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp09b" animation="cp9b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp10a" animation="cp10a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp10b" animation="cp10b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp11a" animation="cp11a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp11b" animation="cp11b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp12a" animation="cp12a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp12b" animation="cp12b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp13a" animation="cp13a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp13b" animation="cp13b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp14a" animation="cp14a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp14b" animation="cp14b" isHidden="true"/>
+<position id="Stop. Drop Pose - cp15a" animation="cp15a" isHidden="true"/>
+<position id="Stop. Drop Pose - cp15b" animation="cp15b" isHidden="true"/>
+
+<!-- Couple Duo -->
+
+<position id="Stop. Drop Pose - cp01" animation="cp1" isHidden="true"/>
+<position id="Stop. Drop Pose - cp02" animation="cp2" isHidden="true"/>
+<position id="Stop. Drop Pose - cp03" animation="cp3" isHidden="true"/>
+<position id="Stop. Drop Pose - cp04" animation="cp4" isHidden="true"/>
+<position id="Stop. Drop Pose - cp05" animation="cp5" isHidden="true"/>
+<position id="Stop. Drop Pose - cp06" animation="cp6" isHidden="true"/>
+<position id="Stop. Drop Pose - cp07" animation="cp7" isHidden="true"/>
+<position id="Stop. Drop Pose - cp08" animation="cp8" isHidden="true"/>
+<position id="Stop. Drop Pose - cp09" animation="cp9" isHidden="true"/>
+<position id="Stop. Drop Pose - cp10" animation="cp10" isHidden="true"/>
+<position id="Stop. Drop Pose - cp11" animation="cp11" isHidden="true"/>
+<position id="Stop. Drop Pose - cp12" animation="cp12" isHidden="true"/>
+<position id="Stop. Drop Pose - cp13" animation="cp13" isHidden="true"/>
+<position id="Stop. Drop Pose - cp14" animation="cp14" isHidden="true"/>
+<position id="Stop. Drop Pose - cp15" animation="cp15" isHidden="true"/>
+
+<!-- Fallout 76 -->
+
+<position id="Stop. Drop Pose - fop01" animation="fop1" isHidden="true"/>
+<position id="Stop. Drop Pose - fop02" animation="fop2" isHidden="true"/>
+<position id="Stop. Drop Pose - fop03" animation="fop3" isHidden="true"/>
+<position id="Stop. Drop Pose - fop04" animation="fop4" isHidden="true"/>
+<position id="Stop. Drop Pose - fop05" animation="fop5" isHidden="true"/>
+<position id="Stop. Drop Pose - fop06" animation="fop6" isHidden="true"/>
+<position id="Stop. Drop Pose - fop07" animation="fop7" isHidden="true"/>
+<position id="Stop. Drop Pose - fop08" animation="fop8" isHidden="true"/>
+<position id="Stop. Drop Pose - fop09" animation="fop9" isHidden="true"/>
+<position id="Stop. Drop Pose - fop10" animation="fop10" isHidden="true"/>
+
+<!-- Friendship -->
+
+<position id="Stop. Drop Pose - fsp1a" animation="fsp1a" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp1b" animation="fsp1b" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp2a" animation="fsp2a" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp2b" animation="fsp2b" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp3a" animation="fsp3a" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp3b" animation="fsp3b" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp4a" animation="fsp4a" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp4b" animation="fsp4b" isHidden="true"/>
+
+<!-- Friendship Duo -->
+
+<position id="Stop. Drop Pose - fsp1" animation="fsp1" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp2" animation="fsp2" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp3" animation="fsp3" isHidden="true"/>
+<position id="Stop. Drop Pose - fsp4" animation="fsp4" isHidden="true"/>
+
+<!-- Lay Down -->
+
+<position id="Stop. Drop Pose - ldp1" animation="ldp1" isHidden="true"/>
+<position id="Stop. Drop Pose - ldp2" animation="ldp2" isHidden="true"/>
+<position id="Stop. Drop Pose - ldp3" animation="ldp3" isHidden="true"/>
+<position id="Stop. Drop Pose - ldp4" animation="ldp4" isHidden="true"/>
+
+<!-- Other Gestures -->
+
+<position id="Stop. Drop Pose - ogp01a" animation="ogp1a" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp01b" animation="ogp1b" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp01c" animation="ogp1c" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp02" animation="ogp2" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp03" animation="ogp3" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp04" animation="ogp4" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp05" animation="ogp5" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp06" animation="ogp6" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp07" animation="ogp7" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp08" animation="ogp8" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp09" animation="ogp9" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp10" animation="ogp10" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp11" animation="ogp11" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp12" animation="ogp12" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp13" animation="ogp13" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp14" animation="ogp14" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp15" animation="ogp15" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp16" animation="ogp16" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp17" animation="ogp17" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp18" animation="ogp18" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp19" animation="ogp19" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp20" animation="ogp20" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp21" animation="ogp21" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp22" animation="ogp22" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp23" animation="ogp23" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp24" animation="ogp24" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp25" animation="ogp25" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp26" animation="ogp26" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp27" animation="ogp27" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp28" animation="ogp28" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp29" animation="ogp29" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp30" animation="ogp30" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp31" animation="ogp31" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp32" animation="ogp32" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp33" animation="ogp33" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp34" animation="ogp34" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp35" animation="ogp35" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp36" animation="ogp36" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp37" animation="ogp37" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp38" animation="ogp38" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp39" animation="ogp39" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp40" animation="ogp40" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp41" animation="ogp41" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp42" animation="ogp42" isHidden="true"/>
+<position id="Stop. Drop Pose - ogp43" animation="ogp43" isHidden="true"/>
+
+<!-- Other Gestures Trio -->
+
+<position id="Stop. Drop Pose - ogp01" animation="ogp1" isHidden="true"/>
+
+<!-- Selfie -->
+
+<position id="Stop. Drop Pose - sfp1" animation="sfp1" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp2" animation="sfp2" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp3" animation="sfp3" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp4" animation="sfp4" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp5" animation="sfp5" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp6" animation="sfp6" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp7" animation="sfp7" isHidden="true"/>
+<position id="Stop. Drop Pose - sfp8" animation="sfp8" isHidden="true"/>
+
+<!-- Singing -->
+
+<position id="Stop. Drop Pose - sgp1" animation="sgp1" isHidden="true"/>
+<position id="Stop. Drop Pose - sgp2" animation="sgp2" isHidden="true"/>
+<position id="Stop. Drop Pose - sgp3" animation="sgp3" isHidden="true"/>
+<position id="Stop. Drop Pose - sgp4" animation="sgp4" isHidden="true"/>
+<position id="Stop. Drop Pose - sgp5" animation="sgp5" isHidden="true"/>
+<position id="Stop. Drop Pose - sgp6" animation="sgp6" isHidden="true"/>
+
+<!-- Sitting -->
+
+<position id="Stop. Drop Pose - stp01" animation="stp1" isHidden="true"/>
+<position id="Stop. Drop Pose - stp02" animation="stp2" isHidden="true"/>
+<position id="Stop. Drop Pose - stp03" animation="stp3" isHidden="true"/>
+<position id="Stop. Drop Pose - stp04" animation="stp4" isHidden="true"/>
+<position id="Stop. Drop Pose - stp05" animation="stp5" isHidden="true"/>
+<position id="Stop. Drop Pose - stp06" animation="stp6" isHidden="true"/>
+<position id="Stop. Drop Pose - stp07" animation="stp7" isHidden="true"/>
+<position id="Stop. Drop Pose - stp08" animation="stp8" isHidden="true"/>
+<position id="Stop. Drop Pose - stp09" animation="stp9" isHidden="true"/>
+<position id="Stop. Drop Pose - stp10" animation="stp10" isHidden="true"/>
+<position id="Stop. Drop Pose - stp11" animation="stp11" isHidden="true"/>
+<position id="Stop. Drop Pose - stp12" animation="stp12" isHidden="true"/>
+<position id="Stop. Drop Pose - stp13" animation="stp13" isHidden="true"/>
+<position id="Stop. Drop Pose - stp14" animation="stp14" isHidden="true"/>
+<position id="Stop. Drop Pose - stp15" animation="stp15" isHidden="true"/>
+<position id="Stop. Drop Pose - stp16" animation="stp16" isHidden="true"/>
+
+<!-- Standing -->
+
+<position id="Stop. Drop Pose - sdp01" animation="sdp1" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp02" animation="sdp2" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp03" animation="sdp3" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp04" animation="sdp4" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp05" animation="sdp5" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp06" animation="sdp6" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp07" animation="sdp7" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp08" animation="sdp8" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp09" animation="sdp9" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp10" animation="sdp10" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp11" animation="sdp11" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp12" animation="sdp12" isHidden="true"/>
+<position id="Stop. Drop Pose - sdp13" animation="sdp13" isHidden="true"/>
+
+<!-- Talking -->
+
+<position id="Stop. Drop Pose - tkp01" animation="tkp1" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp02" animation="tkp2" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp03" animation="tkp3" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp04" animation="tkp4" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp05" animation="tkp5" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp06" animation="tkp6" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp07" animation="tkp7" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp08" animation="tkp8" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp09" animation="tkp9" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp10" animation="tkp10" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp11" animation="tkp11" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp12" animation="tkp12" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp13" animation="tkp13" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp14" animation="tkp14" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp15" animation="tkp15" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp16" animation="tkp16" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp17" animation="tkp17" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp18" animation="tkp18" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp19" animation="tkp19" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp20" animation="tkp20" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp21" animation="tkp21" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp22" animation="tkp22" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp23" animation="tkp23" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp24" animation="tkp24" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp25" animation="tkp25" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp26" animation="tkp26" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp27" animation="tkp27" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp28" animation="tkp28" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp29" animation="tkp29" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp30" animation="tkp30" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp31" animation="tkp31" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp32" animation="tkp32" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp33" animation="tkp33" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp34" animation="tkp34" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp35" animation="tkp35" isHidden="true"/>
+<position id="Stop. Drop Pose - tkp36" animation="tkp36" isHidden="true"/>
+
+<!-- Underwater -->
+
+<position id="Stop. Drop Pose - uwp1" animation="uwp1" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp2" animation="uwp2" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp3" animation="uwp3" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp4" animation="uwp4" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp5" animation="uwp5" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp6" animation="uwp6" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp7a" animation="uwp7a" isHidden="true"/>
+<position id="Stop. Drop Pose - uwp7b" animation="uwp7b" isHidden="true"/>
+
+<!-- Underwater Duo -->
+
+<position id="Stop. Drop Pose - uwp7" animation="uwp7" isHidden="true"/>

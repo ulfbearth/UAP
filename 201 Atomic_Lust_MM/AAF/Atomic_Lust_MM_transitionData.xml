@@ -1,0 +1,15 @@
+<meta title="Atomic Lust_transitionData.xml" version="2.5b" dataSet="transition "/>
+<defaults />
+
+
+<!-- Atomic Spanking -->
+
+<transition from="Atomic MM Atomic Spanking S1" to="Atomic MM Atomic Spanking S2" animation="Atomic MM Atomic Spanking S1 Tran"/>
+<transition from="Atomic MM Atomic Spanking S2" to="Atomic MM Atomic Spanking S3" animation="Atomic MM Atomic Spanking S2 Tran"/>
+
+
+<!-- Atomic Lust -->
+
+<transition from="Atomic MM Standing Idle" to="Atomic MM Holding Hands" animation="Atomic MM Standing Idle to Holding Hands"/>
+<transition from="Atomic MM Holding Hands" to="Atomic MM Holding Kissing" animation="Atomic MM Holding Hands to Holding Kissing"/>
+<transition from="Atomic MM Holding Hands" to="Atomic MM Holding Hands to Holding Jerking" animation="Atomic MM Holding Hands to Holding Jerking"/>

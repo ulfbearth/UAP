@@ -1,0 +1,8 @@
+<meta title="SavageCabbage's Animation Pack - DLCCoast Furniture Data" version="1.0.4" dataSet="furniture"/>
+<defaults source="DLCCoast.esm"/>
+
+<group id="Outhouse">
+	<furniture form="9899" id="BarnOuthouseChair01"/>
+	<furniture form="98A5" id="BarnOuthouseChair01Static"/>
+	<furniture form="545A0" id="Dlc03BarnOuthouseChair01"/>
+</group>

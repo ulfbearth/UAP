@@ -1,0 +1,6 @@
+<meta title="Atomic Lust - My Lady Killer Bed Furniture Data" version="2.5.1-b" dataSet="furniture"/>
+<defaults source="MYLadyKillerBed.esp"/>
+
+<group id="Pre-War Double Bed">
+	<furniture form="02000901" id="WorkshopLadyKillerBed"/>
+</group>

@@ -1,0 +1,51 @@
+<meta title="Gray User's Creature Pack - FM Animation Group Data" version="2.0.0" dataSet="animationGroup"/>
+<defaults/>
+
+<animationGroup id="Bloatfly_Staged" sequential="true">
+	<stage animation="Bloatflystage01"/>
+	<stage animation="Bloatflystage02"/>
+	<stage animation="Bloatflystage03"/>
+	<stage animation="Bloatflystage04"/>
+</animationGroup>
+
+<animationGroup id="Bloodbug_Staged" sequential="true">
+	<stage animation="Bloodbugstage01"/>
+	<stage animation="Bloodbugstage02"/>
+	<stage animation="Bloodbugstage03"/>
+	<stage animation="Bloodbugstage04"/>
+</animationGroup>
+
+<animationGroup id="Mirelurk_Staged" sequential="true">
+	<stage animation="Mirelurkstage01"/>
+	<stage animation="Mirelurkstage02"/>
+	<stage animation="Mirelurkstage03"/>
+	<stage animation="Mirelurkstage04"/>
+</animationGroup>
+
+<animationGroup id="Mirelurk_Queen_Staged" sequential="true">
+	<stage animation="MirelurkQstage01"/>
+	<stage animation="MirelurkQstage02"/>
+	<stage animation="MirelurkQstage03"/>
+	<stage animation="MirelurkQstage04"/>
+</animationGroup>
+
+<animationGroup id="Rad_Scorpion_Staged" sequential="true">
+	<stage animation="Scorpionstage01"/>
+	<stage animation="Scorpionstage02"/>
+	<stage animation="Scorpionstage03"/>
+	<stage animation="Scorpionstage04"/>
+</animationGroup>
+
+<animationGroup id="Stingwing_Staged" sequential="true">
+	<stage animation="Stingwingstage01"/>
+	<stage animation="Stingwingstage02"/>
+	<stage animation="Stingwingstage03"/>
+	<stage animation="Stingwingstage04"/>
+</animationGroup>
+
+<animationGroup id="Yao-Guai_Staged" sequential="true">
+	<stage animation="Yaostage01"/>
+	<stage animation="Yaostage02"/>
+	<stage animation="Yaostage03"/>
+	<stage animation="Yaostage04"/>
+</animationGroup>

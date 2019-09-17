@@ -1,0 +1,11 @@
+<meta title="Leito_Dogs_transitionData.xml" version="1.0" dataSet="transition"/>
+<defaults loadPriority="1"/>
+
+<transition from="none" to="MM_Leito_Canine_Doggy_1_Staged" animation="MM_Leito_Canine_Doggy_1_S1"/>
+<transition from="MM_Leito_Canine_Doggy_1_Staged" to="none" animation="MM_Leito_Canine_Doggy_1_S4"/>
+
+<transition from="none" to="MM_Leito_Canine_Doggy_2_Staged" animation="MM_Leito_Canine_Doggy_2_S1"/>
+<transition from="MM_Leito_Canine_Doggy_2_Staged" to="none" animation="MM_Leito_Canine_Doggy_2_S4"/>
+
+<transition from="none" to="MM_Leito_Canine_Missionary_Staged" animation="MM_Leito_Canine_Missionary_1_S1"/>
+<transition from="MM_Leito_Canine_Missionary_Staged" to="none" animation="MM_Leito_Canine_Missionary_1_S4"/>

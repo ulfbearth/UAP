@@ -1,0 +1,28 @@
+<meta title="FO4 Animations by Leito - Mattress Position Data" version="2.0.1-a" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,0,9,0"/>
+<animationOffset actor="2" offset="0,0,9,0"/>
+
+<position id="Leito Aggressive Mattress Cowgirl" location="Mattress" animation="Leito_Mattress_Cowgirl_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Mattress Doggy" location="Mattress" animation="Leito_Mattress_Doggy_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Mattress Missionary" location="Mattress" animation="Leito_Mattress_Missionary_Aggressive" tags="aggressive"/>
+
+<position id="Leito Mattress Blowjob" location="Mattress" animationGroup="Leito_Mattress_Blowjob_1_Staged"/>
+<position id="Leito Mattress Carry" location="Mattress" animationGroup="Leito_Mattress_Carry_1_Staged"/>
+<position id="Leito Mattress Carry 2" location="Mattress" animationGroup="Leito_Mattress_Carry_2_Staged"/>
+<position id="Leito Mattress Cowgirl" location="Mattress" animationGroup="Leito_Mattress_Cowgirl_1_Staged"/>
+<position id="Leito Mattress Cowgirl 2" location="Mattress" animationGroup="Leito_Mattress_Cowgirl_2_Staged"/>
+<position id="Leito Mattress Cowgirl 3" location="Mattress" animationGroup="Leito_Mattress_Cowgirl_3_Staged"/>
+<position id="Leito Mattress Cowgirl 4" location="Mattress" animationGroup="Leito_Mattress_Cowgirl_4_Staged"/>
+<position id="Leito Mattress Doggy" location="Mattress" animationGroup="Leito_Mattress_Doggy_1_Staged"/>
+<position id="Leito Mattress Doggy 2" location="Mattress" animationGroup="Leito_Mattress_Doggy_2_Staged"/>
+<position id="Leito Mattress Missionary" location="Mattress" animationGroup="Leito_Mattress_Missionary_1_Staged"/>
+<position id="Leito Mattress Missionary 2" location="Mattress" animationGroup="Leito_Mattress_Missionary_2_Staged"/>
+<position id="Leito Mattress Powerbomb" location="Mattress" animationGroup="Leito_Mattress_Powerbomb_1_Staged"/>
+<position id="Leito Mattress Reverse Carry" location="Mattress" animationGroup="Leito_Mattress_ReverseCarry_1_Staged"/>
+<position id="Leito Mattress Reverse Cowgirl" location="Mattress" animationGroup="Leito_Mattress_ReverseCowgirl_1_Staged"/>
+<position id="Leito Mattress Reverse Cowgirl 2" location="Mattress" animationGroup="Leito_Mattress_ReverseCowgirl_2_Staged"/>
+<position id="Leito Mattress Spoon" location="Mattress" animationGroup="Leito_Mattress_Spoon_1_Staged"/>
+<position id="Leito Mattress Standing Doggy" location="Mattress" animationGroup="Leito_Mattress_StandingDoggy_1_Staged"/>
+<position id="Leito Mattress Standing Doggy 2" location="Mattress" animationGroup="Leito_Mattress_StandingDoggy_2_Staged"/>

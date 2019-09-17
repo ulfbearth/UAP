@@ -1,0 +1,14 @@
+<meta title="Vioxsis' Strap-on's of Fallout 4﻿ - Equipment Set Data" version="4.0" dataSet="equipmentSet"/>
+<defaults source="Vioxsis_Strap-Ons.esp"/>
+
+<equipmentSet id="addEquipmentStrapon"> 
+    <condition isFemale="true>
+        <addEquipment form="173B"/>
+    </condition>
+</equipmentSet>
+
+<equipmentSet id="removeEquipmentStrapon">
+    <condition isFemale="true>
+        <removeEquipment form="173B"/>
+    </condition>
+</equipmentSet>

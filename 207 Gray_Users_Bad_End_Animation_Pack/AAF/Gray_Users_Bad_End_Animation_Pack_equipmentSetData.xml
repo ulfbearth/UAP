@@ -1,0 +1,14 @@
+<meta title="Gray User's Bad End Animation Pack - Equipment Set Data" version="1.0.3" dataSet="equipmentSet"/>
+<defaults source="AAF_BadEnd_Animations.esp"/>
+
+<equipmentSet id="addEquipmentNoose"> 
+    <condition isFemale="true">
+		<addEquipment form="1EE6"/>
+    </condition>
+</equipmentSet>
+
+<equipmentSet id="removeEquipmentNoose">
+    <condition isFemale="true">
+		<removeEquipment form="1EE6"/>
+    </condition>
+</equipmentSet>

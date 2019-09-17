@@ -1,0 +1,17 @@
+<meta title="rxl_bp70_anims_animationGroupData.xml" version="2.1" dataSet="animationGroup"/>
+<defaults />
+
+<animationGroup id="BP70 MM Missionary Sequence Staged" sequential="true">
+	<stage animation="rxl_bp70_MM_missionaryseq_1"/>
+	<stage animation="rxl_bp70_MM_missionaryseq_2"/>
+	<stage animation="rxl_bp70_MM_missionaryseq_3"/>
+	<stage animation="rxl_bp70_MM_missionaryseq_4"/>
+	<stage animation="rxl_bp70_MM_missionaryseq_5"/>
+</animationGroup>
+
+<animationGroup id="BP70 MM Standing Sequence Staged" sequential="true">
+	<stage animation="rxl_bp70_MM_standingseq1"/>
+	<stage animation="rxl_bp70_MM_standingseq2"/>
+	<stage animation="rxl_bp70_MM_standingseq3"/>
+	<stage animation="rxl_bp70_MM_standingseq4"/>
+</animationGroup>

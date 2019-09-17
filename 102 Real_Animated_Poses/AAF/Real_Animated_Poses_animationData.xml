@@ -1,0 +1,123 @@
+<meta title="Real Animated Poses - Animation Data" version="1.2.0" dataSet="animation"/>
+<defaults source="RohZima_RealAnimatedPoses.esp"/>
+
+<animation id="rap001" time="100">
+	<actor>
+		<idle form="00000F99"/>
+	</actor>
+</animation>
+<animation id="rap002" time="100">
+	<actor>
+		<idle form="00000F9A"/>
+	</actor>
+</animation>
+<animation id="rap003" time="100">
+	<actor>
+		<idle form="00000F9B"/>
+	</actor>
+</animation>
+<animation id="rap004" time="100">
+	<actor>
+		<idle form="00000F9C"/>
+	</actor>
+</animation>
+<animation id="rap005" time="100">
+	<actor>
+		<idle form="00000F9D"/>
+	</actor>
+</animation>
+<animation id="rap006" time="100">
+	<actor>
+		<idle form="00000F9E"/>
+	</actor>
+</animation>
+<animation id="rap007" time="100">
+	<actor>
+		<idle form="00000F9F"/>
+	</actor>
+</animation>
+<animation id="rap008" time="100">
+	<actor>
+		<idle form="00000FA0"/>
+	</actor>
+</animation>
+<animation id="rap009" time="120">
+	<actor>
+		<idle form="00000FA1"/>
+	</actor>
+</animation>
+<animation id="rap010" time="100">
+	<actor>
+		<idle form="00000FA2"/>
+	</actor>
+</animation>
+<animation id="rap011" time="100">
+	<actor>
+		<idle form="00000FA3"/>
+	</actor>
+</animation>
+<animation id="rap012" time="100">
+	<actor>
+		<idle form="00000FA4"/>
+	</actor>
+</animation>
+<animation id="rap013" time="100">
+	<actor>
+		<idle form="00000FA5"/>
+	</actor>
+</animation>
+<animation id="rap014" time="100">
+	<actor>
+		<idle form="00000FA6"/>
+	</actor>
+</animation>
+<animation id="rap015" time="100">
+	<actor>
+		<idle form="00001740"/>
+	</actor>
+</animation>
+<animation id="rap016" time="100">
+	<actor>
+		<idle form="00001741"/>
+	</actor>
+</animation>
+<animation id="rap017" time="100">
+	<actor>
+		<idle form="00001742"/>
+	</actor>
+</animation>
+<animation id="rap018" time="120">
+	<actor>
+		<idle form="00001743"/>
+	</actor>
+</animation>
+<animation id="rap019" time="100">
+	<actor>
+		<idle form="00001744"/>
+	</actor>
+</animation>
+<animation id="rap020" time="200">
+	<actor>
+		<idle form="00001745"/>
+	</actor>
+</animation>
+<animation id="rap021" time="100">
+	<actor>
+		<idle form="00001746"/>
+	</actor>
+</animation>
+<animation id="rap022" time="100">
+	<actor>
+		<idle form="00001EE0"/>
+	</actor>
+</animation>
+<animation id="rap023" time="100">
+	<actor>
+		<idle form="00001EE1"/>
+	</actor>
+</animation>
+<animation id="rap024" time="100">
+	<actor>
+		<idle form="00001EE2"/>
+	</actor>
+</animation>

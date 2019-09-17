@@ -1,0 +1,14 @@
+<meta title="Vadermania - MM Position Data" version="1.1.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<position id="VAD M Doggy" animation="MM vad_Doggy"/>
+<position id="VAD M Table" animation="MM vad_Table"/>
+<position id="VAD M Dogmeat02" animation="MM vad_Dogmeat02"/>
+<position id="VAD M Deathclaw slow" animation="MM vad_Deathclaw02"/>
+<position id="VAD M Deathclaw fast" animation="MM vad_Deathclaw0202"/>
+<position id="VAD M Ghoul Behind" animation="MM vad_Ghoul02"/>
+<position id="VAD M Ghoul 4w" animation="vad_Ghoul4w MMMM"/>
+<position id="VAD M Ghoul aggro doggy" animation="MM vad_Ghoul03"/>
+<position id="VAD M FEVHound Doggy" animation="MM vad_FEVHound01"/>
+<position id="VAD M Gorilla Front" animation="MM vad_Gorilla01"/>
+<position id="vad Cat01" animation="vad_Cat01"/>

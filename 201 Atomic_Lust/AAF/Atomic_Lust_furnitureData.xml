@@ -1,0 +1,119 @@
+<meta title="Atomic Lust - Furniture Data" version="2.5.1-b" dataSet="furniture"/>
+<defaults source="Fallout4.esm"/>
+
+<group id="Player House Chair Kitchen">
+	<furniture form="0004D1E4" id="NpcChairPlayerHouseKitchenSit01"/>
+	<furniture form="0006F9DC" id="NpcChairPlayerHouseRuinKitchenSit01"/>
+	<furniture form="0006F9DD" id="NpcChairPlayerHouseRuinKitchenSit02"/>
+	<furniture form="0006F9DE" id="NpcChairPlayerHouseRuinKitchenSit03"/>
+</group>
+
+<group id="Player House Chair">
+	<furniture form="0004D1CC" id="NpcChairPlayerHouseSit01"/>
+	<furniture form="00074BB0" id="NpcChairPlayerHouseRuinSit01"/>
+</group>
+
+<group id="Couch">
+	<furniture form="0004D1D8" id="NPCCouchPlayerHouseSit01"/>
+	<furniture form="00074BB1" id="NPCCouchPlayerHouseRuinSit01"/>
+	<furniture form="001E437A" id="MQ101_NpcCouchPlayerHouseRuinSit01"/>
+</group>
+
+<group id="Fridge">
+	<furniture form="000F4736" id="PlayerHouse_KitchenRefrigerator02_Static_Blue"/>
+	<furniture form="000F4735" id="PlayerHouse_KitchenRefrigeratorDoor02_Blue"/>
+	<furniture form="000AB720" id="PlayerHouse_Ruin_KitchenRefrigerator02_Static_Blue"/>
+	<furniture form="000AB728" id="PlayerHouse_Ruin_KitchenRefrigerator02_Static_Yellow"/>
+</group>
+
+<group id="Single Bed">
+	<furniture form="001340D3" id="NpcBedMetalLay01"/>
+	<furniture form="001340D4" id="NpcBedMetalLay02"/>
+	<furniture form="0014EA9F" id="NpcBedMetalLay02Dbl"/>
+	<furniture form="000AB567" id="NpcBedVaultLay01"/>
+	<furniture form="0004329F" id="NpcBedVaultLay02"/>
+	<furniture form="0018C56F" id="WorkshopNpcBedMetalLay01"/>
+	<furniture form="0001E34D" id="WorkshopNpcBedMetalLay02DblNoEdit"/>
+	<furniture form="00052390" id="WorkshopNpcBedMetalLay02NoEdit"/>
+	<furniture form="00118F4B" id="WorkshopNpcBedVaultLay01"/>
+	<furniture form="00249040" id="WorkshopNpcBedVaultLay01DblNoEdit"/>
+	<furniture form="0018E7A9" id="WorkshopNpcBedVaultLay01NoEdit"/>
+</group>
+
+<group id="Military Cot">
+	<furniture form="0014D090" id="NpcBedMilitaryCotMattressLay01"/>
+	<furniture form="0005238E" id="WorkshopNpcBedMilitaryCotMattressLay01NoEdit"/>
+	<furniture form="0023C9C4" id="WorkshopNpcBedMilitaryCottLay01"/>
+	<furniture form="002472CD" id="WorkshopNpcBedMilitaryCottLay01NoEdit"/>	
+</group>
+
+<group id="Bunk Bed">
+	<furniture form="000AB568" id="NpcBedVaultBunkLay01"/>
+	<furniture form="000432A8" id="NpcBedVaultBunkLay02"/>
+	<furniture form="0018E7AA" id="WorkshopNpcBedVaultBunkLay01NoEditNEW"/>
+	<furniture form="002462E4" id="WorkshopNpcBedVaultBunkLay02NoEdit"/>
+</group>
+
+<group id="Double Bed">
+	<furniture form="001340D5" id="NpcBedWoodLay01"/>
+	<furniture form="0024696F" id="NpcBedWoodLay01_NoActivate"/>
+	<furniture form="0018C570" id="WorkshopNpcBedWoodLay01"/>
+</group>
+
+<group id="Pre-War Double Bed">
+	<furniture form="00054835" id="NpcBedPlayerHouseLay01"/>
+	<furniture form="001027A7" id="NpcBedPlayerHouseLay01_NoActivate"/>
+	<furniture form="0018E7AC" id="WorkshopNpcBedPlayerHouseLay01NoEdit"/>
+</group>
+
+<group id="Institute Wallmounted Bed">
+	<furniture form="000488E6" id="NPCBedInstituteMountedSleep01"/>
+</group>
+
+<group id="Institute Double Bed">
+	<furniture form="000550D3" id="NPCBedInstituteMountedSleepDbl01"/>
+</group>
+
+<group id="Institute Single Bed">
+	<furniture form="000E6952" id="NPCBedInstituteSleep01"/>
+	<furniture form="000DB85E" id="NPCBedInstituteSleep02"/>
+</group>
+
+<group id="Institute Med Bay">
+	<furniture form="000B0A71" id="NPCBedInstituteMedBaySleep01"/>
+</group>
+
+<group id="Institute Med Bay Inclined">
+	<furniture form="002233B1" id="NPCBedHospitalNoPlayer"/>
+</group>
+
+<group id="Cryo Pod">
+	<furniture form="0002522D" id="CryoPodFurniture1stP"/>
+	<furniture form="0014CC8F" id="CryoPodFurniture1stPPrewar"/>
+	<furniture form="0002B4C4" id="CryoPodFurniture3rdP"/>
+	<furniture form="001A45B9" id="CryoPodFurniture3rdPPrewar"/>
+	<furniture form="002459BE" id="CryoPodFurniture3rdPPrewar_AllowAct"/>
+	<furniture form="002243AC" id="CryoPodFurniture3rdP_NoSleep"/>
+	<furniture form="0019E9AA" id="CryoPodFurniture3rdP_Spouse"/>
+	<furniture form="001A45B8" id="CryoPodFurniture3rdP_SpousePrewar"/>	
+</group>
+
+<group id="Extractor Chair">
+	<furniture form="001E618A" id="ExtractorChair01"/>
+</group>
+
+<group id="Reclamation Chair">
+	<furniture form="000DF458" id="NPCInstituteReclamationChair01"/>
+</group>
+
+<group id="Power Armor Station">
+	<furniture form="00157FEB" id="WorkbenchPowerArmor"/>
+</group>
+
+<group id="Alternative PA Station">
+	<furniture form="0013BD08" id="WorkbenchPowerArmorSmall"/>
+</group>
+
+<group id="Flag Pole">
+	<furniture form="000471F9" id="Flagpolenoflag"/>
+</group>

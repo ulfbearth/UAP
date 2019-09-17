@@ -1,0 +1,28 @@
+<meta title="FO4 Animations by Leito - Position Data" version="2.0.1-a" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Leito Aggressive Blowjob" animation="Leito_Blowjob_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Carry" animation="Leito_Carry_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Cowgirl" animation="Leito_Cowgirl_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Doggy" animation="Leito_Doggy_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Missionary" animation="Leito_Missionary_Aggressive" tags="aggressive"/>
+<position id="Leito Aggressive Powerbomb" animation="Leito_Powerbomb_Aggressive" tags="aggressive"/>
+
+<position id="Leito Blowjob" animationGroup="Leito_Blowjob_1_Staged"/>
+<position id="Leito Carry" animationGroup="Leito_Carry_1_Staged"/>
+<position id="Leito Carry 2" animationGroup="Leito_Carry_2_Staged"/>
+<position id="Leito Cowgirl" animationGroup="Leito_Cowgirl_1_Staged"/>
+<position id="Leito Cowgirl 2" animationGroup="Leito_Cowgirl_2_Staged"/>
+<position id="Leito Cowgirl 3" animationGroup="Leito_Cowgirl_3_Staged"/>
+<position id="Leito Cowgirl 4" animationGroup="Leito_Cowgirl_4_Staged"/>
+<position id="Leito Doggy" animationGroup="Leito_Doggy_1_Staged"/>
+<position id="Leito Doggy 2" animationGroup="Leito_Doggy_2_Staged"/>
+<position id="Leito Missionary" animationGroup="Leito_Missionary_1_Staged"/>
+<position id="Leito Missionary 2" animationGroup="Leito_Missionary_2_Staged"/>
+<position id="Leito Powerbomb" animationGroup="Leito_Powerbomb_1_Staged"/>
+<position id="Leito Reverse Carry" animationGroup="Leito_ReverseCarry_1_Staged"/>
+<position id="Leito Reverse Cowgirl" animationGroup="Leito_ReverseCowgirl_1_Staged"/>
+<position id="Leito Reverse Cowgirl 2" animationGroup="Leito_ReverseCowgirl_2_Staged"/>
+<position id="Leito Spoon" animationGroup="Leito_Spoon_1_Staged"/>
+<position id="Leito Standing Doggy" animationGroup="Leito_StandingDoggy_1_Staged"/>
+<position id="Leito Standing Doggy 2" animationGroup="Leito_StandingDoggy_2_Staged"/>

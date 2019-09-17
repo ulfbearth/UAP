@@ -1,0 +1,13 @@
+<meta title="SavageCabbage's Animation Pack - TortureDevices FM Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<position id="FM-HydroPillory01-02Doggy" location="HydroPillory"/>
+
+<position id="FM-Pillory01-02Doggy" location="Pillory"/>
+<position id="FM-Pillory01-03Doggy" location="Pillory"/>
+<position id="FM-Pillory01-04Doggy" location="Pillory"/>
+
+<position id="FMM-HydroPillory01-02DoubleTeam" location="HydroPillory"/>
+
+<position id="FMM-Pillory01-02DoubleTeam" location="Pillory"/>
+<position id="FMM-Pillory01-03DoubleTeam" location="Pillory"/>

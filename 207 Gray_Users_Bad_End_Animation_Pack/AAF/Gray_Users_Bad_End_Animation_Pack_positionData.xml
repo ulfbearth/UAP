@@ -1,0 +1,17 @@
+<meta title="Gray User's Bad End Animation Pack - Position Data" version="1.0.3" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Test00" animation="Test00"/>
+<position id="Test01" animation="Test01"/>
+<position id="Test02" animation="Test02"/>
+<position id="Test03" animation="Test03"/>
+<position id="Test04" animation="Test04"/>
+<position id="Test05" animation="Test05"/>
+
+<position id="Pole Sequential" animationGroup="PoleSequential" location="ImpalingPoleFurniture"/>
+<position id="Hanging (Free) Sequential" animationGroup="NooseSequentialFree" location="GallowsFurniture"/>
+<position id="Hanging (Tied) Sequential" animationGroup="NooseSequentialTied" location="GallowsFurniture"/>
+<position id="Garrote (Free) Sequential" animationGroup="GarroteSequentialFree" location="StranglingPoleFurniture"/>
+<position id="Garrote (Tied) Sequential" animationGroup="GarroteSequentialTied" location="StranglingPoleFurniture"/>
+<position id="Institute Chair Sequential" animationGroup="InstituteSequential" location="InstituteChairFurniture"/>
+<position id="Machine Chair Sequential" animationGroup="MachineSequential" location="MachineChairFurniture"/>

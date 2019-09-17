@@ -1,0 +1,7 @@
+<meta title="Gray User's Bad End Animation Pack - Action Data" version="1.0.3" dataSet="action"/>
+<defaults/>
+
+<action id="F_Noose_activity">
+	<self startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+	</self>
+</action>

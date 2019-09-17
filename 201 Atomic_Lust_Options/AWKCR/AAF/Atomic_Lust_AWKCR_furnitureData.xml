@@ -1,0 +1,9 @@
+<meta title="Atomic Lust - AWKCR Furniture Data" version="2.5.1-b" dataSet="furniture"/>
+<defaults source="ArmorKeywords.esm"/>
+
+<group id="AWKCR Power Armor Station">
+	<furniture form="06001F2C" id="WorkbenchPowerArmor02_Standard01_Lit"/>
+</group>
+<group id="AWKCR Compact PA Station">
+	<furniture form="06000F28" id="WorkbenchPowerArmor01_Small01_Lit"/>
+</group>

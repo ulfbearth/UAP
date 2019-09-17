@@ -1,0 +1,9 @@
+<meta title="FO4 Animations by Leito - Dog Bed Position Data" version="2.0.1-a" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,0,43,0"/>
+<animationOffset actor="2" offset="0,0,43,0"/>
+
+<position id="Leito MD Canine Bed Doggy" location="Single_Bed,Double_Bed" animationGroup="MM_Leito_Canine_Bed_Doggy_1_Staged"/>
+<position id="Leito MD Canine Bed Doggy 2" location="Single_Bed,Double_Bed" animationGroup="MM_Leito_Canine_Bed_Doggy_2_Staged"/>
+<position id="Leito MD Canine Bed Missionary" location="Single_Bed,Double_Bed" animationGroup="MM_Leito_Canine_Bed_Missionary_1_Staged"/>

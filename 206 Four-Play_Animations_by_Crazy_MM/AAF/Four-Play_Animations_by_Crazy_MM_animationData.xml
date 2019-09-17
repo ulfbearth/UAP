@@ -1,0 +1,150 @@
+﻿<meta title="Four-Play Animations by Crazy - Animation Data" version="1.3.0" dataSet="animation"/>
+<defaults source="AAF_Four-Play_Animations_Crazy6987.esp"/>
+
+<!-- [ M/M ] -->
+<animation id="MM CrazyWheelbarrow" frames="22">
+	<actor gender="M">
+		<!-- 0,66666603088379 : 20 -->
+		<idle form="FB4" id="Crazy_Front01_FWheelbarrow"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FA7" id="Crazy_Center_MWheelbarrow"/>
+		<!-- 0,7333333492279053 : 22 -->
+	</actor>
+</animation>
+
+<animation id="MM CrazyStandingChokehold_Aggressive" frames="121">
+	<actor gender="M">
+		<!-- 4,0333333015441895 : 121 -->
+		<idle form="FB3" id="Crazy_Front01_FStandingChokehold_Aggressive"/>
+	</actor>
+	<actor gender="M">
+		<!-- 4,0333333015441895 : 121 -->
+		<idle form="FA6" id="Crazy_Center_MStandingChokehold_Aggressive"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_LayingGorilla" frames="29">
+	<actor gender="M">
+		<!-- 0,9666666388511658 : 29 -->
+		<idle form="FB2" id="Crazy_Front01_FLayingGorilla"/>
+	</actor>
+	<actor gender="M">
+		<!-- 0,9666666388511658 : 29 -->
+		<idle form="FA5" id="Crazy_Center_MLayingGorilla"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_LayingBJ" frames="38">
+	<actor gender="M">
+		<!-- 1,2666666507720947 : 38 -->
+		<idle form="FB1" id="Crazy_Front01_FLayingBJ"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,2666666507720947 : 38 -->
+		<idle form="FA4" id="Crazy_Center_MLayingBJ"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_LayedBackFuck" frames="38">
+	<actor gender="M">
+		<!-- 1,2666666507720947 : 38 -->
+		<idle form="FB0" id="Crazy_Front01_FLayedBackFuck"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,2666666507720947 : 38 -->
+		<idle form="FA3" id="Crazy_Center_MLayedBackFuck"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_Kneeling69" frames="31">
+	<actor gender="M">
+		<!-- 1,0333333015441895 : 31 -->
+		<idle form="FAF" id="Crazy_Front01_FKneeling69"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,0333333015441895 : 31 -->
+		<idle form="FA2" id="Crazy_Center_MKneeling69"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_HandstandBJ" frames="135">
+	<actor gender="M">
+		<!-- 4,5 : 135 -->
+		<idle form="FAE" id="Crazy_Front01_FHandstandBJ"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,5 : 45 -->
+		<idle form="FA1" id="Crazy_Center_MHandstandBJ"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_ChokingJackOff_Aggressive" frames="175">
+	<actor gender="M">
+		<!-- 5,833333492279053 : 175 -->
+		<idle form="FAA" id="Crazy_Front01_FChokingJackOff_Aggressive"/>
+	</actor>
+	<actor gender="M">
+		<!-- 5,833333492279053 : 175 -->
+		<idle form="FA0" id="Crazy_Center_MChokingJackOff_Aggressive"/>
+	</actor>
+</animation>
+
+<!-- [ M/F/M ] -->
+<animation id="MM Crazy_3Spitroast" frames="33">
+	<actor gender="M">
+		<!-- 1,100000023841858 : 33 -->
+		<idle form="FA9" id="Crazy_Front01_F3Spitroast"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,100000023841858 : 33 -->
+		<idle form="F9F" id="Crazy_Center_M3Spitroast"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,100000023841858 : 33 -->
+		<idle form="F9A" id="Crazy_Back01_M3Spitroast"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_3DP" frames="135">
+	<actor gender="M">
+		<!-- 1,5666667222976685 : 47 -->
+		<idle form="FA8" id="Crazy_Front01_F3DP"/>
+	</actor>
+	<actor gender="M">
+		<!-- 4,5 : 135 -->
+		<idle form="F9E" id="Crazy_Center_M3DP"/>
+	</actor>
+	<actor gender="M">
+		<!-- 1,5666667222976685 : 47 -->
+		<idle form="F99" id="Crazy_Back01_M3DP"/>
+	</actor>
+</animation>
+
+<!-- [ D/F ] Fake number of frames (x10) -->
+<animation id="MM Crazy_DogHandjob" offset="0,0,5,0:0,0,0,0" frames="160">
+	<actor gender="M">
+		<idle form="FAB" id="Crazy_Front01_FDogHandjob"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="F9B" id="Crazy_Center_DogDogHandjob"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_DogmeatStyle" frames="190">
+	<actor gender="M">
+		<idle form="FAC" id="Crazy_Front01_FDogmeatStyle"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="F9C" id="Crazy_Center_DogDogmeatStyle"/>
+	</actor>
+</animation>
+
+<animation id="MM Crazy_DogmeatStyleFaster" frames="120">
+	<actor gender="M">
+		<idle form="FAD" id="Crazy_Front01_FDogmeatStyleFaster"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="F9D" id="Crazy_Center_DogDogmeatStyleFaster"/>
+	</actor>
+</animation>

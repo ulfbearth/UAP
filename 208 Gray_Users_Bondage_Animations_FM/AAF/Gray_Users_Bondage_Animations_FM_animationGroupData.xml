@@ -1,0 +1,27 @@
+<meta title="Gray User's Bondage Animations - FM Animation Group Data" version="2.0.0" dataSet="animationGroup"/>
+<defaults/>
+
+<animationGroup id="GrayUser BP Facedown Staged" sequential="true">
+	<stage animation="GrayUserBPFacedown00"/>
+	<stage animation="GrayUserBPFacedown01"/>
+	<stage animation="GrayUserBPFacedown02"/>
+</animationGroup>
+
+<animationGroup id="GrayUser BP Facedown Kneel Staged" sequential="true">
+	<stage animation="GrayUserBPFacedownkneel00"/>
+	<stage animation="GrayUserBPFacedownkneel01"/>
+</animationGroup>
+
+<animationGroup id="GrayUser BP Hogtie Staged" sequential="true">
+	<stage animation="GrayUserBPHogtie00"/>
+	<stage animation="GrayUserBPHogtie01"/>
+	<stage animation="GrayUserBPHogtie02"/>
+	<stage animation="GrayUserBPHogtie03"/>
+</animationGroup>
+
+<animationGroup id="GrayUser BP Side Staged" sequential="true">
+	<stage animation="GrayUserBPSide00"/>
+	<stage animation="GrayUserBPSide01"/>
+	<stage animation="GrayUserBPSide02"/>
+	<stage animation="GrayUserBPSide03"/>
+</animationGroup>

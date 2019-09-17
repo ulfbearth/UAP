@@ -1,0 +1,16 @@
+<meta title="Mutated Lust - Furniture Data" version="1.2.0" dataSet="furniture"/>
+<defaults source="Fallout4.esm"/>
+
+<group id="FEV Chamber">
+	<furniture form="19F6C9" id="InsFevLabChamber01"/>
+	<furniture form="008943" id="InsFevLabChamber01" source="Mutated Lust.esp"/>
+</group>
+
+<group id="Dirt Cliff">
+	<furniture form="1A97F4" id="DirtCliffMedium01"/>
+</group>
+
+<group id="Dumpster">
+	<furniture form="16628C" id="TrashBin01"/>
+	<furniture form="1A6366" id="TrashBin01Empty"/>
+</group>

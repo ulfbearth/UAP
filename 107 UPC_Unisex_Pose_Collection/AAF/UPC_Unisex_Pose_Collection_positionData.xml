@@ -1,0 +1,146 @@
+<meta title="UPC - Unisex Pose Collection - Position Data" version="5.0.0" dataSet="position"/>
+<defaults/>
+
+<!-- Position Tree -->
+
+<position id="UPC - Unisex Pose Collection - Menu" positionTree="UPC_Unisex_Pose_Collection_Menu"/>
+<position id="UPC - Unisex Pose Collection - Duo Menu" positionTree="UPC_Unisex_Pose_Collection_Duo_Menu"/>
+
+<!-- Normal -->
+
+<position id="UPC - Unisex Pose Collection - upc01" animation="upc1" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc02" animation="upc2" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc03" animation="upc3" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc04" animation="upc4" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc05" animation="upc5" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc06" animation="upc6" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc07" animation="upc7" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc08" animation="upc8" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc09" animation="upc9" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc10" animation="upc10" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc11" animation="upc11" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc12" animation="upc12" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc13" animation="upc13" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc14" animation="upc14" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc15" animation="upc15" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc16" animation="upc16" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc17" animation="upc17" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc18" animation="upc18" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc19" animation="upc19" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc20" animation="upc20" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc21" animation="upc21" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc22" animation="upc22" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc23" animation="upc23" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc24" animation="upc24" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc25" animation="upc25" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc26" animation="upc26" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc27" animation="upc27" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc27alt" animation="upc27alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc28" animation="upc28" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc29" animation="upc29" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc30" animation="upc30" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc31" animation="upc31" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc32" animation="upc32" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc33" animation="upc33" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc34" animation="upc34" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc35" animation="upc35" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc35alt" animation="upc35alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc36" animation="upc36" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc36alt" animation="upc36alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc37" animation="upc37" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc38" animation="upc38" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc38alt" animation="upc38alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc39" animation="upc39" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc40" animation="upc40" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc41" animation="upc41" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc42" animation="upc42" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc43" animation="upc43" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc44" animation="upc44" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc45" animation="upc45" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc46" animation="upc46" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc46alt" animation="upc46alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc47" animation="upc47" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc48" animation="upc48" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc48alt" animation="upc48alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc48alt2" animation="upc48alt2" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc49" animation="upc49" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc50" animation="upc50" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc51" animation="upc51" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc52" animation="upc52" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc52alt" animation="upc52alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc53" animation="upc53" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc53alt" animation="upc53alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc54" animation="upc54" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc55" animation="upc55" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc56" animation="upc56" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc57" animation="upc57" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc58" animation="upc58" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc58alt" animation="upc58alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc59" animation="upc59" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc60" animation="upc60" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc61" animation="upc61" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc62" animation="upc62" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc63" animation="upc63" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc64" animation="upc64" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc65" animation="upc65" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc66" animation="upc66" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc67" animation="upc67" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc67alt" animation="upc67alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc67alt2" animation="upc67alt2" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc68" animation="upc68" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc68alt" animation="upc68alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc69" animation="upc69" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc70" animation="upc70" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc71" animation="upc71" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc72" animation="upc72" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc72alt" animation="upc72alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc73" animation="upc73" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc73alt" animation="upc73alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc74" animation="upc74" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc74alt" animation="upc74alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc75" animation="upc75" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc76" animation="upc76" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc76alt" animation="upc76alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc77" animation="upc77" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc78" animation="upc78" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc78alt" animation="upc78alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upc79" animation="upc79" isHidden="true"/>
+
+<!-- Duo -->
+
+<position id="UPC - Unisex Pose Collection - upcduo01" animation="upcduo1" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo02" animation="upcduo2" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo03" animation="upcduo3" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo04" animation="upcduo4" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo05" animation="upcduo5" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo06" animation="upcduo6" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo07" animation="upcduo7" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo08" animation="upcduo8" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo09" animation="upcduo9" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo09alt" animation="upcduo9alt" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo10" animation="upcduo10" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo11" animation="upcduo11" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo12" animation="upcduo12" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo13" animation="upcduo13" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo14" animation="upcduo14" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo15" animation="upcduo15" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo16" animation="upcduo16" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcduo17" animation="upcduo17" isHidden="true"/>
+
+<!-- Power Armor -->
+
+<position id="UPC - Unisex Pose Collection - upcPA01" animation="upcPA1" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA02" animation="upcPA2" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA03" animation="upcPA3" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA04" animation="upcPA4" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA05" animation="upcPA5" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA06" animation="upcPA6" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA07" animation="upcPA7" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA08" animation="upcPA8" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA09" animation="upcPA9" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPA10" animation="upcPA10" isHidden="true"/>
+
+<!-- Power Armor Duo -->
+
+<position id="UPC - Unisex Pose Collection - upcPAduo01" animation="upcPAduo1" isHidden="true"/>
+<position id="UPC - Unisex Pose Collection - upcPAduo01alt" animation="upcPAduo1alt" isHidden="true"/>

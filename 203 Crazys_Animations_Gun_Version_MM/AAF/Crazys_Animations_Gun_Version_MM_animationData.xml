@@ -1,0 +1,174 @@
+﻿<meta title="Crazy's Animations [Gun Version] - MM Animation Data" version="3.11.17" dataSet="animation"/>
+<defaults source="Crazy_Animations_Gun.esp"/>
+
+<!-- [ M/M ] -->
+<animation id="MM CrazyDDog" frames="519">
+	<actor gender="M">
+		<!-- 16,66666603088379  : 500 -->	
+		<idle form="1739" id="CrazyDDogF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 17,299999237060547 : 519 -->
+		<idle form="1738" id="CrazyDDogM"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyDDogNorm" frames="519">
+	<actor gender="M">
+		<!-- 16.66666603088379  : 500 -->
+		<idle form="4C89" id="CrazyDDogNormF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 17,299999237060547 : 519 -->
+		<idle form="1738" id="CrazyDDogM"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyGPound" frames="500">
+	<actor gender="M">
+		<!-- 16,66666603088379  : 500 -->
+		<idle form="4C8A" id="CrazyGpoundF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 16,233333587646484 : 487 -->
+		<idle form="4C8B" id="CrazyGpoundM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyGPoundRev" frames="500">
+	<actor gender="M">
+		<!-- 16,66666603088379  : 500 -->
+		<idle form="4C8A" id="CrazyGpoundF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 15,800000190734863 : 474 -->
+		<idle form="4C8C" id="CrazyGPoundRevM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyHandjob" frames="84">
+	<actor gender="M">
+		<!-- 2,799999952316284  : 84 -->
+		<idle form="6368" id="CrazyHandjobF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 2,799999952316284  : 84 -->
+		<idle form="6369" id="CrazyHandjobM"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyMission" frames="490">
+	<actor gender="M">
+		<!-- 16,33333396911621  : 490 -->
+		<idle form="4C8D" id="CrazyMissionF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 16.33333396911621  : 490 -->
+		<idle form="4C8E" id="CrazyMissionM"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyRiding" frames="500">
+	<actor gender="M">
+		<!-- 14,133333206176758 : 424 -->
+		<idle form="173F" id="CrazyRidingF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 16,66666603088379 : 500 -->
+		<idle form="1740" id="CrazyRidingM"/>
+		<value path="morph" value="Erection Up" to="0.7"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyStand" frames="450">
+	<actor gender="M">
+		<!-- 1,6666666269302368 : 50 -->
+		<idle form="1741" id="CrazyStandF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 15,0               : 450 -->
+		<idle form="1742" id="CrazyStandM"/>
+	</actor>
+</animation>
+
+<!-- [ M/F FURNITURE - BED ] -->
+<animation id="MM CrazyDDogBed" frames="519">
+	<actor gender="M">
+		<!-- 16,66666603088379  : 500 -->
+		<idle form="4C8F" id="CrazyDDogBedF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 17,299999237060547 : 519 -->
+		<idle form="4C90" id="CrazyDDogBedM"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyDDogBedNorm" offset="0,0,43,0:0,0,43,0" frames="519">
+	<actor gender="M">
+		<!-- 16.66666603088379  : 500 -->
+		<idle form="4C89" id="CrazyDDogNormBedF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 17,299999237060547 : 519 -->
+		<idle form="1738" id="CrazyDDogBedM"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyGPoundBed" frames="500">
+	<actor gender="M">
+		<!-- 16,66666603088379  : 500 -->
+		<idle form="4C92" id="CrazyGPoundBedF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 16,233333587646484 : 487 -->
+		<idle form="4C93" id="CrazyGPoundBedM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyGPoundBedRev" frames="500">
+	<actor gender="M">
+		<!-- 16,233333587646484 : 487 -->
+		<idle form="4C92" id="CrazyGPoundBedF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 15,800000190734863 : 474 -->
+		<idle form="4C94" id="CrazyGPoundRevBedM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyMissionBed" frames="490">
+	<actor gender="M">
+		<!-- 16,33333396911621  : 490 -->
+		<idle form="4C95" id="CrazyMissionBedF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 16.33333396911621  : 490 -->
+		<idle form="4C96" id="CrazyMissionBedM"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+	</actor>
+</animation>
+
+<animation id="MM CrazyRidingBed" frames="500">
+	<actor gender="M">
+		<!-- 14,133333206176758 : 424 -->
+		<idle form="173D" id="CrazyRidingBedF"/>
+	</actor>
+	<actor gender="M">
+		<!-- 16,66666603088379  : 500 -->
+		<idle form="173E" id="CrazyRidingBedM"/>
+		<value path="morph" value="Erection Up" to="0.7"/>
+	</actor>
+</animation>
+
+<!-- [ M SOLO ] -->
+<animation id="CrazyJerkOffM" frames="80">
+	<actor gender="M">
+		<!-- 2,6666667461395264 : 80 -->
+		<idle form="5433" id="CrazyJerkOffM"/>
+	</actor>
+</animation>

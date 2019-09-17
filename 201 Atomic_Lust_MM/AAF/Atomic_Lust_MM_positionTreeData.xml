@@ -1,0 +1,25 @@
+<meta title="Atomic Lust_positionTreeData.xml" version="2.5b" dataSet="positionTree"/>
+<defaults />
+
+<tree id="Atomic MM Spanking">
+	<branch id="Atomic MM Spanking S1" positionID="Atomic MM Spanking S1">
+			<branch id="Atomic MM Spanking S2" positionID="Atomic MM Spanking S2">
+					<branch id="Atomic MM Spanking S3" positionID="Atomic MM Spanking S3">
+						<branch id="Atomic MM Spanking S3 Spank" positionID="Atomic MM Spanking S3 Spank" isFlavor="true"></branch>
+					</branch>
+			</branch>
+	</branch>
+</tree>
+
+
+
+<tree id="Atomic MM Lust">
+	<branch id="Atomic MM Standing" positionID="Atomic MM Standing Idle">
+			<branch id="Atomic MM Holding Hands" positionID="Atomic MM Holding Hands">
+					<branch id="Atomic MM Holding Kissing" positionID="Atomic MM Holding Kissing">
+					</branch>
+					<branch id="Atomic MM Holding Jerking" positionID="Atomic MM Holding Hands to Holding Jerking">
+					</branch>
+			</branch>
+	</branch>
+</tree>

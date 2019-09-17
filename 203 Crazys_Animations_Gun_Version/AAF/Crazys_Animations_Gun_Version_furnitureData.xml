@@ -1,0 +1,28 @@
+<meta title="Crazy's Animations [Gun Version] - Furniture Data" version="3.11.17" dataSet="furniture"/>
+<defaults source="Fallout4.esm"/>
+
+<group id="Single_Bed">
+	<furniture form="1340D3" id="NpcBedMetalLay01"/>
+	<furniture form="1340D4" id="NpcBedMetalLay02"/>
+	<furniture form="AB567" id="NpcBedVaultLay01"/>
+	<furniture form="4329F" id="NpcBedVaultLay02"/>
+	<furniture form="488E6" id="InstituteBedWallMounted01"/>
+	<furniture form="E6952" id="NPCBedInstituteSleep01"/>
+	<furniture form="DB85E" id="NPCBedInstituteSleep02"/>
+	<furniture form="118F4B" id="WorkshopNpcBedVaultLay01"/>
+	<furniture form="18C56F" id="WorkshopNpcBedMetalLay01"/>
+	<furniture form="52390" id="WorkshopNpcBedMetalLay02NoEdit"/>
+	<furniture form="23C9C4" id="WorkshopNpcBedMilitaryCottLay01"/>
+	<furniture form="14EA9F" id="NpcBedMetalLay02Dbl"/>
+	<furniture form="249040" id="WorkshopNpcBedVaultLay01DblNoEdit"/>
+	<furniture form="18C570" id="WorkshopNpcBedWoodLay01"/>
+</group>
+
+<group id="Double_Bed">
+	<furniture form="54835" id="NpcBedPlayerHouseLay01"/>
+	<furniture form="18E7AC" id="WorkshopNpcBedPlayerHouseLay01NoEdit"/>
+	<furniture form="1027A7" id="NpcBedPlayerHouseLay01_NoActivate"/>
+	<furniture form="1340D5" id="NpcBedWoodLay01"/>
+	<furniture form="550D3" id="NPCBedInstituteMountedSleepDbl01"/>
+	<furniture form="18C570" id="WorkshopNpcBedWoodLay01"/>
+</group>

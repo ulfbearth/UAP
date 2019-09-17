@@ -1,0 +1,231 @@
+<meta title="IceStorm's Poses - Animation Data" version="1.1.0" dataSet="animation"/>
+<defaults source="IceStorms Poses.esl"/>
+
+<!-- Dress -->
+
+<animation id="AutD01">
+	<actor>
+		<idle form="00000813"/>
+	</actor>
+</animation>
+<animation id="AutD02">
+	<actor>
+		<idle form="00000814"/>
+	</actor>
+</animation>
+<animation id="AutD03">
+	<actor>
+		<idle form="00000815"/>
+	</actor>
+</animation>
+<animation id="AutD04">
+	<actor>
+		<idle form="00000817"/>
+	</actor>
+</animation>
+<animation id="AutD05">
+	<actor>
+		<idle form="00000816"/>
+	</actor>
+</animation>
+<animation id="AutD06">
+	<actor>
+		<idle form="0000083A"/>
+	</actor>
+</animation>
+<animation id="AutD07">
+	<actor>
+		<idle form="0000083B"/>
+	</actor>
+</animation>
+
+<!-- Generic -->
+
+<animation id="AutP01">
+	<actor>
+		<idle form="00000812"/>
+	</actor>
+</animation>
+<animation id="AutP02">
+	<actor>
+		<idle form="00000818"/>
+	</actor>
+</animation>
+<animation id="AutP03">
+	<actor>
+		<idle form="00000819"/>
+	</actor>
+</animation>
+<animation id="AutP04">
+	<actor>
+		<idle form="0000081A"/>
+	</actor>
+</animation>
+<animation id="AutP05">
+	<actor>
+		<idle form="0000081B"/>
+	</actor>
+</animation>
+<animation id="AutP06">
+	<actor>
+		<idle form="0000081C"/>
+	</actor>
+</animation>
+<animation id="AutP07">
+	<actor>
+		<idle form="0000081D"/>
+	</actor>
+</animation>
+<animation id="AutP08">
+	<actor>
+		<idle form="0000081E"/>
+	</actor>
+</animation>
+<animation id="AutP09">
+	<actor>
+		<idle form="0000081F"/>
+	</actor>
+</animation>
+<animation id="AutP10">
+	<actor>
+		<idle form="00000820"/>
+	</actor>
+</animation>
+<animation id="AutP11">
+	<actor>
+		<idle form="00000821"/>
+	</actor>
+</animation>
+<animation id="AutP12">
+	<actor>
+		<idle form="00000822"/>
+	</actor>
+</animation>
+<animation id="AutP13">
+	<actor>
+		<idle form="0000082C"/>
+	</actor>
+</animation>
+<animation id="AutP14">
+	<actor>
+		<idle form="0000082E"/>
+	</actor>
+</animation>
+<animation id="AutP15">
+	<actor>
+		<idle form="00000831"/>
+	</actor>
+</animation>
+<animation id="AutP16">
+	<actor>
+		<idle form="00000832"/>
+	</actor>
+</animation>
+
+<!-- High Heels -->
+
+<animation id="AutS01">
+	<actor>
+		<idle form="00000803"/>
+	</actor>
+</animation>
+<animation id="AutS02">
+	<actor>
+		<idle form="00000804"/>
+	</actor>
+</animation>
+<animation id="AutS03">
+	<actor>
+		<idle form="00000805"/>
+	</actor>
+</animation>
+<animation id="AutS04">
+	<actor>
+		<idle form="00000806"/>
+	</actor>
+</animation>
+<animation id="AutS05">
+	<actor>
+		<idle form="00000807"/>
+	</actor>
+</animation>
+<animation id="AutS06">
+	<actor>
+		<idle form="00000808"/>
+	</actor>
+</animation>
+<animation id="AutS07">
+	<actor>
+		<idle form="00000809"/>
+	</actor>
+</animation>
+<animation id="AutS08">
+	<actor>
+		<idle form="0000080A"/>
+	</actor>
+</animation>
+<animation id="AutS09">
+	<actor>
+		<idle form="0000080B"/>
+	</actor>
+</animation>
+<animation id="AutS10">
+	<actor>
+		<idle form="0000080C"/>
+	</actor>
+</animation>
+<animation id="AutS11">
+	<actor>
+		<idle form="0000080D"/>
+	</actor>
+</animation>
+<animation id="AutS12">
+	<actor>
+		<idle form="0000080E"/>
+	</actor>
+</animation>
+<animation id="AutS13">
+	<actor>
+		<idle form="00000811"/>
+	</actor>
+</animation>
+<animation id="AutS14">
+	<actor>
+		<idle form="0000080f"/>
+	</actor>
+</animation>
+<animation id="AutS15">
+	<actor>
+		<idle form="00000810"/>
+	</actor>
+</animation>
+<animation id="AutS16">
+	<actor>
+		<idle form="00000829"/>
+	</actor>
+</animation>
+<animation id="AutS17">
+	<actor>
+		<idle form="0000082A"/>
+	</actor>
+</animation>
+<animation id="AutS18">
+	<actor>
+		<idle form="0000082B"/>
+	</actor>
+</animation>
+<animation id="AutS19">
+	<actor>
+		<idle form="0000082D"/>
+	</actor>
+</animation>
+<animation id="AutS20">
+	<actor>
+		<idle form="0000082F"/>
+	</actor>
+</animation>
+<animation id="AutS21">
+	<actor>
+		<idle form="00000833"/>
+	</actor>
+</animation>

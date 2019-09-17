@@ -1,0 +1,88 @@
+<meta title="Mutated Lust - FM Animation Data" version="1.2.0" dataSet="animation"/>
+<defaults source="Mutated Lust.esp"/>
+
+<!-- Supermutant Animations -->
+
+<animation id="Supermutant Blowjob" time="300">
+	<actor gender="F">
+		<idle form="000F9B" id="Supermutant Blowjob F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="000F9C" id="Supermutant Blowjob SM"/>
+		<value path="morph" value="Erection Up" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Supermutant Penis Lick" time="300">
+	<actor gender="F">
+		<idle form="004C70" id="Supermutant Penis Lick F"/>
+		<value path="action" value="addTongue" loop="true" frames="150"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="004C71" id="Supermutant Penis Lick SM"/>
+	</actor>
+</animation>
+
+<animation id="FEV Doggy" time="300">
+	<actor gender="F">
+		<idle form="007A0D" id="FEV Doggy F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="007A0E" id="FEV Doggy SM"/>
+	</actor>
+</animation>
+
+<animation id="FEV Cowgirl" time="300">
+	<actor gender="F">
+		<idle form="0081A9" id="FEV Cowgirl F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0081A8" id="FEV Cowgirl SM"/>
+	</actor>
+</animation>
+
+<!-- Feral Ghoul Animations -->
+
+<animation id="Feral Ghoul Cowgirl" time="300">
+	<actor gender="F">
+		<idle form="000F99" id="Feral Ghoul Cowgirl F"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="000F9A" id="Feral Ghoul Cowgirl FG"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+	</actor>
+</animation>
+
+<!-- Deathclaw Animations -->
+
+<animation id="Deathclaw Fleshlight" time="300">
+	<actor gender="F">
+		<idle form="0035A1" id="Deathclaw Fleshlight F"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="0035A2" id="Deathclaw Fleshlight D"/>
+		<value path="morph" value="Up" to="0.5"/>
+		<value path="morph" value="Scale" to="1"/>
+	</actor>
+</animation>
+
+<animation id="Deathclaw Tease" time="300">
+	<actor gender="F">
+		<idle form="004C6F" id="Deathclaw Tease F"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="004C6E" id="Deathclaw Tease D"/>
+		<value path="morph" value="Scale" to="1"/>
+	</actor>
+</animation>
+
+<animation id="Deathclaw Dumpster Bang" time="300">
+	<actor gender="F">
+		<idle form="00A7AA" id="Deathclaw Dumpster Bang F"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="00A7AB" id="Deathclaw Dumpster Bang D"/>
+		<value path="morph" value="Up" to="1.2"/>
+		<value path="morph" value="Scale" to="1"/>
+	</actor>
+</animation>

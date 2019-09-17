@@ -1,0 +1,19 @@
+<meta title="Mutated Lust - FM Position Data" version="1.2.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<!-- Supermutant Animations -->
+
+<position id="Supermutant Penis Lick" animation="Supermutant Penis Lick"/>
+<position id="Supermutant Blowjob" animation="Supermutant Blowjob"/>
+<position id="FEV Doggy" animation="FEV Doggy" location="FEV Chamber"/>
+<position id="FEV Cowgirl" animation="FEV Cowgirl" location="FEV Chamber"/>
+
+<!-- Feral Ghoul Animations -->
+
+<position id="Feral Ghoul Cowgirl" animation="Feral Ghoul Cowgirl"/>
+
+<!-- Deathclaw Animations -->
+
+<position id="Deathclaw Fleshlight" animation="Deathclaw Fleshlight"/>
+<position id="Deathclaw Tease" animation="Deathclaw Tease"/>
+<position id="Deathclaw Dumpster Bang" animation="Deathclaw Dumpster Bang" location="Dumpster"/>

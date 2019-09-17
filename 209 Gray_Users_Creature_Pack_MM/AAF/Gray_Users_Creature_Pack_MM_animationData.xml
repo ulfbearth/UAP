@@ -1,0 +1,344 @@
+<meta title="Gray User's Creature Pack - M Animation Data" version="2.0.0" dataSet="animation"/>
+<defaults source="AAF_CreaturePack01.esp"/>
+
+<!-- Bloatfly -->
+
+<animation id="M Bloatflystage01" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor>
+		<idle form="01000F99" id="CP_Bloat01_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="01000FB5" id="CP_Bloat01_C"/>
+	</actor>
+</animation>
+
+<animation id="M Bloatflystage02" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor>
+		<idle form="01000F9A" id="CP_Bloat02_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="01000FB6" id="CP_Bloat02_C"/>
+	</actor>
+</animation>
+
+<animation id="M Bloatflystage03" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor>
+		<idle form="01000F9B" id="CP_Bloat03_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="01000FB7" id="CP_Bloat03_C"/>
+	</actor>
+</animation>
+
+<animation id="M Bloatflystage04" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor>
+		<idle form="01000F9C" id="CP_Bloat04_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="01000FB8" id="CP_Bloat04_C"/>
+	</actor>
+</animation>
+
+<!-- Bloodbug -->
+
+<animation id="M Bloodbugstage01" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor>
+		<idle form="01000F9D" id="CP_Blood01_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="01000FB9" id="CP_Blood01_C"/>
+	</actor>
+</animation>
+
+<animation id="M Bloodbugstage02" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor>
+		<idle form="01000F9E" id="CP_Blood02_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="01000FBA" id="CP_Blood02_C"/>
+	</actor>
+</animation>
+
+<animation id="M Bloodbugstage03" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor>
+		<idle form="01000F9F" id="CP_Blood03_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="01000FBB" id="CP_Blood03_C"/>
+	</actor>
+</animation>
+
+<animation id="M Bloodbugstage04" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor>
+		<idle form="01000FA0" id="CP_Blood04_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="01000FBC" id="CP_Blood04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk -->
+
+<animation id="M Mirelurkstage01" frames="300">
+	<actor>
+		<idle form="01000FA1" id="CP_Mire01_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="01000FBD" id="CP_Mire01_C"/>
+	</actor>
+</animation>
+
+<animation id="M Mirelurkstage02" frames="300">
+	<actor>
+		<idle form="01000FA2" id="CP_Mire02_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="01000FBE" id="CP_Mire02_C"/>
+	</actor>
+</animation>
+
+<animation id="M Mirelurkstage03" frames="300">
+	<actor>
+		<idle form="01000FA3" id="CP_Mire03_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="01000FBF" id="CP_Mire03_C"/>
+	</actor>
+</animation>
+
+<animation id="M Mirelurkstage04" frames="300">
+	<actor>
+		<idle form="01000FA4" id="CP_Mire04_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="01000FC0" id="CP_Mire04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk Hunter -->
+
+<animation id="M MirelurkHstage01" frames="300">
+	<actor>
+		<idle form="01000FA5" id="CP_MireH01_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="01000FC1" id="CP_MireH01_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkHstage02" frames="300">
+	<actor>
+		<idle form="01000FA6" id="CP_MireH02_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="01000FC2" id="CP_MireH02_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkHstage03" frames="300">
+	<actor>
+		<idle form="01000FA7" id="CP_MireH03_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="01000FC3" id="CP_MireH03_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkHstage04" frames="300">
+	<actor>
+		<idle form="01000FA8" id="CP_MireH04_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="01000FC4" id="CP_MireH04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk King -->
+
+<animation id="M MirelurkKstage01" frames="300">
+	<actor>
+		<idle form="01001F0F" id="CP_MireK01_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="01001F03" id="CP_MireK01_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkKstage02" frames="300">
+	<actor>
+		<idle form="01001F10" id="CP_MireK02_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="01001F04" id="CP_MireK02_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkKstage03" frames="300">
+	<actor>
+		<idle form="01001F11" id="CP_MireK03_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="01001F05" id="CP_MireK03_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkKstage04" frames="300">
+	<actor>
+		<idle form="01001F12" id="CP_MireK04_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="01001F06" id="CP_MireK04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk Queen -->
+
+<animation id="M MirelurkQstage01" frames="300">
+	<actor>
+		<idle form="01000FA9" id="CP_MireQ01_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="01000FC5" id="CP_MireQ01_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkQstage02" frames="300">
+	<actor>
+		<idle form="01000FAA" id="CP_MireQ02_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="01000FC6" id="CP_MireQ02_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkQstage03" frames="300">
+	<actor>
+		<idle form="01000FAB" id="CP_MireQ03_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="01000FC7" id="CP_MireQ03_C"/>
+	</actor>
+</animation>
+
+<animation id="M MirelurkQstage04" frames="300">
+	<actor>
+		<idle form="01000FAC" id="CP_MireQ04_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="01000FC8" id="CP_MireQ04_C"/>
+	</actor>
+</animation>
+
+<!-- Rad Scorpion -->
+
+<animation id="M Scorpionstage01" frames="300">
+	<actor>
+		<idle form="01000FAD" id="CP_Scorp01_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="01000FC9" id="CP_Scorp01_C"/>
+	</actor>
+</animation>
+
+<animation id="M Scorpionstage02" frames="300">
+	<actor>
+		<idle form="01000FAE" id="CP_Scorp02_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="01000FCA" id="CP_Scorp02_C"/>
+	</actor>
+</animation>
+
+<animation id="M Scorpionstage03" frames="300">
+	<actor>
+		<idle form="01000FAF" id="CP_Scorp03_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="01000FCB" id="CP_Scorp03_C"/>
+	</actor>
+</animation>
+
+<animation id="M Scorpionstage04" frames="300">
+	<actor>
+		<idle form="01000FB0" id="CP_Scorp04_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="01000FCC" id="CP_Scorp04_C"/>
+	</actor>
+</animation>
+
+<!-- Stingwing -->
+
+<animation id="M Stingwingstage01" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor>
+		<idle form="01000FB1" id="CP_Sting01_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="01000FCD" id="CP_Sting01_C"/>
+	</actor>
+</animation>
+
+<animation id="M Stingwingstage02" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor>
+		<idle form="01000FB2" id="CP_Sting02_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="01000FCE" id="CP_Sting02_C"/>
+	</actor>
+</animation>
+
+<animation id="M Stingwingstage03" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor>
+		<idle form="01000FB3" id="CP_Sting03_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="01000FCF" id="CP_Sting03_C"/>
+	</actor>
+</animation>
+
+<animation id="M Stingwingstage04" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor>
+		<idle form="01000FB4" id="CP_Sting04_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="01000FD0" id="CP_Sting04_C"/>
+	</actor>
+</animation>
+
+<!-- Yao-Guai -->
+
+<animation id="M Yaostage01" frames="300">
+	<actor>
+		<idle form="01001F0B" id="CP_Yao01_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="01001F07" id="CP_Yao01_C"/>
+	</actor>
+</animation>
+
+<animation id="M Yaostage02" frames="300">
+	<actor>
+		<idle form="01001F0C" id="CP_Yao02_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="01001F08" id="CP_Yao02_C"/>
+	</actor>
+</animation>
+
+<animation id="M Yaostage03" frames="300">
+	<actor>
+		<idle form="01001F0D" id="CP_Yao03_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="01001F09" id="CP_Yao03_C"/>
+	</actor>
+</animation>
+
+<animation id="M Yaostage04" frames="300">
+	<actor>
+		<idle form="01001F0E" id="CP_Yao04_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="01001F0A" id="CP_Yao04_C"/>
+	</actor>
+</animation>

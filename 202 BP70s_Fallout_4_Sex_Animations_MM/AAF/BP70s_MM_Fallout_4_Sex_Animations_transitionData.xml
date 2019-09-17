@@ -1,0 +1,14 @@
+<meta title="rxl_bp70_transitionData.xml" version="1.0" dataSet="transition"/>
+<defaults />
+
+
+<!-- Impregnation Missionary-->
+
+<transition from="BP70 MM Impregnate Missionary Stage Kiss" to="BP70 MM Impregnate Missionary Stage Grab His Back" animation="rxl_bp70_MM_impregnate_mish_grabbacktrans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Kiss" to="BP70 MM Impregnate Missionary Stage Grab His Ass" animation="rxl_bp70_MM_impregnate_mish_assgrabtrans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Grab His Back" to="BP70 MM Impregnate Missionary Stage Grab His Back 2" animation="rxl_bp70_MM_impregnate_mishgrabback_headdown_trans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Grab His Back 2" to="BP70 MM Impregnate Missionary Stage Grab His Back 3" animation="rxl_bp70_MM_impregnate_mishgrabback_precum_trans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Grab His Back 4" to="BP70 MM Impregnate Missionary Stage Grab His Back 4" animation="rxl_bp70_MM_impregnate_mishgrabback_cum_trans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Grab His Ass" to="BP70 MM Impregnate Missionary Stage Grab His Ass 2" animation="rxl_bp70_MM_impregnate_mishassgrab_headdown_trans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Grab His Ass 2" to="BP70 MM Impregnate Missionary Stage Grab His Ass 3" animation="rxl_bp70_MM_impregnate_mishassgrab_precum_trans"/>
+<transition from="BP70 MM Impregnate Missionary Stage Grab His Ass 3" to="BP70 MM Impregnate Missionary Stage Grab His Ass 4" animation="rxl_bp70_MM_impregnate_mishassgrab_cum_trans"/>

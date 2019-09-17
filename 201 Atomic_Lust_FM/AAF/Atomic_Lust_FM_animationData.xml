@@ -1,0 +1,396 @@
+<meta title="Atomic Lust - FM Animation Data" version="2.5.1-b" dataSet="animation"/>
+<defaults source="Atomic Lust.esp"/>
+
+<!-- Female/Male Animations -->
+
+<animation id="Atomic Cowgirl" frames="400">
+	<actor gender="F">
+		<idle form="0204C91B" id="AtomicCowgirlF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204C91C" id="AtomicCowgirlM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl 2" frames="400">
+	<actor gender="F">
+		<idle form="0204C91D" id="AtomicCowgirl2F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204C91E" id="AtomicCowgirl2M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl 2 Alt 1" frames="400">
+	<actor gender="F">
+		<idle form="0204C91F" id="AtomicCowgirl2Alt1F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204C920" id="AtomicCowgirl2Alt1M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Embrace" frames="400">
+	<actor gender="F">
+		<idle form="020044D7" id="AtomicEmbraceF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="020044D8" id="AtomicEmbraceM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Kissing" frames="360">
+	<actor gender="F">
+		<idle form="0200540D" id="AtomicKissingF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0200540E" id="AtomicKissingM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Spanking S1" frames="300">
+	<actor gender="F">
+		<idle form="0201C0F4" id="Atomic Spanking S1 F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201C0F5" id="Atomic Spanking S1 M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Spanking S1 Tran" frames="96">
+	<actor gender="F">
+		<idle form="0201C88F" id="Atomic Spanking S1 Tran F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201C890" id="Atomic Spanking S1 Tran M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Spanking S2" frames="300">
+	<actor gender="F">
+		<idle form="0201D7C5" id="Atomic Spanking S2 F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201D02B" id="Atomic Spanking S2 M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Spanking S2 Tran" frames="51">
+	<actor gender="F">
+		<idle form="0201DF5F" id="Atomic Spanking S2 Tran F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201DF60" id="Atomic Spanking S2 Tran M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Spanking S3" frames="300">
+	<actor gender="F">
+		<idle form="0201EE93" id="Atomic Spanking S3 F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201EE94" id="Atomic Spanking S3 M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Spanking S3 Spank" frames="80">
+	<actor gender="F">
+		<idle form="0201F62E" id="Atomic Spanking S3 Spank F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201F62F" id="Atomic Spanking S3 Spank M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Threesome Handjob" frames="640">
+	<actor gender="F">
+		<idle form="02005BAE" id="Atomic ThreesomeHJ F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02005BB0" id="Atomic ThreesomeHJ M2"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02005BAF" id="Atomic ThreesomeHJ M1"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Threesome 2" frames="640">
+	<actor gender="F">
+		<idle form="02043FBC" id="AtomicThreesome2FTop"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="F">
+		<idle form="02043FBD" id="AtomicThreesome2FBottom"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02043FBE" id="AtomicThreesome2M"/>
+	</actor>
+</animation>
+
+<animation id="Standing Idle" frames="60">
+	<actor gender="F">
+		<idle form="02043082" id="Standing Idle F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02043083" id="Standing Idle M"/>
+	</actor>
+</animation>
+
+<animation id="Standing Idle to Holding Hands" frames="140">
+	<actor gender="F">
+		<idle form="02043084" id="Standing Idle to Holding Hands F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02043085" id="Standing Idle to Holding Hands M"/>
+	</actor>
+</animation>
+
+<animation id="Holding Hands" frames="60">
+	<actor gender="F">
+		<idle form="0204307A" id="Holding Hands F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204307B" id="Holding Hands M"/>
+	</actor>
+</animation>
+
+<animation id="Holding Hands to Holding Jerking" frames="136">
+	<actor gender="F">
+		<idle form="0204307E" id="Holding Hands to Holding Jerking F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204307F" id="Holding Hands to Holding Jerking M"/>
+	</actor>
+</animation>
+
+<animation id="Holding Hands to Holding Kissing" frames="65">
+	<actor gender="F">
+		<idle form="0204307C" id="Holding Hands to Holding Kissing F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204307D" id="Holding Hands to Holding Kissing M"/>
+	</actor>
+</animation>
+
+<animation id="Holding Kissing" frames="60">
+	<actor gender="F">
+		<idle form="02043080" id="Holding Kissing F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02043081" id="Holding Kissing M"/>
+	</actor>
+</animation>
+
+<!-- Furniture Animations -->
+
+<animation id="Atomic Reversed Cowgirl (Vault Bed)" frames="400">
+	<actor gender="F">
+		<idle form="0204C917" id="AtomicRCowgirlVaultBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204C918" id="AtomicRCowgirlVaultBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Reversed Cowgirl (Vault Bed) Orgasm" frames="400">
+	<actor gender="F">
+		<idle form="0204C919" id="AtomicRCowgirlVaultBedOrgasmF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204C91A" id="AtomicRCowgirlVaultBedOrgasmM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cryo Pod" frames="400">
+	<actor gender="F">
+		<idle form="0200A7BA" id="Atomic Cryo Pod F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0200A7BB" id="Atomic Cryo Pod M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Blowjob (Player House Chair)" frames="400">
+	<actor gender="F">
+		<idle form="02043FBA" id="AtomicBlowjobPHChairF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02043FBB" id="AtomicBlowjobPHChairM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cunnilingus PA" frames="400">
+	<actor gender="F">
+		<idle form="0201A288" id="Atomic Cunnilingus PA F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201A289" id="Atomic Cunnilingus PA M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cunnilingus Alt PA" frames="400">
+	<actor gender="F">
+		<idle form="0201B1BE" id="Atomic Cunnilingus Alt PA F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201B1BF" id="Atomic Cunnilingus Alt PA M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Bed Cuddle" frames="400">
+	<actor gender="F">
+		<idle form="0201B959" id="Atomic Bed Cuddle F"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0201B95A" id="Atomic Bed Cuddle M"/>
+		<value path="morph" value="Erection Down" to="0"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Double Bed)" frames="400">
+	<actor gender="F">
+		<idle form="0203D530" id="AtomicCowgirlDoubleBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0203D531" id="AtomicCowgirlDoubleBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Pre-War Bed)" frames="400">
+	<actor gender="F">
+		<idle form="0203DCD1" id="AtomicCowgirlPre-WarBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0203DCD2" id="AtomicCowgirlPre-WarBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Bunk Bed Top)" frames="400">
+	<actor gender="F">
+		<idle form="0203DCCB" id="AtomicCowgirlBunkBedTopF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0203DCCC" id="AtomicCowgirlBunkBedTopM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Bunk Bed Bottom)" frames="400">
+	<actor gender="F">
+		<idle form="0203DCCD" id="AtomicCowgirlBunkBedBottomF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0203DCCE" id="AtomicCowgirlBunkBedBottomM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Vault Bed)" frames="400">
+	<actor gender="F">
+		<idle form="0203DCCF" id="AtomicCowgirlVaultBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0203DCD0" id="AtomicCowgirlVaultBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Institute Single Bed)" frames="400">
+	<actor gender="F">
+		<idle form="02041207" id="AtomicInsSingleBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02041208" id="AtomicInsSingleBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Institute Double Bed)" frames="400">
+	<actor gender="F">
+		<idle form="02041203" id="AtomicInsDoubleBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02041204" id="AtomicInsDoubleBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Institute Wallmounted Bed)" frames="400">
+	<actor gender="F">
+		<idle form="02041205" id="AtomicInsWallmountBedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="02041206" id="AtomicInsWallmountBedM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Institute Med Bay)" frames="400">
+	<actor gender="F">
+		<idle form="02041209" id="AtomicInsMedBayF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204120A" id="AtomicInsMedBayM"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Cowgirl (Institute Med Bay Inclined)" frames="400">
+	<actor gender="F">
+		<idle form="0204120B" id="AtomicInsMedBayInclinedF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0204120C" id="AtomicInsMedBayInclinedM"/>
+	</actor>
+</animation>
+
+<!-- Solo Male Animations -->
+
+<animation id="Atomic Jerking" frames="400">
+	<actor gender="M">
+		<idle form="020428DC" id="Atomic Jerking M"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Jerking (Orgasm)" frames="400">
+	<actor gender="M">
+		<idle form="020428DD" id="Atomic Jerking (Orgasm) M"/>
+	</actor>
+</animation>
+
+<!-- Solo Female Animations -->
+
+<animation id="Atomic Fingering (Laying)" frames="400">
+	<actor gender="F">
+		<idle form="020428DE" id="Atomic Fingering (Laying) F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Fingering (Sitting)" frames="400">
+	<actor gender="F">
+		<idle form="020428DF" id="Atomic Fingering (Sitting) F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<animation id="Atomic Fingering 2 (Sitting)" frames="400">
+	<actor gender="F">
+		<idle form="020428E0" id="Atomic Fingering 2 (Sitting) F"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>

@@ -1,0 +1,41 @@
+<meta title="ZPoses - Position Data" version="1.0.0" dataSet="position"/>
+<defaults/>
+
+<!-- Position Tree -->
+
+<position id="ZPoses - Menu" positionTree="ZPoses_Menu"/>
+
+<!-- Normal -->
+
+<position id="ZPoses - zp01" animation="zp1" isHidden="true"/>
+<position id="ZPoses - zp02" animation="zp2" isHidden="true"/>
+<position id="ZPoses - zp03" animation="zp3" isHidden="true"/>
+<position id="ZPoses - zp04" animation="zp4" isHidden="true"/>
+<position id="ZPoses - zp05" animation="zp5" isHidden="true"/>
+<position id="ZPoses - zp06" animation="zp6" isHidden="true"/>
+<position id="ZPoses - zp07" animation="zp7" isHidden="true"/>
+<position id="ZPoses - zp08" animation="zp8" isHidden="true"/>
+<position id="ZPoses - zp09" animation="zp9" isHidden="true"/>
+<position id="ZPoses - zp10" animation="zp10" isHidden="true"/>
+<position id="ZPoses - zp11" animation="zp11" isHidden="true"/>
+<position id="ZPoses - zp12" animation="zp12" isHidden="true"/>
+<position id="ZPoses - zp13" animation="zp13" isHidden="true"/>
+<position id="ZPoses - zp14" animation="zp14" isHidden="true"/>
+<position id="ZPoses - zp15" animation="zp15" isHidden="true"/>
+<position id="ZPoses - zp16" animation="zp16" isHidden="true"/>
+<position id="ZPoses - zp17" animation="zp17" isHidden="true"/>
+<position id="ZPoses - zp18" animation="zp18" isHidden="true"/>
+<position id="ZPoses - zp19" animation="zp19" isHidden="true"/>
+<position id="ZPoses - zp20" animation="zp20" isHidden="true"/>
+<position id="ZPoses - zp21" animation="zp21" isHidden="true"/>
+<position id="ZPoses - zp22" animation="zp22" isHidden="true"/>
+<position id="ZPoses - zp23" animation="zp23" isHidden="true"/>
+<position id="ZPoses - zp24" animation="zp24" isHidden="true"/>
+<position id="ZPoses - zp25" animation="zp25" isHidden="true"/>
+<position id="ZPoses - zp26" animation="zp26" isHidden="true"/>
+<position id="ZPoses - zp27" animation="zp27" isHidden="true"/>
+<position id="ZPoses - zp28" animation="zp28" isHidden="true"/>
+<position id="ZPoses - zp29" animation="zp29" isHidden="true"/>
+<position id="ZPoses - zp30" animation="zp30" isHidden="true"/>
+
+<position id="ZPoses - zpt14" animation="zpt14" isHidden="true"/>

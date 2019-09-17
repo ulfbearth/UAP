@@ -1,0 +1,29 @@
+﻿<meta title="Crazy's Animations [Gun Version] - FM Position Data" version="3.11.17" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,70,0"/>
+<animationOffset actor="2" offset="0,0,0"/>
+
+<!-- [ M/F ] -->
+
+<position id="Crazy MM - Doggy (Down)" animation="MM CrazyDDog"/>
+<position id="Crazy MM - Doggy (Normal)" animation="MM CrazyDDogNorm"/>
+<position id="Crazy MM - Ground Pounding" animation="MM CrazyGPound"/>
+<position id="Crazy MM - Ground Pounding (Reverse)" animation="MM CrazyGPoundRev"/>
+<position id="Crazy MM - Hand Job" animation="MM CrazyHandjob"/>
+<position id="Crazy MM - Missionary" animation="MM CrazyMission"/>
+<position id="Crazy MM - Riding" animation="MM CrazyRiding"/>
+<position id="Crazy MM - Standing" animation="MM CrazyStand"/>
+
+<!-- [ M/F FURNITURE - BED ] -->
+
+<position id="Crazy MM - Doggy (Bed, Down)" animation="MM CrazyDDogBed" location="Single_Bed,Double_Bed"/>
+<position id="Crazy MM - Doggy (Bed, Normal)" animation="MM CrazyDDogBedNorm" location="Single_Bed,Double_Bed"/>
+<position id="Crazy MM - Ground Pounding (Bed)" animation="MM CrazyGPoundBed" location="Single_Bed,Double_Bed"/>
+<position id="Crazy MM - Ground Pounding (Bed, Reverse)" animation="MM CrazyGPoundBedRev" location="Single_Bed,Double_Bed"/>
+<position id="Crazy MM - Missionary (Bed)" animation="MM CrazyMissionBed" location="Single_Bed,Double_Bed"/>
+<position id="Crazy MM - Riding (Bed)" animation="MM CrazyRidingBed" location="Single_Bed,Double_Bed"/>
+
+<!-- [ M SOLO ] -->
+
+<position id="Crazy - Masturbation Jerking Off" animation="CrazyJerkOffM" />

@@ -1,0 +1,336 @@
+﻿<meta title="Gray User's Bad End Animation Pack - Animation Data" version="1.0.3" dataSet="animation"/>
+<defaults source="AAF_BadEnd_Animations.esp"/>
+
+<animation id="NooseHighFree00" frames="300">
+	<actor>
+		<idle form="001eeb" id="_BP_NooseHighFree00"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighFree01" frames="300">
+	<actor>
+		<idle form="001eec" id="_BP_NooseHighFree01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighFree02" frames="300">
+	<actor>
+		<idle form="001eed" id="_BP_NooseHighFree02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighFreeEnd01" frames="300">
+	<actor>
+		<idle form="001eee" id="_BP_NooseHighFreeEnd01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighFreeEnd02" frames="300">
+	<actor>
+		<idle form="001eef" id="_BP_NooseHighFreeEnd02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighTied00" frames="300">
+	<actor>
+		<idle form="001ef0" id="_BP_NooseHighTied00"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighTied01" frames="300">
+	<actor>
+		<idle form="001ef1" id="_BP_NooseHighTied01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighTied02" frames="300">
+	<actor>
+		<idle form="001ef2" id="_BP_NooseHighTied02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighTiedEnd01" frames="300">
+	<actor>
+		<idle form="001ef3" id="_BP_NooseHighTiedEnd01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="NooseHighTiedEnd02" frames="300">
+	<actor>
+		<idle form="00b0c8" id="_BP_NooseHighTiedEnd02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="PoleLow00" frames="300">
+	<actor>
+		<idle form="001ef4" id="_BP_PoleLow00"/>
+	</actor>
+</animation>
+
+<animation id="PoleLow01" frames="300">
+	<actor>
+		<idle form="001ef5" id="_BP_PoleLow01"/>
+	</actor>
+</animation>
+
+<animation id="PoleLow02" frames="300">
+	<actor>
+		<idle form="001ef6" id="_BP_PoleLow02"/>
+	</actor>
+</animation>
+
+<animation id="PoleLowEnd00" frames="240">
+	<actor>
+		<idle form="00b0c9" id="_BP_PoleLowEnd00"/>
+	</actor>
+</animation>
+
+<animation id="PoleLowEnd01" frames="300">
+	<actor>
+		<idle form="00b0ca" id="_BP_PoleLowEnd01"/>
+	</actor>
+</animation>
+
+<animation id="PoleLowEnd02" frames="300">
+	<actor>
+		<idle form="00b0cb" id="_BP_PoleLowEnd02"/>
+	</actor>
+</animation>
+
+<animation id="PoleTransition01" frames="240">
+	<actor>
+		<idle form="001efa" id="_BP_PoleTransition01"/>
+	</actor>
+</animation>
+
+<animation id="PoleHigh00" frames="300">
+	<actor>
+		<idle form="001ef7" id="_BP_PoleHigh00"/>
+	</actor>
+</animation>
+
+<animation id="PoleHigh01" frames="300">
+	<actor>
+		<idle form="001ef8" id="_BP_PoleHigh01"/>
+	</actor>
+</animation>
+
+<animation id="PoleHigh02" frames="300">
+	<actor>
+		<idle form="001ef9" id="_BP_PoleHigh02"/>
+	</actor>
+</animation>
+
+<animation id="GPoleFree00" frames="300">
+	<actor>
+		<idle form="004dbf" id="_BP_GPoleFree00"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleFree01" frames="300">
+	<actor>
+		<idle form="004dc0" id="_BP_GPoleFree01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleFree02" frames="300">
+	<actor>
+		<idle form="004dc1" id="_BP_GPoleFree02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleFree03" frames="300">
+	<actor>
+		<idle form="004dc2" id="_BP_GPoleFree03"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleFreeEnd01" frames="300">
+	<actor>
+		<idle form="004dc3" id="_BP_GPoleFreeEnd01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleFreeEnd02" frames="300">
+	<actor>
+		<idle form="004dc4" id="_BP_GPoleFreeEnd02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleTied00" frames="300">
+	<actor>
+		<idle form="004dc5" id="_BP_GPoleTied00"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleTied01" frames="300">
+	<actor>
+		<idle form="004dc6" id="_BP_GPoleTied01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleTied02" frames="300">
+	<actor>
+		<idle form="004dc7" id="_BP_GPoleTied02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleTied03" frames="300">
+	<actor>
+		<idle form="004dc8" id="_BP_GPoleTied03"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleTiedEnd01" frames="300">
+	<actor>
+		<idle form="004dc9" id="_BP_GPoleTiedEnd01"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="GPoleTiedEnd02" frames="300">
+	<actor>
+		<idle form="004dca" id="_BP_GPoleTiedEnd02"/>
+		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChair00" frames="300">
+	<actor>
+		<idle form="004dcb" id="_BP_Chair00"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChair01" frames="300">
+	<actor>
+		<idle form="004dcc" id="_BP_Chair01"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChair02" frames="300">
+	<actor>
+		<idle form="004dcd" id="_BP_Chair02"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChair03" frames="300">
+	<actor>
+		<idle form="004dce" id="_BP_Chair03"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChairEnd00" frames="300">
+	<actor>
+		<idle form="008ab6" id="_BP_ChairTransition01"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChairEnd01" frames="300">
+	<actor>
+		<idle form="004dcf" id="_BP_ChairEnd01"/>
+	</actor>
+</animation>
+
+<animation id="InstituteChairEnd02" frames="300">
+	<actor>
+		<idle form="004dd0" id="_BP_ChairEnd02"/>
+	</actor>
+</animation>
+
+<animation id="MachineChair00" frames="300">
+	<actor>
+		<idle form="004dcb" id="_BP_Chair00"/>
+	</actor>
+</animation>
+
+<animation id="MachineChair01" frames="300">
+	<actor>
+		<idle form="004dcc" id="_BP_Chair01"/>
+	</actor>
+</animation>
+
+<animation id="MachineChair02" frames="300">
+	<actor>
+		<idle form="004dcd" id="_BP_Chair02"/>
+	</actor>
+</animation>
+
+<animation id="MachineChair03" frames="300">
+	<actor>
+		<idle form="004dce" id="_BP_Chair03"/>
+	</actor>
+</animation>
+
+<animation id="MachineChairEnd00" frames="300">
+	<actor>
+		<idle form="008ab6" id="_BP_ChairTransition01"/>
+	</actor>
+</animation>
+
+<animation id="MachineChairEnd01" frames="300">
+	<actor>
+		<idle form="004dcf" id="_BP_ChairEnd01"/>
+	</actor>
+</animation>
+
+<animation id="MachineChairEnd02" frames="300">
+	<actor>
+		<idle form="004dd0" id="_BP_ChairEnd02"/>
+	</actor>
+</animation>
+
+<animation id="Test00" frames="300">
+	<actor>
+		<idle form="0036e2" id="_BP_Test00"/>
+	</actor>
+</animation>
+
+<animation id="Test01" frames="300">
+	<actor>
+		<idle form="0036e3" id="_BP_Test01"/>
+	</actor>
+</animation>
+
+<animation id="Test02" frames="300">
+	<actor>
+		<idle form="0036e4" id="_BP_Test02"/>
+	</actor>
+</animation>
+
+<animation id="Test03" frames="300">
+	<actor>
+		<idle form="0036e5" id="_BP_Test03"/>
+	</actor>
+</animation>
+
+<animation id="Test04" frames="300">
+	<actor>
+		<idle form="0036e6" id="_BP_Test04"/>
+	</actor>
+</animation>
+
+<animation id="Test05" frames="300">
+	<actor>
+		<idle form="0036e7" id="_BP_Test05"/>
+	</actor>
+</animation>

@@ -1,0 +1,1731 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+  <moduleName position="Left" colour="000000">Ultimate AAF Patch</moduleName>
+  <moduleImage path="FOMod\images\AAF.jpg" showImage="true" showFade="true" height="-1"/>
+  <installSteps order="Explicit">
+    <installStep name="Welcome">
+      <optionalFileGroups order="Explicit">
+        <group name="Male Body" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="BodyTalk V2">
+              <description/>
+              <conditionFlags>
+                <flag name="Body">BT2</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Enhanced Vanilla Bodies">
+              <description/>
+              <conditionFlags>
+                <flag name="Body">EVB</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Vanilla">
+              <description/>
+              <conditionFlags>
+                <flag name="Body">FO4</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+        <group name="Character Sex" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="Female">
+              <description>Select this if your Fallout 4 Character has a Vagina.</description>
+              <conditionFlags>
+                <flag name="Character">F</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Male">
+              <description>Select this if your Fallout 4 Character has a Penis.</description>
+              <conditionFlags>
+                <flag name="Character">M</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+        <group name="Combinations" type="SelectAtLeastOne">
+          <plugins order="Explicit">
+            <plugin name="Gay">
+              <description/>
+              <conditionFlags>
+                <flag name="MM">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Lesbian">
+              <description/>
+              <conditionFlags>
+                <flag name="FF">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Straight">
+              <description/>
+              <conditionFlags>
+                <flag name="FM">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
+  </installSteps>
+  <conditionalFileInstalls>
+    <patterns>
+      <!-- BodyTalk V2 -->
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Body" value="BT2"/>
+        </dependencies>
+        <files>
+          <folder source="001 BodyTalk_V2" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Enhanced Vanilla Bodies -->
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Body" value="EVB"/>
+        </dependencies>
+        <files>
+          <folder source="002 Enhanced_Vanilla_Bodies" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Vanilla Bodies -->
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Body" value="FO4"/>
+        </dependencies>
+        <files>
+          <folder source="003 Vanilla_Bodies" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Vioxsis' Strap-On's of Fallout 4 -->
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="FF" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="004 Vioxsis_Strap-Ons_of_Fallout_4" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Creature Patch -->
+      <pattern>
+        <dependencies operator="Or">
+          <dependencies operator="Or">
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Mutated Lust.esp" state="Active"/>
+            <fileDependency file="Mutated Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="005 Creature_Patch" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Super Mutant Skeleton -->
+      <pattern>
+        <dependencies operator="Or">
+          <dependencies operator="Or">
+            <fileDependency file="Farelle_Animations.esp" state="Active"/>
+            <fileDependency file="Farelle_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Mutated Lust.esp" state="Active"/>
+            <fileDependency file="Mutated Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="006 Super_Mutant_Skeleton" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Dave's Poses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="DavesPoses.esp" state="Active"/>
+          <fileDependency file="DavesPoses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="100 Daves_Poses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Just a Pose Mod -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="justaposemod.esp" state="Active"/>
+          <fileDependency file="justaposemod.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="101 Just_a_Pose_Mod" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Just a Lesbian Pose Mod -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="lesbian animations.esp" state="Active"/>
+          <fileDependency file="lesbian animations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="101 Just_a_Lesbian_Pose_Mod" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Real Animated Poses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="RohZima_RealAnimatedPoses.esp" state="Active"/>
+          <fileDependency file="RohZima_RealAnimatedPoses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="102 Real_Animated_Poses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- ShinoPoses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Shino Poses.esp" state="Active"/>
+          <fileDependency file="Shino Poses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="103 ShinoPoses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Slave and Model Poses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Slave&amp;ModelPinup.esp" state="Active"/>
+          <fileDependency file="Slave&amp;ModelPinup.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="104 Slave_and_Model_Poses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Sun's Poses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Sun's Poses.esp" state="Active"/>
+          <fileDependency file="Sun's Poses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="105 Suns_Poses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Thrax's Action Poses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="ThraxActionPoses.esp" state="Active"/>
+          <fileDependency file="ThraxActionPoses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="106 Thraxs_Action_Poses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- UPC Unisex Pose Collection -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="upc.esp" state="Active"/>
+          <fileDependency file="upc.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="107 UPC_Unisex_Pose_Collection" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- IceStorm's Poses ESL -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="IceStorms Poses.esl" state="Active"/>
+          <fileDependency file="IceStorms Poses.esl" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="108 IceStorms_Poses_ESL" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- IceStorm's Poses ESP -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="IceStorms Poses.esp" state="Active"/>
+          <fileDependency file="IceStorms Poses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="108 IceStorms_Poses_ESP" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Stop. Drop Pose -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="StopDropPose.esp" state="Active"/>
+          <fileDependency file="StopDropPose.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="109 Stop_Drop_Pose" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- ZPoses -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="ZPoses.esp" state="Active"/>
+          <fileDependency file="ZPoses.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="110 ZPoses" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- 50 Shades of Fallout 4 -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
+          <fileDependency file="AAF_GrayAnimations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="200 50_Shades_of_Fallout_4" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
+            <fileDependency file="AAF_GrayAnimations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="200 50_Shades_of_Fallout_4_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
+            <fileDependency file="AAF_GrayAnimations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="200 50_Shades_of_Fallout_4_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
+            <fileDependency file="AAF_GrayAnimations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="200 50_Shades_of_Fallout_4_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Atomic Lust -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCworkshop03.esm" state="Active"/>
+            <fileDependency file="DLCworkshop03.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\DLCworkshop03" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="ArmorKeywords.esm" state="Active"/>
+            <fileDependency file="ArmorKeywords.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\AWKCR" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="ArmorKeywords.esm" state="Active"/>
+            <fileDependency file="ArmorKeywords.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\AWKCR_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="ArmorKeywords.esm" state="Active"/>
+            <fileDependency file="ArmorKeywords.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\AWKCR_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="ArmorKeywords.esm" state="Active"/>
+            <fileDependency file="ArmorKeywords.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\AWKCR_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Homemaker.esm" state="Active"/>
+            <fileDependency file="Homemaker.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\Homemaker" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="SettleObjExpandPack.esp" state="Active"/>
+            <fileDependency file="SettleObjExpandPack.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\Settlement_Objects_Expansion_Pack" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="SSEX.esp" state="Active"/>
+            <fileDependency file="SSEX.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\Settlement_Supplies_Expanded" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="LadyKillerBed.esp" state="Active"/>
+            <fileDependency file="LadyKillerBed.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\Lady_Killer_Bed" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="MYLadyKillerBed.esp" state="Active"/>
+            <fileDependency file="MYLadyKillerBed.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_Options\My_Lady_Killer_Bed" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Atomic Lust.esp" state="Active"/>
+            <fileDependency file="Atomic Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="201 Atomic_Lust_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- BP70's Fallout 4 Sex Animations -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+          <fileDependency file="rxl_bp70_animations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="202 BP70s_Fallout_4_Sex_Animations" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+            <fileDependency file="rxl_bp70_animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="202 BP70s_Fallout_4_Sex_Animations_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+            <fileDependency file="rxl_bp70_animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="202 BP70s_Fallout_4_Sex_Animations_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+            <fileDependency file="rxl_bp70_animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="202 BP70s_Fallout_4_Sex_Animations_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Crazy's Animations [Gun Version] -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
+          <fileDependency file="Crazy_Animations_Gun.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="203 Crazys_Animations_Gun_Version" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
+            <fileDependency file="Crazy_Animations_Gun.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="203 Crazys_Animations_Gun_Version_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
+            <fileDependency file="Crazy_Animations_Gun.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="203 Crazys_Animations_Gun_Version_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
+            <fileDependency file="Crazy_Animations_Gun.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="203 Crazys_Animations_Gun_Version_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Farelle's Animations -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Farelle_Animations.esp" state="Active"/>
+          <fileDependency file="Farelle_Animations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="204 Farelles_Animations" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Farelle_Animations.esp" state="Active"/>
+            <fileDependency file="Farelle_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="204 Farelles_Animations_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Farelle_Animations.esp" state="Active"/>
+            <fileDependency file="Farelle_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="204 Farelles_Animations_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Farelle_Animations.esp" state="Active"/>
+            <fileDependency file="Farelle_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="204 Farelles_Animations_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- FO4 Animations by Leito -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+          <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="205 FO4_Animations_by_Leito" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="205 FO4_Animations_by_Leito_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="205 FO4_Animations_by_Leito_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+            <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="205 FO4_Animations_by_Leito_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Four-Play Animations by Crazy -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
+          <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="206 Four-Play_Animations_by_Crazy" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="206 Four-Play_Animations_by_Crazy_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="206 Four-Play_Animations_by_Crazy_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
+            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="206 Four-Play_Animations_by_Crazy_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Gray User's Bad End Animation Pack -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="AAF_BadEnd_Animations.esp" state="Active"/>
+          <fileDependency file="AAF_BadEnd_Animations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="207 Gray_Users_Bad_End_Animation_Pack" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_BadEnd_Animations.esp" state="Active"/>
+            <fileDependency file="AAF_BadEnd_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="207 Gray_Users_Bad_End_Animation_Pack_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_BadEnd_Animations.esp" state="Active"/>
+            <fileDependency file="AAF_BadEnd_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="207 Gray_Users_Bad_End_Animation_Pack_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_BadEnd_Animations.esp" state="Active"/>
+            <fileDependency file="AAF_BadEnd_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="207 Gray_Users_Bad_End_Animation_Pack_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Gray User's Bondage Animations -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="GrayUserBPAnimations.esp" state="Active"/>
+          <fileDependency file="GrayUserBPAnimations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="208 Gray_Users_Bondage_Animations" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="GrayUserBPAnimations.esp" state="Active"/>
+            <fileDependency file="GrayUserBPAnimations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="208 Gray_Users_Bondage_Animations_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="GrayUserBPAnimations.esp" state="Active"/>
+            <fileDependency file="GrayUserBPAnimations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="208 Gray_Users_Bondage_Animations_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="GrayUserBPAnimations.esp" state="Active"/>
+            <fileDependency file="GrayUserBPAnimations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="208 Gray_Users_Bondage_Animations_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Gray User's Creature Pack -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="AAF_CreaturePack01.esp" state="Active"/>
+          <fileDependency file="AAF_CreaturePack01.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="209 Gray_Users_Creature_Pack" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_CreaturePack01.esp" state="Active"/>
+            <fileDependency file="AAF_CreaturePack01.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="209 Gray_Users_Creature_Pack_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_CreaturePack01.esp" state="Active"/>
+            <fileDependency file="AAF_CreaturePack01.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="209 Gray_Users_Creature_Pack_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="AAF_CreaturePack01.esp" state="Active"/>
+            <fileDependency file="AAF_CreaturePack01.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="209 Gray_Users_Creature_Pack_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Mutated Lust -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Mutated Lust.esp" state="Active"/>
+          <fileDependency file="Mutated Lust.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="210 Mutated_Lust" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Mutated Lust.esp" state="Active"/>
+            <fileDependency file="Mutated Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="210 Mutated_Lust_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Mutated Lust.esp" state="Active"/>
+            <fileDependency file="Mutated Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="210 Mutated_Lust_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Mutated Lust.esp" state="Active"/>
+            <fileDependency file="Mutated Lust.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="210 Mutated_Lust_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- SavageCabbage's Animation Pack -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+          <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCCoast.esm" state="Active"/>
+            <fileDependency file="DLCCoast.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCCoast" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCNukaWorld.esm" state="Active"/>
+            <fileDependency file="DLCNukaWorld.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCNukaWorld" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCNukaWorld.esm" state="Active"/>
+            <fileDependency file="DLCNukaWorld.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCNukaWorld_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCNukaWorld.esm" state="Active"/>
+            <fileDependency file="DLCNukaWorld.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCNukaWorld_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCNukaWorld.esm" state="Active"/>
+            <fileDependency file="DLCNukaWorld.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCNukaWorld_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCworkshop02.esm" state="Active"/>
+            <fileDependency file="DLCworkshop02.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCworkshop02" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCworkshop02.esm" state="Active"/>
+            <fileDependency file="DLCworkshop02.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCworkshop02_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCworkshop02.esm" state="Active"/>
+            <fileDependency file="DLCworkshop02.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCworkshop02_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="DLCworkshop02.esm" state="Active"/>
+            <fileDependency file="DLCworkshop02.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\DLCworkshop02_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
+            <fileDependency file="cczsef04001-bhouse.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Charlestown_Condo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
+            <fileDependency file="cczsef04001-bhouse.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Charlestown_Condo_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
+            <fileDependency file="cczsef04001-bhouse.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Charlestown_Condo_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
+            <fileDependency file="cczsef04001-bhouse.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Charlestown_Condo_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Homemaker.esm" state="Active"/>
+            <fileDependency file="Homemaker.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Homemaker" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
+            <fileDependency file="cctosfo4001-neosky.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Noir_Penthouse" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
+            <fileDependency file="cctosfo4001-neosky.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Noir_Penthouse_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
+            <fileDependency file="cctosfo4001-neosky.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Noir_Penthouse_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
+            <fileDependency file="cctosfo4001-neosky.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Noir_Penthouse_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
+            <fileDependency file="cceejfo4002-nuka.esl" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Nuka_Collector" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
+            <fileDependency file="cceejfo4002-nuka.esl" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Nuka_Collector_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
+            <fileDependency file="cceejfo4002-nuka.esl" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Nuka_Collector_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
+            <fileDependency file="cceejfo4002-nuka.esl" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Nuka_Collector_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Prisoner Shackles.esp" state="Active"/>
+            <fileDependency file="Prisoner Shackles.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Prisoner_Shackles" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Prisoner Shackles.esp" state="Active"/>
+            <fileDependency file="Prisoner Shackles.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Prisoner_Shackles_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Prisoner Shackles.esp" state="Active"/>
+            <fileDependency file="Prisoner Shackles.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Prisoner_Shackles_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="Prisoner Shackles.esp" state="Active"/>
+            <fileDependency file="Prisoner Shackles.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Prisoner_Shackles_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="SSEX.esp" state="Active"/>
+            <fileDependency file="SSEX.esp" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\Settlement_Supplies_Expanded" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="TortureDevices.esm" state="Active"/>
+            <fileDependency file="TortureDevices.esm" state="Inactive"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\TortureDevices" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="TortureDevices.esm" state="Active"/>
+            <fileDependency file="TortureDevices.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\TortureDevices_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="TortureDevices.esm" state="Active"/>
+            <fileDependency file="TortureDevices.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\TortureDevices_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="Or">
+            <fileDependency file="TortureDevices.esm" state="Active"/>
+            <fileDependency file="TortureDevices.esm" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_Options\TortureDevices_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="211 SavageCabbages_Animation_Pack_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Vadermania -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
+          <fileDependency file="Vadermania[AAF_anims].esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="212 Vadermania" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="212 Vadermania_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="212 Vadermania_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
+            <fileDependency file="Vadermania[AAF_anims].esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="212 Vadermania_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- ZaZOut4 -->
+      <pattern>
+        <dependencies operator="Or">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <fileDependency file="ZaZOut4.esp" state="Inactive"/>
+        </dependencies>
+        <files>
+          <folder source="213 ZaZOut4" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="ZaZOut4.esp" state="Active"/>
+            <fileDependency file="ZaZOut4.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="213 ZaZOut4_FM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="ZaZOut4.esp" state="Active"/>
+            <fileDependency file="ZaZOut4.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="FF" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="213 ZaZOut4_FF" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <dependencies operator="Or">
+            <fileDependency file="ZaZOut4.esp" state="Active"/>
+            <fileDependency file="ZaZOut4.esp" state="Inactive"/>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="MM" value="true"/>
+          </dependencies>
+        </dependencies>
+        <files>
+          <folder source="213 ZaZOut4_MM" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+    </patterns>
+  </conditionalFileInstalls>
+</config>

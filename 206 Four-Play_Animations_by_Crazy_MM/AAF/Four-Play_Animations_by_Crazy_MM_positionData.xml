@@ -1,0 +1,25 @@
+﻿<meta title="Four-Play Animations by Crazy - Position Data" version="1.3.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,70,0"/>
+<animationOffset actor="2" offset="0,0,0"/>
+<animationOffset actor="3" offset="0,-70,0"/>
+
+<!-- [ M/M ] -->
+<position id="Crazy MM - Wheelbarrow" animation="MM CrazyWheelbarrow"/>
+<position id="Crazy MM - Standing Chokehold Aggressive" animation="MM CrazyStandingChokehold_Aggressive"/>
+<position id="Crazy MM - Laying Gorilla" animation="MM Crazy_LayingGorilla"/>
+<position id="Crazy MM - Laying Blow Job" animation="MM Crazy_LayingBJ"/>
+<position id="Crazy MM - Layed Back Fuck" animation="MM Crazy_LayedBackFuck"/>
+<position id="Crazy MM - Kneeling 69" animation="MM Crazy_Kneeling69"/>
+<position id="Crazy MM - Handstand Blow Job" animation="MM Crazy_HandstandBJ"/>
+<position id="Crazy MM - Choking Jack Off Aggressive" animation="MM Crazy_ChokingJackOff_Aggressive"/>
+
+<!-- [ M/M/M ] -->
+<position id="Crazy MM - Threesome Spit roast" animation="MM Crazy_3Spitroast"/>
+<position id="Crazy MM - Threesome DP" animation="MM Crazy_3DP"/>
+
+<!-- [ D/M ] DOGS ANIMATION -->
+<position id="Crazy MD - Dog Handjob" animation="MM Crazy_DogHandjob"/>
+<position id="Crazy MD - Dogmeat Style" animation="MM Crazy_DogmeatStyle"/>
+<position id="Crazy MD - Dogmeat Style Faster" animation="MM Crazy_DogmeatStyleFaster"/>

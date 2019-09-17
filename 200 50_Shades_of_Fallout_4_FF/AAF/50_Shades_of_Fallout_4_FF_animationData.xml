@@ -1,0 +1,430 @@
+<meta title="50 Shades of Fallout 4 - FF Animation Data" version="1.0.5" dataSet="animation"/>
+<defaults source="AAF_GrayAnimations.esp"/>
+
+<!-- Doggy 01 Animations -->
+
+<animation id="Gray_Doggy_FF_01_S1" frames="300">
+	<actor gender="F">
+		<idle form="0000267F" id="GrayDoggy01S01F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002680" id="GrayDoggy01S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_Doggy_FF_01_S2" frames="300">
+	<actor gender="F">
+		<idle form="00002681" id="GrayDoggy01S02F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002682" id="GrayDoggy01S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_Doggy_FF_01_S3" frames="300">
+	<actor gender="F">
+		<idle form="00002683" id="GrayDoggy01S03F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002684" id="GrayDoggy01S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_Doggy_FF_01_S4" frames="300">
+	<actor gender="F">
+		<idle form="00002685" id="GrayDoggy01S04F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002686" id="GrayDoggy01S04M"/>
+	</actor>
+</animation>
+
+<!-- Doggy 01 Gagged Animations -->
+
+<animation id="Gray_DoggyGag_FF_01_S1" frames="300">
+	<actor gender="F">
+		<idle form="00005441" id="GrayDoggy01S01FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002680" id="GrayDoggy01S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_DoggyGag_FF_01_S2" frames="300">
+	<actor gender="F">
+		<idle form="00005442" id="GrayDoggy01S02FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002682" id="GrayDoggy01S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_DoggyGag_FF_01_S3" frames="300">
+	<actor gender="F">
+		<idle form="00005443" id="GrayDoggy01S03FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002684" id="GrayDoggy01S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_DoggyGag_FF_01_S4" frames="300">
+	<actor gender="F">
+		<idle form="00005444" id="GrayDoggy01S04FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002686" id="GrayDoggy01S04M"/>
+	</actor>
+</animation>
+
+<!-- Doggy 02 Animations -->
+
+<animation id="Gray_Doggy_FF_02_S1" frames="300">
+	<actor gender="F">
+		<idle form="00002687" id="GrayDoggy02S01F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002688" id="GrayDoggy02S01M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+<animation id="Gray_Doggy_FF_02_S2" frames="300">
+	<actor gender="F">
+		<idle form="00002689" id="GrayDoggy02S02F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000268A" id="GrayDoggy02S02M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+<animation id="Gray_Doggy_FF_02_S3" frames="300">
+	<actor gender="F">
+		<idle form="0000268B" id="GrayDoggy02S03F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000268C" id="GrayDoggy02S03M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+<animation id="Gray_Doggy_FF_02_S4" frames="300">
+	<actor gender="F">
+		<idle form="0000268D" id="GrayDoggy02S04F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000268E" id="GrayDoggy02S04M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+
+<!-- Doggy 02 Gagged Animations -->
+
+<animation id="Gray_DoggyGag_FF_02_S1" frames="300">
+	<actor gender="F">
+		<idle form="00004CA1" id="GrayDoggy02S01FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002688" id="GrayDoggy02S01M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+<animation id="Gray_DoggyGag_FF_02_S2" frames="300">
+	<actor gender="F">
+		<idle form="00004CA2" id="GrayDoggy02S02FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000268A" id="GrayDoggy02S02M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+<animation id="Gray_DoggyGag_FF_02_S3" frames="300">
+	<actor gender="F">
+		<idle form="00004CA3" id="GrayDoggy02S03FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000268C" id="GrayDoggy02S03M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+<animation id="Gray_DoggyGag_FF_02_S4" frames="300">
+	<actor gender="F">
+		<idle form="00004CA4" id="GrayDoggy02S04FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000268E" id="GrayDoggy02S04M"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+
+<!-- Missionary 01 Animations -->
+
+<animation id="Gray_Missionary_FF_01_S1" frames="300">
+	<actor gender="F">
+		<idle form="0000266F" id="GrayMissionary01S01F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002670" id="GrayMissionary01S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_Missionary_FF_01_S2" frames="300">
+	<actor gender="F">
+		<idle form="00002671" id="GrayMissionary01S02F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002672" id="GrayMissionary01S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_Missionary_FF_01_S3" frames="300">
+	<actor gender="F">
+		<idle form="00002673" id="GrayMissionary01S03F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002674" id="GrayMissionary01S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_Missionary_FF_01_S4" frames="300">
+	<actor gender="F">
+		<idle form="00002675" id="GrayMissionary01S04F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002676" id="GrayMissionary01S04M"/>
+	</actor>
+</animation>
+
+<!-- Missionary 01 Gagged Animations -->
+
+<animation id="Gray_MissionaryGag_FF_01_S1" frames="300">
+	<actor gender="F">
+		<idle form="00005445" id="GrayMissionary01S01FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002670" id="GrayMissionary01S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_MissionaryGag_FF_01_S2" frames="300">
+	<actor gender="F">
+		<idle form="00005446" id="GrayMissionary01S02FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002672" id="GrayMissionary01S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_MissionaryGag_FF_01_S3" frames="300">
+	<actor gender="F">
+		<idle form="00005447" id="GrayMissionary01S03FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002674" id="GrayMissionary01S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_MissionaryGag_FF_01_S4" frames="300">
+	<actor gender="F">
+		<idle form="00005448" id="GrayMissionary01S04FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002676" id="GrayMissionary01S04M"/>
+	</actor>
+</animation>
+
+<!-- Missionary 02 Animations -->
+
+<animation id="Gray_Missionary_FF_02_S1" frames="300">
+	<actor gender="F">
+		<idle form="00002677" id="GrayMissionary02S01F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002678" id="GrayMissionary02S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_Missionary_FF_02_S2" frames="300">
+	<actor gender="F">
+		<idle form="00002679" id="GrayMissionary02S02F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000267A" id="GrayMissionary02S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_Missionary_FF_02_S3" frames="300">
+	<actor gender="F">
+		<idle form="0000267B" id="GrayMissionary02S03F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000267C" id="GrayMissionary02S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_Missionary_FF_02_S4" frames="300">
+	<actor gender="F">
+		<idle form="0000267D" id="GrayMissionary02S04F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000267E" id="GrayMissionary02S04M"/>
+	</actor>
+</animation>
+
+<!-- Missionary 02 Gagged Animations -->
+
+<animation id="Gray_MissionaryGag_FF_02_S1" frames="300">
+	<actor gender="F">
+		<idle form="00005449" id="GrayMissionary02S01FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002678" id="GrayMissionary02S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_MissionaryGag_FF_02_S2" frames="300">
+	<actor gender="F">
+		<idle form="0000544A" id="GrayMissionary02S02FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000267A" id="GrayMissionary02S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_MissionaryGag_FF_02_S3" frames="300">
+	<actor gender="F">
+		<idle form="0000544B" id="GrayMissionary02S03FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000267C" id="GrayMissionary02S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_MissionaryGag_FF_02_S4" frames="300">
+	<actor gender="F">
+		<idle form="0000544C" id="GrayMissionary02S04FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000267E" id="GrayMissionary02S04M"/>
+	</actor>
+</animation>
+
+<!-- Spanking 01 Animations -->
+
+<animation id="Gray_Spanking_FF_01_S1" frames="300">
+	<actor gender="F">
+		<idle form="00000F99" id="GraySpanking01S01F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9A" id="GraySpanking01S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_Spanking_FF_01_S2" frames="300">
+	<actor gender="F">
+		<idle form="00000F9B" id="GraySpanking01S02F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9C" id="GraySpanking01S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_Spanking_FF_01_S3" frames="300">
+	<actor gender="F">
+		<idle form="00000F9D" id="GraySpanking01S03F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9E" id="GraySpanking01S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_Spanking_FF_01_S4" frames="300">
+	<actor gender="F">
+		<idle form="00000F9F" id="GraySpanking01S04F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000FA0" id="GraySpanking01S04M"/>
+	</actor>
+</animation>
+
+<!-- Spanking 01 Gagged Animations -->
+
+<animation id="Gray_SpankingGag_FF_01_S1" frames="300">
+	<actor gender="F">
+		<idle form="00005BF6" id="GraySpanking01S01FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9A" id="GraySpanking01S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_SpankingGag_FF_01_S2" frames="300">
+	<actor gender="F">
+		<idle form="00005BF7" id="GraySpanking01S02FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9C" id="GraySpanking01S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_SpankingGag_FF_01_S3" frames="300">
+	<actor gender="F">
+		<idle form="00005BF8" id="GraySpanking01S03FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9E" id="GraySpanking01S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_SpankingGag_FF_01_S4" frames="300">
+	<actor gender="F">
+		<idle form="00005BF9" id="GraySpanking01S04FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000FA0" id="GraySpanking01S04M"/>
+	</actor>
+</animation>
+
+<!-- Spanking 02 Animations -->
+
+<animation id="Gray_Spanking_FF_02_S1" frames="300">
+	<actor gender="F">
+		<idle form="0000268F" id="GraySpanking02S01F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002690" id="GraySpanking02S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_Spanking_FF_02_S2" frames="300">
+	<actor gender="F">
+		<idle form="00002691" id="GraySpanking02S02F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002692" id="GraySpanking02S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_Spanking_FF_02_S3" frames="300">
+	<actor gender="F">
+		<idle form="00002693" id="GraySpanking02S03F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002694" id="GraySpanking02S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_Spanking_FF_02_S4" frames="300">
+	<actor gender="F">
+		<idle form="00002695" id="GraySpanking02S04F"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002696" id="GraySpanking02S04M"/>
+	</actor>
+</animation>
+
+<!-- Spanking 02 Gagged Animations -->
+
+<animation id="Gray_SpankingGag_FF_02_S1" frames="300">
+	<actor gender="F">
+		<idle form="00005BFA" id="GraySpanking02S01FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002690" id="GraySpanking02S01M"/>
+	</actor>
+</animation>
+<animation id="Gray_SpankingGag_FF_02_S2" frames="300">
+	<actor gender="F">
+		<idle form="00005BFB" id="GraySpanking02S02FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002692" id="GraySpanking02S02M"/>
+	</actor>
+</animation>
+<animation id="Gray_SpankingGag_FF_02_S3" frames="300">
+	<actor gender="F">
+		<idle form="00005BFC" id="GraySpanking02S03FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002694" id="GraySpanking02S03M"/>
+	</actor>
+</animation>
+<animation id="Gray_SpankingGag_FF_02_S4" frames="300">
+	<actor gender="F">
+		<idle form="00005BFD" id="GraySpanking02S04FGag"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00002696" id="GraySpanking02S04M"/>
+	</actor>
+</animation>

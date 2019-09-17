@@ -1,0 +1,37 @@
+<meta title="SavageCabbage's Animation Pack - Noir Penthouse Furniture Data" version="1.0.4" dataSet="furniture"/>
+<defaults source="cctosfo4001-neosky.esm"/>
+
+<group id="Double_Bed">
+	<furniture form="888" id="ccTOSFO4001_NeoSky_Bed_Brown"/>
+	<furniture form="88A" id="ccTOSFO4001_NeoSky_Bed_White"/>
+</group>
+
+<group id="Bench">
+	<furniture form="FE013834" id="ccEEJFO4002_DinerBoothSingle"/>
+</group>
+
+<group id="ArmChair">
+	<furniture form="889" id="ccTOSFO4001_NeoSky_ArmChair"/>
+</group>
+
+<group id="ChairLow">
+	<furniture form="88C" id="ccTOSFO4001_NeoSky_DiningChair01"/>
+	<furniture form="8A9" id="ccTOSFO4001_Ottoman"/>
+</group>
+
+<group id="Couches">
+	<furniture form="884" id="ccTOSFO4001_NeoSky_Sofa"/>
+</group>
+
+<group id="MediumTable">
+	<furniture form="847" id="cccTOSFO4001_NeoSky_Dinner_Table"/>
+</group>
+
+<group id="Seat">
+	<furniture form="88C" id="ccTOSFO4001_NeoSky_DiningChair01"/>
+	<furniture form="8A9" id="ccTOSFO4001_NeoSky_Ottoman"/>
+</group>
+
+<group id="Stool">
+	<furniture form="88B" id="ccTOSFO4001_NeoSky_StoolPlayerHouseSit01"/>
+</group>
