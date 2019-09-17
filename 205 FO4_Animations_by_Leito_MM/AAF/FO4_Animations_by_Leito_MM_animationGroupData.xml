@@ -1,92 +1,171 @@
-<meta title="FO4 Animations by Leito - MM Animation Group Data" version="2.0.1-a" dataSet="animationGroup"/>
+<meta title="FO4 Animations by Leito - Animation Group Data" version="2.0.0-a" dataSet="animationGroup"/>
 <defaults/>
 
-<animationGroup id="Leito_MM_Blowjob_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Blowjob_1_S2"/>
-	<stage animation="Leito_MM_Blowjob_1_S3"/>
+<!-- Blowjob Animations -->
+
+<animationGroup id="Leito_Blowjob_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Blowjob_MM_01_S1"/>
+	<stage animation="Leito_Blowjob_MM_01_S2"/>
+	<stage animation="Leito_Blowjob_MM_01_S3"/>
+	<stage animation="Leito_Blowjob_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Carry_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Carry_1_S2"/>
-	<stage animation="Leito_MM_Carry_1_S3"/>
+<!-- Carry Animations -->
+
+<animationGroup id="Leito_Carry_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Carry_MM_01_S1"/>
+	<stage animation="Leito_Carry_MM_01_S2"/>
+	<stage animation="Leito_Carry_MM_01_S3"/>
+	<stage animation="Leito_Carry_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Carry_2_Staged" sequential="true">
-	<stage animation="Leito_MM_Carry_2_S2"/>
-	<stage animation="Leito_MM_Carry_2_S3"/>
+<animationGroup id="Leito_Carry_MM_02_Staged" sequential="true">
+	<stage animation="Leito_Carry_MM_02_S1"/>
+	<stage animation="Leito_Carry_MM_02_S2"/>
+	<stage animation="Leito_Carry_MM_02_S3"/>
+	<stage animation="Leito_Carry_MM_02_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Cowgirl_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Cowgirl_1_S2"/>
-	<stage animation="Leito_MM_Cowgirl_1_S3"/>
+<!-- Carry Reverse Animations -->
+
+<animationGroup id="Leito_ReverseCarry_MM_01_Staged" sequential="true">
+	<stage animation="Leito_ReverseCarry_MM_01_S1"/>
+	<stage animation="Leito_ReverseCarry_MM_01_S2"/>
+	<stage animation="Leito_ReverseCarry_MM_01_S3"/>
+	<stage animation="Leito_ReverseCarry_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Cowgirl_2_Staged" sequential="true">
-	<stage animation="Leito_MM_Cowgirl_2_S2"/>
-	<stage animation="Leito_MM_Cowgirl_2_S3"/>
+<!-- Cowgirl Animations -->
+
+<animationGroup id="Leito_Cowgirl_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Cowgirl_MM_01_S1"/>
+	<stage animation="Leito_Cowgirl_MM_01_S2"/>
+	<stage animation="Leito_Cowgirl_MM_01_S3"/>
+	<stage animation="Leito_Cowgirl_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Cowgirl_3_Staged" sequential="true">
-	<stage animation="Leito_MM_Cowgirl_3_S2"/>
-	<stage animation="Leito_MM_Cowgirl_3_S3"/>
+<animationGroup id="Leito_Cowgirl_MM_02_Staged" sequential="true">
+	<stage animation="Leito_Cowgirl_MM_02_S1"/>
+	<stage animation="Leito_Cowgirl_MM_02_S2"/>
+	<stage animation="Leito_Cowgirl_MM_02_S3"/>
+	<stage animation="Leito_Cowgirl_MM_02_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Cowgirl_4_Staged" sequential="true">
-	<stage animation="Leito_MM_Cowgirl_4_S2"/>
-	<stage animation="Leito_MM_Cowgirl_4_S3"/>
+<animationGroup id="Leito_Cowgirl_MM_03_Staged" sequential="true">
+	<stage animation="Leito_Cowgirl_MM_03_S1"/>
+	<stage animation="Leito_Cowgirl_MM_03_S2"/>
+	<stage animation="Leito_Cowgirl_MM_03_S3"/>
+	<stage animation="Leito_Cowgirl_MM_03_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Doggy_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Doggy_1_S2"/>
-	<stage animation="Leito_MM_Doggy_1_S3"/>
+<animationGroup id="Leito_Cowgirl_MM_04_Staged" sequential="true">
+	<stage animation="Leito_Cowgirl_MM_04_S1"/>
+	<stage animation="Leito_Cowgirl_MM_04_S2"/>
+	<stage animation="Leito_Cowgirl_MM_04_S3"/>
+	<stage animation="Leito_Cowgirl_MM_04_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Doggy_2_Staged" sequential="true">
-	<stage animation="Leito_MM_Doggy_2_S2"/>
-	<stage animation="Leito_MM_Doggy_2_S3"/>
+<!-- Cowgirl Reverse Animations -->
+
+<animationGroup id="Leito_ReverseCowgirl_MM_01_Staged" sequential="true">
+	<stage animation="Leito_ReverseCowgirl_MM_01_S1"/>
+	<stage animation="Leito_ReverseCowgirl_MM_01_S2"/>
+	<stage animation="Leito_ReverseCowgirl_MM_01_S3"/>
+	<stage animation="Leito_ReverseCowgirl_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Missionary_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Missionary_1_S2"/>
-	<stage animation="Leito_MM_Missionary_1_S3"/>
+<animationGroup id="Leito_ReverseCowgirl_MM_02_Staged" sequential="true">
+	<stage animation="Leito_ReverseCowgirl_MM_02_S1"/>
+	<stage animation="Leito_ReverseCowgirl_MM_02_S2"/>
+	<stage animation="Leito_ReverseCowgirl_MM_02_S3"/>
+	<stage animation="Leito_ReverseCowgirl_MM_02_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Missionary_2_Staged" sequential="true">
-	<stage animation="Leito_MM_Missionary_2_S2"/>
-	<stage animation="Leito_MM_Missionary_2_S3"/>
+<!-- Doggy Animations -->
+
+<animationGroup id="Leito_Doggy_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Doggy_MM_01_S1"/>
+	<stage animation="Leito_Doggy_MM_01_S2"/>
+	<stage animation="Leito_Doggy_MM_01_S3"/>
+	<stage animation="Leito_Doggy_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Powerbomb_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Powerbomb_1_S2"/>
-	<stage animation="Leito_MM_Powerbomb_1_S3"/>
+<animationGroup id="Leito_Doggy_MM_02_Staged" sequential="true">
+	<stage animation="Leito_Doggy_MM_02_S1"/>
+	<stage animation="Leito_Doggy_MM_02_S2"/>
+	<stage animation="Leito_Doggy_MM_02_S3"/>
+	<stage animation="Leito_Doggy_MM_02_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_ReverseCarry_1_Staged" sequential="true">
-	<stage animation="Leito_MM_ReverseCarry_1_S2"/>
-	<stage animation="Leito_MM_ReverseCarry_1_S3"/>
+<!-- Doggy Standing Animations -->
+
+<animationGroup id="Leito_StandingDoggy_MM_01_Staged" sequential="true">
+	<stage animation="Leito_StandingDoggy_MM_01_S1"/>
+	<stage animation="Leito_StandingDoggy_MM_01_S2"/>
+	<stage animation="Leito_StandingDoggy_MM_01_S3"/>
+	<stage animation="Leito_StandingDoggy_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_ReverseCowgirl_1_Staged" sequential="true">
-	<stage animation="Leito_MM_ReverseCowgirl_1_S2"/>
-	<stage animation="Leito_MM_ReverseCowgirl_1_S3"/>
+<animationGroup id="Leito_StandingDoggy_MM_02_Staged" sequential="true">
+	<stage animation="Leito_StandingDoggy_MM_02_S1"/>
+	<stage animation="Leito_StandingDoggy_MM_02_S2"/>
+	<stage animation="Leito_StandingDoggy_MM_02_S3"/>
+	<stage animation="Leito_StandingDoggy_MM_02_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_ReverseCowgirl_2_Staged" sequential="true">
-	<stage animation="Leito_MM_ReverseCowgirl_2_S2"/>
-	<stage animation="Leito_MM_ReverseCowgirl_2_S3"/>
+<!-- Missionary Animations -->
+
+<animationGroup id="Leito_Missionary_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Missionary_MM_01_S1"/>
+	<stage animation="Leito_Missionary_MM_01_S2"/>
+	<stage animation="Leito_Missionary_MM_01_S3"/>
+	<stage animation="Leito_Missionary_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_Spoon_1_Staged" sequential="true">
-	<stage animation="Leito_MM_Spoon_1_S2"/>
-	<stage animation="Leito_MM_Spoon_1_S3"/>
+<animationGroup id="Leito_Missionary_MM_02_Staged" sequential="true">
+	<stage animation="Leito_Missionary_MM_02_S1"/>
+	<stage animation="Leito_Missionary_MM_02_S2"/>
+	<stage animation="Leito_Missionary_MM_02_S3"/>
+	<stage animation="Leito_Missionary_MM_02_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_StandingDoggy_1_Staged" sequential="true">
-	<stage animation="Leito_MM_StandingDoggy_1_S2"/>
-	<stage animation="Leito_MM_StandingDoggy_1_S3"/>
+<!-- Powerbomb Animations -->
+
+<animationGroup id="Leito_Powerbomb_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Powerbomb_MM_01_S1"/>
+	<stage animation="Leito_Powerbomb_MM_01_S2"/>
+	<stage animation="Leito_Powerbomb_MM_01_S3"/>
+	<stage animation="Leito_Powerbomb_MM_01_S4"/>
 </animationGroup>
 
-<animationGroup id="Leito_MM_StandingDoggy_2_Staged" sequential="true">
-	<stage animation="Leito_MM_StandingDoggy_2_S2"/>
-	<stage animation="Leito_MM_StandingDoggy_2_S3"/>
+<!-- Spoon Animations -->
+
+<animationGroup id="Leito_Spoon_MM_01_Staged" sequential="true">
+	<stage animation="Leito_Spoon_MM_01_S1"/>
+	<stage animation="Leito_Spoon_MM_01_S2"/>
+	<stage animation="Leito_Spoon_MM_01_S3"/>
+	<stage animation="Leito_Spoon_MM_01_S4"/>
+</animationGroup>
+
+<!-- Dog Animations -->
+
+<animationGroup id="Leito_Doggy_MM_2Dog_01_Staged" sequential="true">
+	<stage animation="Leito_Doggy_MM_2Dog_01_S1"/>
+	<stage animation="Leito_Doggy_MM_2Dog_01_S2"/>
+	<stage animation="Leito_Doggy_MM_2Dog_01_S3"/>
+	<stage animation="Leito_Doggy_MM_2Dog_01_S4"/>
+</animationGroup>
+
+<animationGroup id="Leito_Doggy_MM_2Dog_02_Staged" sequential="true">
+	<stage animation="Leito_Doggy_MM_2Dog_02_S1"/>
+	<stage animation="Leito_Doggy_MM_2Dog_02_S2"/>
+	<stage animation="Leito_Doggy_MM_2Dog_02_S3"/>
+	<stage animation="Leito_Doggy_MM_2Dog_02_S4"/>
+</animationGroup>
+
+<animationGroup id="Leito_Missionary_MM_2Dog_01_Staged" sequential="true">
+	<stage animation="Leito_Missionary_MM_2Dog_01_S1"/>
+	<stage animation="Leito_Missionary_MM_2Dog_01_S2"/>
+	<stage animation="Leito_Missionary_MM_2Dog_01_S3"/>
+	<stage animation="Leito_Missionary_MM_2Dog_01_S4"/>
 </animationGroup>

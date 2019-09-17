@@ -1,9 +1,0 @@
-<meta title="FO4 Animations by Leito - MSM Position Data" version="2.0.1-a" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-<position id="Leito M SuperMutant Carry" animation="Leito_M_SuperMutant_Carry"/>
-<position id="Leito M SuperMutant Doggy" animation="Leito_M_SuperMutant_Doggy"/>
-<position id="Leito M SuperMutant Powerbomb" animation="Leito_M_SuperMutant_Powerbomb"/>
-<position id="Leito M SuperMutant Reverse Carry" animation="Leito_M_SuperMutant_ReverseCarry"/>
-<position id="Leito M SuperMutant Standing Doggy" animation="Leito_M_SuperMutant_StandingDoggy"/>
-<position id="Leito M SuperMutant Standing Sideways" animation="Leito_M_SuperMutant_StandingSideways"/>

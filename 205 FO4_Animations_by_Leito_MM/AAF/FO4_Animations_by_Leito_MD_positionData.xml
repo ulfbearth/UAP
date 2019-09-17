@@ -1,6 +1,0 @@
-<meta title="FO4 Animations by Leito - Dog Position Data" version="2.0.1-a" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-<position id="Leito MD Canine Doggy" animationGroup="MM_Leito_Canine_Doggy_1_Staged"/>
-<position id="Leito MD Canine Doggy 2" animationGroup="MM_Leito_Canine_Doggy_2_Staged"/>
-<position id="Leito MD Canine Missionary" animationGroup="MM_Leito_Canine_Missionary_1_Staged"/>
