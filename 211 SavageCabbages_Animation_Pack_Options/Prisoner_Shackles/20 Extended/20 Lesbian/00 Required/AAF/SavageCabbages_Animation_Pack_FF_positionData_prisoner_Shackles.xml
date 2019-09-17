@@ -1,0 +1,8 @@
+<meta title="SavageCabbage's Animation Pack - Lesbian Prisoner Shackles Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="SavageCabbage's Animation Pack - Lesbian Held (Shackles, Staged)" location="Shackles" animationGroup="SCAP_HeldShackles_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Held (Shackles, Stage 1)" location="Shackles" animation="SCAP_HeldShackles_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Held (Shackles, Stage 2)" location="Shackles" animation="SCAP_HeldShackles_FF_2Human_01_S2"/>
+
+<position id="SavageCabbage's Animation Pack - Lesbian Held (Shackles, 3P)" location="Shackles" animation="SCAP_HeldShackles_FF_3Human_01"/>

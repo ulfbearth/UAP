@@ -1,0 +1,56 @@
+<meta title="SavageCabbage's Animation Pack - Lesbian DLCworkshop02 Animation Data" version="1.0.4" dataSet="animation"/>
+<defaults source="SavageCabbage_Animations.esp"/>
+
+
+
+<animation id="SCAP_DoggyStocks_FF_2Human_01_S2" frames="500">
+	<actor gender="F">
+		<idle form="00001818" id="FM-Stocks01-02Start-F1"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00001819" id="FM-Stocks01-02Start-M1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_DoggyStocks_FF_2Human_01_S3" frames="500">
+	<actor gender="F">
+		<idle form="00001018" id="FM-Stocks01-03Doggy-F1"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00001019" id="FM-Stocks01-03Doggy-M1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_DoggyStocks_FF_2Human_01_S4" frames="500">
+	<actor gender="F">
+		<idle form="0000181A" id="FM-Stocks01-04Doggy-F1"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000181B" id="FM-Stocks01-04Doggy-M1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_DoggyStocks_FF_2Human_01_S5" frames="500">
+	<actor gender="F">
+		<idle form="0001325E" id="FM-Stocks01-05Doggy-F1"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0001325F" id="FM-Stocks01-05Doggy-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+
+
+<animation id="SCAP_DoubleTeamStocks_FF_3Human_01" frames="500">
+	<actor gender="F">
+		<idle form="0000104F" id="FMM-Stocks01-02DoubleTeam-F1"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00001050" id="FMM-Stocks01-02DoubleTeam-M1"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00001051" id="FMM-Stocks01-02DoubleTeam-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>

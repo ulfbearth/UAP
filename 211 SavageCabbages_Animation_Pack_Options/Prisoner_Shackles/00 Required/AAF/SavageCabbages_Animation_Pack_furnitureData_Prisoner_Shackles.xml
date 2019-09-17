@@ -1,0 +1,6 @@
+<meta title="SavageCabbage's Animation Pack - Prisoner Shackles Furniture Data" version="1.0.4" dataSet="furniture"/>
+<defaults source="Prisoner Shackles.esp"/>
+
+<group id="Shackles">
+	<furniture form="18CF"/>
+</group>

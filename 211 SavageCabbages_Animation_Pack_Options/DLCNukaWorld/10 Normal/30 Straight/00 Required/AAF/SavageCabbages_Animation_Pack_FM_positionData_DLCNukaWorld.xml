@@ -1,0 +1,12 @@
+<meta title="SavageCabbage's Animation Pack - DLCNukaWorld Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="SavageCabbage's Animation Pack - Held (Shackles, Staged)" location="Shackles" animationGroup="SCAP_HeldShackles_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Held (Shackles, Stage 1)" location="Shackles" animation="SCAP_HeldShackles_FM_2Human_01_S1" isHidden="true"/>
+<position id="SavageCabbage's Animation Pack - Held (Shackles, Stage 2)" location="Shackles" animation="SCAP_HeldShackles_FM_2Human_01_S2" isHidden="true"/>
+
+<position id="SavageCabbage's Animation Pack - Handjob (Throne, Staged)" location="Throne" animationGroup="SCAP_HandjobThrone_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Throne, Stage 3)" location="Throne" animation="SCAP_HandjobThrone_FM_2Human_01_S3" isHidden="true"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Throne, Stage 4)" location="Throne" animation="SCAP_HandjobThrone_FM_2Human_01_S4" isHidden="true"/>
+
+<position id="SavageCabbage's Animation Pack - Held (Shackles, 3P)" location="Shackles" animation="SCAP_HeldShackles_FM_3Human_01"/>

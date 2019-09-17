@@ -1,0 +1,11 @@
+<meta title="SavageCabbage's Animation Pack - TortureDevices Furniture Data" version="1.0.4" dataSet="furniture"/>
+<defaults source="TortureDevices.esm"/>
+
+<group id="HydroPillory">
+	<furniture form="98C7"/>
+	<furniture form="98CA"/>
+</group>
+
+<group id="Pillory">
+	<furniture form="1EE2"/>
+</group>
