@@ -1,15 +1,13 @@
-<meta title="Atomic Lust_transitionData.xml" version="2.5b" dataSet="transition "/>
-<defaults />
+<meta title="Atomic Lust - Gay Transition Data" version="2.6.1b" dataSet="transition"/>
+<defaults/>
 
+<!-- Spanking Animations -->
 
-<!-- Atomic Spanking -->
+<transition from="Atomic Lust - Gay Spanking (Stage 1)" to="Atomic Lust - Gay Spanking (Stage 2)" animation="AtomicLust_Spanking_MM_01_1TR2"/>
+<transition from="Atomic Lust - Gay Spanking (Stage 2)" to="Atomic Lust - Gay Spanking (Stage 3)" animation="AtomicLust_Spanking_MM_01_2TR3"/>
 
-<transition from="Atomic MM Atomic Spanking S1" to="Atomic MM Atomic Spanking S2" animation="Atomic MM Atomic Spanking S1 Tran"/>
-<transition from="Atomic MM Atomic Spanking S2" to="Atomic MM Atomic Spanking S3" animation="Atomic MM Atomic Spanking S2 Tran"/>
+<!-- positionTree Animations -->
 
-
-<!-- Atomic Lust -->
-
-<transition from="Atomic MM Standing Idle" to="Atomic MM Holding Hands" animation="Atomic MM Standing Idle to Holding Hands"/>
-<transition from="Atomic MM Holding Hands" to="Atomic MM Holding Kissing" animation="Atomic MM Holding Hands to Holding Kissing"/>
-<transition from="Atomic MM Holding Hands" to="Atomic MM Holding Hands to Holding Jerking" animation="Atomic MM Holding Hands to Holding Jerking"/>
+<transition from="Atomic Lust - Gay Standing" to="Atomic Lust - Gay Holding Hands" animation="AtomicLust_StandingIdletoHoldingHands_MM_01"/>
+<transition from="Atomic Lust - Gay Holding Hands" to="Atomic Lust - Gay Holding Kissing" animation="AtomicLust_HoldingHandstoHoldingKissing_MM_01"/>
+<transition from="Atomic Lust - Gay Holding Hands" to="Atomic Lust - Gay Holding Hands to Holding Jerking" animation="AtomicLust_HoldingHandstoHoldingJerking_MM_01"/>

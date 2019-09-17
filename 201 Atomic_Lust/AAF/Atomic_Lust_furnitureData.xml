@@ -1,4 +1,4 @@
-<meta title="Atomic Lust - Furniture Data" version="2.5.1-b" dataSet="furniture"/>
+<meta title="Atomic Lust - Furniture Data" version="2.6.1b" dataSet="furniture"/>
 <defaults source="Fallout4.esm"/>
 
 <group id="Player House Chair Kitchen">
@@ -24,6 +24,12 @@
 	<furniture form="000F4735" id="PlayerHouse_KitchenRefrigeratorDoor02_Blue"/>
 	<furniture form="000AB720" id="PlayerHouse_Ruin_KitchenRefrigerator02_Static_Blue"/>
 	<furniture form="000AB728" id="PlayerHouse_Ruin_KitchenRefrigerator02_Static_Yellow"/>
+</group>
+
+<group id="Toilet">
+	<furniture form="000B6E0C" id="Vault_Toilet_01"/>
+	<furniture form="00091932" id="PlayerHouse_Ruin_Toilet01"/>
+	<furniture form="0004D1C5" id="PlayerHouse_Toilet01"/>
 </group>
 
 <group id="Single Bed">

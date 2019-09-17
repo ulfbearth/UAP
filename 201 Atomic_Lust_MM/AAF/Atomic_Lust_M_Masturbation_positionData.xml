@@ -1,0 +1,7 @@
+<meta title="Atomic Lust - Male Masturbation Position Data" version="2.6.1b" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Solo Male Animations -->
+
+<position id="Atomic Lust - Male Jerking Off" animation="AtomicLust_Jerking_M_01" tags="Rufgt,M,NoFurn,Masturbation,Neutral,Held0,Stim7,Love-1,Dom0,HandToPenis"/>
+<position id="Atomic Lust - Male Jerking Off (Orgasm)" animation="AtomicLust_Jerking_M_Orgasm_01" tags="Rufgt,M,NoFurn,Masturbation,Neutral,Held0,Stim7,Love-1,Dom0,HandToPenis"/>
