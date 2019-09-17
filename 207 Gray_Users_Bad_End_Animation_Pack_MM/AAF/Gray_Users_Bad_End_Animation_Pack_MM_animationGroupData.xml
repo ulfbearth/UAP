@@ -1,0 +1,93 @@
+﻿<meta title="Gray User's Bad End Animation Pack - Animation Group Data" version="1.0.3" dataSet="animationGroup"/>
+<defaults/>
+
+<!-- Chair Animations -->
+
+<animationGroup id="GUBEAP_Chair_01_Staged" sequential="true">
+    <stage animation="GUBEAP_Chair_01_S1"/>
+    <stage animation="GUBEAP_Chair_01_S2"/>
+    <stage animation="GUBEAP_Chair_01_S2"/>
+	<stage animation="GUBEAP_Chair_01_S3"/>
+	<stage animation="GUBEAP_Chair_01_S3"/>
+	<stage animation="GUBEAP_Chair_01_S4"/>
+	<stage animation="GUBEAP_Chair_01_S4"/>
+	<stage animation="GUBEAP_Chair_01_4TR5"/>
+	<stage animation="GUBEAP_Chair_01_S5A"/>
+	<stage animation="GUBEAP_Chair_01_S5B"/>
+</animationGroup>
+
+<!-- Garrote Free Animations -->
+
+<animationGroup id="GUBEAP_Garrote_Free_01_Staged" sequential="true">
+    <stage animation="GUBEAP_Garrote_Free_01_S1"/>
+    <stage animation="GUBEAP_Garrote_Free_01_S2"/>
+    <stage animation="GUBEAP_Garrote_Free_01_S2"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S3"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S3"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S4"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S4"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S5A"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S5A"/>
+	<stage animation="GUBEAP_Garrote_Free_01_S5B"/>
+</animationGroup>
+
+<!-- Garrote Tied Animations -->
+
+<animationGroup id="GUBEAP_Garrote_Tied_01_Staged" sequential="true">
+    <stage animation="GUBEAP_Garrote_Tied_01_S1"/>
+    <stage animation="GUBEAP_Garrote_Tied_01_S2"/>
+    <stage animation="GUBEAP_Garrote_Tied_01_S2"/>
+    <stage animation="GUBEAP_Garrote_Tied_01_S3"/>
+    <stage animation="GUBEAP_Garrote_Tied_01_S3"/>
+	<stage animation="GUBEAP_Garrote_Tied_01_S4"/>
+	<stage animation="GUBEAP_Garrote_Tied_01_S4"/>
+	<stage animation="GUBEAP_Garrote_Tied_01_S5A"/>
+	<stage animation="GUBEAP_Garrote_Tied_01_S5A"/>
+	<stage animation="GUBEAP_Garrote_Tied_01_S5B"/>
+</animationGroup>
+
+<!-- Noose High Free Animations -->
+
+<animationGroup id="GUBEAP_Hanging_Free_01_Staged" sequential="true">
+    <stage animation="GUBEAP_Hanging_Free_01_S1"/>
+    <stage animation="GUBEAP_Hanging_Free_01_S2"/>
+    <stage animation="GUBEAP_Hanging_Free_01_S2"/>
+    <stage animation="GUBEAP_Hanging_Free_01_S3"/>
+    <stage animation="GUBEAP_Hanging_Free_01_S3"/>
+	<stage animation="GUBEAP_Hanging_Free_01_S4A"/>
+	<stage animation="GUBEAP_Hanging_Free_01_S4A"/>
+	<stage animation="GUBEAP_Hanging_Free_01_S4B"/>
+	<stage animation="GUBEAP_Hanging_Free_01_S4B"/>
+    <stage animation="GUBEAP_Hanging_Free_01_S1"/>
+</animationGroup>
+
+<!-- Noose High Tied Animations -->
+
+<animationGroup id="GUBEAP_Hanging_Tied_01_Staged" sequential="true">
+    <stage animation="GUBEAP_Hanging_Tied_01_S1"/>
+    <stage animation="GUBEAP_Hanging_Tied_01_S2"/>
+    <stage animation="GUBEAP_Hanging_Tied_01_S2"/>
+    <stage animation="GUBEAP_Hanging_Tied_01_S3"/>
+    <stage animation="GUBEAP_Hanging_Tied_01_S3"/>
+	<stage animation="GUBEAP_Hanging_Tied_01_S4A"/>
+	<stage animation="GUBEAP_Hanging_Tied_01_S4A"/>
+	<stage animation="GUBEAP_Hanging_Tied_01_S4B"/>
+	<stage animation="GUBEAP_Hanging_Tied_01_S4B"/>
+    <stage animation="GUBEAP_Hanging_Tied_01_S1"/>
+</animationGroup>
+
+<!-- Pole High Animations -->
+
+<animationGroup id="GUBEAP_Pole_01_Staged" sequential="true">
+    <stage animation="GUBEAP_Pole_01_S1"/>
+    <stage animation="GUBEAP_Pole_01_S2"/>
+	<stage animation="GUBEAP_Pole_01_S3"/>
+	<stage animation="GUBEAP_Pole_01_3TR4"/>
+<!-- Pole Low Animations -->
+	<stage animation="GUBEAP_Pole_01_S4"/>
+	<stage animation="GUBEAP_Pole_01_S5"/>
+	<stage animation="GUBEAP_Pole_01_S6"/>
+	<stage animation="GUBEAP_Pole_01_S7A"/>
+	<stage animation="GUBEAP_Pole_01_S7B"/>
+	<stage animation="GUBEAP_Pole_01_S7C"/>
+</animationGroup>

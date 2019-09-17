@@ -2,13 +2,13 @@
 <defaults source="AAF_BadEnd_Animations.esp"/>
 
 <equipmentSet id="addEquipmentNoose"> 
-    <condition isFemale="true">
-		<addEquipment form="1EE6"/>
+    <condition>
+		<addEquipment form="00001EE6"/>
     </condition>
 </equipmentSet>
 
 <equipmentSet id="removeEquipmentNoose">
-    <condition isFemale="true">
-		<removeEquipment form="1EE6"/>
+    <condition>
+		<removeEquipment form="00001EE6"/>
     </condition>
 </equipmentSet>
