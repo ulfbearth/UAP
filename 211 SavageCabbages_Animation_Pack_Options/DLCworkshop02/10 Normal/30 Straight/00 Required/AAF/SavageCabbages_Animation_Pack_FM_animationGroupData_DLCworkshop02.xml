@@ -1,9 +1,0 @@
-<meta title="SavageCabbage's Animation Pack - DLCworkshop02 Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
-<defaults/>
-
-<animationGroup id="SCAP_DoggyStocks_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoggyStocks_FM_2Human_01_S2"/>
-	<stage animation="SCAP_DoggyStocks_FM_2Human_01_S3"/>
-	<stage animation="SCAP_DoggyStocks_FM_2Human_01_S4"/>
-	<stage animation="SCAP_DoggyStocks_FM_2Human_01_S5"/>
-</animationGroup>

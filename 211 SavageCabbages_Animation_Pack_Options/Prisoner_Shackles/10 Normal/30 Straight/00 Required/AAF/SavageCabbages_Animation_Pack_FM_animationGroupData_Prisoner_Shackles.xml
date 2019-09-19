@@ -1,7 +1,0 @@
-<meta title="SavageCabbage's Animation Pack - Prisoner Shackles Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
-<defaults/>
-
-<animationGroup id="SCAP_HeldShackles_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_HeldShackles_FM_2Human_01_S1"/>
-	<stage animation="SCAP_HeldShackles_FM_2Human_01_S2"/>
-</animationGroup>
