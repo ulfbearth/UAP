@@ -80,7 +80,7 @@
 
 <!-- FEV Hound -->
 
-<animation id="GUCP_FEVHound_MM_01_S1" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
+<animation id="GUCP_FEVHound_MM_01_S1" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a8f" id="CP_FEV01_F"/>
 	</actor>
@@ -89,7 +89,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_FEVHound_MM_01_S2" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
+<animation id="GUCP_FEVHound_MM_01_S2" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a90" id="CP_FEV02_F"/>
 	</actor>
@@ -98,7 +98,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_FEVHound_MM_01_S3" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
+<animation id="GUCP_FEVHound_MM_01_S3" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a91" id="CP_FEV03_F"/>
 	</actor>
@@ -107,7 +107,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_FEVHound_MM_01_S4" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
+<animation id="GUCP_FEVHound_MM_01_S4" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a92" id="CP_FEV04_F"/>
 	</actor>
@@ -119,39 +119,43 @@
 
 <!-- Deathclaw -->
 
-<animation id="GUCP_Deathclaw_MM_01_S1" frames="300">
+<animation id="GUCP_Deathclaw_MM_01_S1" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063b8" id="CP_Death01_F"/>
 	</actor>
 	<actor skeleton="Deathclaw">
 		<idle form="010063bc" id="CP_Death01_C"/>
+		<value path="morph" value="Scale" to="1"/>
 	</actor>
 </animation>
 
-<animation id="GUCP_Deathclaw_MM_01_S2" frames="300">
+<animation id="GUCP_Deathclaw_MM_01_S2" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063b9" id="CP_Death02_F"/>
 	</actor>
 	<actor skeleton="Deathclaw">
 		<idle form="010063bd" id="CP_Death02_C"/>
+		<value path="morph" value="Scale" to="1"/>
 	</actor>
 </animation>
 
-<animation id="GUCP_Deathclaw_MM_01_S3" frames="300">
+<animation id="GUCP_Deathclaw_MM_01_S3" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063ba" id="CP_Death03_F"/>
 	</actor>
 	<actor skeleton="Deathclaw">
 		<idle form="010063be" id="CP_Death03_C"/>
+		<value path="morph" value="Scale" to="1"/>
 	</actor>
 </animation>
 
-<animation id="GUCP_Deathclaw_MM_01_S4" frames="300">
+<animation id="GUCP_Deathclaw_MM_01_S4" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063bb" id="CP_Death04_F"/>
 	</actor>
 	<actor skeleton="Deathclaw">
 		<idle form="010063bf" id="CP_Death04_C"/>
+		<value path="morph" value="Scale" to="1"/>
 	</actor>
 </animation>
 
@@ -194,7 +198,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S1" frames="300">
+<animation id="GUCP_Ghoul_MM_02_S1" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a1" id="CP_02Ghoul01_F"/>
 	</actor>
@@ -203,7 +207,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S2" frames="300">
+<animation id="GUCP_Ghoul_MM_02_S2" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a2" id="CP_02Ghoul02_F"/>
 	</actor>
@@ -212,7 +216,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S3" frames="300">
+<animation id="GUCP_Ghoul_MM_02_S3" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a3" id="CP_02Ghoul03_F"/>
 	</actor>
@@ -221,7 +225,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S4" frames="300">
+<animation id="GUCP_Ghoul_MM_02_S4" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a4" id="CP_02Ghoul04_F"/>
 	</actor>
@@ -278,6 +282,7 @@
 	</actor>
 	<actor skeleton="SupermutantBehemoth">
 		<idle form="01004530" id="CP_Behemoth01_C"/>
+		<value path="morph" value="CErection" to="0"/>
 	</actor>
 </animation>
 
@@ -287,6 +292,7 @@
 	</actor>
 	<actor skeleton="SupermutantBehemoth">
 		<idle form="01004531" id="CP_Behemoth02_C"/>
+		<value path="morph" value="CErection" to="0"/>
 	</actor>
 </animation>
 
@@ -296,6 +302,7 @@
 	</actor>
 	<actor skeleton="SupermutantBehemoth">
 		<idle form="01004532" id="CP_Behemoth03_C"/>
+		<value path="morph" value="CErection" to="0"/>
 	</actor>
 </animation>
 
@@ -305,6 +312,7 @@
 	</actor>
 	<actor skeleton="SupermutantBehemoth">
 		<idle form="01004533" id="CP_Behemoth04_C"/>
+		<value path="morph" value="CErection" to="0"/>
 	</actor>
 </animation>
 
