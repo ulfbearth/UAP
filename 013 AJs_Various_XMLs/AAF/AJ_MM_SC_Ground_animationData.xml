@@ -1,0 +1,283 @@
+<meta title="AJ_XML_SC_Ground_animationData.xml" version="1.0" dataSet="animation"/>
+<defaults source="SavageCabbage_Animations.esp"/>
+
+<animation id="AJ-MM-Gr-Bed01-01Handjob" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FD3"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FD4"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-02Handjob" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FD5"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FD6"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-03Titjob" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FD7"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FD8"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-04Blowjob" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FD9"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FDA"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-05DeepthroatA" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FDB"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FDC"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-05DeepthroatB" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FDD"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FDE"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-05DeepthroatC" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FDF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FE0"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-06BlowjobRough" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FE1"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FE2"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-07Cumshot" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FE3"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FE4"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed01-07Swallow" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FE5"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FE7"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed02-01Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FE8"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FE9"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed02-02Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FEA"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FEB"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed02-03Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FEC"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FED"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed02-04Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="FEE"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FEF"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed02-05Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="6C08"/>
+	</actor>
+	<actor gender="M">
+		<idle form="6C09"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed03-01Tease" time="500" offset="-40,0,-40,0:-40,0,-40,0">
+	<actor gender="M">
+		<idle form="99DA"/>
+	</actor>
+	<actor gender="M">
+		<idle form="99DB"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Bed03-03Cowgirl" time="500" offset="-40,0,-40,0:0,0,-40,0">
+	<actor gender="M">
+		<idle form="6C0A"/>
+	</actor>
+	<actor gender="M">
+		<idle form="FE9"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Couch01-03Spoon" time="500" offset="20,0,-30,-90:20,0,-30,-90">
+	<actor gender="M">
+		<idle form="3E34"/>
+	</actor>
+	<actor gender="M">
+		<idle form="3E35"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-Couch01-04Spoon" time="500" offset="20,0,-30,-90:20,0,-30,-90">
+	<actor gender="M">
+		<idle form="4D6E"/>
+	</actor>
+	<actor gender="M">
+		<idle form="4D6F"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed02-05Powerbomb" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="E5B2"/>
+	</actor>
+	<actor gender="M">
+		<idle form="E5B3"/>
+		<value path="morph" value="Erection Down" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed02-06Powerbomb" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="ED4D"/>
+	</actor>
+	<actor gender="M">
+		<idle form="ED4E"/>
+		<value path="morph" value="Erection Down" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed02-07Powerbomb" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="17F7"/>
+	</actor>
+	<actor gender="M">
+		<idle form="182F"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed03-03Missionary" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="5CA9"/>
+	</actor>
+	<actor gender="M">
+		<idle form="5CAA"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed03-04Missionary" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="B80B"/>
+	</actor>
+	<actor gender="M">
+		<idle form="B80C"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed03-05Missionary" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="DE15"/>
+	</actor>
+	<actor gender="M">
+		<idle form="DE16"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-DoubleBed03-06Missionary" time="500" offset="20,0,-40,0:20,0,-40,0">
+	<actor gender="M">
+		<idle form="DE17"/>
+	</actor>
+	<actor gender="M">
+		<idle form="DE18"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-PoolTable01-05Missionary" time="500" offset="20,0,-68,90:20,0,-68,90">
+	<actor gender="M">
+		<idle form="180A"/>
+	</actor>
+	<actor gender="M">
+		<idle form="180B"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-PoolTable01-06Missionary" time="500" offset="20,0,-68,90:20,0,-68,90">
+	<actor gender="M">
+		<idle form="6C10"/>
+	</actor>
+	<actor gender="M">
+		<idle form="6C11"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-PoolTable01-07Missionary" time="500" offset="20,0,-68,90:20,0,-68,90">
+	<actor gender="M">
+		<idle form="C7A6"/>
+	</actor>
+	<actor gender="M">
+		<idle form="C7A7"/>
+	</actor>
+</animation>
+
+<animation id="AJ-MM-Gr-PoolTable02-05RoughDoggy" time="500" offset="20,30,-68,0:20,30,-68,0">
+	<actor gender="M">
+		<idle form="1814"/>
+	</actor>
+	<actor gender="M">
+		<idle form="1815"/>
+	</actor>
+</animation>
