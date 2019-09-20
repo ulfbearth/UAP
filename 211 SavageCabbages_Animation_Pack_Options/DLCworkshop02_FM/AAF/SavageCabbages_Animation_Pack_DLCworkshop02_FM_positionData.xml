@@ -1,9 +1,0 @@
-<meta title="SavageCabbage's Animation Pack - DLCworkshop02 FM Position Data" version="1.0.4" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
-
-<position id="FM-Stocks01-02Start" location="Stocks"/>
-<position id="FM-Stocks01-03Doggy" location="Stocks"/>
-<position id="FM-Stocks01-04Doggy" location="Stocks"/>
-<position id="FM-Stocks01-05Doggy" location="Stocks"/>
-
-<position id="FMM-Stocks01-02DoubleTeam" location="Stocks"/>

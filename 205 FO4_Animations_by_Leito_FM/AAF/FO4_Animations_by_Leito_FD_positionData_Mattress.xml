@@ -1,9 +1,0 @@
-<meta title="FO4 Animations by Leito - Dog Mattress Position Data" version="2.0.1-a" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-<animationOffset actor="1" offset="0,0,9,0"/>
-<animationOffset actor="2" offset="0,0,9,0"/>
-
-<position id="Leito Canine Mattress Doggy" location="Mattress" animationGroup="Leito_Canine_Mattress_Doggy_1_Staged"/>
-<position id="Leito Canine Mattress Doggy 2" location="Mattress" animationGroup="Leito_Canine_Mattress_Doggy_2_Staged"/>
-<position id="Leito Canine Mattress Missionary" location="Mattress" animationGroup="Leito_Canine_Mattress_Missionary_1_Staged"/>
