@@ -1,0 +1,6 @@
+<meta title="Crazy's Animations [Gun Version] - DLCworkshop02 Furniture Data" version="3.11.17" dataSet="furniture"/>
+<defaults source="DLCworkshop02.esm"/>
+
+<group id="Pillory">
+	<furniture form="00000AAD" id="DLC05NPCWorkshopPillory"/>
+</group>

@@ -1,0 +1,42 @@
+<meta title="Atomic Lust - Homemaker Furniture Data" version="2.6.1b" dataSet="furniture"/>
+<defaults source="Homemaker.esm"/>
+
+<group id="Single Bed">
+	<furniture form="00000997" id="workshop_NpcBedVaultLay01"/>
+	<furniture form="00000998" id="workshop_NpcBedVaultLay02"/>
+</group>
+
+<group id="Bunk Bed">
+	<furniture form="00001D94" id="workshop_NpcBedVaultBunkLay01"/>
+	<furniture form="00001D92" id="workshop_NpcBedVaultBunkLay02"/>
+</group>
+
+<group id="Double Bed">
+	<furniture form="000012E7" id="workshop_NpcBedWoodLay01"/>
+</group>
+
+<group id="Pre-War Double Bed">
+	<furniture form="00001DB2" id="workshop_NpcBedPlayerHouseLay01"/>
+</group>
+
+<group id="Institute Wallmounted Bed">
+	<furniture form="00001D98" id="workshop_NPCBedInstituteMountedSleep01"/>
+</group>
+
+<group id="Institute Double Bed">
+	<furniture form="0000099A" id="workshop_NPCBedInstituteMountedSleepDbl01"/>
+</group>
+
+<group id="Institute Single Bed">
+	<furniture form="00001D96" id="workshop_NPCBedInstituteSleep01"/>
+	<furniture form="00001D97" id="workshop_NPCBedInstituteSleep02"/>
+</group>
+
+<group id="Institute Med Bay">
+	<furniture form="00001D99" id="workshop_NPCBedInstituteMedBaySleep01"/>
+</group>
+
+<group id="Cryo Pod">
+	<furniture form="00000DA1" id="workshop_CryoPodFurniture1stP"/>
+	<furniture form="000018C3" id="workshop_CryoPodFurniture3rdP_NoSleep"/>
+</group>

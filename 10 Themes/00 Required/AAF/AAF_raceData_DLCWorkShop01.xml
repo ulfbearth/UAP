@@ -1,0 +1,13 @@
+<meta title="AAF - DLCWorkshop01 Race Data" version="2.0.0" dataSet="race"/>
+<defaults source="DLCWorkshop01.esm" skeleton="Human" maleSWF="AAF_ActorIcon_Human_M.swf" femaleSWF="AAF_ActorIcon_Human_F.swf"/>
+
+<race id="DLC02_Brahmin" form="A52" skeleton="Brahmin" maleSWF="AAF_ActorIcon_Brahmin.swf" femaleSWF="AAF_ActorIcon_Brahmin.swf" requiresAnimationReset="true"/>
+<race id="DLC02_Cat" form="C79" skeleton="Cat" maleSWF="AAF_ActorIcon_Cat.swf" femaleSWF="AAF_ActorIcon_Cat.swf" requiresAnimationReset="true"/>
+<race id="DLC02_Deathclaw" form="C78" skeleton="Deathclaw" maleSWF="AAF_ActorIcon_Deathclaw.swf" femaleSWF="AAF_ActorIcon_Deathclaw.swf" requiresAnimationReset="true"/>
+<race id="DLC02_FeralGhoul" form="A54" skeleton="FeralGhoul" maleSWF="AAF_ActorIcon_FeralGhoul.swf" femaleSWF="AAF_ActorIcon_FeralGhoul.swf" requiresAnimationReset="true"/>
+<race id="DLC02_FEVHound" form="C82" skeleton="FEVHound" maleSWF="AAF_ActorIcon_FevHound.swf" femaleSWF="AAF_ActorIcon_FevHound.swf" requiresAnimationReset="true"/>
+<race id="DLC02_Gorilla" form="A56" skeleton="Gorilla" maleSWF="AAF_ActorIcon_Gorilla.swf" femaleSWF="AAF_ActorIcon_Gorilla.swf" requiresAnimationReset="true"/>
+<race id="DLC02_Handy" form="C05" skeleton="Robot" maleSWF="AAF_ActorIcon_MrHandy.swf" femaleSWF="AAF_ActorIcon_MrHandy.swf" requiresAnimationReset="true"/>
+<race id="DLC02_Molerat" form="C7F" skeleton="Molerat" maleSWF="AAF_ActorIcon_Molerat.swf" femaleSWF="AAF_ActorIcon_Molerat.swf" requiresAnimationReset="true"/>
+<race id="DLC02_RaiderDog" form="C7D" skeleton="Dog" maleSWF="AAF_ActorIcon_RaiderDog.swf" femaleSWF="AAF_ActorIcon_RaiderDog.swf" requiresAnimationReset="true"/>
+<race id="DLC02_ViciousDog" form="C7C" skeleton="Dog" maleSWF="AAF_ActorIcon_ViciousDog.swf" femaleSWF="AAF_ActorIcon_ViciousDog.swf" requiresAnimationReset="true"/>

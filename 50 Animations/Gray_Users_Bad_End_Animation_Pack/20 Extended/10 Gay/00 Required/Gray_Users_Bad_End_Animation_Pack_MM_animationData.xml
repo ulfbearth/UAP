@@ -1,0 +1,248 @@
+﻿<meta title="Gray User's Bad End Animation Pack - Animation Data" version="1.0.3" dataSet="animation"/>
+<defaults source="AAF_BadEnd_Animations.esp"/>
+
+<!-- Chair Animations -->
+
+<animation id="GUBEAP_Chair_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00004DCB" id="_BP_Chair00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Chair_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00004DCC" id="_BP_Chair01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Chair_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00004DCD" id="_BP_Chair02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Chair_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00004DCE" id="_BP_Chair03"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Chair_MM_01_4TR5" frames="300">
+	<actor gender="M">
+		<idle form="00008AB6" id="_BP_ChairTransition01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Chair_MM_01_S5A" frames="300">
+	<actor gender="M">
+		<idle form="00004DCF" id="_BP_ChairEnd01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Chair_MM_01_S5B" frames="300">
+	<actor gender="M">
+		<idle form="00004DD0" id="_BP_ChairEnd02"/>
+	</actor>
+</animation>
+
+<!-- Garrote Free Animations -->
+
+<animation id="GUBEAP_Garrote_Free_MM_01_S1" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DBF" id="_BP_GPoleFree00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Free_MM_01_S2" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC0" id="_BP_GPoleFree01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Free_MM_01_S3" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC1" id="_BP_GPoleFree02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Free_MM_01_S4" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC2" id="_BP_GPoleFree03"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Free_MM_01_S5A" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC3" id="_BP_GPoleFreeEnd01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Free_MM_01_S5B" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC4" id="_BP_GPoleFreeEnd02"/>
+	</actor>
+</animation>
+
+<!-- Garrote Tied Animations -->
+
+<animation id="GUBEAP_Garrote_Tied_MM_01_S1" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC5" id="_BP_GPoleTied00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Tied_MM_01_S2" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC6" id="_BP_GPoleTied01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Tied_MM_01_S3" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC7" id="_BP_GPoleTied02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Tied_MM_01_S4" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC8" id="_BP_GPoleTied03"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Tied_MM_01_S5A" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DC9" id="_BP_GPoleTiedEnd01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Garrote_Tied_MM_01_S5B" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00004DCA" id="_BP_GPoleTiedEnd02"/>
+	</actor>
+</animation>
+
+<!-- Noose High Free Animations -->
+
+<animation id="GUBEAP_Hanging_Free_MM_01_S1" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EEB" id="_BP_NooseHighFree00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Free_MM_01_S2" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EEC" id="_BP_NooseHighFree01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Free_MM_01_S3" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EED" id="_BP_NooseHighFree02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Free_MM_01_S4A" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EEE" id="_BP_NooseHighFreeEnd01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Free_MM_01_S4B" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EEF" id="_BP_NooseHighFreeEnd02"/>
+	</actor>
+</animation>
+
+<!-- Noose High Tied Animations -->
+
+<animation id="GUBEAP_Hanging_Tied_MM_01_S1" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EF0" id="_BP_NooseHighTied00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Tied_MM_01_S2" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EF1" id="_BP_NooseHighTied01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Tied_MM_01_S3" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EF2" id="_BP_NooseHighTied02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Tied_MM_01_S4A" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="00001EF3" id="_BP_NooseHighTiedEnd01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Hanging_Tied_MM_01_S4B" frames="300">
+	<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
+		<idle form="0000B0C8" id="_BP_NooseHighTiedEnd02"/>
+	</actor>
+</animation>
+
+<!-- Pole High Animations -->
+
+<animation id="GUBEAP_Pole_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00001EF7" id="_BP_PoleHigh00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00001EF8" id="_BP_PoleHigh01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00001EF9" id="_BP_PoleHigh02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_3TR4" frames="300">
+	<actor gender="M">
+		<idle form="00001EFA" id="_BP_PoleTransition01"/>
+	</actor>
+</animation>
+<!-- Pole Low Animations -->
+<animation id="GUBEAP_Pole_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00001EF4" id="_BP_PoleLow00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S5" frames="300">
+	<actor gender="M">
+		<idle form="00001EF5" id="_BP_PoleLow01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S6" frames="300">
+	<actor gender="M">
+		<idle form="00001EF6" id="_BP_PoleLow02"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S7A" frames="300">
+	<actor gender="M">
+		<idle form="0000B0C9" id="_BP_PoleLowEnd00"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S7B" frames="300">
+	<actor gender="M">
+		<idle form="0000B0CA" id="_BP_PoleLowEnd01"/>
+	</actor>
+</animation>
+
+<animation id="GUBEAP_Pole_MM_01_S7C" frames="300">
+	<actor gender="M">
+		<idle form="0000B0CB" id="_BP_PoleLowEnd02"/>
+	</actor>
+</animation>

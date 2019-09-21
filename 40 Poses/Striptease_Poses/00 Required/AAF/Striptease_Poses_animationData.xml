@@ -1,0 +1,128 @@
+<meta title="Striptease Poses - Animation Data" version="1.0.0" dataSet="animation"/>
+<defaults source="TBOS-Striptease.esp"/>
+
+<animation id="ST1">
+	<actor>
+		<idle form="00000F99"/>
+	</actor>
+</animation>
+
+<animation id="ST2">
+	<actor>
+		<idle form="00000F9A"/>
+	</actor>
+</animation>
+
+<animation id="ST2A">
+	<actor>
+		<idle form="00000F9B"/>
+	</actor>
+</animation>
+
+<animation id="ST3A">
+	<actor>
+		<idle form="00000F9C"/>
+	</actor>
+</animation>
+
+<animation id="ST3B">
+	<actor>
+		<idle form="00000F9D"/>
+	</actor>
+</animation>
+
+<animation id="ST4">
+	<actor>
+		<idle form="00001737"/>
+	</actor>
+</animation>
+
+<animation id="ST4a">
+	<actor>
+		<idle form="00001ED6"/>
+	</actor>
+</animation>
+
+<animation id="ST5">
+	<actor>
+		<idle form="00001738"/>
+	</actor>
+</animation>
+
+<animation id="ST5a">
+	<actor>
+		<idle form="00001EDF"/>
+	</actor>
+</animation>
+
+<animation id="ST6">
+	<actor>
+		<idle form="00001739"/>
+	</actor>
+</animation>
+
+<animation id="ST7a">
+	<actor>
+		<idle form="00001ED3"/>
+	</actor>
+</animation>
+
+<animation id="ST7A1">
+	<actor>
+		<idle form="00001ED4"/>
+	</actor>
+</animation>
+
+<animation id="ST7A2">
+	<actor>
+		<idle form="00001ED5"/>
+	</actor>
+</animation>
+
+<animation id="ST7B">
+	<actor>
+		<idle form="00001ED7"/>
+	</actor>
+</animation>
+
+<animation id="ST7B1">
+	<actor>
+		<idle form="00001ED8"/>
+	</actor>
+</animation>
+
+<animation id="ST7B2">
+	<actor>
+		<idle form="00001ED9"/>
+	</actor>
+</animation>
+
+<animation id="ST8">
+	<actor>
+		<idle form="00001EDC"/>
+	</actor>
+</animation>
+
+<animation id="ST9">
+	<actor>
+		<idle form="00001EDD"/>
+	</actor>
+</animation>
+
+<animation id="ST10">
+	<actor>
+		<idle form="00001EDE"/>
+	</actor>
+</animation>
+
+<animation id="TI1">
+	<actor>
+		<idle form="00001EDA"/>
+	</actor>
+</animation>
+
+<animation id="TI2">
+	<actor>
+		<idle form="00001EDB"/>
+	</actor>
+</animation>

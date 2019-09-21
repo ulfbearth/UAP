@@ -1,0 +1,10 @@
+<meta title="BP70's Fallout 4 Sex Animations - Male Masturbation Animation Data" version="2.1.1" dataSet="animation"/>
+<defaults source="rxl_bp70_animations.esp"/>
+
+<!-- Furniture Animations -->
+
+<animation id="FO4SA_MasturbationBed_M_01" frames="360">
+	<actor gender="M">
+		<idle form="000035E6" id="rxl_bp70_bedmast_m"/>
+	</actor>
+</animation>

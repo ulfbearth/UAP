@@ -1,0 +1,344 @@
+<meta title="Gray User's Creature Pack - Animation Data" version="2.0.0" dataSet="animation"/>
+<defaults source="AAF_CreaturePack01.esp"/>
+
+<!-- Bloatfly -->
+
+<animation id="GUCP_Bloatfly_MM_01_S1" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor gender="M">
+		<idle form="00000F99" id="CP_Bloat01_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="00000FB5" id="CP_Bloat01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Bloatfly_MM_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor gender="M">
+		<idle form="00000F9A" id="CP_Bloat02_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="00000FB6" id="CP_Bloat02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Bloatfly_MM_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor gender="M">
+		<idle form="00000F9B" id="CP_Bloat03_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="00000FB7" id="CP_Bloat03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Bloatfly_MM_01_S4" frames="300" offset="0,0,0,0:0,3,27,0">
+	<actor gender="M">
+		<idle form="00000F9C" id="CP_Bloat04_F"/>
+	</actor>
+	<actor skeleton="Bloatfly">
+		<idle form="00000FB8" id="CP_Bloat04_C"/>
+	</actor>
+</animation>
+
+<!-- Bloodbug -->
+
+<animation id="GUCP_Bloodbug_MM_01_S1" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor gender="M">
+		<idle form="00000F9D" id="CP_Blood01_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="00000FB9" id="CP_Blood01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Bloodbug_MM_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor gender="M">
+		<idle form="00000F9E" id="CP_Blood02_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="00000FBA" id="CP_Blood02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Bloodbug_MM_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor gender="M">
+		<idle form="00000F9F" id="CP_Blood03_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="00000FBB" id="CP_Blood03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Bloodbug_MM_01_S4" frames="300" offset="0,0,0,0:0,0,60,0">
+	<actor gender="M">
+		<idle form="00000FA0" id="CP_Blood04_F"/>
+	</actor>
+	<actor skeleton="Mosquito">
+		<idle form="00000FBC" id="CP_Blood04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk -->
+
+<animation id="GUCP_Mirelurk_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00000FA1" id="CP_Mire01_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="00000FBD" id="CP_Mire01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Mirelurk_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00000FA2" id="CP_Mire02_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="00000FBE" id="CP_Mire02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Mirelurk_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00000FA3" id="CP_Mire03_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="00000FBF" id="CP_Mire03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Mirelurk_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00000FA4" id="CP_Mire04_F"/>
+	</actor>
+	<actor skeleton="Mirelurk">
+		<idle form="00000FC0" id="CP_Mire04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk Hunter -->
+
+<animation id="GUCP_MirelurkHunter_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00000FA5" id="CP_MireH01_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="00000FC1" id="CP_MireH01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkHunter_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00000FA6" id="CP_MireH02_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="00000FC2" id="CP_MireH02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkHunter_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00000FA7" id="CP_MireH03_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="00000FC3" id="CP_MireH03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkHunter_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00000FA8" id="CP_MireH04_F"/>
+	</actor>
+	<actor skeleton="MirelurkHunter">
+		<idle form="00000FC4" id="CP_MireH04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk King -->
+
+<animation id="GUCP_MirelurkKing_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00001F0F" id="CP_MireK01_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="00001F03" id="CP_MireK01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkKing_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00001F10" id="CP_MireK02_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="00001F04" id="CP_MireK02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkKing_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00001F11" id="CP_MireK03_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="00001F05" id="CP_MireK03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkKing_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00001F12" id="CP_MireK04_F"/>
+	</actor>
+	<actor skeleton="MirelurkKing">
+		<idle form="00001F06" id="CP_MireK04_C"/>
+	</actor>
+</animation>
+
+<!-- Mirelurk Queen -->
+
+<animation id="GUCP_MirelurkQueen_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00000FA9" id="CP_MireQ01_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="00000FC5" id="CP_MireQ01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkQueen_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00000FAA" id="CP_MireQ02_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="00000FC6" id="CP_MireQ02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkQueen_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00000FAB" id="CP_MireQ03_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="00000FC7" id="CP_MireQ03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_MirelurkQueen_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00000FAC" id="CP_MireQ04_F"/>
+	</actor>
+	<actor skeleton="MirelurkQueen">
+		<idle form="00000FC8" id="CP_MireQ04_C"/>
+	</actor>
+</animation>
+
+<!-- Rad Scorpion -->
+
+<animation id="GUCP_Radscorpion_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00000FAD" id="CP_Scorp01_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="00000FC9" id="CP_Scorp01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Radscorpion_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00000FAE" id="CP_Scorp02_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="00000FCA" id="CP_Scorp02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Radscorpion_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00000FAF" id="CP_Scorp03_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="00000FCB" id="CP_Scorp03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Radscorpion_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00000FB0" id="CP_Scorp04_F"/>
+	</actor>
+	<actor skeleton="RadScorpion">
+		<idle form="00000FCC" id="CP_Scorp04_C"/>
+	</actor>
+</animation>
+
+<!-- Stingwing -->
+
+<animation id="GUCP_Stingwing_MM_01_S1" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor gender="M">
+		<idle form="00000FB1" id="CP_Sting01_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="00000FCD" id="CP_Sting01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Stingwing_MM_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor gender="M">
+		<idle form="00000FB2" id="CP_Sting02_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="00000FCE" id="CP_Sting02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Stingwing_MM_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor gender="M">
+		<idle form="00000FB3" id="CP_Sting03_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="00000FCF" id="CP_Sting03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Stingwing_MM_01_S4" frames="300" offset="0,0,0,0:0,50,50,0">
+	<actor gender="M">
+		<idle form="00000FB4" id="CP_Sting04_F"/>
+	</actor>
+	<actor skeleton="Stingwing">
+		<idle form="00000FD0" id="CP_Sting04_C"/>
+	</actor>
+</animation>
+
+<!-- Yao-Guai -->
+
+<animation id="GUCP_YaoGuai_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="00001F0B" id="CP_Yao01_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="00001F07" id="CP_Yao01_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_YaoGuai_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="00001F0C" id="CP_Yao02_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="00001F08" id="CP_Yao02_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_YaoGuai_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="00001F0D" id="CP_Yao03_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="00001F09" id="CP_Yao03_C"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_YaoGuai_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="00001F0E" id="CP_Yao04_F"/>
+	</actor>
+	<actor skeleton="YaoGuai">
+		<idle form="00001F0A" id="CP_Yao04_C"/>
+	</actor>
+</animation>

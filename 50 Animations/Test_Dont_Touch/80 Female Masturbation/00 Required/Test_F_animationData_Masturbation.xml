@@ -1,0 +1,529 @@
+<meta title="BP70's Fallout 4 Sex Animations - Gay Animation Data" version="2.1.1" dataSet="animation"/>
+<defaults source="rxl_bp70_animations.esp"/>
+
+<!-- Normal -->
+
+<animation id="FO4SA_Blowjob_MM_01" frames="360" offset="0,0,0,180:0,0,0,0">
+	<actor gender="M">
+		<idle form="00006389" id="rxl_bp70_blowjob_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000638A" id="rxl_bp70_blowjob_m"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_BlowjobGround_MM_01" frames="320" offset="0,0,0,180:0,-2,0,180">
+	<actor gender="M">
+		<idle form="00007A63" id="rxl_bp70_groundblowjob_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00007A64" id="rxl_bp70_groundblowjob_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Cowgirl_MM_01" frames="320">
+	<actor gender="M">
+		<idle form="00000800" id="rxl_bp70_cowgirl_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000801" id="rxl_bp70_cowgirl_m"/>
+		<value path="morph" value="Erection Down" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Cowgirl_MM_Romantic_01" frames="120">
+	<actor gender="M">
+		<idle form="00000FAD" id="rxl_bp70_romanticcowgirl_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000FAE" id="rxl_bp70_romanticcowgirl_m"/>
+		<value path="morph" value="Erection Up" to="1.25"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Doggy_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
+	<actor gender="M">
+		<idle form="00000804" id="rxl_bp70_doggy_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000805" id="rxl_bp70_doggy_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Lotus_MM_01" frames="15">
+	<actor gender="M">
+		<idle form="00000808" id="rxl_bp70_lotus_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000809" id="rxl_bp70_lotus_m"/>
+		<value path="morph" value="Erection Up" to="1.1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_01" frames="320" offset="0,0,0,180:0,-5,0,180">
+	<actor gender="M">
+		<idle form="00000802" id="rxl_bp70_missionary_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000803" id="rxl_bp70_missionary_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Romantic_01" frames="320">
+	<actor gender="M">
+		<idle form="00000FAF" id="rxl_bp70_romanticmish_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000FB0" id="rxl_bp70_romanticmish_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Rough_01" frames="601">
+	<actor gender="M">
+		<idle form="00000806" id="rxl_bp70_roughmissionary_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000807" id="rxl_bp70_roughmissionary_m"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_02_S1" frames="600">
+	<actor gender="M">
+		<idle form="0000080A" id="rxl_bp70_missionaryseq_1f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000080B" id="rxl_bp70_missionaryseq_1m"/>
+		<value path="morph" value="Erection Up" to="1.25"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_02_S2" frames="600">
+	<actor gender="M">
+		<idle form="0000080C" id="rxl_bp70_missionaryseq_2f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000080D" id="rxl_bp70_missionaryseq_2m"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_02_S3" frames="600">
+	<actor gender="M">
+		<idle form="0000080E" id="rxl_bp70_missionaryseq_3f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000080F" id="rxl_bp70_missionaryseq_3m"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_02_S4" frames="320">
+	<actor gender="M">
+		<idle form="00000810" id="rxl_bp70_missionaryseq_4f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000811" id="rxl_bp70_missionaryseq_4m"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_02_S5" frames="800">
+	<actor gender="M">
+		<idle form="00000812" id="rxl_bp70_missionaryseq_5f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000813" id="rxl_bp70_missionaryseq_5m"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ProneBone_MM_01" frames="240">
+	<actor gender="M">
+		<idle form="00000FB1" id="rxl_bp70_pronebone_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000FB2" id="rxl_bp70_pronebone_m"/>
+		<value path="morph" value="Erection Up" to="1.1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Standing_MM_01_S1" frames="960">
+	<actor gender="M">
+		<idle form="000098D1" id="rxl_bp70_standingseq_1f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000098D2" id="rxl_bp70_standingseq_1m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Standing_MM_01_S2" frames="1080">
+	<actor gender="M">
+		<idle form="000098D3" id="rxl_bp70_standingseq_2f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000098D4" id="rxl_bp70_standingseq_2m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Standing_MM_01_S3" frames="960">
+	<actor gender="M">
+		<idle form="000098D5" id="rxl_bp70_standingseq_3f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000098D6" id="rxl_bp70_standingseq_3m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Standing_MM_01_S4" frames="1000">
+	<actor gender="M">
+		<idle form="000098D7" id="rxl_bp70_standingseq_4f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000098D8" id="rxl_bp70_standingseq_4m"/>
+	</actor>
+</animation>
+
+<!-- Threesome Animations -->
+
+<animation id="FO4SA_LoveTriangle_MM_01_S1" frames="320" offset="0,0,0,180:0,0,0,0:0,-5,0,0">
+	<actor gender="M">
+		<idle form="00001EF8" id="rxl_bp70_lovetriangle_stage1_f1"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001EF9" id="rxl_bp70_lovetriangle_stage1_f2"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001EF7" id="rxl_bp70_lovetriangle_stage1_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_LoveTriangle_MM_01_S2" frames="360">
+	<actor gender="M">
+		<idle form="00001EFB" id="rxl_bp70_lovetriangle_stage2_f1"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001EFC" id="rxl_bp70_lovetriangle_stage2_f2"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001EFA" id="rxl_bp70_lovetriangle_stage2_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_LoveTriangle_MM_01_S3" frames="240" offset="0,0,0,180:0,0,0,0:0,0,0,0">
+	<actor gender="M">
+		<idle form="00001EFE" id="rxl_bp70_lovetriangle_stage3_f1"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001EFF" id="rxl_bp70_lovetriangle_stage3_f2"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001EFD" id="rxl_bp70_lovetriangle_stage3_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_LoveTriangle_MM_01_S4" frames="240">
+	<actor gender="M">
+		<idle form="00001F01" id="rxl_bp70_lovetriangle_stage4_f1"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001F02" id="rxl_bp70_lovetriangle_stage4_f2"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001F00" id="rxl_bp70_lovetriangle_stage4_m"/>
+	</actor>
+</animation>
+
+<!-- Furniture Animations -->
+
+<animation id="FO4SA_ChaiseFuck_MM_01" frames="320">
+	<actor gender="M">
+		<idle form="00007A65" id="rxl_bp70_chaisefuck01_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00007A66" id="rxl_bp70_chaisefuck01_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ChaiseFuck_MM_02" frames="320" offset="0,0,0,180:0,0,0,180">
+	<actor gender="M">
+		<idle form="00007A67" id="rxl_bp70_chaisefuck02_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00007A68" id="rxl_bp70_chaisefuck02_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ChaiseFuck_MM_03" frames="320" offset="0,0,0,180:0,0,0,180">
+	<actor gender="M">
+		<idle form="00007A69" id="rxl_bp70_chaisefuck03_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00007A6A" id="rxl_bp70_chaisefuck03_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ChaiseFuck_MM_04" frames="240">
+	<actor gender="M">
+		<idle form="00007A6B" id="rxl_bp70_chaisefuck04_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00007A6C" id="rxl_bp70_chaisefuck04_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_CowgirlBed_MM_01" frames="320">
+	<actor gender="M">
+		<idle form="000072C3" id="rxl_bp70_bedcowgirl_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000072C4" id="rxl_bp70_bedcowgirl_m"/>
+		<value path="morph" value="Erection Down" to="1"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_CowgirlBed_MM_Pound_01" frames="320">
+	<actor gender="M">
+		<idle form="0000ECB2" id="rxl_bp70_bedpoundcowgirl_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000ECB3" id="rxl_bp70_bedpoundcowgirl_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_DoggyBed_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
+	<actor gender="M">
+		<idle form="000072C5" id="rxl_bp70_beddoggy_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000072C6" id="rxl_bp70_beddoggy_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ExtractorChair_MM_01" frames="240">
+	<actor gender="M">
+		<idle form="000035E7" id="rxl_bp70_syringechairfuck_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000035E8" id="rxl_bp70_syringechairfuck_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ExtractorChair_MM_02" frames="240">
+	<actor gender="M">
+		<idle form="000035E9" id="rxl_bp70_syringechairfuck2_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000035EA" id="rxl_bp70_syringechairfuck2_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ExtractorChair_MM_03" frames="240">
+	<actor gender="M">
+		<idle form="000035EB" id="rxl_bp70_syringechairfuck3_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000035EC" id="rxl_bp70_syringechairfuck3_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ExtractorChair_MM_04" frames="360">
+	<actor gender="M">
+		<idle form="000035ED" id="rxl_bp70_syringechairfuck4_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000035EE" id="rxl_bp70_syringechairfuck4_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_ExtractorChair_MM_05" frames="240">
+	<actor gender="M">
+		<idle form="00005BEE" id="rxl_bp70_syringechairfuck5_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00005BEF" id="rxl_bp70_syringechairfuck5_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_MissionaryBed_MM_01" frames="320" offset="0,0,0,180:0,0,0,180">
+	<actor gender="M">
+		<idle form="000072C1" id="rxl_bp70_bedmissionary_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="000072C2" id="rxl_bp70_bedmissionary_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_MissionaryBed_MM_Pound_01" frames="320">
+	<actor gender="M">
+		<idle form="0000ECB4" id="rxl_bp70_bedpoundmissionary_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000ECB5" id="rxl_bp70_bedpoundmissionary_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_MissionaryBed_MM_Romantic_01" frames="320">
+	<actor gender="M">
+		<idle form="0000A072" id="rxl_bp70_bedromanticmish_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000A073" id="rxl_bp70_bedromanticmish_m"/>
+	</actor>
+</animation>
+
+<!-- Impregnation Animations -->
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_1" frames="160">
+	<actor gender="M">
+		<idle form="0000BEE7" id="rxl_bp70_impregnationmish_1_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEE8" id="rxl_bp70_impregnationmish_1_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_1TR2A" frames="1">
+	<actor gender="M">
+		<idle form="0000BEFB" id="rxl_bp70_impregnationmish_1_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEFC" id="rxl_bp70_impregnationmish_1_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_2A" frames="160">
+	<actor gender="M">
+		<idle form="0000BEE9" id="rxl_bp70_impregnationmish_2_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEEA" id="rxl_bp70_impregnationmish_2_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_2ATR3A" frames="16">
+	<actor gender="M">
+		<idle form="0000BEFD" id="rxl_bp70_impregnationmish_2_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEFE" id="rxl_bp70_impregnationmish_2_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_3A" frames="240">
+	<actor gender="M">
+		<idle form="0000BEEB" id="rxl_bp70_impregnationmish_3_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEEC" id="rxl_bp70_impregnationmish_3_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_3ATR4A" frames="16">
+	<actor gender="M">
+		<idle form="0000BEFF" id="rxl_bp70_impregnationmish_3_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BF00" id="rxl_bp70_impregnationmish_3_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_4A" frames="240">
+	<actor gender="M">
+		<idle form="0000BEED" id="rxl_bp70_impregnationmish_4_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEEE" id="rxl_bp70_impregnationmish_4_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_4ATR5A" frames="16">
+	<actor gender="M">
+		<idle form="0000BF01" id="rxl_bp70_impregnationmish_4_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BF02" id="rxl_bp70_impregnationmish_4_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_5A" frames="1400">
+	<actor gender="M">
+		<idle form="0000BEEF" id="rxl_bp70_impregnationmish_5_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEF0" id="rxl_bp70_impregnationmish_5_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_1TR2B" frames="80">
+	<actor gender="M">
+		<idle form="0000BF03" id="rxl_bp70_impregnationmish_1b_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BF04" id="rxl_bp70_impregnationmish_1b_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_2B" frames="160">
+	<actor gender="M">
+		<idle form="0000BEF3" id="rxl_bp70_impregnationmish_2b_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEF4" id="rxl_bp70_impregnationmish_2b_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_2BTR3B" frames="16">
+	<actor gender="M">
+		<idle form="0000BF05" id="rxl_bp70_impregnationmish_2b_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BF06" id="rxl_bp70_impregnationmish_2b_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_3B" frames="240">
+	<actor gender="M">
+		<idle form="0000BEF5" id="rxl_bp70_impregnationmish_3b_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEF6" id="rxl_bp70_impregnationmish_3b_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_3BTR4B" frames="16">
+	<actor gender="M">
+		<idle form="0000BF07" id="rxl_bp70_impregnationmish_3b_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BF08" id="rxl_bp70_impregnationmish_3b_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_4B" frames="240">
+	<actor gender="M">
+		<idle form="0000BEF7" id="rxl_bp70_impregnationmish_4b_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEF8" id="rxl_bp70_impregnationmish_4b_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_4BTR5B" frames="16">
+	<actor gender="M">
+		<idle form="0000BF09" id="rxl_bp70_impregnationmish_4b_f_trans"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BF0A" id="rxl_bp70_impregnationmish_4b_m_trans"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_Impregnate_01_5B" frames="1400">
+	<actor gender="M">
+		<idle form="0000BEF9" id="rxl_bp70_impregnationmish_5b_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000BEFA" id="rxl_bp70_impregnationmish_5b_m"/>
+	</actor>
+</animation>

@@ -1,0 +1,164 @@
+﻿<meta title="Crazy's Animations [Gun Version] - Animation Data" version="3.11.17" dataSet="animation"/>
+<defaults source="Crazy_Animations_Gun.esp"/>
+
+<!-- Normal -->
+
+<animation id="Crazy_Doggy_MM_01" offset="0,70,0,0:0,0,0,0" frames="519">
+	<actor gender="M">
+		<idle form="00004C89" id="CrazyDDogNormF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001738" id="CrazyDDogM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Doggy_MM_02" offset="0,70,0,0:0,0,0,0" frames="519">
+	<actor gender="M">
+		<idle form="00001739" id="CrazyDDogF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001738" id="CrazyDDogM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Pounding_MM_01" offset="0,70,0,0:0,0,0,0" frames="500">
+	<actor gender="M">
+		<idle form="00004C8A" id="CrazyGPoundF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C8B" id="CrazyGPoundM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Pounding_MM_02" offset="0,70,0,0:0,0,0,0" frames="500">
+	<actor gender="M">
+		<idle form="00004C8A" id="CrazyGPoundF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C8C" id="CrazyGPoundRevM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Handjob_MM_01" offset="0,70,0,0:0,0,0,0" frames="84">
+	<actor gender="M">
+		<idle form="00006368" id="CrazyHandjobF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00006369" id="CrazyHandjobM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Missionary_MM_01" offset="0,70,0,0:0,0,0,0" frames="490">
+	<actor gender="M">
+		<idle form="00004C8D" id="CrazyMissionF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C8E" id="CrazyMissionM"/>
+		<value path="morph" value="Erection Down" to="0.5"/>
+		<value path="morph" value="Penis Length" to="-0.6"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Riding_MM_01" offset="0,68,0,0:0,0,0,0" frames="500">
+	<actor gender="M">
+		<idle form="0000173F" id="CrazyRidingF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001740" id="CrazyRidingM"/>
+		<value path="morph" value="Penis Length" to="-0.6"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Standing_MM_01" offset="0,70,0,0:0,0,0,0" frames="450">
+	<actor gender="M">
+		<idle form="00001741" id="CrazyStandF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001742" id="CrazyStandM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Standing_MM_02" offset="0,70,0,0:0,0,0,0" frames="450">
+	<actor gender="M">
+		<idle form="00001741" id="CrazyStandF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00006367" id="CrazyStandShoulderM"/>
+	</actor>
+</animation>
+
+<!-- Furniture Animations -->
+
+<animation id="Crazy_DoggyBed_MM_01" offset="0,40,43,0:0,-30,43,0" frames="519">
+	<actor gender="M">
+		<idle form="00004C89" id="CrazyDDogNormBedF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001738" id="CrazyDDogBedM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_DoggyBed_MM_02" offset="0,40,0,0:0,-30,0,0" frames="519">
+	<actor gender="M">
+		<idle form="00004C8F" id="CrazyDDogBedF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C90" id="CrazyDDogBedM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_DoggyPillory_MM_01" offset="0,70,0,0" frames="450">
+	<actor gender="M">
+		<idle form="0000173C" id="CrazyPilloryM"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_PoundingBed_MM_01" offset="0,70,0,0:0,0,0,0" frames="500">
+	<actor gender="M">
+		<idle form="00004C92" id="CrazyGPoundBedF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C93" id="CrazyGPoundBedM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_PoundingBed_MM_02" offset="0,70,0,0:0,0,0,0" frames="500">
+	<actor gender="M">
+		<idle form="00004C92" id="CrazyGPoundBedF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C94" id="CrazyGPoundRevBedM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_MissionaryBed_MM_01" offset="0,60,0,0:0,-10,0,0" frames="490">
+	<actor gender="M">
+		<idle form="00004C95" id="CrazyMissionBedF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00004C96" id="CrazyMissionBedM"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_RidingBed_MM_01" offset="0,-70,0,180:,0,0,180" frames="500">
+	<actor gender="M">
+		<idle form="0000173D" id="CrazyRidingBedF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0000173E" id="CrazyRidingBedM"/>
+		<value path="morph" value="Erection Up" to="0.7"/>
+	</actor>
+</animation>
+
+<!-- Male Solo Animations -->
+
+<animation id="Crazy_Masturbate_M_01" offset="0,70,0,0" frames="80">
+	<actor gender="M">
+		<idle form="00005433" id="CrazyJerkOffM"/>
+	</actor>
+</animation>

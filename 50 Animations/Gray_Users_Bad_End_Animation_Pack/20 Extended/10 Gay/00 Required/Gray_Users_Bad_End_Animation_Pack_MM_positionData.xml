@@ -1,0 +1,74 @@
+<meta title="Gray User's Bad End Animation Pack - Gay Position Data" version="1.0.3" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Institute Chair Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Staged)" location="InstituteChairFurniture" animationGroup="GUBEAP_Chair_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 1)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 2)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 3)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S3"/>
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 4)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S4"/>
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 5A)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S5A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 5B)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S5B"/>
+
+<!-- Machine Chair Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Staged)" location="MachineChairFurniture" animationGroup="GUBEAP_Chair_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 1)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 2)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 3)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S3"/>
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 4)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S4"/>
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 5A)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S5A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 5B)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S5B"/>
+
+<!-- Garrote Free Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Staged)" location="StranglingPoleFurniture" animationGroup="GUBEAP_Garrote_Free_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 1)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 2)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 3)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S3"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 4)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S4"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 5A)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S5A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 5B)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S5B"/>
+
+<!-- Garrote Tied Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Staged)" location="StranglingPoleFurniture" animationGroup="GUBEAP_Garrote_Tied_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 1)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 2)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 3)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S3"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 4)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S4"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 5A)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S5A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 5B)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S5B"/>
+
+<!-- Noose High Free Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Staged)" location="GallowsFurniture" animationGroup="GUBEAP_Hanging_Free_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 1)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 2)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 3)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S3"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 4A)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S4A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 4B)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S4B"/>
+
+<!-- Noose High Tied Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Staged)" location="GallowsFurniture" animationGroup="GUBEAP_Hanging_Tied_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 1)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 2)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 3)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S3"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 4A)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S4A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 4B)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S4B"/>
+
+<!-- Pole High Animations -->
+
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Staged)" location="ImpalingPoleFurniture" animationGroup="GUBEAP_Pole_MM_01_Staged"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 1)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S1"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 2)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S2"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 3)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S3"/>
+<!-- Pole Low Animations -->
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 4)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S4"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 5)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S5"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 6)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S6"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 7A)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S7A"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 7B)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S7B"/>
+<position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 7C)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S7C"/>

@@ -1,0 +1,16 @@
+<meta title="Atomic Lust - Male Masturbation Animation Data" version="2.6.1b" dataSet="animation"/>
+<defaults source="Atomic Lust.esp"/>
+
+<!-- Solo Male Animations -->
+
+<animation id="AtomicLust_Jerking_M_01" frames="400">
+	<actor gender="M">
+		<idle form="000428DC" id="AtomicJerkingM"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_Jerking_M_Orgasm_01" frames="400">
+	<actor gender="M">
+		<idle form="000428DD" id="AtomicJerkingOrgasmM"/>
+	</actor>
+</animation>

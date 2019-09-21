@@ -1,0 +1,20 @@
+<meta title="AAF - BodyTalk V2 Morph Set Data" version="0.9.3-b" dataSet="morphSet"/>
+<defaults/>
+
+<morphSet id="ready">
+	<condition isFemale="false">
+		<morph value="CErection" to="1"/>
+		<morph value="Erection" to="1"/>
+		<morph value="Erection Up" to="0"/>
+		<morph value="Erection Down" to="0"/>
+	</condition>
+</morphSet>
+
+<morphSet id="unReady">
+	<condition isFemale="false">
+		<morph value="CErection" to="0"/>
+		<morph value="Erection" to="0"/>
+		<morph value="Erection Up" to="0"/>
+		<morph value="Erection Down" to="0"/>
+	</condition>
+</morphSet>

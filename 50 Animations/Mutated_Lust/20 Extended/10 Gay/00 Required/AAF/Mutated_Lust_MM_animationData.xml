@@ -1,0 +1,111 @@
+<meta title="Mutated Lust - MM Animation Data" version="1.2.0" dataSet="animation"/>
+<defaults source="Mutated Lust.esp"/>
+
+<!-- Supermutant Animations -->
+
+<animation id="ML_Blowjob_MM_01" frames="480">
+	<actor gender="M">
+		<idle form="000F9B" id="ML_Blowjob F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="000F9C" id="ML_Blowjob SM"/>
+		<value path="morph" value="Erection Down" to="0.4"/>
+		<value path="morph" value="Erection Up" to="0.2"/>
+		<value path="morph" value="CErection" to="1.2"/>
+	</actor>
+</animation>
+
+<animation id="ML_PenisLick_MM_01" frames="195">
+	<actor gender="M">
+		<idle form="004C70" id="ML_Penis Lick F"/>
+		<value path="action" value="addTongue" loop="true" frames="97.5"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="004C71" id="ML_Penis Lick SM"/>
+	</actor>
+</animation>
+
+<animation id="ML_Missionary_MM_Forced_01" frames="242">
+	<actor gender="M">
+		<idle form="0100AF46" id="MutatedSMForcedMissionaryF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0100AF47" id="MutatedSMForcedMissionarySM"/>
+	</actor>
+</animation>
+
+
+
+<animation id="ML_MissionarPipeRifle_MM_Forced_01" frames="254">
+	<actor gender="M">
+		<idle form="0100B6E2" id="MutatedSMForcedMissionaryPRF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0100B6E3" id="MutatedSMForcedMissionaryPRSM"/>
+	</actor>
+</animation>
+
+<animation id="MM_Doggy_MM_01" frames="480">
+	<actor gender="M">
+		<idle form="007A0D" id="MM FEV Doggy F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="007A0E" id="MM FEV Doggy SM"/>
+	</actor>
+</animation>
+
+<animation id="MM_Cowgirl_MM_01" offset="0,0,0,0:5,2,0,0" frames="480">
+	<actor gender="M">
+		<idle form="0081A9" id="MM FEV Cowgirl F"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0081A8" id="MM FEV Cowgirl SM"/>
+	</actor>
+</animation>
+
+<!-- Feral Ghoul Animations -->
+
+<animation id="ML_Cowgirl_MM_01" frames="480">
+	<actor gender="M">
+		<idle form="000F99" id="ML_Cowgirl F"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="000F9A" id="ML_Cowgirl FG"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+	</actor>
+</animation>
+
+<!-- Deathclaw Animations -->
+
+<animation id="ML_Fleshlight_MM_01" frames="480">
+	<actor gender="M">
+		<idle form="0035A1" id="ML_Fleshlight F"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="0035A2" id="ML_Fleshlight D"/>
+		<value path="morph" value="Up" to="0.5"/>
+		<value path="morph" value="Scale" to="1"/>
+	</actor>
+</animation>
+
+<animation id="ML_Tease_MM_01" frames="480">
+	<actor gender="M">
+		<idle form="004C6F" id="ML_Tease F"/>
+		<value path="morph" value="Erection Up" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="004C6E" id="ML_Tease D"/>
+		<value path="morph" value="Scale" to="1"/>
+	</actor>
+</animation>
+
+<animation id="ML_Dumpster_MM_01" frames="480">
+	<actor gender="M">
+		<idle form="00A7AA" id="ML_Dumpster Bang F"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="00A7AB" id="ML_Dumpster Bang D"/>
+		<value path="morph" value="Up" to="1.2"/>
+		<value path="morph" value="Scale" to="1"/>
+	</actor>
+</animation>

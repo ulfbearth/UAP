@@ -1,0 +1,6 @@
+<meta title="Atomic Lust - DLCworkshop03 Furniture Data" version="2.6.1b" dataSet="furniture"/>
+<defaults source="DLCworkshop03.esm"/>
+
+<group id="Single Bed">
+	<furniture form="00004981" id="DLC06WorkshopNpcBedVaultLay02"/>
+</group>

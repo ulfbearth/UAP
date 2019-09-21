@@ -1,0 +1,24 @@
+<meta title="Atomic Lust - Settlement Objects Expansion Pack Furniture Data" version="2.6.1b" dataSet="furniture"/>
+<defaults source="SettleObjExpandPack.esp"/>
+
+<group id="Institute Wallmounted Bed">
+	<furniture form="00000D41" id="workshop_NPCBedInstituteMountedSleep01a"/>
+</group>
+
+<group id="Institute Double Bed">
+	<furniture form="00000D42" id="workshop_NPCBedInstituteMountedSleepDbl01a"/>
+</group>
+
+<group id="Institute Single Bed">
+	<furniture form="00000D43" id="workshop_NPCBedInstituteSleep01a"/>
+	<furniture form="00000D44" id="workshop_NPCBedInstituteSleep02a"/>
+</group>
+
+<group id="Institute Med Bay">
+	<furniture form="00000D40" id="workshop_NPCBedInstituteMedBaySleep01a"/>
+</group>
+
+<group id="Cryo Pod">
+	<furniture form="00082682" id="SOECryoPod01Chair"/>
+	<furniture form="00082684" id="SOECryoPod01Guard"/>	
+</group>

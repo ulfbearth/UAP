@@ -1,0 +1,5 @@
+<meta title="AAF - DLCRobot Race Data" version="2.0.0" dataSet="race"/>
+<defaults source="DLCRobot.esm" skeleton="Human" maleSWF="AAF_ActorIcon_Human_M.swf" femaleSWF="AAF_ActorIcon_Human_F.swf"/>
+
+<race id="DLC01_HandyCreateABot" form="27B9" skeleton="HandyCreateABot" maleSWF="AAF_ActorIcon_MrHandy.swf" femaleSWF="AAF_ActorIcon_MrHandy.swf" requiresAnimationReset="true"/>
+<race id="DLC01_RobotBrain" form="1129" skeleton="CreateABot" maleSWF="AAF_ActorIcon_Protectron.swf" femaleSWF="AAF_ActorIcon_Protectron.swf" requiresAnimationReset="true"/>

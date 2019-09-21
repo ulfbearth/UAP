@@ -1,0 +1,6 @@
+<meta title="Devious Devices - Protected Equipment Data" version="2.0.0" dataSet="protectedEquipment"/>
+<defaults/>
+
+<condition>
+	<protectKeyword form="00004C5C" source="Devious Devices.esm"/>
+</condition>
