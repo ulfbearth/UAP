@@ -68,6 +68,7 @@
 	<actor gender="M">
 		<idle form="00001740" id="CrazyRidingM"/>
 		<value path="morph" value="Penis Length" to="-0.6"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
 	</actor>
 </animation>
 
