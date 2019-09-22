@@ -25,6 +25,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FD8"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
 	</actor>
 </animation>
 
@@ -34,6 +35,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FDA"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -43,6 +45,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FDC"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -52,6 +55,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FDE"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -61,6 +65,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FE0"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -70,6 +75,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FE2"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -88,54 +94,6 @@
 	</actor>
 	<actor gender="M">
 		<idle form="FE7"/>
-	</actor>
-</animation>
-
-<animation id="AJ-MM-Gr-Bed02-01Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
-	<actor gender="M">
-		<idle form="FE8"/>
-	</actor>
-	<actor gender="M">
-		<idle form="FE9"/>
-	</actor>
-</animation>
-
-<animation id="AJ-MM-Gr-Bed02-02Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
-	<actor gender="M">
-		<idle form="FEA"/>
-	</actor>
-	<actor gender="M">
-		<idle form="FEB"/>
-		<value path="morph" value="Erection Up" to="0.5"/>
-	</actor>
-</animation>
-
-<animation id="AJ-MM-Gr-Bed02-03Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
-	<actor gender="M">
-		<idle form="FEC"/>
-	</actor>
-	<actor gender="M">
-		<idle form="FED"/>
-		<value path="morph" value="Erection Up" to="0.5"/>
-	</actor>
-</animation>
-
-<animation id="AJ-MM-Gr-Bed02-04Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
-	<actor gender="M">
-		<idle form="FEE"/>
-	</actor>
-	<actor gender="M">
-		<idle form="FEF"/>
-		<value path="morph" value="Erection Up" to="0.5"/>
-	</actor>
-</animation>
-
-<animation id="AJ-MM-Gr-Bed02-05Straddle" time="500" offset="0,0,-40,0:0,0,-40,0">
-	<actor gender="M">
-		<idle form="6C08"/>
-	</actor>
-	<actor gender="M">
-		<idle form="6C09"/>
 	</actor>
 </animation>
 
@@ -180,11 +138,12 @@
 
 <animation id="AJ-MM-Gr-DoubleBed02-05Powerbomb" time="500" offset="20,0,-40,0:20,0,-40,0">
 	<actor gender="M">
-		<idle form="E5B2"/>
+		<idle form="ED4D"/>
 	</actor>
 	<actor gender="M">
-		<idle form="E5B3"/>
+		<idle form="ED4E"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="Erection" to="0.45"/>
 	</actor>
 </animation>
 
@@ -195,6 +154,7 @@
 	<actor gender="M">
 		<idle form="ED4E"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="Erection" to="0.45"/>
 	</actor>
 </animation>
 
@@ -247,6 +207,8 @@
 <animation id="AJ-MM-Gr-PoolTable01-05Missionary" time="500" offset="20,0,-68,90:20,0,-68,90">
 	<actor gender="M">
 		<idle form="180A"/>
+		<value path="morph" value="Erection Up" to="2"/>
+		<value path="morph" value="Erection" to="0.5"/>
 	</actor>
 	<actor gender="M">
 		<idle form="180B"/>
@@ -257,6 +219,8 @@
 <animation id="AJ-MM-Gr-PoolTable01-06Missionary" time="500" offset="20,0,-68,90:20,0,-68,90">
 	<actor gender="M">
 		<idle form="6C10"/>
+		<value path="morph" value="Erection Up" to="2"/>
+		<value path="morph" value="Erection" to="0.5"/>
 	</actor>
 	<actor gender="M">
 		<idle form="6C11"/>

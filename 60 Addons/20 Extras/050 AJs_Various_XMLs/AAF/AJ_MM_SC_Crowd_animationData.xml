@@ -117,6 +117,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="181D"/>
+		<value path="morph" value="Erection Down" to="0.4"/>
 	</actor>
 	<actor gender="M">
 		<idle form="181E"/>
@@ -129,6 +130,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="1820"/>
+		<value path="morph" value="Erection Down" to="0.4"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1821"/>
@@ -168,7 +170,8 @@
 	</actor>
 	<actor gender="M">
 		<idle form="103C"/>
-		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="Erection Down" to="2"/>
+		<value path="morph" value="Erection Down" to="2"/>
 	</actor>
 </animation>
 
@@ -217,7 +220,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="BFA9"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.5"/>
 	</actor>
 	<actor gender="M">
 		<idle form="BFAA"/>
@@ -344,11 +347,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="2764"/>
-			<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.7"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2765"/>
-			<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.7"/>
 	</actor>
 </animation>
 
@@ -358,11 +361,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="1231A"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.7"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1231B"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.7"/>
 	</actor>
 </animation>
 
@@ -372,11 +375,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="3699"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.7"/>
 	</actor>
 	<actor gender="M">
 		<idle form="369A"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.7"/>
 	</actor>
 </animation>
 
@@ -502,5 +505,6 @@
 	</actor>
 	<actor gender="M">
 		<idle form="113DC"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
 	</actor>
 </animation>
