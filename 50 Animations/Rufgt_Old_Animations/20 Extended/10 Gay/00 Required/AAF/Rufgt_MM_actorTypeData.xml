@@ -1,0 +1,14 @@
+<meta title="Rufgt_actorTypeData.xml" version="2.3a" dataSet="actorType"/>
+<defaults source="Fallout4.esm"/>
+
+<!-- HUMANS -->
+
+<group id="Ghoul">
+	<actorType form="000EAFB7" id="ActorTypeGhoul"/>
+</group>
+
+
+
+
+
+

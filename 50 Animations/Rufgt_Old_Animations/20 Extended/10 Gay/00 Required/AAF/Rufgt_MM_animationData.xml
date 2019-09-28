@@ -1,0 +1,63 @@
+<meta title="Rufgt_animationData.xml" version="2.3a" dataSet="animation"/>
+<defaults source="rufgt's Animations.esp"/>
+
+
+<animation id="MM Rocket 69" time="60">
+	<actor gender="M">
+		<idle form="01001732" id="MM 69Bottom"/>
+	</actor>
+	<actor gender="M">
+		<idle form="01001ECC" id="MM 69Top"/>
+	</actor>
+</animation>
+
+
+<animation id="MM Kissing" time="60">
+	<actor gender="M">
+		<idle form="0100359A" id="MM KissingStandingA"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0100359B" id="MM KissingStandingB"/>
+	</actor>
+</animation>
+
+
+<animation id="MM Make Out" time="60">
+	<actor gender="M">
+		<idle form="01004C6D" id="MM MakeOutA"/>
+	</actor>
+	<actor gender="M">
+		<idle form="01004C6E" id="MM MakeOutB"/>
+	</actor>
+</animation>
+
+
+<animation id="MM Smooching" time="60">
+	<actor gender="M">
+		<idle form="01006AD8" id="MM SmoochingM"/>
+	</actor>
+	<actor gender="M">
+		<idle form="01006AD7" id="MM SmoochingF"/>
+	</actor>
+</animation>
+
+
+<animation id="MM Cunnilingus" time="60">
+	<actor gender="M">
+		<idle form="01007A0D" id="MM CunnilingusA"/>
+	</actor>
+	<actor gender="M">
+		<idle form="01007A0E" id="MM CunnilingusB"/>
+	</actor>
+</animation>
+
+
+<animation id="MM Spooning" time="60">
+	<actor gender="M">
+		<idle form="01008942" id="MM SpooningM"/>
+		<value path="morph" value="Erection Up" to="1.25"/>
+	</actor>
+	<actor gender="M">
+		<idle form="01008943" id="MM SpooningF"/>
+	</actor>
+</animation>
