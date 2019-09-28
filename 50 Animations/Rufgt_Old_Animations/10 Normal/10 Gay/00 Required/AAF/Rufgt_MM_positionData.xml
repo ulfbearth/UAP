@@ -2,22 +2,18 @@
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
 <position id="Rufgt - Gay Rocket 69" animation="MM Rocket 69"/>
-<position id="Rufgt - Gay Rocket 69" animation="MM Rocket 69"/>
 
-<position id="Rufgt - Gay Kissing" animation="MM Kissing"/>
-<position id="Rufgt - Gay Kissing" animation="MM Kissing"/>
 
-<position id="Rufgt - Gay The Scissor" animation="MM The Scissor"/>
-<position id="Rufgt - Gay The Scissor" animation="MM The Scissor"/>
+<position id="Rufgt - Gay Kissing" animation="MM Kissing" tags="SEUKissing"/>
 
-<position id="Rufgt - Gay Make Out" animation="MM Make Out"/>
-<position id="Rufgt - Gay Make Out" animation="MM Make Out"/>
 
-<position id="Rufgt - Gay Smooching" animation="MM Smooching"/>
-<position id="Rufgt - Gay Smooching" animation="MM Smooching"/>
+<position id="Rufgt - Gay Make Out" animation="MM Make Out" tags="SEUKissing"/>
+
+
+<position id="Rufgt - Gay Smooching" animation="MM Smooching" tags="SEUKissing"/>
+
 
 <position id="Rufgt - Gay Cunnilingus" animation="MM Cunnilingus"/>
-<position id="Rufgt - Gay Cunnilingus" animation="MM Cunnilingus"/>
 
-<position id="Rufgt - Gay Spooning" animation="MM Spooning"/>
+
 <position id="Rufgt - Gay Spooning" animation="MM Spooning"/>
