@@ -33,13 +33,6 @@
 <position id="Atomic Lust - Gay Cuddle (Double Bed)" location="Double Bed" animation="AtomicLust_CuddleBed_MM_01" tags="Rufgt,M_M,DoubleBed,SFW,Cuddle,Loving,Held3,Stim1,Love7,Dom-1,NullToSelf,BodyToBody"/>
 <position id="Atomic Lust - Gay Cryo Pod" location="Cryo Pod" animation="AtomicLust_CryoPod_MM_01" tags="Rufgt,M_M,CryoPod,FromBehind,Neutral,Held1,Love5,Stim9,Dom1,NullToSelf,PenisToAnus"/>
 
-<!-- Spanking Animations -->
-
-<position id="Atomic Lust - Gay Spanking (Staged)" animationGroup="AtomicLust_Spanking_MM_01_Staged" tags="Rufgt,M_M,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
-<position id="Atomic Lust - Gay Spanking (Stage 1)" animation="AtomicLust_Spanking_MM_01_S1" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
-<position id="Atomic Lust - Gay Spanking (Stage 2)" animation="AtomicLust_Spanking_MM_01_S2" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
-<position id="Atomic Lust - Gay Spanking (Stage 3)" animation="AtomicLust_Spanking_MM_01_S3" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
-<position id="Atomic Lust - Gay Spanking (Stage 4)" animation="AtomicLust_Spanking_MM_01_S4" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
 
 <!-- positionTree Animations -->
 
@@ -49,6 +42,14 @@
 <position id="Atomic Lust - Gay Holding Kissing" animation="AtomicLust_HoldingKissing_MM_01" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,SFW,Kissing,FromFront,Loving,Held3,Stim3,Love7,Dom-3,NullToSelf,MouthToMouth"/>
 <position id="Atomic Lust - Gay Standing" animation="AtomicLust_StandingIdle_MM_01" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,SFW,Standing,FromFront,Loving,Held0,Stim1,Love1,Dom0,NullToSelf,EyeToEye"/>
 <position id="Atomic Lust - Gay Standing to Holding Hands" animation="AtomicLust_StandingIdletoHoldingHands_MM_01" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,SFW,HoldingHands,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,HandToHand"/>
+
+<!-- PositionTree Spanking Animations -->
+
+<position id="Atomic Lust - Gay Spanking (Stage 1)" animation="AtomicLust_Spanking_MM_01_S1" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="Atomic Lust - Gay Spanking (Stage 2)" animation="AtomicLust_Spanking_MM_01_S2" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="Atomic Lust - Gay Spanking (Stage 3)" animation="AtomicLust_Spanking_MM_01_S3" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="Atomic Lust - Gay Spanking (Stage 4)" animation="AtomicLust_Spanking_MM_01_S4" isHidden="true" tags="Rufgt,M_M,Hidden,Utility,NoFurn,Spanking,FromBehind,Neutral,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+
 
 <!-- Threesome Animations -->
 
