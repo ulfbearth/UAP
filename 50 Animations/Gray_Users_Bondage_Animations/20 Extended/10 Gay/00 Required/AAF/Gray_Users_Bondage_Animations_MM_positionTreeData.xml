@@ -1,0 +1,40 @@
+<meta title="GrayUserBP_positionTreeData.xml" version="1.0" dataSet="positionTree"/>
+<defaults />
+
+<tree id="GrayUser BP Gay Facedown">
+	<branch id="BPGayFacedown00" positionID="Gray User's Bondage Animations - Gay Facedown (Stage 1)">
+		<branch id="BPGayFacedown01" positionID="Gray User's Bondage Animations - Gay Facedown (Stage 2)">
+			<branch id="BPGayFacedown02" positionID="Gray User's Bondage Animations - Gay Facedown (Stage 3)">
+			</branch>
+		</branch>
+	</branch>
+</tree>
+
+<tree id="GrayUser BP Gay Facedown Kneel">
+	<branch id="BPGayFacedownkneel00" positionID="Gray User's Bondage Animations - Gay Facedown (Kneel, Stage 1)">
+		<branch id="BPGayFacedownkneel01" positionID="Gray User's Bondage Animations - Gay Facedown (Kneel, Stage 2)">
+		</branch>
+	</branch>
+</tree>
+
+<tree id="GrayUser BP Gay Hogtie">
+	<branch id="BPGayHogtie00" positionID="Gray User's Bondage Animations - Gay Hogtie (Stage 1)">
+		<branch id="BPGayHogtie01" positionID="Gray User's Bondage Animations - Gay Hogtie (Stage 2)">
+			<branch id="BPGayHogtie02" positionID="Gray User's Bondage Animations - Gay Hogtie (Stage 3)">
+					<branch id="BPGayHogtie03" positionID="Gray User's Bondage Animations - Gay Hogtie (Stage 4)">
+					</branch>
+			</branch>
+		</branch>
+	</branch>
+</tree>
+
+<tree id="GrayUser BP Gay Side">
+	<branch id="BPGaySide00" positionID="Gray User's Bondage Animations - Gay Side (Stage 1)">
+		<branch id="BPGaySide01" positionID="Gray User's Bondage Animations - Gay Side (Stage 2)">
+			<branch id="BPGaySide02" positionID="Gray User's Bondage Animations - Gay Side (Stage 3)">
+					<branch id="BPGaySide03" positionID="Gray User's Bondage Animations - Gay Side (Stage 4)">
+					</branch>
+			</branch>
+		</branch>
+	</branch>
+</tree>
