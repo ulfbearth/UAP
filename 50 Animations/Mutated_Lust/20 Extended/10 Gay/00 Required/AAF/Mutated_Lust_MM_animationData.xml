@@ -45,7 +45,7 @@
 	</actor>
 </animation>
 
-<animation id="MM_Doggy_MM_01" frames="480">
+<animation id="ML_Doggy_MM_01" frames="480">
 	<actor gender="M">
 		<idle form="007A0D" id="MM FEV Doggy F"/>
 	</actor>
@@ -54,7 +54,7 @@
 	</actor>
 </animation>
 
-<animation id="MM_Cowgirl_MM_01" offset="0,0,0,0:5,2,0,0" frames="480">
+<animation id="ML_Cowgirl_MM_01" offset="0,0,0,0:5,2,0,0" frames="480">
 	<actor gender="M">
 		<idle form="0081A9" id="MM FEV Cowgirl F"/>
 	</actor>
@@ -65,7 +65,7 @@
 
 <!-- Feral Ghoul Animations -->
 
-<animation id="ML_Cowgirl_MM_01" frames="480">
+<animation id="ML_FG_Cowgirl_MM_01" frames="480">
 	<actor gender="M">
 		<idle form="000F99" id="ML_Cowgirl F"/>
 	</actor>

@@ -9,7 +9,7 @@
 
 <!-- Feral Ghoul Animations -->
 
-<position id="Mutated Lust - Gay Cowgirl (Feral Ghoul) " animation="MM_Cowgirl_MM_01" tags="Rufgt,Creature,M_FGhoulM,NoFurn,Cowgirl,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+<position id="Mutated Lust - Gay Cowgirl (Feral Ghoul) " animation="ML_FG_Cowgirl_MM_01" tags="Rufgt,Creature,M_FGhoulM,NoFurn,Cowgirl,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
 
 <!-- Supermutant Animations -->
 
@@ -20,5 +20,5 @@
 
 <!-- Furniture Animations -->
 
-<position id="Mutated Lust - Gay Cowgirl" location="FEV Chamber" animation="MM_Cowgirl_MM_01" tags="Rufgt,Creature,M_SMutantM,FEVChamber,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="Mutated Lust - Gay Doggy" location="FEV Chamber" animation="MM_Doggy_MM_01" tags="Rufgt,Creature,M_SMutantM,FEVChamber,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
+<position id="Mutated Lust - Gay Cowgirl" location="FEV Chamber" animation="ML_Cowgirl_MM_01" tags="Rufgt,Creature,M_SMutantM,FEVChamber,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
+<position id="Mutated Lust - Gay Doggy" location="FEV Chamber" animation="ML_Doggy_MM_01" tags="Rufgt,Creature,M_SMutantM,FEVChamber,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
