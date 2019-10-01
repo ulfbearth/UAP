@@ -1,6 +1,83 @@
 <meta title="Gray User's Creature Pack - Animation Group Data" version="2.0.0" dataSet="animationGroup"/>
 <defaults/>
 
+<!-- Supermutant -->
+
+<animationGroup id="GUCP_Supermutant_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_Supermutant_MM_01_S1"/>
+	<stage animation="GUCP_Supermutant_MM_01_S2"/>
+	<stage animation="GUCP_Supermutant_MM_01_S3"/>
+	<stage animation="GUCP_Supermutant_MM_01_S4"/>
+</animationGroup>
+
+<animationGroup id="GUCP_Supermutant_MM_02_Staged" sequential="true">
+	<stage animation="GUCP_Supermutant_MM_02_S1"/>
+	<stage animation="GUCP_Supermutant_MM_02_S2"/>
+	<stage animation="GUCP_Supermutant_MM_02_S3"/>
+	<stage animation="GUCP_Supermutant_MM_02_S4"/>
+</animationGroup>
+
+<!-- FEVHound -->
+
+<animationGroup id="GUCP_FEVHound_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_FEVHound_MM_01_S1"/>
+	<stage animation="GUCP_FEVHound_MM_01_S2"/>
+	<stage animation="GUCP_FEVHound_MM_01_S3"/>
+	<stage animation="GUCP_FEVHound_MM_01_S4"/>
+</animationGroup>
+
+<!-- Deathclaw -->
+
+<animationGroup id="GUCP_Deathclaw_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+	<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+	<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+	<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+</animationGroup>
+
+<!-- Feral Ghoul -->
+
+<animationGroup id="GUCP_Ghoul_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_Ghoul_MM_01_S1"/>
+	<stage animation="GUCP_Ghoul_MM_01_S2"/>
+	<stage animation="GUCP_Ghoul_MM_01_S3"/>
+	<stage animation="GUCP_Ghoul_MM_01_S4"/>
+</animationGroup>
+
+<animationGroup id="GUCP_Ghoul_MM_02_Staged" sequential="true">
+	<stage animation="GUCP_Ghoul_MM_02_S1"/>
+	<stage animation="GUCP_Ghoul_MM_02_S2"/>
+	<stage animation="GUCP_Ghoul_MM_02_S3"/>
+	<stage animation="GUCP_Ghoul_MM_02_S4"/>
+</animationGroup>
+
+<!-- Molerat -->
+
+<animationGroup id="GUCP_Molerat_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_Molerat_MM_01_S1"/>
+	<stage animation="GUCP_Molerat_MM_01_S2"/>
+	<stage animation="GUCP_Molerat_MM_01_S3"/>
+	<stage animation="GUCP_Molerat_MM_01_S4"/>
+</animationGroup>
+
+<!-- Behemoth -->
+
+<animationGroup id="GUCP_Behemoth_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_Behemoth_MM_01_S1"/>
+	<stage animation="GUCP_Behemoth_MM_01_S2"/>
+	<stage animation="GUCP_Behemoth_MM_01_S3"/>
+	<stage animation="GUCP_Behemoth_MM_01_S4"/>
+</animationGroup>
+
+<!-- Alien -->
+
+<animationGroup id="GUCP_Alien_MM_01_Staged" sequential="true">
+	<stage animation="GUCP_Alien_MM_01_S1"/>
+	<stage animation="GUCP_Alien_MM_01_S2"/>
+	<stage animation="GUCP_Alien_MM_01_S3"/>
+	<stage animation="GUCP_Alien_MM_01_S4"/>
+</animationGroup>
+
 <!-- Bloatfly -->
 
 <animationGroup id="GUCP_Bloatfly_MM_01_Staged" sequential="true">
