@@ -23,7 +23,9 @@
 
 
 
-<animation id="SCAP_HandjobThrone_MM_2Human_01_S3" frames="500">
+
+
+<animation id="SCAP_BlowjobThrone_MM_2Human_01_S3" frames="500">
 	<actor gender="M">
 		<idle form="0000101A" id="FM-Throne01-03Handjob-F1"/>
 	</actor>
@@ -32,7 +34,7 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobThrone_MM_2Human_01_S4" frames="500">
+<animation id="SCAP_BlowjobThrone_MM_2Human_01_S4" frames="500">
 	<actor gender="M">
 		<idle form="0000E62E" id="FM-Throne01-04Handjob-F1"/>
 	</actor>
@@ -40,6 +42,26 @@
 		<idle form="0000E62F" id="FM-Throne01-04Handjob-M1"/>
 	</actor>
 </animation>
+
+<animation id="SCAP_BlowjobThrone_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
+		<idle form="27335"/>
+	</actor>
+	<actor gender="M">
+		<idle form="27336"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_BlowjobThrone_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
+		<idle form="27343"/>
+	</actor>
+	<actor gender="M">
+		<idle form="27344"/>
+	</actor>
+</animation>
+
+
 
 
 

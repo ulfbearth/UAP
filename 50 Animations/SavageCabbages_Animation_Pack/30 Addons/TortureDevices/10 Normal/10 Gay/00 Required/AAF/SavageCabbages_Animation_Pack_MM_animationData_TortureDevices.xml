@@ -3,7 +3,7 @@
 
 
 
-<animation id="SCAP_DoggyHydroPillory_MM_2Human_01" frames="500">
+<animation id="SCAP_DoggyHydroPillory_MM_2Human_01_S3" frames="500">
 	<actor gender="M">
 		<idle form="0000100E" id="FM-HydroPillory01-02Doggy-F1"/>
 	</actor>
@@ -12,6 +12,23 @@
 	</actor>
 </animation>
 
+<animation id="SCAP_DoggyHydroPillory_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
+		<idle form="27323"/>
+	</actor>
+	<actor gender="M">
+		<idle form="27324"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_DoggyHydroPillory_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
+		<idle form="27325"/>
+	</actor>
+	<actor gender="M">
+		<idle form="27326"/>
+	</actor>
+</animation>
 
 
 <animation id="SCAP_DoggyPillory_MM_2Human_01_S2" frames="500">

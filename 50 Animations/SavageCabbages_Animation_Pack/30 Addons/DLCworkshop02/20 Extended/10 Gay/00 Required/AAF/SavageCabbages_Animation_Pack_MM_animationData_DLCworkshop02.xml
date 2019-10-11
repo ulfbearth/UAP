@@ -3,6 +3,15 @@
 
 
 
+<animation id="SCAP_DoggyStocks_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
+		<idle form="CEDF"/>
+	</actor>
+	<actor gender="M">
+		<idle form="CEE0"/>
+	</actor>
+</animation>
+
 <animation id="SCAP_DoggyStocks_MM_2Human_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00001818" id="FM-Stocks01-02Start-F1"/>

@@ -1,6 +1,10 @@
 <meta title="SavageCabbage's Animation Pack - Furniture Data" version="1.0.4" dataSet="furniture"/>
 <defaults source="Fallout4.esm"/>
 
+<group id="Strip_Pole">
+	<furniture form="000471F9" id="Flagpolenoflag"/>
+</group>
+
 <group id="Single_Bed">
 	<furniture form="000488E6" id="InstituteBedWallMounted01"/>
 	<furniture form="000E6952" id="NPCBedInstituteSleep01"/>
@@ -18,6 +22,11 @@
 	<furniture form="00249040" id="WorkshopNpcBedVaultLay01DblNoEdit"/>
 	<furniture form="0018E7A9" id="WorkshopNpcBedVaultLay01NoEdit"/>
 	<furniture form="0018C570" id="WorkshopNpcBedWoodLay01"/>
+</group>
+
+<group id="Shower_PlayerHouse">
+	<furniture form="50AC1" id="PlayerHouse_Shower01"/>
+	<furniture form="91933" id="PlayerHouse_Ruin_Shower01"/>
 </group>
 
 <group id="Bunk_Bed">
@@ -81,6 +90,10 @@
 
 <group id="ChairVeryLow">
 	<furniture form="000EA1B9" id="ModernDomesticLoungeChair01"/>
+</group>
+
+<group id="Couch_Federalist">
+	<furniture form="0001F6A3" id="NPCCouchFederalistSit01"/>
 </group>
 
 <group id="Couches">

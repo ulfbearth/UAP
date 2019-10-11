@@ -1,24 +1,37 @@
 <meta title="SavageCabbage's Animation Pack - Gay Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
 <defaults/>
 
-<!-- Dance Animations -->
-
-<animationGroup id="SCAP_Dance_MM_1Human_01_Staged" sequential="true">
-	<stage animation="SCAP_Dance_MM_1Human_01_S1"/>
-	<stage animation="SCAP_Dance_MM_1Human_01_S2"/>
+<!-- Car Animations -->
+<animationGroup id="SCAP_DoggySedanPostWar_MM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggySedanPostWar_MM_2Human_01_S3" loops="2"/>
+	<stage animation="SCAP_DoggySedanPostWar_MM_2Human_01_S4" loops="3"/>
+	<stage animation="SCAP_DoggySedanPostWar_MM_2Human_01_S5" loops="3"/>
+	<stage animation="SCAP_DoggySedanPostWar_MM_2Human_01_S6" loops="5"/>
 </animationGroup>
-
+	
+	
+<!-- Anal Animations -->
+<animationGroup id="SCAP_AnalDoubleBed_MM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S1"/>
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S2"/>
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S3"/>
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S4"/>
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S5"/>
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S6"/>
+	<stage animation="SCAP_AnalDoubleBed_MM_2Human_01_S7" loops="5"/>
+</animationGroup>
+	
 <!-- Deepthroat Animations -->
 
 <animationGroup id="SCAP_DeepthroatBed_MM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S1"/>
+	<!--<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S1"/>-->
 	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S2"/>
 	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S3"/>
-	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S4"/>
-	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S5A"/>
-	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S5B"/>
-	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S5C"/>
-	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S6"/>
+	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S4" loops="2"/>
+	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S5A" loops="3"/>
+	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S5B" loops="3-4"/>
+	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S5C" loops="4"/>
+	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S6" loops="5"/>
 	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S7"/>
 	<stage animation="SCAP_DeepthroatBed_MM_2Human_01_S8"/>
 </animationGroup>
@@ -30,6 +43,7 @@
 	<stage animation="SCAP_CowgirlBed_MM_2Human_01_S3"/>
 	<stage animation="SCAP_CowgirlBed_MM_2Human_01_S4"/>
 	<stage animation="SCAP_CowgirlBed_MM_2Human_01_S5"/>
+	<stage animation="SCAP_CowgirlBed_MM_2Human_01_S6" loops="5"/>
 </animationGroup>
 
 <animationGroup id="SCAP_ReverseCowgirlBench_MM_2Human_01_Staged" sequential="true">
@@ -37,14 +51,18 @@
 	<stage animation="SCAP_ReverseCowgirlBench_MM_2Human_01_S3"/>
 	<stage animation="SCAP_ReverseCowgirlBench_MM_2Human_01_S4"/>
 	<stage animation="SCAP_ReverseCowgirlBench_MM_2Human_01_S5"/>
+	<stage animation="SCAP_ReverseCowgirlBench_MM_2Human_01_S6" loops="3"/>
 </animationGroup>
 
 <animationGroup id="SCAP_CowgirlChair_MM_2Human_01_Staged" sequential="true">
 	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S1"/>
+	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S2"/>
 	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S3"/>
 	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S4"/>
 	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S5"/>
 	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S6"/>
+	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S7"/>
+	<stage animation="SCAP_CowgirlChair_MM_2Human_01_S8"/>
 </animationGroup>
 
 <animationGroup id="SCAP_CowgirlSeat_MM_2Human_01_Staged" sequential="true">
@@ -54,6 +72,21 @@
 </animationGroup>
 
 <!-- Doggy Animations -->
+
+<animationGroup id="SCAP_StandingDoggy_MM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_StandingDoggy_MM_2Human_01_S3"/>
+	<stage animation="SCAP_StandingDoggy_MM_2Human_01_S4"/>
+	<stage animation="SCAP_StandingDoggy_MM_2Human_01_S5"/>
+</animationGroup>
+
+
+<animationGroup id="SCAP_DoggyShower_MM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggyShower_MM_2Human_01_S1"/>
+	<stage animation="SCAP_DoggyShower_MM_2Human_01_S2" loops="2"/>
+	<stage animation="SCAP_DoggyShower_MM_2Human_01_S3" loops="2-3"/>
+	<stage animation="SCAP_DoggyShower_MM_2Human_01_S4" loops="3"/>
+	<stage animation="SCAP_DoggyShower_MM_2Human_01_S5" loops="5"/>
+</animationGroup>
 
 <animationGroup id="SCAP_DoggyDesk_MM_2Human_01_Staged" sequential="true">
 	<stage animation="SCAP_DoggyDesk_MM_2Human_01_S1"/>
@@ -95,7 +128,8 @@
 <!-- Handjob Animations -->
 
 <animationGroup id="SCAP_HandjobChair_MM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_HandjobChair_MM_2Human_01_S1"/>
+	<!--<stage animation="SCAP_HandjobChair_MM_2Human_01_S1"/>
+	-->
 	<stage animation="SCAP_HandjobChair_MM_2Human_01_S2"/>
 	<stage animation="SCAP_HandjobChair_MM_2Human_01_S3"/>
 	<stage animation="SCAP_HandjobChair_MM_2Human_01_S4"/>
@@ -103,6 +137,7 @@
 	<stage animation="SCAP_HandjobChair_MM_2Human_01_S6"/>
 	<stage animation="SCAP_HandjobChair_MM_2Human_01_S7"/>
 	<stage animation="SCAP_HandjobChair_MM_2Human_01_S8"/>
+	<stage animation="SCAP_HandjobChair_MM_2Human_01_S9"/>
 </animationGroup>
 
 <animationGroup id="SCAP_HandjobCouch_MM_2Human_01_Staged" sequential="true">
@@ -110,9 +145,20 @@
 	<stage animation="SCAP_HandjobCouch_MM_2Human_01_S3"/>
 	<stage animation="SCAP_HandjobCouch_MM_2Human_01_S4"/>
 	<stage animation="SCAP_HandjobCouch_MM_2Human_01_S5"/>
+	<stage animation="SCAP_HandjobCouch_MM_2Human_01_S6" loops="5"/>
 </animationGroup>
 
 <!-- Missionary Animations -->
+
+<animationGroup id="SCAP_MissionaryCouchFederalist_MM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S1"/>
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S2"/>
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S3" loops="2"/>
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S4" loops="2"/>
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S5" loops="3"/>
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S6" loops="4"/>
+	<stage animation="SCAP_MissionaryCouchFederalist_MM_2Human_01_S7"/>
+</animationGroup>
 
 <animationGroup id="SCAP_MissionaryDoubleBed_MM_2Human_01_Staged" sequential="true">
 	<stage animation="SCAP_MissionaryDoubleBed_MM_2Human_01_S1"/>
