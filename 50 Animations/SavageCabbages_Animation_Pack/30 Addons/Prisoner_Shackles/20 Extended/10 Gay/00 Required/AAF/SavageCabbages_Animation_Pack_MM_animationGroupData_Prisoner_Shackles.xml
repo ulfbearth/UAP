@@ -4,4 +4,5 @@
 <animationGroup id="SCAP_HeldShackles_MM_2Human_01_Staged" sequential="true">
 	<stage animation="SCAP_HeldShackles_MM_2Human_01_S1"/>
 	<stage animation="SCAP_HeldShackles_MM_2Human_01_S2"/>
+	<stage animation="SCAP_HeldShackles_MM_2Human_01_S3" loops="10"/>
 </animationGroup>

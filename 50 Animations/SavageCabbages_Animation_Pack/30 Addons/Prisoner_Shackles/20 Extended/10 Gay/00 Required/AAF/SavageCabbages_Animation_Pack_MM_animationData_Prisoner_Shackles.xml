@@ -12,7 +12,7 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HeldShackles_MM_2Human_01_S2" frames="500">
+<animation id="SCAP_HeldShackles_MM_2Human_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00001016" id="FM-Shackles01-02Held-F1"/>
 	</actor>
@@ -21,6 +21,14 @@
 	</actor>
 </animation>
 
+<animation id="SCAP_HeldShackles_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
+		<idle form="00027329"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0002732A"/>
+	</actor>
+</animation>
 
 
 <animation id="SCAP_HeldShackles_MM_3Human_01" frames="500">
