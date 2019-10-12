@@ -1,0 +1,28 @@
+<meta title="ZEX-TestPlugin_positionData" version="1.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,0,0"/>
+
+
+<position id="ZeX_F_01" animation="ZeX_F_01"/>
+<position id="ZeX_F_02" animation="ZeX_F_02"/>
+<position id="ZeX_F_03" animation="ZeX_F_03"/>
+<position id="ZeX_F_04" animation="ZeX_F_04"/>
+<position id="ZeX_F_05" animation="ZeX_F_05"/>
+<position id="ZeX_F_06" animation="ZeX_F_06"/>
+<position id="ZeX_F_07" animation="ZeX_F_07"/>
+<position id="ZeX_F_08" animation="ZeX_F_08"/>
+<position id="ZeX_F_09" animation="ZeX_F_09"/>
+<position id="ZeX_F_10" animation="ZeX_F_10"/>
+<position id="ZeX_F_11" animation="ZeX_F_11"/>
+
+
+<position id="ZeX_M_01" animation="ZeX_M_01"/>
+<position id="ZeX_M_02" animation="ZeX_M_02"/>
+<position id="ZeX_M_03" animation="ZeX_M_03"/>
+<position id="ZeX_M_04" animation="ZeX_M_04"/>
+<position id="ZeX_M_05" animation="ZeX_M_05"/>
+<position id="ZeX_M_06" animation="ZeX_M_06"/>
+<position id="ZeX_M_07" animation="ZeX_M_07"/>
+<position id="ZeX_M_08" animation="ZeX_M_08"/>
+<position id="ZeX_M_09" animation="ZeX_M_09"/>
+<position id="ZeX_M_10" animation="ZeX_M_10"/>
+<position id="ZeX_M_11" animation="ZeX_M_11"/>
