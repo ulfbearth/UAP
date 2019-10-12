@@ -400,6 +400,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0002171F" id="FM-Motorbike01-03Cowgirl-M1"/>
+		<value path="morph" value="Erection Down" to="0.25"/>
 	</actor>
 </animation>
 
@@ -582,6 +583,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00001FCA" id="FM-Desk01-03Doggy-M1"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
 	</actor>
 </animation>
 
@@ -591,6 +593,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000C006" id="FM-Desk01-04Doggy-M1"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
 	</actor>
 </animation>
 
@@ -1303,6 +1306,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF4" id="FMM-DoubleBed02-03ReverseCowgirl-Blowjob-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1466,6 +1470,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00001035" id="FMM-Floor01-01DoubleTeam-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001036" id="FMM-Floor01-01DoubleTeam-M2"/>
@@ -1478,6 +1483,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00001038" id="FMM-Floor01-02DoubleTeam-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001039" id="FMM-Floor01-02DoubleTeam-M2"/>
@@ -1506,6 +1512,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000BFA9" id="FMM-Floor05-03DoubleTeam-M1"/>
+		<value path="morph" value="Erection Up" to="2"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BFAA" id="FMM-Floor05-03DoubleTeam-M2"/>
@@ -1523,6 +1530,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000103C" id="FMM-Floor02-01DoubleTeamRough-M2"/>
+		<value path="morph" value="Erection Down" to="1"/>
 	</actor>
 </animation>
 
@@ -1546,9 +1554,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000550E" id="FMM-Floor03-03Gangbang-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000550F" id="FMM-Floor03-03Gangbang-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1560,9 +1570,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00002764" id="FMM-Couch02-03Handjob-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002765" id="FMM-Couch02-03Handjob-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1572,9 +1584,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0001231A" id="FMM-Couch02-04Handjob-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0001231B" id="FMM-Couch02-04Handjob-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1584,9 +1598,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00003699" id="FMM-Couch02-05Blowjob-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000369A" id="FMM-Couch02-05Blowjob-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1598,9 +1614,11 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00010C3D" id="FMM-BunkBed01-03Threesome-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00010C3E" id="FMM-BunkBed01-03Threesome-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1650,6 +1668,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00006BEC" id="FMMM-Floor02-03Gangbang-M3"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1675,30 +1694,38 @@
 <animation id="SCAP_StandingGangbang_MM_4Human_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="00001052" id="FMMM-Standing01-01Gangbang-F1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001053" id="FMMM-Standing01-01Gangbang-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001054" id="FMMM-Standing01-01Gangbang-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001055" id="FMMM-Standing01-01Gangbang-M3"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_StandingGangbang_MM_4Human_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00001056" id="FMMM-Standing01-02Gangbang-F1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001057" id="FMMM-Standing01-02Gangbang-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001058" id="FMMM-Standing01-02Gangbang-M2"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001059" id="FMMM-Standing01-02Gangbang-M3"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -1739,6 +1766,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="000113DC" id="FMMMM-Floor02-03Gangbang-M4"/>
+		<value path="morph" value="Erection Up" to="0.6"/>
 	</actor>
 </animation>
 
