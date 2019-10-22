@@ -1,8 +1,10 @@
 <meta title="SavageCabbage's Animation Pack - Gay Position Data" version="1.0.4" dataSet="position"/>
-<meta title="SavageCabbage's Animation Pack - Gay Position Data" version="1.0.4" dataSet="position"/>
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
+
 <!-- Dance Animations -->
+
+<position id="SavageCabbage's Animation Pack - Gay Lap Dance" location="ArmChair" animation="SCAP_LapDance_MM_2Human_01" tags="SavageCabbage,M_M,ArmChair,LapDance,Loving,Held1,Love5,Stim3,Dom-3"/>
 
 <position id="SavageCabbage's Animation Pack - Gay Dance (Stage 1)" animation="SCAP_Dance_MM_1Human_01_S1" tags="SavageCabbage,Utility,F,NoFurn,SFW,Dancing,SexyDance,Neutral,Held0,Love0,Stim1,Dom0,NullToSelf"/>
 <position id="SavageCabbage's Animation Pack - Gay Dance (Stage 2)" animation="SCAP_Dance_MM_1Human_01_S2" tags="SavageCabbage,Utility,F,NoFurn,SFW,Dancing,SexyDance,Neutral,Held0,Love0,Stim1,Dom0,NullToSelf"/>
@@ -160,9 +162,6 @@
 <position id="SavageCabbage's Animation Pack - Gay Handjob (Couch, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_MM_2Human_01_S5" tags="SavageCabbage,Utility,M_M,Couch,Handjob,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
 <position id="SavageCabbage's Animation Pack - Gay Handjob (Couch, Stage 6)" location="Couches" animation="SCAP_HandjobCouch_MM_2Human_01_S6" tags="SavageCabbage,Utility,M_M,Couch,Handjob,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
 
-<!-- Dance Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Lap Dance" location="ArmChair" animation="SCAP_LapDance_MM_2Human_01" tags="SavageCabbage,M_M,ArmChair,LapDance,Loving,Held1,Love5,Stim3,Dom-3"/>
 
 <!-- Missionary Animations -->
 
@@ -228,6 +227,8 @@
 <position id="SavageCabbage's Animation Pack - Gay Spoon (Couch, Stage 4)" location="Couches" animation="SCAP_SpoonCouch_MM_2Human_01_S4" tags="SavageCabbage,Utility,M_M,Couch,FromBehind,Neutral,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
 <position id="SavageCabbage's Animation Pack - Gay Spoon (Couch, Stage 5)" location="Couches" animation="SCAP_SpoonCouch_MM_2Human_01_S5" tags="SavageCabbage,Utility,M_M,Couch,FromBehind,Neutral,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
 
+
+<!--===================================================================================Human 3P===========================================================================================-->
 <!-- Cowgirl Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Cowgirl (Double Bed, 3P, Reversed)" location="Double_Bed" animation="SCAP_ReverseCowgirlDoubleBed_MM_3Human_01" tags="SavageCabbage,M_M_M,DoubleBed,RevCowgirl,FromBehind,Neutral,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus,PenisToMouth"/>
@@ -266,6 +267,9 @@
 <position id="SavageCabbage's Animation Pack - Gay Double Team (Rough, 3P, Stage 1)" animation="SCAP_RoughDoubleTeamGround_MM_3Human_01_S1" tags="SavageCabbage,Utility,M_M_M,NoFurn,DoubleTeam,Aggressive,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToMouth"/>
 <position id="SavageCabbage's Animation Pack - Gay Double Team (Rough, 3P, Stage 2)" animation="SCAP_RoughDoubleTeamGround_MM_3Human_01_S2" tags="SavageCabbage,Utility,M_M_M,NoFurn,DoubleTeam,Aggressive,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToMouth"/>
 
+
+
+
 <!-- Gangbang Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Gangbang (3P)" animation="SCAP_GangbangGround_MM_3Human_01" tags="SavageCabbage,M_M_M,NoFurn,DoubleTeam,Neutral,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToAnus,PenisToAnus"/>
@@ -281,6 +285,10 @@
 
 <position id="SavageCabbage's Animation Pack - Gay Threesome (Bunk Bed, 3P)" location="Bunk_Bed" animation="SCAP_ThreesomeBunkBed_MM_3Human_01" tags="SavageCabbage,3P,BunkBed,Neutral,Held3,Love3,Stim7,Dom-7,NullToSelf,StickToAnus,StickToMouth"/>
 
+
+
+
+<!--===================================================================================Human 4P===========================================================================================-->
 <!-- Gangbang Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Gangbang 1 (Double Bed, 4P)" location="Double_Bed" animation="SCAP_GangbangDoubleBed_MM_4Human_01" tags="SavageCabbage,M_M_M_M,DoubleBed,Aggressive,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToAnus,PenisToAnus,PenisToAnus"/>
@@ -295,6 +303,10 @@
 <position id="SavageCabbage's Animation Pack - Gay Gangbang (Standing, 4P, Stage 1)" animation="SCAP_StandingGangbang_MM_4Human_01_S1" tags="SavageCabbage,Utility,M_M_M_M,NoFurn,Standing,Neutral,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToAnus,PenisToHand"/>
 <position id="SavageCabbage's Animation Pack - Gay Gangbang (Standing, 4P, Stage 2)" animation="SCAP_StandingGangbang_MM_4Human_01_S2" tags="SavageCabbage,Utility,M_M_M_M,NoFurn,Standing,Neutral,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToAnus,PenisToHand"/>
 
+
+
+
+<!--===================================================================================Human 5P===========================================================================================-->
 <!-- Gangbang Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Gangbang 1 (5P)" animation="SCAP_GangbangGround_MM_5Human_01" tags="SavageCabbage,M_M_M_M_M,NoFurn,Standing,Neutral,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToHand,PenisToHand,PenisToHand,PenisToHand,PenisToHand"/>
@@ -305,299 +317,18 @@
 
 <position id="SavageCabbage's Animation Pack - Gay Handjob (5P, Standing)" animation="SCAP_StandingHandjob_MM_5Human_01" tags="SavageCabbage,M_M_M_M_M,NoFurn,Standing,Neutral,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToHand,PenisToHand,PenisToHand,PenisToHand,PenisToHand"/>
 
+
+
+<!--===================================================================================Human 9P===========================================================================================-->
 <!-- Gangbang Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Gangbang (9P)" animation="SCAP_GangbangGround_MM_9Human_01" tags="SavageCabbage,M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
 
+
+
+<!--===================================================================================Human 10P===========================================================================================-->
 <!-- Gangbang Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Gangbang (10P)" animation="SCAP_GangbangGround_MM_10Human_01" tags="SavageCabbage,M_M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
 
-<!-- Blowjob Animations -->
 
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingBlowjob_MM_2Ghoul_01_Staged" tags="SavageCabbage,M_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Aggressive,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Ghoul, Standing, Stage 3)" animation="SCAP_StandingBlowjob_MM_2Ghoul_01_S3" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Aggressive,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Ghoul, Standing, Stage 4)" animation="SCAP_StandingBlowjob_MM_2Ghoul_01_S4" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Aggressive,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Ghoul, Standing, Stage 5)" animation="SCAP_StandingBlowjob_MM_2Ghoul_01_S5" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Aggressive,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-
-<!-- Doggy Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Staged)" animationGroup="SCAP_DoggyGround_MM_2Ghoul_01_Staged" tags="SavageCabbage,M_BltGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Stage 3" animation="SCAP_DoggyGround_MM_2Ghoul_01_S3" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Stage 4" animation="SCAP_DoggyGround_MM_2Ghoul_01_S4" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Stage 5" animation="SCAP_DoggyGround_MM_2Ghoul_01_S5" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Stage 6" animation="SCAP_DoggyGround_MM_2Ghoul_01_S6" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Stage 7" animation="SCAP_DoggyGround_MM_2Ghoul_01_S7" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingDoggy_MM_2Ghoul_01_Staged" tags="SavageCabbage,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Standing, Stage 3)" animation="SCAP_StandingDoggy_MM_2Ghoul_01_S3" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Standing, Stage 4)" animation="SCAP_StandingDoggy_MM_2Ghoul_01_S4" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Standing, Stage 5)" animation="SCAP_StandingDoggy_MM_2Ghoul_01_S5" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Standing, Stage 6)" animation="SCAP_StandingDoggy_MM_2Ghoul_01_S6" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Ghoul, Standing, Stage 7)" animation="SCAP_StandingDoggy_MM_2Ghoul_01_S7" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-
-<!-- Carry Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Carry (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingCarry_MM_2Ghoul_01_Staged" tags="SavageCabbage,M_BltGhoulM,NoFurn,Carry,FromFront,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Ghoul, Standing, Stage 3)" animation="SCAP_StandingCarry_MM_2Ghoul_01_S3" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Carry,FromFront,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Ghoul, Standing, Stage 4)" animation="SCAP_StandingCarry_MM_2Ghoul_01_S4" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Carry,FromFront,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Ghoul, Standing, Stage 5)" animation="SCAP_StandingCarry_MM_2Ghoul_01_S5" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Carry,FromFront,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Ghoul, Standing, Stage 6)" animation="SCAP_StandingCarry_MM_2Ghoul_01_S6" tags="SavageCabbage,Utility,M_BltGhoulM,NoFurn,Carry,FromFront,Aggressive,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<!-- Handjob Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingHandjob_MM_2Ghoul_01_Staged" tags="SavageCabbage,M_FGhoulM,NoFurn,Kneeling,Handjob,Blowjob,FromFront,Aggressive,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Ghoul, Standing, Stage 3)" animation="SCAP_StandingHandjob_MM_2Ghoul_01_S3" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Kneeling,Handjob,FromFront,Aggressive,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Ghoul, Standing, Stage 4)" animation="SCAP_StandingHandjob_MM_2Ghoul_01_S4" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Kneeling,Handjob,FromFront,Aggressive,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Ghoul, Standing, Stage 5)" animation="SCAP_StandingHandjob_MM_2Ghoul_01_S5" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Aggressive,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Ghoul, Standing, Stage 6)" animation="SCAP_StandingHandjob_MM_2Ghoul_01_S6" tags="SavageCabbage,Utility,M_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Aggressive,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToMouth"/>
-
-<!-- Blowjob Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_BlowjobBed_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,SingleBed,Foreplay,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 1)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,Handjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 2)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,SingleBed,Handjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 3)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,SingleBed,Handjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 4)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,SingleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 5)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,SingleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 6)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,SingleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 7)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,SingleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Dog, Bed, Stage 8)" location="Single_Bed" animation="SCAP_BlowjobBed_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,SingleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-
-<!-- Doggy Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_DoggyBed_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,SingleBed,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 1)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 2)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 3)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 4)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 5)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 6)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 7)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Bed, Stage 8)" location="Single_Bed" animation="SCAP_DoggyBed_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,SingleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Staged)" animationGroup="SCAP_DoggyGround_MM_2Dog_01_Staged" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 1)" animation="SCAP_DoggyGround_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 2)" animation="SCAP_DoggyGround_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 3)" animation="SCAP_DoggyGround_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 4)" animation="SCAP_DoggyGround_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 5)" animation="SCAP_DoggyGround_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 6)" animation="SCAP_DoggyGround_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,NoFurn,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 7)" animation="SCAP_DoggyGround_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,NoFurn,Climax,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Stage 8)" animation="SCAP_DoggyGround_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,NoFurn,Climax,FaceDown,FromBehind,Aggressive,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Staged)" location="RoundTable" animationGroup="SCAP_DoggyRoundTableSmall_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 1)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 2)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 3)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 4)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 5)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 6)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 7)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Small Round Table, Stage 8)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,RoundTable,Doggy,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Staged)" animationGroup="SCAP_StandingDoggy_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 1)" animation="SCAP_StandingDoggy_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 2)" animation="SCAP_StandingDoggy_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 3)" animation="SCAP_StandingDoggy_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 4)" animation="SCAP_StandingDoggy_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 5)" animation="SCAP_StandingDoggy_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 6)" animation="SCAP_StandingDoggy_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 7)" animation="SCAP_StandingDoggy_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dog, Standing, Stage 8)" animation="SCAP_StandingDoggy_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,NoFurn,Standing,FromBehind,Neutral,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-
-<!-- Handjob Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_HandjobDoubleBed_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,DoubleBed,Handjob,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Foreplay,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Handjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Handjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Handjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Handjob (Dog, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Blowjob,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
-
-<!-- Missionary Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Staged)" location="Couches" animationGroup="SCAP_MissionaryCouch_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 1)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 2)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 3)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 4)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 5)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 6)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 7)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Couch, Stage 8)" location="Couches" animation="SCAP_MissionaryCouch_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Staged)" animationGroup="SCAP_MissionaryGround_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 1)" animation="SCAP_MissionaryGround_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 2)" animation="SCAP_MissionaryGround_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 3)" animation="SCAP_MissionaryGround_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 4)" animation="SCAP_MissionaryGround_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 5)" animation="SCAP_MissionaryGround_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 6)" animation="SCAP_MissionaryGround_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 7)" animation="SCAP_MissionaryGround_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Stage 8)" animation="SCAP_MissionaryGround_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,Couch,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Missionary (Dog, Sleeping Bag)" location="Sleeping_Bag" animation="SCAP_MissionarySleepingBag_MM_2Dog_01" tags="SavageCabbage,M_DogM,SleepingBag,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-
-<!-- Sideways Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_SidewaysDoubleBed_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sideways (Dog, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Sideways,FromSide,Neutral,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToAnus"/>
-
-<!-- Sitting Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Staged)" location="ArmChair" animationGroup="SCAP_SittingChair_MM_2Dog_01_Staged" tags="SavageCabbage,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 1)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S1" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 2)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S2" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 3)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 4)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S4" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 5)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S5" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 6)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 7)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Sitting (Dog, Chair, Stage 8)" location="ArmChair" animation="SCAP_SittingChair_MM_2Dog_01_S8" tags="SavageCabbage,Utility,M_DogM,ArmChair,Sitting,FromFront,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
-
-<!-- Doggy Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_MM_3Dog_01_Staged" tags="SavageCabbage,M_DogM_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 01)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S1" tags="SavageCabbage,Utility,M_DogM_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 02)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S2" tags="SavageCabbage,Utility,M_DogM_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 03)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S3" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Doggy,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 04)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S4" tags="SavageCabbage,Utility,M_DogM_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 05)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S5" tags="SavageCabbage,Utility,M_DogM_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 06)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S6" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Doggy,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 07)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S7" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Doggy,FromBehind,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 08)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S8" tags="SavageCabbage,Utility,M_DogM_DogM,DoubleBed,Switch,FromFront,Neutral,Held1,Love0,Stim0,Dom0,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 09)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S9" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 10)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S10" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 11)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S11" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 12)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S12" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Double Bed, Stage 13)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_3Dog_01_S13" tags="SavageCabbage,Utility,M_DogM,DoubleBed,Missionary,FromFront,Neutral,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToAnus,PenisToHand"/>
-
-<!-- Doggy Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Staged)" animationGroup="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_Staged" tags="SavageCabbage,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 1)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S1" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 2)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S2" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 3)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S3" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 4)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S4" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 5)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S5" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 6)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S6" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 7)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S7" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Dogs, Restrained, Stage 8)" animation="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S8" tags="SavageCabbage,Utility,M_DogM,M_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Aggressive,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
-
-<!-- Blowjob Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_BlowjobDoubleBed_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,DoubleBed,Blowjob,FromFront,Neutral,Held3,Love3,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Blowjob,FromFront,Neutral,Held3,Love3,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Blowjob,FromFront,Neutral,Held3,Love3,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Standing,69,Neutral,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Standing,69,Neutral,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S7" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Standing,69,Neutral,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S8" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Standing,69,Neutral,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Standing, Staged)" animationGroup="SCAP_StandingBlowjob_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,NoFurn,Handjob,Blowjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Standing, Stage 3)" animation="SCAP_StandingBlowjob_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Handjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Standing, Stage 4)" animation="SCAP_StandingBlowjob_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Handjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Standing, Stage 5)" animation="SCAP_StandingBlowjob_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Handjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Blowjob (Supermutant, Standing, Stage 6)" animation="SCAP_StandingBlowjob_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Handjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
-
-<!-- Carry Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Carry (Supermutant, Standing, Staged)" animationGroup="SCAP_StandingCarry_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,NoFurn,Carry,FromFront,Aggressive,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Supermutant, Standing, Stage 1)" animation="SCAP_StandingCarry_MM_2Mutant_01_S1" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,Foreplay,NoFurn,Aggressive,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Supermutant, Standing, Stage 3)" animation="SCAP_StandingCarry_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Carry,FromFront,Aggressive,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Supermutant, Standing, Stage 4)" animation="SCAP_StandingCarry_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Carry,FromFront,Aggressive,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Carry (Supermutant, Standing, Stage 5)" animation="SCAP_StandingCarry_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Carry,FromFront,Aggressive,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToAnus"/>
-
-<!-- Cowgirl Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Cowgirl (Supermutant, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_CowgirlDoubleBed_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Cowgirl (Supermutant, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S1" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Cowgirl (Supermutant, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Cowgirl (Supermutant, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Cowgirl (Supermutant, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Cowgirl (Supermutant, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<!-- Doggy Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Bed, Staged)" location="SMBed" animationGroup="SCAP_DoggyBed_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,SMBed,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Bed, Stage 3)" location="SMBed" animation="SCAP_DoggyBed_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SMBed,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Bed, Stage 4)" location="SMBed" animation="SCAP_DoggyBed_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SMBed,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Bed, Stage 5)" location="SMBed" animation="SCAP_DoggyBed_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SMBed,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Bed, Stage 6)" location="SMBed" animation="SCAP_DoggyBed_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SMBed,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Mutant_01_S2" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Standing, Staged)" animationGroup="SCAP_StandingDoggy_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,NoFurn,Standing,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Standing, Stage 3)" animation="SCAP_StandingDoggy_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Standing,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Standing, Stage 4)" animation="SCAP_StandingDoggy_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Standing,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Standing, Stage 5)" animation="SCAP_StandingDoggy_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Standing,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutant, Standing, Stage 6)" animation="SCAP_StandingDoggy_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Standing,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<!-- Missionary Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Missionary 1 (Supermutant, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_MissionaryBed_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,SingleBed,Missionary,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 1 (Supermutant, Bed, Stage 3)" location="Single_Bed" animation="SCAP_MissionaryBed_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Missionary,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 1 (Supermutant, Bed, Stage 4)" location="Single_Bed" animation="SCAP_MissionaryBed_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Missionary,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 1 (Supermutant, Bed, Stage 5)" location="Single_Bed" animation="SCAP_MissionaryBed_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Missionary,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Missionary 2 (Supermutant, Bed, Staged)" location="SMBed" animationGroup="SCAP_MissionaryBed_MM_2Mutant_02_Staged" tags="SavageCabbage,M_SMutantM,TiresBed,Missionary,FromFront,Aggressive,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 2 (Supermutant, Bed, Stage 1)" location="SMBed" animation="SCAP_MissionaryBed_MM_2Mutant_02_S1" tags="SavageCabbage,Utility,M_SMutantM,TiresBed,Missionary,FromFront,Aggressive,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 2 (Supermutant, Bed, Stage 2)" location="SMBed" animation="SCAP_MissionaryBed_MM_2Mutant_02_S2" tags="SavageCabbage,Utility,M_SMutantM,TiresBed,Missionary,FromFront,Aggressive,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 2 (Supermutant, Bed, Stage 3)" location="SMBed" animation="SCAP_MissionaryBed_MM_2Mutant_02_S3" tags="SavageCabbage,Utility,M_SMutantM,TiresBed,Missionary,FromFront,Aggressive,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 2 (Supermutant, Bed, Stage 4)" location="SMBed" animation="SCAP_MissionaryBed_MM_2Mutant_02_S4" tags="SavageCabbage,Utility,M_SMutantM,TiresBed,Missionary,FromFront,Aggressive,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Missionary 2 (Supermutant, Bed, Stage 5)" location="SMBed" animation="SCAP_MissionaryBed_MM_2Mutant_02_S5" tags="SavageCabbage,Utility,M_SMutantM,TiresBed,Missionary,FromFront,Aggressive,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToAnus"/>
-
-<!-- Powerbomb Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Power Bomb (Supermutant, Reversed, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_ReversePowerBombBed_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Power Bomb (Supermutant, Reversed, Bed, Stage 3)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Power Bomb (Supermutant, Reversed, Bed, Stage 4)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Power Bomb (Supermutant, Reversed, Bed, Stage 5)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Power Bomb (Supermutant, Reversed, Bed, Stage 6)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
-
-<!-- Wheelbarrow Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Wheelbarrow (Supermutant, Staged)" animationGroup="SCAP_WheelbarrowGround_MM_2Mutant_01_Staged" tags="SavageCabbage,M_SMutantM,NoFurn,Wheelbarrow,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Wheelbarrow (Supermutant, Stage 3)" animation="SCAP_WheelbarrowGround_MM_2Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Kneeling,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Wheelbarrow (Supermutant, Stage 4)" animation="SCAP_WheelbarrowGround_MM_2Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Kneeling,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Wheelbarrow (Supermutant, Stage 5)" animation="SCAP_WheelbarrowGround_MM_2Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Wheelbarrow,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="SavageCabbage's Animation Pack - Gay Wheelbarrow (Supermutant, Stage 6)" animation="SCAP_WheelbarrowGround_MM_2Mutant_01_S6" tags="SavageCabbage,Utility,M_DogM,M_SMutantM,NoFurn,Wheelbarrow,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
-
-<!-- Doggy Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutants, Bed, Staged)" location="SMBed" animationGroup="SCAP_DoggyBed_MM_3Mutant_01_Staged" tags="SavageCabbage,M_SMutantM_SMutantM,SMBed,Doggy,SpitRoast,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus,PenisToMouth"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutants, Bed, Stage 3)" location="SMBed" animation="SCAP_DoggyBed_MM_3Mutant_01_S3" tags="SavageCabbage,Utility,M_DogM,M_SMutantM_SMutantM,SMBed,Handjob,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutants, Bed, Stage 4)" location="SMBed" animation="SCAP_DoggyBed_MM_3Mutant_01_S4" tags="SavageCabbage,Utility,M_DogM,M_SMutantM_SMutantM,SMBed,Handjob,Doggy,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Gay Doggy (Supermutants, Bed, Stage 5)" location="SMBed" animation="SCAP_DoggyBed_MM_3Mutant_01_S5" tags="SavageCabbage,Utility,M_DogM,M_SMutantM_SMutantM,SMBed,SpitRoast,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus,PenisToMouth"/>
-
-<!-- DoubleTeam Animations -->
-
-<position id="SavageCabbage's Animation Pack - Gay Double Team (Supermutants, Camp Bed)" location="SMFrameBed" animation="SCAP_DoubleTeamCampBed_MM_3Mutant_01" tags="SavageCabbage,M_SMutantM_SMutantM,SMBed,Handjob,DoubleTeam,FromFront,FromBehind,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus,PenisToAnus"/>
-
-<position id="SavageCabbage's Animation Pack - Gay Double Team (Supermutants, Standing)" animation="SCAP_StandingDoubleTeam_MM_3Mutant_01" tags="SavageCabbage,M_SMutantM,NoFurn,DoubleTeam,Aggressive,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus,PenisToMouth"/>

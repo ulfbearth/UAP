@@ -1,0 +1,11 @@
+<meta title="Gray User's Creature Pack - Gay Position Data" version="2.0.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+
+<!-- Alien -->
+
+<position id="Gray User's Creature Pack - Gay Alien (Staged)" animationGroup="GUCP_Alien_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+<position id="Gray User's Creature Pack - Gay Alien (Stage 1)" animation="GUCP_Alien_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+<position id="Gray User's Creature Pack - Gay Alien (Stage 2)" animation="GUCP_Alien_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+<position id="Gray User's Creature Pack - Gay Alien (Stage 3)" animation="GUCP_Alien_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+<position id="Gray User's Creature Pack - Gay Alien (Stage 4)" animation="GUCP_Alien_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
