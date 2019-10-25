@@ -1,0 +1,11 @@
+<meta title="SavageCabbage's Animation Pack - Gay Animation Group Data DLCWorkshop03" version="1.0.4" dataSet="animationGroup"/>
+<defaults/>
+
+<!-- Weight Bench Animations -->
+<animationGroup id="SCAP_CowgirlWeightBench_MM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_CowgirlWeightBench_MM_2Human_01_S1"/>
+	<stage animation="SCAP_CowgirlWeightBench_MM_2Human_01_S2" loops="2"/>
+	<stage animation="SCAP_CowgirlWeightBench_MM_2Human_01_S3" loops="2"/>
+	<stage animation="SCAP_CowgirlWeightBench_MM_2Human_01_S4" loops="3"/>
+	<stage animation="SCAP_CowgirlWeightBench_MM_2Human_01_S5" loops="3-5"/>
+</animationGroup>
