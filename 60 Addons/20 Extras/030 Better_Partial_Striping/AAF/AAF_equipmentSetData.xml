@@ -29,6 +29,8 @@ is slot index 33.
 		<unEquip bipedSlot="Possibly Weapons10"/>
 		<unEquip bipedSlot="Possibly Weapons11"/>
 		<unEquip bipedSlot="Possibly Weapons12"/>
+		<unEquip bipedSlot="[U] Torso"/>
+		<unEquip bipedSlot="[A] Torso"/>
 		<removeEquipment form="000DF621"/>
 	</condition>
 	<condition skeleton="SupermutantBehemoth">
@@ -55,7 +57,8 @@ is slot index 33.
 		<reEquip bipedSlot="[U] R Arm"/>
 		<reEquip bipedSlot="[U] L Leg"/>
 		<reEquip bipedSlot="[U] R Leg"/>
-		<reEquip bipedSlot="[A] Torso"/>
+		<unEquip bipedSlot="[U] Torso"/>
+		<unEquip bipedSlot="[A] Torso"/>
 		<reEquip bipedSlot="[A] L Arm"/>
 		<reEquip bipedSlot="[A] R Arm"/>
 		<reEquip bipedSlot="[A] L Leg"/>
