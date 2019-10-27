@@ -1,0 +1,4 @@
+<meta title="BehemothCW - Race Data" version="2.0.0" dataSet="race"/>
+<defaults source="ClassicBehemoth.esp" skeleton="Human" maleSWF="AAF_ActorIcon_Human_M.swf" femaleSWF="AAF_ActorIcon_Human_F.swf"/>
+
+<race id="ClassicBehemoth" form="1EE2" skeleton="SupermutantBehemoth" maleSWF="AAF_ActorIcon_SuperMutantBehemoth.swf" femaleSWF="AAF_ActorIcon_SuperMutantBehemoth.swf" requiresAnimationReset="true"/>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[Creatures]SuperMutant Behemoth CW Naked">
+        <DataFolder>[Creatures]SuperMutant Behemoth CW Naked</DataFolder>
+        <SourceFile>[Creatures]SuperMutant Behemoth CW Naked.nif</SourceFile>
+        <OutputPath>Meshes\CapitalWasteland\Actors\BehemothCW</OutputPath>
+        <OutputFile GenWeights="false">BehemothCWNaked</OutputFile>
+        <Shape target="Behemoth Penis">Behemoth Penis</Shape>
+        <Shape target="BehemothLower:0" DataFolder="[Creatures]SuperMutant Behemoth Big Cock">BehemothLower:0</Shape>
+        <Shape target="BehemothUpperJawFix:0">BehemothUpperJawFix:0</Shape>
+        <Shape target="Eyes:0">Eyes:0</Shape>
+        <Slider name="CErection" invert="false" default="0">
+            <Data name="Behemoth PenisCErection" target="Behemoth Penis" local="true">[Creatures]SuperMutant Behemoth CW Naked.osd\Behemoth PenisCErection</Data>
+        </Slider>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="Behemoth PenisErection Up" target="Behemoth Penis" local="true">[Creatures]SuperMutant Behemoth CW Naked.osd\Behemoth PenisErection Up</Data>
+        </Slider>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="Behemoth PenisErection Down" target="Behemoth Penis" local="true">[Creatures]SuperMutant Behemoth CW Naked.osd\Behemoth PenisErection Down</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

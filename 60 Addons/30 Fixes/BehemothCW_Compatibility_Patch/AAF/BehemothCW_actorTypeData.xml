@@ -1,0 +1,12 @@
+<meta title="AAF_actorTypeData_all.xml" version="1.0" dataSet="actorType"/>
+<defaults source="ClassicBehemoth.esp"/>
+
+<!-- Keyword(s) to use for actor scan. -->
+
+<group id="SuperMutantBehemoth">
+	<actorType form="1741" id="ActorTypeClassicBehemoth" raceList="ClassicBehemoth"/>
+</group>
+
+<group id="ClassicBehemoth">
+	<actorType form="1741" id="ActorTypeClassicBehemoth" raceList="ClassicBehemoth"/>
+</group>
