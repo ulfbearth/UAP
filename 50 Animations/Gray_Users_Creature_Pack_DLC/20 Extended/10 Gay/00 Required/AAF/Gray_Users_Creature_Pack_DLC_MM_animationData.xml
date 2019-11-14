@@ -1,0 +1,201 @@
+<meta title="CreaturePack02_animationData.xml" version="1.0" dataSet="animation"/>
+<defaults source="AAF_CreaturePack02DLC.esp"/>
+
+<!-- Angler -->
+
+<animation id="GUCP_Angler_MM_01_S1" frames="300" offset="0,3,-36,0:0,0,-36,0">
+	<actor gender="M">
+		<idle form="010081e7" id="_CP_AnglerFem01"/>
+	</actor>
+	<actor gender="M" skeleton="Angler">
+		<idle form="010081ff" id="_CP_AnglerC01"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Angler_MM_01_S2" frames="300" offset="0,3,-36,0:0,0,-36,0">
+	<actor gender="M">
+		<idle form="010081e8" id="_CP_AnglerFem02"/>
+	</actor>
+	<actor gender="M" skeleton="Angler">
+		<idle form="01008200" id="_CP_AnglerC02"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Angler_MM_01_S3" frames="300" offset="0,3,-36,0:0,0,-36,0">
+	<actor gender="M">
+		<idle form="010081e9" id="_CP_AnglerFem03"/>
+	</actor>
+	<actor gender="M" skeleton="Angler">
+		<idle form="01008201" id="_CP_AnglerC03"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Angler_MM_01_S4" frames="300" offset="0,3,-36,0:0,0,-36,0">
+	<actor gender="M">
+		<idle form="010081ea" id="_CP_AnglerFem04"/>
+	</actor>
+	<actor gender="M" skeleton="Angler">
+		<idle form="01008202" id="_CP_AnglerC04"/>
+	</actor>
+</animation>
+
+
+
+
+
+<!-- Fog Crawler -->
+
+<animation id="GUCP_Fog_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="010081ef" id="_CP_FogFem01"/>
+	</actor>
+	<actor gender="M" skeleton="FogCrawler">
+		<idle form="01008207" id="_CP_FogC01"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Fog_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="010081f0" id="_CP_FogFem02"/>
+	</actor>
+	<actor gender="M" skeleton="FogCrawler">
+		<idle form="01008208" id="_CP_FogC02"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Fog_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="010081f1" id="_CP_FogFem03"/>
+	</actor>
+	<actor gender="M" skeleton="FogCrawler">
+		<idle form="01008209" id="_CP_FogC03"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Fog_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="010081f2" id="_CP_FogFem04"/>
+	</actor>
+	<actor gender="M" skeleton="FogCrawler">
+		<idle form="0100820a" id="_CP_FogC04"/>
+	</actor>
+</animation>
+
+
+
+
+<!-- Gulper -->
+
+<animation id="GUCP_Gulper_MM_01_S1" frames="300" offset="0,-32,0,0:0,0,0,0">
+	<actor gender="M">
+		<idle form="010081f3" id="_CP_GulperFem01"/>
+	</actor>
+	<actor gender="M" skeleton="Gulper">
+		<idle form="0100820b" id="_CP_GulperC01"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Gulper_MM_01_S2" frames="300" offset="0,-32,0,0:0,0,0,0">
+	<actor gender="M">
+		<idle form="010081f4" id="_CP_GulperFem02"/>
+	</actor>
+	<actor gender="M" skeleton="Gulper">
+		<idle form="0100820c" id="_CP_GulperC02"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Gulper_MM_01_S3" frames="300" offset="0,-32,0,0:0,0,0,0">
+	<actor gender="M">
+		<idle form="010081f5" id="_CP_GulperFem03"/>
+	</actor>
+	<actor gender="M" skeleton="Gulper">
+		<idle form="0100820d" id="_CP_GulperC03"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Gulper_MM_01_S4" frames="300" offset="0,-32,0,0:0,0,0,0">
+	<actor gender="M">
+		<idle form="010081f6" id="_CP_GulperFem04"/>
+	</actor>
+	<actor gender="M" skeleton="Gulper">
+		<idle form="0100820e" id="_CP_GulperC04"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_GulperLarge_MM_01_S1" frames="300">
+	<actor gender="M">
+		<idle form="01026047" id="_CP_GulperLFem01"/>
+	</actor>
+	<actor gender="M" skeleton="GulperLarge">
+		<idle form="0100820b" id="_CP_GulperC01"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_GulperLarge_MM_01_S2" frames="300">
+	<actor gender="M">
+		<idle form="01026048" id="_CP_GulperLFem02"/>
+	</actor>
+	<actor gender="M" skeleton="GulperLarge">
+		<idle form="0100820c" id="_CP_GulperC02"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_GulperLarge_MM_01_S3" frames="300">
+	<actor gender="M">
+		<idle form="01026049" id="_CP_GulperLFem03"/>
+	</actor>
+	<actor gender="M" skeleton="GulperLarge">
+		<idle form="0100820d" id="_CP_GulperC03"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_GulperLarge_MM_01_S4" frames="300">
+	<actor gender="M">
+		<idle form="0102604a" id="_CP_GulperLFem04"/>
+	</actor>
+	<actor gender="M" skeleton="GulperLarge">
+		<idle form="0100820e" id="_CP_GulperC04"/>
+	</actor>
+</animation>
+
+
+
+
+
+<!-- Hermit -->
+
+<animation id="GUCP_Hermit_MM_01_S1" frames="300" offset="0,5.5,1,0:0,0,0,0"> <!-- In Animation offset is 156.365-->
+	<actor gender="M">
+		<idle form="010081f7" id="_CP_HermitFem01"/>
+	</actor>
+	<actor gender="M" skeleton="Hermit">
+		<idle form="0100820f" id="_CP_HermitC01"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Hermit_MM_01_S2" frames="300" offset="0,5.5,1,0:0,0,0,0"> 
+	<actor gender="M">
+		<idle form="010081f8" id="_CP_HermitFem02"/>
+	</actor>
+	<actor gender="M" skeleton="Hermit">
+		<idle form="01008210" id="_CP_HermitC02"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Hermit_MM_01_S3" frames="300" offset="0,5.5,1,0:0,0,0,0">
+	<actor gender="M">
+		<idle form="010081f9" id="_CP_HermitFem03"/>
+	</actor>
+	<actor gender="M" skeleton="Hermit">
+		<idle form="01008211" id="_CP_HermitC03"/>
+	</actor>
+</animation>
+
+<animation id="GUCP_Hermit_MM_01_S4" frames="300" offset="0,5.5,1,0:0,0,0,0"> 
+	<actor gender="M">
+		<idle form="010081fa" id="_CP_HermitFem04"/>
+	</actor>
+	<actor gender="M" skeleton="Hermit">
+		<idle form="01008212" id="_CP_HermitC04"/>
+	</actor>
+</animation>
