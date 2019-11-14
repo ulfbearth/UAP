@@ -9,7 +9,8 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000638A" id="rxl_bp70_blowjob_m"/>
-		<value path="morph" value="Erection Down" to="0.2"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+		<value path="morph" value="Erection Down" to="0.135"/>
 	</actor>
 </animation>
 
@@ -19,6 +20,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00007A64" id="rxl_bp70_groundblowjob_m"/>
+		<value path="morph" value="Erection Up" to="0.25"/>
 	</actor>
 </animation>
 
@@ -61,7 +63,7 @@
 	</actor>
 </animation>
 
-<animation id="FO4SA_Missionary_MM_01" frames="320" offset="0,0,0,180:0,-5,0,180">
+<animation id="FO4SA_Missionary_MM_01" frames="300" offset="0,0,0,180:0,-5,0,180">
 	<actor gender="M">
 		<idle form="00000802" id="rxl_bp70_missionary_f"/>
 	</actor>
@@ -89,53 +91,49 @@
 	</actor>
 </animation>
 
-<animation id="FO4SA_Missionary_MM_02_S1" frames="600">
+<animation id="FO4SA_Missionary_MM_02_S1" frames="1200">
 	<actor gender="M">
 		<idle form="0000080A" id="rxl_bp70_missionaryseq_1f"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000080B" id="rxl_bp70_missionaryseq_1m"/>
-		<value path="morph" value="Erection Up" to="1.25"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_Missionary_MM_02_S2" frames="600">
+<animation id="FO4SA_Missionary_MM_02_S2" frames="1600">
 	<actor gender="M">
 		<idle form="0000080C" id="rxl_bp70_missionaryseq_2f"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000080D" id="rxl_bp70_missionaryseq_2m"/>
-		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_Missionary_MM_02_S3" frames="600">
+<animation id="FO4SA_Missionary_MM_02_S3" frames="1600">
 	<actor gender="M">
 		<idle form="0000080E" id="rxl_bp70_missionaryseq_3f"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000080F" id="rxl_bp70_missionaryseq_3m"/>
-		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_Missionary_MM_02_S4" frames="320">
+<animation id="FO4SA_Missionary_MM_02_S4" frames="1600">
 	<actor gender="M">
 		<idle form="00000810" id="rxl_bp70_missionaryseq_4f"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000811" id="rxl_bp70_missionaryseq_4m"/>
-		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_Missionary_MM_02_S5" frames="800">
+<animation id="FO4SA_Missionary_MM_02_S5" frames="780">
 	<actor gender="M">
 		<idle form="00000812" id="rxl_bp70_missionaryseq_5f"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000813" id="rxl_bp70_missionaryseq_5m"/>
-		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -525,5 +523,79 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEFA" id="rxl_bp70_impregnationmish_5b_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_standing69_MM_01" frames="300" offset="0,0,-1.5,180:0,0,0,180">
+	<actor gender="M">
+		<idle form="1038F" id="rxl_bp70_standing69_f"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+	<actor gender="M">
+		<idle form="10390" id="rxl_bp70_standing69_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_footjob_01_S1" frames="320">
+	<actor gender="M">
+		<idle form="1038D" id="rxl_bp70_footjob_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="1038E" id="rxl_bp70_footjob_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_footjob_01_S2" frames="320">
+	<actor gender="M">
+		<idle form="35C8" id="rxl_bp70_footjob2_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="35C9" id="rxl_bp70_footjob2_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_mistress_01_S1" frames="240">
+	<actor gender="M">
+		<idle form="174F" id="rxl_bp70_mistress01_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="1750" id="rxl_bp70_mistress01_m"/>
+		<value path="morph" value="Erection Up" to="0.34"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_mistress_01_S2" frames="240">
+	<actor gender="M">
+		<idle form="1751" id="rxl_bp70_mistress02_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="1752" id="rxl_bp70_mistress02_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_mistress_01_S3" frames="240">
+	<actor gender="M">
+		<idle form="1753" id="rxl_bp70_mistress03_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="1754" id="rxl_bp70_mistress03_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_mistress_01_S4" frames="240">
+	<actor gender="M">
+		<idle form="1755" id="rxl_bp70_mistress04_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="1756" id="rxl_bp70_mistress04_m"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Missionary_MM_impregnate_cow_kissing" frames="320">
+	<actor gender="M">
+		<idle form="3D6D" id="rxl_bp70_impregnationcow_1_f"/>
+	</actor>
+	<actor gender="M">
+		<idle form="3D6E" id="rxl_bp70_impregnationcow_1_m"/>
 	</actor>
 </animation>
