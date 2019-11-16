@@ -6,230 +6,280 @@
 <animation id="FO4SA_Blowjob_MM_01" frames="360" offset="0,0,0,180:0,0,0,0">
 	<actor gender="M">
 		<idle form="00006389" id="rxl_bp70_blowjob_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000638A" id="rxl_bp70_blowjob_m"/>
 		<value path="morph" value="Erection Up" to="0.3"/>
 		<value path="morph" value="Erection Down" to="0.135"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_BlowjobGround_MM_01" frames="320" offset="0,0,0,180:0,-2,0,180">
 	<actor gender="M">
 		<idle form="00007A63" id="rxl_bp70_groundblowjob_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007A64" id="rxl_bp70_groundblowjob_m"/>
 		<value path="morph" value="Erection Up" to="0.25"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Cowgirl_MM_01" frames="320">
 	<actor gender="M">
 		<idle form="00000800" id="rxl_bp70_cowgirl_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000801" id="rxl_bp70_cowgirl_m"/>
 		<value path="morph" value="Erection Down" to="1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Cowgirl_MM_Romantic_01" frames="120">
 	<actor gender="M">
 		<idle form="00000FAD" id="rxl_bp70_romanticcowgirl_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FAE" id="rxl_bp70_romanticcowgirl_m"/>
 		<value path="morph" value="Erection Up" to="1.25"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Doggy_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
 	<actor gender="M">
 		<idle form="00000804" id="rxl_bp70_doggy_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000805" id="rxl_bp70_doggy_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_Lotus_MM_01" frames="15">
+<animation id="FO4SA_Lotus_MM_01" frames="150">
 	<actor gender="M">
 		<idle form="00000808" id="rxl_bp70_lotus_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000809" id="rxl_bp70_lotus_m"/>
 		<value path="morph" value="Erection Up" to="1.1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_01" frames="300" offset="0,0,0,180:0,-5,0,180">
 	<actor gender="M">
 		<idle form="00000802" id="rxl_bp70_missionary_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000803" id="rxl_bp70_missionary_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_Romantic_01" frames="320">
 	<actor gender="M">
 		<idle form="00000FAF" id="rxl_bp70_romanticmish_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FB0" id="rxl_bp70_romanticmish_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_Rough_01" frames="601">
 	<actor gender="M">
 		<idle form="00000806" id="rxl_bp70_roughmissionary_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000807" id="rxl_bp70_roughmissionary_m"/>
 		<value path="morph" value="Erection Up" to="1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_02_S1" frames="1200">
 	<actor gender="M">
 		<idle form="0000080A" id="rxl_bp70_missionaryseq_1f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000080B" id="rxl_bp70_missionaryseq_1m"/>
 		<value path="morph" value="Erection Up" to="0.3"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_02_S2" frames="1600">
 	<actor gender="M">
 		<idle form="0000080C" id="rxl_bp70_missionaryseq_2f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000080D" id="rxl_bp70_missionaryseq_2m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_02_S3" frames="1600">
 	<actor gender="M">
 		<idle form="0000080E" id="rxl_bp70_missionaryseq_3f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000080F" id="rxl_bp70_missionaryseq_3m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_02_S4" frames="1600">
 	<actor gender="M">
 		<idle form="00000810" id="rxl_bp70_missionaryseq_4f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000811" id="rxl_bp70_missionaryseq_4m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_02_S5" frames="780">
 	<actor gender="M">
 		<idle form="00000812" id="rxl_bp70_missionaryseq_5f"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000813" id="rxl_bp70_missionaryseq_5m"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ProneBone_MM_01" frames="240">
 	<actor gender="M">
 		<idle form="00000FB1" id="rxl_bp70_pronebone_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FB2" id="rxl_bp70_pronebone_m"/>
 		<value path="morph" value="Erection Up" to="1.1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Standing_MM_01_S1" frames="960">
 	<actor gender="M">
 		<idle form="000098D1" id="rxl_bp70_standingseq_1f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000098D2" id="rxl_bp70_standingseq_1m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Standing_MM_01_S2" frames="1080">
 	<actor gender="M">
 		<idle form="000098D3" id="rxl_bp70_standingseq_2f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000098D4" id="rxl_bp70_standingseq_2m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Standing_MM_01_S3" frames="960">
 	<actor gender="M">
 		<idle form="000098D5" id="rxl_bp70_standingseq_3f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000098D6" id="rxl_bp70_standingseq_3m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Standing_MM_01_S4" frames="1000">
 	<actor gender="M">
 		<idle form="000098D7" id="rxl_bp70_standingseq_4f"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000098D8" id="rxl_bp70_standingseq_4m"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <!-- Threesome Animations -->
 
-<animation id="FO4SA_LoveTriangle_MM_01_S1" frames="320" offset="0,0,0,180:0,0,0,0:0,-5,0,0">
+<animation id="FO4SA_LoveTriangle_MM_01_S1" frames="640" offset="0,0,0,180:0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="00001EF8" id="rxl_bp70_lovetriangle_stage1_f1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EF9" id="rxl_bp70_lovetriangle_stage1_f2"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EF7" id="rxl_bp70_lovetriangle_stage1_m"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_LoveTriangle_MM_01_S2" frames="360">
+<animation id="FO4SA_LoveTriangle_MM_01_S2" frames="720">
 	<actor gender="M">
 		<idle form="00001EFB" id="rxl_bp70_lovetriangle_stage2_f1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EFC" id="rxl_bp70_lovetriangle_stage2_f2"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EFA" id="rxl_bp70_lovetriangle_stage2_m"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_LoveTriangle_MM_01_S3" frames="240" offset="0,0,0,180:0,0,0,0:0,0,0,0">
+<animation id="FO4SA_LoveTriangle_MM_01_S3" frames="720" offset="0,0,0,180:0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00001EFE" id="rxl_bp70_lovetriangle_stage3_f1"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EFF" id="rxl_bp70_lovetriangle_stage3_f2"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EFD" id="rxl_bp70_lovetriangle_stage3_m"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" start="200" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="FO4SA_LoveTriangle_MM_01_S4" frames="240">
+<animation id="FO4SA_LoveTriangle_MM_01_S4" frames="720">
 	<actor gender="M">
 		<idle form="00001F01" id="rxl_bp70_lovetriangle_stage4_f1"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001F02" id="rxl_bp70_lovetriangle_stage4_f2"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001F00" id="rxl_bp70_lovetriangle_stage4_m"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" start="400" from="1" to="0" frames="50.555"/>
 	</actor>
 </animation>
 
@@ -238,136 +288,166 @@
 <animation id="FO4SA_ChaiseFuck_MM_01" frames="320">
 	<actor gender="M">
 		<idle form="00007A65" id="rxl_bp70_chaisefuck01_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007A66" id="rxl_bp70_chaisefuck01_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ChaiseFuck_MM_02" frames="320" offset="0,0,0,180:0,0,0,180">
 	<actor gender="M">
 		<idle form="00007A67" id="rxl_bp70_chaisefuck02_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007A68" id="rxl_bp70_chaisefuck02_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ChaiseFuck_MM_03" frames="320" offset="0,0,0,180:0,0,0,180">
 	<actor gender="M">
 		<idle form="00007A69" id="rxl_bp70_chaisefuck03_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007A6A" id="rxl_bp70_chaisefuck03_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ChaiseFuck_MM_04" frames="240">
 	<actor gender="M">
 		<idle form="00007A6B" id="rxl_bp70_chaisefuck04_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007A6C" id="rxl_bp70_chaisefuck04_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_CowgirlBed_MM_01" frames="320">
 	<actor gender="M">
 		<idle form="000072C3" id="rxl_bp70_bedcowgirl_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000072C4" id="rxl_bp70_bedcowgirl_m"/>
 		<value path="morph" value="Erection Down" to="1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_CowgirlBed_MM_Pound_01" frames="320">
 	<actor gender="M">
 		<idle form="0000ECB2" id="rxl_bp70_bedpoundcowgirl_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000ECB3" id="rxl_bp70_bedpoundcowgirl_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_DoggyBed_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
 	<actor gender="M">
 		<idle form="000072C5" id="rxl_bp70_beddoggy_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000072C6" id="rxl_bp70_beddoggy_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ExtractorChair_MM_01" frames="240">
 	<actor gender="M">
 		<idle form="000035E7" id="rxl_bp70_syringechairfuck_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035E8" id="rxl_bp70_syringechairfuck_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ExtractorChair_MM_02" frames="240">
 	<actor gender="M">
 		<idle form="000035E9" id="rxl_bp70_syringechairfuck2_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035EA" id="rxl_bp70_syringechairfuck2_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ExtractorChair_MM_03" frames="240">
 	<actor gender="M">
 		<idle form="000035EB" id="rxl_bp70_syringechairfuck3_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035EC" id="rxl_bp70_syringechairfuck3_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ExtractorChair_MM_04" frames="360">
 	<actor gender="M">
 		<idle form="000035ED" id="rxl_bp70_syringechairfuck4_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035EE" id="rxl_bp70_syringechairfuck4_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_ExtractorChair_MM_05" frames="240">
 	<actor gender="M">
 		<idle form="00005BEE" id="rxl_bp70_syringechairfuck5_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00005BEF" id="rxl_bp70_syringechairfuck5_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_MissionaryBed_MM_01" frames="320" offset="0,0,0,180:0,0,0,180">
 	<actor gender="M">
 		<idle form="000072C1" id="rxl_bp70_bedmissionary_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000072C2" id="rxl_bp70_bedmissionary_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_MissionaryBed_MM_Pound_01" frames="320">
 	<actor gender="M">
 		<idle form="0000ECB4" id="rxl_bp70_bedpoundmissionary_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000ECB5" id="rxl_bp70_bedpoundmissionary_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_MissionaryBed_MM_Romantic_01" frames="320">
 	<actor gender="M">
 		<idle form="0000A072" id="rxl_bp70_bedromanticmish_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A073" id="rxl_bp70_bedromanticmish_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -376,9 +456,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_1" frames="160">
 	<actor gender="M">
 		<idle form="0000BEE7" id="rxl_bp70_impregnationmish_1_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEE8" id="rxl_bp70_impregnationmish_1_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -394,9 +476,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_2A" frames="160">
 	<actor gender="M">
 		<idle form="0000BEE9" id="rxl_bp70_impregnationmish_2_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEEA" id="rxl_bp70_impregnationmish_2_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -412,9 +496,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_3A" frames="240">
 	<actor gender="M">
 		<idle form="0000BEEB" id="rxl_bp70_impregnationmish_3_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEEC" id="rxl_bp70_impregnationmish_3_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -430,9 +516,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_4A" frames="240">
 	<actor gender="M">
 		<idle form="0000BEED" id="rxl_bp70_impregnationmish_4_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEEE" id="rxl_bp70_impregnationmish_4_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -448,9 +536,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_5A" frames="1400">
 	<actor gender="M">
 		<idle form="0000BEEF" id="rxl_bp70_impregnationmish_5_f"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEF0" id="rxl_bp70_impregnationmish_5_m"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -466,9 +556,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_2B" frames="160">
 	<actor gender="M">
 		<idle form="0000BEF3" id="rxl_bp70_impregnationmish_2b_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEF4" id="rxl_bp70_impregnationmish_2b_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -484,9 +576,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_3B" frames="240">
 	<actor gender="M">
 		<idle form="0000BEF5" id="rxl_bp70_impregnationmish_3b_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEF6" id="rxl_bp70_impregnationmish_3b_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -502,9 +596,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_4B" frames="240">
 	<actor gender="M">
 		<idle form="0000BEF7" id="rxl_bp70_impregnationmish_4b_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEF8" id="rxl_bp70_impregnationmish_4b_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -520,9 +616,11 @@
 <animation id="FO4SA_Missionary_MM_Impregnate_01_5B" frames="1400">
 	<actor gender="M">
 		<idle form="0000BEF9" id="rxl_bp70_impregnationmish_5b_f"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BEFA" id="rxl_bp70_impregnationmish_5b_m"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -530,72 +628,88 @@
 	<actor gender="M">
 		<idle form="1038F" id="rxl_bp70_standing69_f"/>
 		<value path="morph" value="Erection Down" to="0.1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="10390" id="rxl_bp70_standing69_m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_footjob_01_S1" frames="320">
 	<actor gender="M">
 		<idle form="1038D" id="rxl_bp70_footjob_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1038E" id="rxl_bp70_footjob_m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_footjob_01_S2" frames="320">
 	<actor gender="M">
 		<idle form="35C8" id="rxl_bp70_footjob2_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="35C9" id="rxl_bp70_footjob2_m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_mistress_01_S1" frames="240">
 	<actor gender="M">
 		<idle form="174F" id="rxl_bp70_mistress01_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1750" id="rxl_bp70_mistress01_m"/>
 		<value path="morph" value="Erection Up" to="0.34"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_mistress_01_S2" frames="240">
 	<actor gender="M">
 		<idle form="1751" id="rxl_bp70_mistress02_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1752" id="rxl_bp70_mistress02_m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_mistress_01_S3" frames="240">
 	<actor gender="M">
 		<idle form="1753" id="rxl_bp70_mistress03_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1754" id="rxl_bp70_mistress03_m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_mistress_01_S4" frames="240">
 	<actor gender="M">
 		<idle form="1755" id="rxl_bp70_mistress04_f"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="1756" id="rxl_bp70_mistress04_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="FO4SA_Missionary_MM_impregnate_cow_kissing" frames="320">
 	<actor gender="M">
 		<idle form="3D6D" id="rxl_bp70_impregnationcow_1_f"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="3D6E" id="rxl_bp70_impregnationcow_1_m"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>

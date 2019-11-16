@@ -6,5 +6,6 @@
 <animation id="FO4SA_MasturbationBed_M_01" frames="360">
 	<actor gender="M">
 		<idle form="000035E6" id="rxl_bp70_bedmast_m"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
