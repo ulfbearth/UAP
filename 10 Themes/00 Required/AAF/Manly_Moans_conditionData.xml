@@ -1,0 +1,14 @@
+<meta title="Manly_Moans_conditionData.xml" version="1.0" dataSet="condition"/>
+
+<!-- Default attributes are applied to all condition nodes below if no conflicting attribute is set there. -->
+<defaults loadPriority="-1"/>
+
+<condition id="isGeneric" isPlayer="false"/>
+
+<condition id="isPlayer" isPlayer="true"/>
+
+<condition id="isUlfberth" name="Ulfberth"/>
+
+<condition id="isDanse" name="Paladin Danse"/>
+
+<condition id="Orgasm" statRules="Arousal)35"/>

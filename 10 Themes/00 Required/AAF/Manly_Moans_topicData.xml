@@ -1,0 +1,106 @@
+<meta title="Manly_Moans_topicData.xml" version="1.0" dataSet="topic"/>
+<defaults source="Manly Moans.esp"/>
+
+<!-- Regular MOANS -->
+
+<topicGroup id="MaleMoans Topic" tryRate="4" chance="75">
+
+<!-- Generic Male VoiceSet -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" voiceTypeSource="Manly Moans.esp"  conditions="isGeneric"/>
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12901" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12902" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+	
+	
+<!-- Ulfberth VoiceSet -->	
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="835" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+	
+	
+<!-- Player Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83D" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+	
+	
+							 <!-- Unique NPCS -->
+<!-- Dance VoiceSet -->	
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+</topicGroup>
+
+
+
+<!--=====================================================================================================================================================================================-->
+
+
+
+<!-- Blowjob MOANS -->
+
+<topicGroup id="MaleBlowjob Topic" tryRate="4" chance="75">
+
+<!-- Generic Male VoiceSet -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+	
+	
+<!-- Ulfberth VoiceSet -->	
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="837" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+	
+	
+<!-- Player Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83C" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+</topicGroup>
+
+
+
+<!--=====================================================================================================================================================================================-->
+
+
+
+<!-- Orgasm MOANS -->
+
+<topicGroup id="MaleOrgasm Topic" tryRate="4" chance="85">
+
+<!-- Generic Male VoiceSet -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12909" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>	
+	
+	
+<!-- Ulfberth VoiceSet -->	
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="838" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+	
+	
+<!-- Player Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83E" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+	
+	
+							 <!-- Unique NPCS -->
+<!-- Dance VoiceSet -->	
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+</topicGroup>
+
+
+
+<!--=====================================================================================================================================================================================-->
+
+
+<!-- Aggressive MOANS -->
+
+<topicGroup id="MaleAggMoans Topic" tryRate="4" chance="75">
+
+<!-- Generic Male VoiceSet -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+	
+	
+	
+							 <!-- Unique NPCS -->
+<!-- Dance VoiceSet -->	
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+</topicGroup>
+
+
+
+<!--=====================================================================================================================================================================================-->
+
+
+<!-- Aggressive Orgasm MOANS -->
+
+<topicGroup id="MaleAggOrgasm Topic" tryRate="4" chance="85">
+
+<!-- Generic Male VoiceSet -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+</topicGroup>

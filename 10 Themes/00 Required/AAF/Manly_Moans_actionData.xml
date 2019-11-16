@@ -1,0 +1,60 @@
+<meta title="Manly_Moans_actionData.xml" version="1.0" dataSet="action"/>
+<defaults />
+
+<action id="MaleMoan Action">
+    <self topicGroupID="MaleMoans Topic">
+		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
+		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
+	</self>
+	
+	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleMoans Topic">
+		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
+		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
+	</target>
+</action>
+
+
+<action id="MaleBlowjob Action">
+    <self topicGroupID="MaleBlowjob Topic">
+		<stat type="speed" range="0-" statID="Arousal" add=".025"/>
+	</self>
+	
+	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleBlowjob Topic">
+		<stat type="speed" range="0-" statID="Arousal" add=".025"/>
+	</target>
+</action>
+
+
+<action id="MaleOrgasm Action">
+    <self reactionSet="Arousal Reset" topicGroupID="MaleOrgasm Topic">
+		<stat type="speed" range="0-" statID="Fatigue" add=".1"/>
+	</self>
+
+	<target swf="AAF_BasicRoundMeter.swf" reactionSet="Arousal Reset" x="1" y="7" topicGroupID="MaleOrgasm Topic">
+		<stat type="speed" range="0-" statID="Fatigue" add=".1"/>
+	</target>
+</action>
+
+
+<action id="MaleAggMoan Action">
+    <self topicGroupID="MaleAggMoans Topic">
+		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
+		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
+	</self>
+
+	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleAggMoans Topic">
+		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
+		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
+	</target>
+</action>
+
+
+<action id="MaleAggOrgasm Action">
+    <self reactionSet="Arousal Reset" topicGroupID="MaleAggMoans Topic">
+		<stat type="speed" range="0-" statID="Fatigue" add=".1"/>
+	</self>
+
+	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" reactionSet="Arousal Reset" topicGroupID="MaleAggMoans Topic">
+		<stat type="speed" range="0-" statID="Fatigue" add=".1"/>
+	</target>
+</action>
