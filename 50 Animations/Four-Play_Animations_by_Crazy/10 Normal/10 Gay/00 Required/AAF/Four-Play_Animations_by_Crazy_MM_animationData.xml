@@ -109,7 +109,7 @@
 	</actor>
 </animation>
 
-<animation id="FPAC_Spitroast_MM_01" time="33" offset="0,70,0,0:0,0,0,0:0,-70,0,0">
+<animation id="FPAC_Spitroast_MM_01" frames="66" offset="0,70,0,0:0,0,0,0:0,-70,0,0">
 	<actor gender="M">
 		<idle form="00000FA9" id="Crazy_Front01_F3Spitroast"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
