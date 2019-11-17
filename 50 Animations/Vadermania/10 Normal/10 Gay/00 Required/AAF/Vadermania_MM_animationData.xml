@@ -4,6 +4,7 @@
 <animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" time="60">
 	<actor gender="M">
 		<idle form="01000f9e" id="vad_Doggy_Female"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="01000f9D" id="vad_Doggy_Male"/>
@@ -13,6 +14,7 @@
 <animation id="VM_Table_MM_01" offset="0,0,0,0:0,-70,0,0" time="60">
 	<actor gender="M">
 		<idle form="01000f9b" id="vad_Table_Female"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="01000f99" id="vad_Table_Male"/>
@@ -22,6 +24,7 @@
 <animation id="VM_Dogmeat_MM_01" time="60">
 	<actor gender="M">
 		<idle form="01000f9f" id="vad_Dogmeat02_Female"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="01000fa0" id="vad_Dogmeat02_Dog"/>
@@ -31,6 +34,7 @@
 <animation id="VM_Deathclaw_MM_Slow_01" time="480">
 	<actor gender="M">
 		<idle form="01002e07" id="vad_Deathclaw02_Human01"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Deathclaw">
 		<idle form="01002e08" id="vad_Deathclaw02_Deathclaw01"/>
@@ -42,6 +46,7 @@
 <animation id="VM_Deathclaw_MM_Fast_02" time="480">
 	<actor gender="M">
 		<idle form="010044DB" id="vad_Deathclaw02_Human02"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Deathclaw">
 		<idle form="01003D41" id="vad_Deathclaw02_Deathclaw02"/>
@@ -62,6 +67,7 @@
 <animation id="VM_Ghoul_MM_02" time="120">
 	<actor gender="M">
 		<idle form="0100173c" id="vad_Ghoul02_Human01"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0100173B" id="vad_Ghoul02_Ghoul01"/>
@@ -71,6 +77,7 @@
 <animation id="VM_Ghoul_MM_Aggressive_03" time="240">
 	<actor gender="M">
 		<idle form="0100173D" id="vad_Ghoul03_Human01"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0100173E" id="vad_Ghoul03_Ghoul01"/>
@@ -80,6 +87,7 @@
 <animation id="VM_Ghoul_MM_04" time="60">
 	<actor gender="M">
 		<idle form="01001ed8" id="vad_Ghoul4w_Human_01"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="01001ed9" id="vad_Ghoul4w_AC2_01"/>
@@ -95,6 +103,7 @@
 <animation id="VM_FEVHound_MM_01" time="100">
 	<actor gender="M">
 		<idle form="01002E13" id="vad_FEVHound01_Human_01"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="FEVHound">
 		<idle form="01002e12" id="vad_FEVHound01_FEVHound_01"/>
@@ -104,6 +113,7 @@
 <animation id="VM_Gorilla_MM_01" time="240">
 	<actor gender="M">
 		<idle form="010035b5" id="vad_Gorilla01_Human_01"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Gorilla">
 		<idle form="010035b4" id="vad_Gorilla01_Gorilla_01"/>
