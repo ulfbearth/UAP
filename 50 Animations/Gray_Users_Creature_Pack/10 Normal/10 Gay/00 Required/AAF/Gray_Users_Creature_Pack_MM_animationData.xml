@@ -3,7 +3,7 @@
 
 <!-- Supermutant -->
 
-<animation id="GUCP_Supermutant_MM_01_S1" frames="900">
+<animation id="GUCP_Supermutant_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="010098fb" id="CP_Mutant01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -13,7 +13,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_01_S2" frames="900">
+<animation id="GUCP_Supermutant_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="010098fd" id="CP_Mutant02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -23,7 +23,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_01_S3" frames="900">
+<animation id="GUCP_Supermutant_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="010098fe" id="CP_Mutant03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -33,7 +33,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_01_S4" frames="900">
+<animation id="GUCP_Supermutant_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="010098ff" id="CP_Mutant04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -43,7 +43,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_02_S1" frames="900">
+<animation id="GUCP_Supermutant_MM_02_S1" frames="300">
 	<actor gender="M">
 		<idle form="0100a0a5" id="CP_02Mutant01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -53,7 +53,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_02_S2" frames="900">
+<animation id="GUCP_Supermutant_MM_02_S2" frames="300">
 	<actor gender="M">
 		<idle form="0100a0a6" id="CP_02Mutant02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -63,7 +63,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_02_S3" frames="900">
+<animation id="GUCP_Supermutant_MM_02_S3" frames="300">
 	<actor gender="M">
 		<idle form="0100a0a7" id="CP_02Mutant03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -74,7 +74,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Supermutant_MM_02_S4" frames="900">
+<animation id="GUCP_Supermutant_MM_02_S4" frames="300">
 	<actor gender="M">
 		<idle form="0100a0a8" id="CP_02Mutant04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -88,7 +88,7 @@
 
 <!-- FEV Hound -->
 
-<animation id="GUCP_FEVHound_MM_01_S1" frames="900" offset="0,0,-4.5,0:0,0,-3.0,0">
+<animation id="GUCP_FEVHound_MM_01_S1" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a8f" id="CP_FEV01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -98,7 +98,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_FEVHound_MM_01_S2" frames="900" offset="0,0,-4.5,0:0,0,-3.0,0">
+<animation id="GUCP_FEVHound_MM_01_S2" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a90" id="CP_FEV02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -108,7 +108,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_FEVHound_MM_01_S3" frames="900" offset="0,0,-4.5,0:0,0,-3.0,0">
+<animation id="GUCP_FEVHound_MM_01_S3" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a91" id="CP_FEV03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -118,7 +118,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_FEVHound_MM_01_S4" frames="900" offset="0,0,-4.5,0:0,0,-3.0,0">
+<animation id="GUCP_FEVHound_MM_01_S4" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 	<actor gender="M">
 		<idle form="01007a92" id="CP_FEV04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -131,7 +131,7 @@
 
 <!-- Deathclaw -->
 
-<animation id="GUCP_Deathclaw_MM_01_S1" frames="900" offset="0,0,0,0:0,23,0,0">
+<animation id="GUCP_Deathclaw_MM_01_S1" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063b8" id="CP_Death01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -142,7 +142,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Deathclaw_MM_01_S2" frames="900" offset="0,0,0,0:0,23,0,0">
+<animation id="GUCP_Deathclaw_MM_01_S2" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063b9" id="CP_Death02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -153,7 +153,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Deathclaw_MM_01_S3" frames="900" offset="0,0,0,0:0,23,0,0">
+<animation id="GUCP_Deathclaw_MM_01_S3" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063ba" id="CP_Death03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -164,7 +164,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Deathclaw_MM_01_S4" frames="900" offset="0,0,0,0:0,23,0,0">
+<animation id="GUCP_Deathclaw_MM_01_S4" frames="300" offset="0,0,0,0:0,23,0,0">
 	<actor gender="M">
 		<idle form="010063bb" id="CP_Death04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -178,7 +178,7 @@
 
 <!-- Feral Ghoul -->
 
-<animation id="GUCP_Ghoul_MM_01_S1" frames="900">
+<animation id="GUCP_Ghoul_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="0100547c" id="CP_Ghoul01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -188,7 +188,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_01_S2" frames="900">
+<animation id="GUCP_Ghoul_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="0100547d" id="CP_Ghoul02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -198,7 +198,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_01_S3" frames="900">
+<animation id="GUCP_Ghoul_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="0100547e" id="CP_Ghoul03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -208,7 +208,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_01_S4" frames="900">
+<animation id="GUCP_Ghoul_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="0100547f" id="CP_Ghoul04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -218,7 +218,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S1" frames="900" offset="0,0,0,0:0,0,2,0">
+<animation id="GUCP_Ghoul_MM_02_S1" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a1" id="CP_02Ghoul01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -228,7 +228,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S2" frames="900" offset="0,0,0,0:0,0,2,0">
+<animation id="GUCP_Ghoul_MM_02_S2" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a2" id="CP_02Ghoul02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -238,7 +238,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S3" frames="900" offset="0,0,0,0:0,0,2,0">
+<animation id="GUCP_Ghoul_MM_02_S3" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a3" id="CP_02Ghoul03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -248,7 +248,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Ghoul_MM_02_S4" frames="900" offset="0,0,0,0:0,0,2,0">
+<animation id="GUCP_Ghoul_MM_02_S4" frames="300" offset="0,0,0,0:0,0,2,0">
 	<actor gender="M">
 		<idle form="0100a0a4" id="CP_02Ghoul04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -261,7 +261,7 @@
 
 <!-- Molerat -->
 
-<animation id="GUCP_Molerat_MM_01_S1" frames="900">
+<animation id="GUCP_Molerat_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="0100453c" id="CP_Molerat01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -271,7 +271,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Molerat_MM_01_S2" frames="900">
+<animation id="GUCP_Molerat_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="0100453d" id="CP_Molerat02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -281,7 +281,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Molerat_MM_01_S3" frames="900">
+<animation id="GUCP_Molerat_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="0100453e" id="CP_Molerat03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -291,7 +291,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Molerat_MM_01_S4" frames="900">
+<animation id="GUCP_Molerat_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="0100453f" id="CP_Molerat04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -304,7 +304,7 @@
 
 <!-- Behemoth -->
 
-<animation id="GUCP_Behemoth_MM_01_S1" frames="900" offset="0,0,0,0:-174,0,-174,0">
+<animation id="GUCP_Behemoth_MM_01_S1" frames="300" offset="0,0,0,0:-174,0,-174,0">
 	<actor gender="M">
 		<idle form="01004534" id="CP_Behemoth01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -315,7 +315,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Behemoth_MM_01_S2" frames="900" offset="0,0,0,0:-174,0,-174,0">
+<animation id="GUCP_Behemoth_MM_01_S2" frames="300" offset="0,0,0,0:-174,0,-174,0">
 	<actor gender="M">
 		<idle form="01004535" id="CP_Behemoth02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -326,7 +326,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Behemoth_MM_01_S3" frames="900" offset="0,0,0,0:-174,0,-174,0">
+<animation id="GUCP_Behemoth_MM_01_S3" frames="300" offset="0,0,0,0:-174,0,-174,0">
 	<actor gender="M">
 		<idle form="01004536" id="CP_Behemoth03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -337,7 +337,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Behemoth_MM_01_S4" frames="900" offset="0,0,0,0:-174,0,-174,0">
+<animation id="GUCP_Behemoth_MM_01_S4" frames="300" offset="0,0,0,0:-174,0,-174,0">
 	<actor gender="M">
 		<idle form="01004537" id="CP_Behemoth04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -351,7 +351,7 @@
 
 <!-- Alien -->
 
-<animation id="GUCP_Alien_MM_01_S1" frames="900">
+<animation id="GUCP_Alien_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="01004538" id="CP_Alien01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -361,7 +361,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Alien_MM_01_S2" frames="900">
+<animation id="GUCP_Alien_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="01004539" id="CP_Alien02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -371,7 +371,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Alien_MM_01_S3" frames="900">
+<animation id="GUCP_Alien_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="0100453a" id="CP_Alien03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -381,7 +381,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Alien_MM_01_S4" frames="900">
+<animation id="GUCP_Alien_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="0100453b" id="CP_Alien04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -394,7 +394,7 @@
 
 <!-- Bloatfly -->
 
-<animation id="GUCP_Bloatfly_MM_01_S1" frames="900" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_MM_01_S1" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="M">
 		<idle form="00000F99" id="CP_Bloat01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -404,7 +404,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloatfly_MM_01_S2" frames="900" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_MM_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="M">
 		<idle form="00000F9A" id="CP_Bloat02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -414,7 +414,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloatfly_MM_01_S3" frames="900" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_MM_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="M">
 		<idle form="00000F9B" id="CP_Bloat03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -424,7 +424,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloatfly_MM_01_S4" frames="900" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_MM_01_S4" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="M">
 		<idle form="00000F9C" id="CP_Bloat04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -436,7 +436,7 @@
 
 <!-- Bloodbug -->
 
-<animation id="GUCP_Bloodbug_MM_01_S1" frames="900" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_MM_01_S1" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="M">
 		<idle form="00000F9D" id="CP_Blood01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -446,7 +446,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloodbug_MM_01_S2" frames="900" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_MM_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="M">
 		<idle form="00000F9E" id="CP_Blood02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -456,7 +456,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloodbug_MM_01_S3" frames="900" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_MM_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="M">
 		<idle form="00000F9F" id="CP_Blood03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -466,7 +466,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloodbug_MM_01_S4" frames="900" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_MM_01_S4" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="M">
 		<idle form="00000FA0" id="CP_Blood04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -478,7 +478,7 @@
 
 <!-- Mirelurk -->
 
-<animation id="GUCP_Mirelurk_MM_01_S1" frames="900">
+<animation id="GUCP_Mirelurk_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000FA1" id="CP_Mire01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -488,7 +488,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Mirelurk_MM_01_S2" frames="900">
+<animation id="GUCP_Mirelurk_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000FA2" id="CP_Mire02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -498,7 +498,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Mirelurk_MM_01_S3" frames="900">
+<animation id="GUCP_Mirelurk_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000FA3" id="CP_Mire03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -508,7 +508,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Mirelurk_MM_01_S4" frames="900">
+<animation id="GUCP_Mirelurk_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00000FA4" id="CP_Mire04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -520,7 +520,7 @@
 
 <!-- Mirelurk Hunter -->
 
-<animation id="GUCP_MirelurkHunter_MM_01_S1" frames="900">
+<animation id="GUCP_MirelurkHunter_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000FA5" id="CP_MireH01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -530,7 +530,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkHunter_MM_01_S2" frames="900">
+<animation id="GUCP_MirelurkHunter_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000FA6" id="CP_MireH02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -540,7 +540,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkHunter_MM_01_S3" frames="900">
+<animation id="GUCP_MirelurkHunter_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000FA7" id="CP_MireH03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -550,7 +550,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkHunter_MM_01_S4" frames="900">
+<animation id="GUCP_MirelurkHunter_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00000FA8" id="CP_MireH04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -562,7 +562,7 @@
 
 <!-- Mirelurk King -->
 
-<animation id="GUCP_MirelurkKing_MM_01_S1" frames="900">
+<animation id="GUCP_MirelurkKing_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00001F0F" id="CP_MireK01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -572,7 +572,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkKing_MM_01_S2" frames="900">
+<animation id="GUCP_MirelurkKing_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00001F10" id="CP_MireK02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -582,7 +582,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkKing_MM_01_S3" frames="900">
+<animation id="GUCP_MirelurkKing_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00001F11" id="CP_MireK03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -592,7 +592,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkKing_MM_01_S4" frames="900">
+<animation id="GUCP_MirelurkKing_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00001F12" id="CP_MireK04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -604,7 +604,7 @@
 
 <!-- Mirelurk Queen -->
 
-<animation id="GUCP_MirelurkQueen_MM_01_S1" frames="900">
+<animation id="GUCP_MirelurkQueen_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000FA9" id="CP_MireQ01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -614,7 +614,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkQueen_MM_01_S2" frames="900">
+<animation id="GUCP_MirelurkQueen_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000FAA" id="CP_MireQ02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -624,7 +624,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkQueen_MM_01_S3" frames="900">
+<animation id="GUCP_MirelurkQueen_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000FAB" id="CP_MireQ03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -634,7 +634,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkQueen_MM_01_S4" frames="900">
+<animation id="GUCP_MirelurkQueen_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00000FAC" id="CP_MireQ04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -646,7 +646,7 @@
 
 <!-- Rad Scorpion -->
 
-<animation id="GUCP_Radscorpion_MM_01_S1" frames="900">
+<animation id="GUCP_Radscorpion_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000FAD" id="CP_Scorp01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -656,7 +656,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Radscorpion_MM_01_S2" frames="900">
+<animation id="GUCP_Radscorpion_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000FAE" id="CP_Scorp02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -666,7 +666,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Radscorpion_MM_01_S3" frames="900">
+<animation id="GUCP_Radscorpion_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000FAF" id="CP_Scorp03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -676,7 +676,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Radscorpion_MM_01_S4" frames="900">
+<animation id="GUCP_Radscorpion_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00000FB0" id="CP_Scorp04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -688,7 +688,7 @@
 
 <!-- Stingwing -->
 
-<animation id="GUCP_Stingwing_MM_01_S1" frames="900" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_MM_01_S1" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="M">
 		<idle form="00000FB1" id="CP_Sting01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -698,7 +698,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Stingwing_MM_01_S2" frames="900" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_MM_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="M">
 		<idle form="00000FB2" id="CP_Sting02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -708,7 +708,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Stingwing_MM_01_S3" frames="900" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_MM_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="M">
 		<idle form="00000FB3" id="CP_Sting03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -718,7 +718,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Stingwing_MM_01_S4" frames="900" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_MM_01_S4" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="M">
 		<idle form="00000FB4" id="CP_Sting04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -730,7 +730,7 @@
 
 <!-- Yao-Guai -->
 
-<animation id="GUCP_YaoGuai_MM_01_S1" frames="900">
+<animation id="GUCP_YaoGuai_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00001F0B" id="CP_Yao01_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -740,7 +740,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_YaoGuai_MM_01_S2" frames="900">
+<animation id="GUCP_YaoGuai_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00001F0C" id="CP_Yao02_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -750,7 +750,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_YaoGuai_MM_01_S3" frames="900">
+<animation id="GUCP_YaoGuai_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00001F0D" id="CP_Yao03_F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -760,7 +760,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_YaoGuai_MM_01_S4" frames="900">
+<animation id="GUCP_YaoGuai_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00001F0E" id="CP_Yao04_F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
