@@ -1,36 +1,43 @@
 <meta title="Farelle's Animations - Animation Data" version="0.1.2" dataSet="animation"/>
 <defaults source="Farelle_Animations.esp"/>
 
-<animation id="Farelle_Blowjob_MM_Forced_01_S1" time="60">
+<animation id="Farelle_Blowjob_MM_Forced_01_S1" frames="60">
 	<actor gender="M">
 		<idle form="0000359D" id="Farelle_FrocedBJ_Female"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000359C" id="Farelle_ForcedBJ_Male"/>
+        <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="Farelle_Blowjob_MM_Forced_01_S2" time="60">
+<animation id="Farelle_Blowjob_MM_Forced_01_S2" frames="60">
 	<actor gender="M">
 		<idle form="00003D38" id="Farelle_ForcedBJ_Female_Stage2"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00003D37" id="Farelle_ForcedBJ_Male_Stage2"/>
+        <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="Farelle_Feetjob_MM_01" time="60">
+<animation id="Farelle_Feetjob_MM_01" frames="60">
 	<actor gender="M">
 		<idle form="00006ADB" id="FEMALE_FEETJOB"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006ADC" id="MALE_FEETJOB"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="Farelle_Blowjob_MM_Threesome_01" time="60">
+<animation id="Farelle_Blowjob_MM_Threesome_01" frames="60">
 	<actor gender="M">
 		<idle form="00005BA3" id="SM_THREESOME_BLOWJOB_FEMALE"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00005BA4" id="SM_THREESOME_BLOWJOB_SM01"/>
@@ -40,9 +47,10 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Gangbang_MM_Threesome_01" time="60">
+<animation id="Farelle_Gangbang_MM_Threesome_01" frames="60">
 	<actor gender="M">
 		<idle form="0000633F" id="SM_THREESOME_GANGBANG_FEMALE"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00006340" id="SM_THREESOME_GANGBANG_SM01"/>
@@ -52,9 +60,10 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Handjob_MM_Threesome_01" time="60">
+<animation id="Farelle_Handjob_MM_Threesome_01" frames="60">
 	<actor gender="M">
 		<idle form="00004C6B" id="SM_THREESOME_FEMALE"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00004C6C" id="SM_THREESOME_SM01"/>
@@ -64,9 +73,10 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Teasing_MM_Threesome_01" time="60">
+<animation id="Farelle_Teasing_MM_Threesome_01" frames="60">
 	<actor gender="M">
 		<idle form="00005409" id="SM_THREESOME_TEASING_FEMALE"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00005407" id="SM_THREESOME_TEASING_SM01"/>
