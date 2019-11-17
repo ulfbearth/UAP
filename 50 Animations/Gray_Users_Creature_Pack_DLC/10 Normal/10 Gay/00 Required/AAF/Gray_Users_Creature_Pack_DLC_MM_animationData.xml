@@ -3,7 +3,7 @@
 
 <!-- Angler -->
 
-<animation id="GUCP_Angler_MM_01_S1" frames="900" offset="0,3,-36,0:0,0,-36,0">
+<animation id="GUCP_Angler_MM_01_S1" frames="300" offset="0,3,-36,0:0,0,-36,0">
 	<actor gender="M">
 		<idle form="010081e7" id="_CP_AnglerFem01"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -14,7 +14,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Angler_MM_01_S2" frames="900" offset="0,3,-36,0:0,0,-36,0">
+<animation id="GUCP_Angler_MM_01_S2" frames="300" offset="0,3,-36,0:0,0,-36,0">
 	<actor gender="M">
 		<idle form="010081e8" id="_CP_AnglerFem02"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -25,7 +25,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Angler_MM_01_S3" frames="900" offset="0,3,-36,0:0,0,-36,0">
+<animation id="GUCP_Angler_MM_01_S3" frames="300" offset="0,3,-36,0:0,0,-36,0">
 	<actor gender="M">
 		<idle form="010081e9" id="_CP_AnglerFem03"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -36,7 +36,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Angler_MM_01_S4" frames="900" offset="0,3,-36,0:0,0,-36,0">
+<animation id="GUCP_Angler_MM_01_S4" frames="300" offset="0,3,-36,0:0,0,-36,0">
 	<actor gender="M">
 		<idle form="010081ea" id="_CP_AnglerFem04"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -53,7 +53,7 @@
 
 <!-- Fog Crawler -->
 
-<animation id="GUCP_Fog_MM_01_S1" frames="900">
+<animation id="GUCP_Fog_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="010081ef" id="_CP_FogFem01"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -64,7 +64,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Fog_MM_01_S2" frames="900">
+<animation id="GUCP_Fog_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="010081f0" id="_CP_FogFem02"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -75,7 +75,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Fog_MM_01_S3" frames="900">
+<animation id="GUCP_Fog_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="010081f1" id="_CP_FogFem03"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -86,7 +86,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Fog_MM_01_S4" frames="900">
+<animation id="GUCP_Fog_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="010081f2" id="_CP_FogFem04"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -102,7 +102,7 @@
 
 <!-- Gulper -->
 
-<animation id="GUCP_Gulper_MM_01_S1" frames="900" offset="0,-32,0,0:0,0,0,0">
+<animation id="GUCP_Gulper_MM_01_S1" frames="300" offset="0,-32,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="010081f3" id="_CP_GulperFem01"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -113,7 +113,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Gulper_MM_01_S2" frames="900" offset="0,-32,0,0:0,0,0,0">
+<animation id="GUCP_Gulper_MM_01_S2" frames="300" offset="0,-32,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="010081f4" id="_CP_GulperFem02"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -124,7 +124,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Gulper_MM_01_S3" frames="900" offset="0,-32,0,0:0,0,0,0">
+<animation id="GUCP_Gulper_MM_01_S3" frames="300" offset="0,-32,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="010081f5" id="_CP_GulperFem03"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -135,7 +135,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Gulper_MM_01_S4" frames="900" offset="0,-32,0,0:0,0,0,0">
+<animation id="GUCP_Gulper_MM_01_S4" frames="300" offset="0,-32,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="010081f6" id="_CP_GulperFem04"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -146,7 +146,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_GulperLarge_MM_01_S1" frames="900">
+<animation id="GUCP_GulperLarge_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="01026047" id="_CP_GulperLFem01"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -157,7 +157,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_GulperLarge_MM_01_S2" frames="900">
+<animation id="GUCP_GulperLarge_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="01026048" id="_CP_GulperLFem02"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -168,7 +168,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_GulperLarge_MM_01_S3" frames="900">
+<animation id="GUCP_GulperLarge_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="01026049" id="_CP_GulperLFem03"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -179,7 +179,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_GulperLarge_MM_01_S4" frames="900">
+<animation id="GUCP_GulperLarge_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="0102604a" id="_CP_GulperLFem04"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -196,7 +196,7 @@
 
 <!-- Hermit -->
 
-<animation id="GUCP_Hermit_MM_01_S1" frames="900" offset="0,5.5,1,0:0,0,0,0"> <!-- In Animation offset is 156.365-->
+<animation id="GUCP_Hermit_MM_01_S1" frames="300" offset="0,5.5,1,0:0,0,0,0"> <!-- In Animation offset is 156.365-->
 	<actor gender="M">
 		<idle form="010081f7" id="_CP_HermitFem01"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -207,7 +207,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Hermit_MM_01_S2" frames="900" offset="0,5.5,1,0:0,0,0,0"> 
+<animation id="GUCP_Hermit_MM_01_S2" frames="300" offset="0,5.5,1,0:0,0,0,0"> 
 	<actor gender="M">
 		<idle form="010081f8" id="_CP_HermitFem02"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -218,7 +218,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Hermit_MM_01_S3" frames="900" offset="0,5.5,1,0:0,0,0,0">
+<animation id="GUCP_Hermit_MM_01_S3" frames="300" offset="0,5.5,1,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="010081f9" id="_CP_HermitFem03"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
@@ -229,7 +229,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Hermit_MM_01_S4" frames="900" offset="0,5.5,1,0:0,0,0,0"> 
+<animation id="GUCP_Hermit_MM_01_S4" frames="300" offset="0,5.5,1,0:0,0,0,0"> 
 	<actor gender="M">
 		<idle form="010081fa" id="_CP_HermitFem04"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
