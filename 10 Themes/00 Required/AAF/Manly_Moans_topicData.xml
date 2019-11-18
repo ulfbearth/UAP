@@ -3,7 +3,7 @@
 
 <!-- Regular MOANS -->
 
-<topicGroup id="MaleMoans Topic" tryRate="4" chance="50">
+<topicGroup id="MaleMoans Topic" tryRate="4" chance="70">
 
 <!-- Generic Male VoiceSet -->
 	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" voiceTypeSource="Manly Moans.esp"  conditions="isGeneric"/>
@@ -32,7 +32,7 @@
 
 <!-- Blowjob MOANS -->
 
-<topicGroup id="MaleBlowjob Topic" tryRate="4" chance="50">
+<topicGroup id="MaleBlowjob Topic" tryRate="4" chance="70">
 
 <!-- Generic Male VoiceSet -->
 	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
@@ -80,7 +80,7 @@
 
 <!-- Aggressive MOANS -->
 
-<topicGroup id="MaleAggMoans Topic" tryRate="4" chance="50">
+<topicGroup id="MaleAggMoans Topic" tryRate="4" chance="70">
 
 <!-- Generic Male VoiceSet -->
 	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
