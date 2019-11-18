@@ -60,19 +60,23 @@
 	<actor gender="M">
 		<idle form="00025C26"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C27"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_AnalDoubleBed_MM_2Human_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00025C28"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C29"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -80,10 +84,12 @@
 	<actor gender="M">
 		<idle form="00025C2A"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C2B"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -91,10 +97,12 @@
 	<actor gender="M">
 		<idle form="00025C2C"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C2D"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -102,10 +110,12 @@
 	<actor gender="M">
 		<idle form="00025C2E"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C2F"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -113,10 +123,12 @@
 	<actor gender="M">
 		<idle form="00025C30"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C31"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -124,10 +136,12 @@
 	<actor gender="M">
 		<idle form="00025C32"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00025C33"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -139,10 +153,12 @@
 	<actor gender="M">
 		<idle form="00000FD3" id="FM-Bed01-01Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FD4" id="FM-Bed01-01Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -150,10 +166,12 @@
 	<actor gender="M">
 		<idle form="00000FD5" id="FM-Bed01-02Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FD6" id="FM-Bed01-02Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -161,10 +179,12 @@
 	<actor gender="M">
 		<idle form="00000FD7" id="FM-Bed01-03Titjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FD8" id="FM-Bed01-03Titjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -172,10 +192,12 @@
 	<actor gender="M">
 		<idle form="00000FD9" id="FM-Bed01-04Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FDA" id="FM-Bed01-04Blowjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -183,10 +205,12 @@
 	<actor gender="M">
 		<idle form="00000FDB" id="FM-Bed01-05DeepthroatA-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FDC" id="FM-Bed01-05DeepthroatA-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -194,10 +218,12 @@
 	<actor gender="M">
 		<idle form="00000FDD" id="FM-Bed01-05DeepthroatB-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FDE" id="FM-Bed01-05DeepthroatB-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -205,10 +231,12 @@
 	<actor gender="M">
 		<idle form="00000FDF" id="FM-Bed01-05DeepthroatC-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FE0" id="FM-Bed01-05DeepthroatC-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -216,10 +244,12 @@
 	<actor gender="M">
 		<idle form="00000FE1" id="FM-Bed01-06BlowjobRough-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FE2" id="FM-Bed01-06BlowjobRough-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -227,10 +257,12 @@
 	<actor gender="M">
 		<idle form="00000FE3" id="FM-Bed01-07CumShot-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FE4" id="FM-Bed01-07CumShot-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -238,10 +270,12 @@
 	<actor gender="M">
 		<idle form="00000FE5" id="FM-Bed01-07Swallow-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FE7" id="FM-Bed01-07Swallow-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -251,10 +285,12 @@
 	<actor gender="M">
 		<idle form="000099DA" id="FM-Bed03-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000099DB" id="FM-Bed03-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -262,11 +298,13 @@
 	<actor gender="M">
 		<idle form="00006C0A" id="FM-Bed03-03Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006C0B" id="FM-Bed03-03Cowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -274,11 +312,13 @@
 	<actor gender="M">
 		<idle form="0000923C" id="FM-Bed03-04Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000923D" id="FM-Bed03-04Cowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -286,11 +326,13 @@
 	<actor gender="M">
 		<idle form="0000E62A" id="FM-Bed03-05Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000E62B" id="FM-Bed03-05Cowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -298,11 +340,13 @@
 	<actor gender="M">
 		<idle form="0002731D"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002731E"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -313,10 +357,12 @@
 	<actor gender="M">
 		<idle form="000099DC" id="FM-Bench01-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000099DD" id="FM-Bench01-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -324,11 +370,13 @@
 	<actor gender="M">
 		<idle form="0000550B" id="FM-Bench01-03ReverseCowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000550C" id="FM-Bench01-03ReverseCowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -336,11 +384,13 @@
 	<actor gender="M">
 		<idle form="0000C744" id="FM-Bench01-04ReverseCowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000C745" id="FM-Bench01-04ReverseCowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -348,11 +398,13 @@
 	<actor gender="M">
 		<idle form="00006C0C" id="FM-Bench01-05ReverseCowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006C0D" id="FM-Bench01-05ReverseCowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -360,11 +412,13 @@
 	<actor gender="M">
 		<idle form="2731F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="27320"/>
 		<value path="morph" value="Erection Down" to="0.25"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -375,10 +429,12 @@
 	<actor gender="M">
 		<idle form="00000FF0" id="FM-Chair01-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FF1" id="FM-Chair01-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -386,10 +442,12 @@
 	<actor gender="M">
 		<idle form="000263E3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000263E4"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -397,10 +455,12 @@
 	<actor gender="M">
 		<idle form="00000FF2" id="FM-Chair01-03Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FF3" id="FM-Chair01-03Cowgirl-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -408,10 +468,12 @@
 	<actor gender="M">
 		<idle form="00000FF4" id="FM-Chair01-04Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FF5" id="FM-Chair01-04Cowgirl-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -419,10 +481,12 @@
 	<actor gender="M">
 		<idle form="000073B5" id="FM-Chair01-05Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000073B6" id="FM-Chair01-05Cowgirl-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -430,10 +494,12 @@
 	<actor gender="M">
 		<idle form="00021EF0" id="FM-Chair01-06Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF1" id="FM-Chair01-06Cowgirl-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -441,10 +507,12 @@
 	<actor gender="M">
 		<idle form="00026B80"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00026B81"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -452,10 +520,12 @@
 	<actor gender="M">
 		<idle form="00026B82"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00026B83"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -466,11 +536,13 @@
 	<actor gender="M">
 		<idle form="0002171E" id="FM-Motorbike01-03Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002171F" id="FM-Motorbike01-03Cowgirl-M1"/>
 		<value path="morph" value="Erection Down" to="0.25"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -481,10 +553,12 @@
 	<actor gender="M">
 		<idle form="00006446" id="FM-Seat01-03Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006447" id="FM-Seat01-03Cowgirl-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -492,10 +566,12 @@
 	<actor gender="M">
 		<idle form="000082FD" id="FM-Seat01-04Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000082FE" id="FM-Seat01-04Cowgirl-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -503,10 +579,12 @@
 	<actor gender="M">
 		<idle form="0000CF45" id="FM-Seat01-05Cowgirl-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000CF46" id="FM-Seat01-05Cowgirl-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -516,10 +594,12 @@
 	<actor gender="M">
 		<idle form="0000CEDF" id="FM-WallChurch01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000CEE0" id="FM-WallChurch01-02Start-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -531,10 +611,12 @@
 	<actor gender="M">
 		<idle form="263DB"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263DC"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -542,10 +624,12 @@
 	<actor gender="M">
 		<idle form="263DD"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263DE"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -553,10 +637,12 @@
 	<actor gender="M">
 		<idle form="263DF"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263E0"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -568,10 +654,12 @@
 	<actor gender="M">
 		<idle form="00001000" id="FM-ChairHigh01-02Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001001" id="FM-ChairHigh01-02Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -579,10 +667,12 @@
 	<actor gender="M">
 		<idle form="00001002" id="FM-ChairLow01-02Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001003" id="FM-ChairLow01-02Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -590,10 +680,12 @@
 	<actor gender="M">
 		<idle form="00001004" id="FM-ChairMedium01-02Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001005" id="FM-ChairMedium01-02Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -601,10 +693,12 @@
 	<actor gender="M">
 		<idle form="00001006" id="FM-ChairVeryLow01-02Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001007" id="FM-ChairVeryLow01-02Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -616,10 +710,12 @@
 	<actor gender="M">
 		<idle form="2732B"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2732C"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -627,10 +723,12 @@
 	<actor gender="M">
 		<idle form="2732D"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2732E"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -638,10 +736,12 @@
 	<actor gender="M">
 		<idle form="2732F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="27330"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -649,10 +749,12 @@
 	<actor gender="M">
 		<idle form="27331"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="27332"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -660,10 +762,12 @@
 	<actor gender="M">
 		<idle form="27333"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="27334"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -674,10 +778,12 @@
 	<actor gender="M">
 		<idle form="0000C003" id="FM-Desk01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000C004" id="FM-Desk01-01Tease-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -685,11 +791,13 @@
 	<actor gender="M">
 		<idle form="00001FC9" id="FM-Desk01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001FCA" id="FM-Desk01-03Doggy-M1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -697,11 +805,13 @@
 	<actor gender="M">
 		<idle form="0000C005" id="FM-Desk01-04Doggy-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000C006" id="FM-Desk01-04Doggy-M1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -711,10 +821,12 @@
 	<actor gender="M">
 		<idle form="00001008" id="FM-DoubleBed01-01Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001009" id="FM-DoubleBed01-01Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -722,10 +834,12 @@
 	<actor gender="M">
 		<idle form="0000100A" id="FM-DoubleBed01-02Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000100B" id="FM-DoubleBed01-02Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -733,10 +847,12 @@
 	<actor gender="M">
 		<idle form="0000100C" id="FM-DoubleBed01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000100D" id="FM-DoubleBed01-03Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -744,10 +860,12 @@
 	<actor gender="M">
 		<idle form="00004D6A" id="FM-DoubleBed01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004D6B" id="FM-DoubleBed01-04Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -755,10 +873,12 @@
 	<actor gender="M">
 		<idle form="00004D6C" id="FM-DoubleBed01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004D6D" id="FM-DoubleBed01-05Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -766,10 +886,12 @@
 	<actor gender="M">
 		<idle form="00007386" id="FM-DoubleBed01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007387" id="FM-DoubleBed01-06Doggy-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -779,10 +901,12 @@
 	<actor gender="M">
 		<idle form="000099E0" id="FM-DoubleBed04-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000099E1" id="FM-DoubleBed04-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -790,10 +914,12 @@
 	<actor gender="M">
 		<idle form="00004D70" id="FM-DoubleBed04-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004D71" id="FM-DoubleBed04-03Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -801,10 +927,12 @@
 	<actor gender="M">
 		<idle form="0000B80D" id="FM-DoubleBed04-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B80E" id="FM-DoubleBed04-04Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -812,10 +940,12 @@
 	<actor gender="M">
 		<idle form="00006C0E" id="FM-DoubleBed04-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006C0F" id="FM-DoubleBed04-05Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -823,10 +953,12 @@
 	<actor gender="M">
 		<idle form="00008A9E" id="FM-DoubleBed04-06Doggy-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00008A9F" id="FM-DoubleBed04-06Doggy-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -836,10 +968,12 @@
 	<actor gender="M">
 		<idle form="0000180C" id="FM-PoolTable02-01RoughTease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000180D" id="FM-PoolTable02-01RoughTease-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -847,10 +981,12 @@
 	<actor gender="M">
 		<idle form="0000180E" id="FM-PoolTable02-02RoughStart-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000180F" id="FM-PoolTable02-02RoughStart-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -858,10 +994,12 @@
 	<actor gender="M">
 		<idle form="00001810" id="FM-PoolTable02-03RoughDoggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001811" id="FM-PoolTable02-03RoughDoggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -869,10 +1007,12 @@
 	<actor gender="M">
 		<idle form="00001812" id="FM-PoolTable02-04RoughDoggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001813" id="FM-PoolTable02-04RoughDoggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -880,10 +1020,12 @@
 	<actor gender="M">
 		<idle form="00001814" id="FM-PoolTable02-05RoughDoggy-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001815" id="FM-PoolTable02-05RoughDoggy-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -893,10 +1035,12 @@
 	<actor gender="M">
 		<idle form="0000B070" id="FM-RoundTable01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B071" id="FM-RoundTable01-03Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -906,10 +1050,12 @@
 	<actor gender="M">
 		<idle form="00002761" id="FM-Stool01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002762" id="FM-Stool01-03Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -917,10 +1063,12 @@
 	<actor gender="M">
 		<idle form="0000D67A" id="FM-Stool01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000D67B" id="FM-Stool01-04Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -928,10 +1076,12 @@
 	<actor gender="M">
 		<idle form="00006C14" id="FM-Stool01-05Doggy-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006C15" id="FM-Stool01-05Doggy-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -941,10 +1091,12 @@
 	<actor gender="M">
 		<idle form="000263E5"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000263E6"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -952,10 +1104,12 @@
 	<actor gender="M">
 		<idle form="00000FF6" id="FM-Chair02-01Start-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FF7" id="FM-Chair02-01Start-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -963,10 +1117,12 @@
 	<actor gender="M">
 		<idle form="00000FF8" id="FM-Chair02-02Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FF9" id="FM-Chair02-02Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -974,10 +1130,12 @@
 	<actor gender="M">
 		<idle form="00000FFA" id="FM-Chair02-03Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FFB" id="FM-Chair02-03Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -985,10 +1143,12 @@
 	<actor gender="M">
 		<idle form="00000FFC" id="FM-Chair02-04Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FFD" id="FM-Chair02-04Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -996,11 +1156,13 @@
 	<actor gender="M">
 		<idle form="00000FFE" id="FM-Chair02-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FFF" id="FM-Chair02-05Blowjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.35"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1008,11 +1170,13 @@
 	<actor gender="M">
 		<idle form="000017F8" id="FM-Chair02-06Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000017F9" id="FM-Chair02-06Blowjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.35"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1020,11 +1184,13 @@
 	<actor gender="M">
 		<idle form="000017FA" id="FM-Chair02-07Deepthroat-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000017FB" id="FM-Chair02-07Deepthroat-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.35"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1032,11 +1198,13 @@
 	<actor gender="M">
 		<idle form="000017FC" id="FM-Chair02-08Swallow-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000017FD" id="FM-Chair02-08Swallow-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.35"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1046,10 +1214,12 @@
 	<actor gender="M">
 		<idle form="0000C7A4" id="FM-Couch02-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000C7A5" id="FM-Couch02-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1057,11 +1227,13 @@
 	<actor gender="M">
 		<idle form="00006448" id="FM-Couch02-03Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006449" id="FM-Couch02-03Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1069,11 +1241,13 @@
 	<actor gender="M">
 		<idle form="0000644A" id="FM-Couch02-04Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000644B" id="FM-Couch02-04Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1081,11 +1255,13 @@
 	<actor gender="M">
 		<idle form="0000644C" id="FM-Couch02-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000644D" id="FM-Couch02-05Blowjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1093,11 +1269,13 @@
 	<actor gender="M">
 		<idle form="00027321"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00027322"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="0.15"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1106,9 +1284,11 @@
 <animation id="SCAP_LapDance_MM_2Human_01" frames="1000">
 	<actor gender="M">
 		<idle form="00001800" id="FM-LapDance01-01LapDance-F1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001801" id="FM-LapDance01-01LapDance-M1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1121,10 +1301,12 @@
 	<actor gender="M">
 		<idle form="2547D"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2547E"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1132,10 +1314,12 @@
 	<actor gender="M">
 		<idle form="2547F"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="25480"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1144,10 +1328,12 @@
 		<idle form="25481"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="25482"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1156,10 +1342,12 @@
 		<idle form="25483"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="25484"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1168,10 +1356,12 @@
 		<idle form="25485"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="25486"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1180,10 +1370,12 @@
 		<idle form="25487"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="25488"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1191,10 +1383,12 @@
 	<actor gender="M">
 		<idle form="25489"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2548A"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1205,10 +1399,12 @@
 	<actor gender="M">
 		<idle form="0000E62C" id="FM-Bed04-03Missionary-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000E62D" id="FM-Bed04-03Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1218,10 +1414,12 @@
 	<actor gender="M">
 		<idle form="000099DE" id="FM-DoubleBed03-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000099DF" id="FM-DoubleBed03-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1229,10 +1427,12 @@
 	<actor gender="M">
 		<idle form="00005CA9" id="FM-DoubleBed03-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00005CAA" id="FM-DoubleBed03-03Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1240,10 +1440,12 @@
 	<actor gender="M">
 		<idle form="0000B80B" id="FM-DoubleBed03-04Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B80C" id="FM-DoubleBed03-04Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1251,10 +1453,12 @@
 	<actor gender="M">
 		<idle form="0000DE15" id="FM-DoubleBed03-05Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000DE16" id="FM-DoubleBed03-05Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1262,10 +1466,12 @@
 	<actor gender="M">
 		<idle form="0000DE17" id="FM-DoubleBed03-06Missionary-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000DE18" id="FM-DoubleBed03-06Missionary-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1275,10 +1481,12 @@
 	<actor gender="M">
 		<idle form="00001802" id="FM-PoolTable01-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001803" id="FM-PoolTable01-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1286,10 +1494,12 @@
 	<actor gender="M">
 		<idle form="00001804" id="FM-PoolTable01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001805" id="FM-PoolTable01-02Start-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1297,10 +1507,12 @@
 	<actor gender="M">
 		<idle form="00001807" id="FM-PoolTable01-03Cunnilingus-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001806" id="FM-PoolTable01-03Cunnilingus-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1308,10 +1520,12 @@
 	<actor gender="M">
 		<idle form="00001808" id="FM-PoolTable01-04Cunnilingus-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001809" id="FM-PoolTable01-04Cunnilingus-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1320,10 +1534,12 @@
 		<idle form="0000180A" id="FM-PoolTable01-05Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000180B" id="FM-PoolTable01-05Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1331,11 +1547,13 @@
 	<actor gender="M">
 		<idle form="00006C10" id="FM-PoolTable01-06Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006C11" id="FM-PoolTable01-06Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1343,11 +1561,13 @@
 	<actor gender="M">
 		<idle form="0000C7A6" id="FM-PoolTable01-07Missionary-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000C7A7" id="FM-PoolTable01-07Missionary-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1357,10 +1577,12 @@
 	<actor gender="M">
 		<idle form="000045CF" id="FM-Table01-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000045D0" id="FM-Table01-03Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1370,10 +1592,12 @@
 	<actor gender="M">
 		<idle form="00006C12" id="FM-RoundTable02-03RoughSideways-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006C13" id="FM-RoundTable02-03RoughSideways-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1383,10 +1607,12 @@
 	<actor gender="M">
 		<idle form="00021EC5" id="FM-SedanPostWar01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EC6" id="FM-SedanPostWar01-03Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1394,10 +1620,12 @@
 	<actor gender="M">
 		<idle form="00027345"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00027346"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1405,10 +1633,12 @@
 	<actor gender="M">
 		<idle form="00027347"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00027348"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1416,10 +1646,12 @@
 	<actor gender="M">
 		<idle form="00027349"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002734A"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1429,10 +1661,12 @@
 	<actor gender="M">
 		<idle form="0002171C" id="FM-SedanPreWar01-03Backseat-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002171D" id="FM-SedanPreWar01-03Backseat-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1442,10 +1676,12 @@
 	<actor gender="M">
 		<idle form="0000CF43" id="FM-DoubleBed02-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000CF44" id="FM-DoubleBed02-01Tease-M1"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1453,10 +1689,12 @@
 	<actor gender="M">
 		<idle form="000017FE" id="FM-DoubleBed02-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000017FF" id="FM-DoubleBed02-03Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1464,10 +1702,12 @@
 	<actor gender="M">
 		<idle form="0000644E" id="FM-DoubleBed02-04Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000644F" id="FM-DoubleBed02-04Missionary-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1475,10 +1715,12 @@
 	<actor gender="M">
 		<idle form="0000E5B2" id="FM-DoubleBed02-05Powerbomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000E5B3" id="FM-DoubleBed02-05Powerbomb-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1486,10 +1728,12 @@
 	<actor gender="M">
 		<idle form="0000ED4D" id="FM-DoubleBed02-06Powerbomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000ED4E" id="FM-DoubleBed02-06Powerbomb-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1497,10 +1741,12 @@
 	<actor gender="M">
 		<idle form="000017F7" id="FM-DoubleBed02-07Powerbomb-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000182F" id="FM-DoubleBed02-07Powerbomb-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1510,10 +1756,12 @@
 	<actor gender="M">
 		<idle form="0000C001" id="FM-Couch01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000C002" id="FM-Couch01-01Tease-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1521,10 +1769,12 @@
 	<actor gender="M">
 		<idle form="00003E34" id="FM-Couch01-03Spoon-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00003E35" id="FM-Couch01-03Spoon-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1532,10 +1782,12 @@
 	<actor gender="M">
 		<idle form="00004D6E" id="FM-Couch01-04Spoon-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004D6F" id="FM-Couch01-04Spoon-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1543,10 +1795,12 @@
 	<actor gender="M">
 		<idle form="00006444" id="FM-Couch01-05Spoon-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006445" id="FM-Couch01-05Spoon-M1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1557,15 +1811,18 @@
 	<actor gender="M">
 		<idle form="00021EF2" id="FMM-DoubleBed02-03ReverseCowgirl-Blowjob-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF3" id="FMM-DoubleBed02-03ReverseCowgirl-Blowjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF4" id="FMM-DoubleBed02-03ReverseCowgirl-Blowjob-M2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1575,14 +1832,17 @@
 	<actor gender="M">
 		<idle form="0000101C" id="FMM-Bed01-01Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000101D" id="FMM-Bed01-01Handjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000101E" id="FMM-Bed01-01Handjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1590,14 +1850,17 @@
 	<actor gender="M">
 		<idle form="0000101F" id="FMM-Bed01-02Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001020" id="FMM-Bed01-02Handjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001021" id="FMM-Bed01-02Handjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1605,14 +1868,17 @@
 	<actor gender="M">
 		<idle form="00001022" id="FMM-Bed01-03Titjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001023" id="FMM-Bed01-03Titjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001024" id="FMM-Bed01-03Titjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1620,14 +1886,17 @@
 	<actor gender="M">
 		<idle form="00001025" id="FMM-Bed01-04Blowjob-Doggy-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001026" id="FMM-Bed01-04Blowjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001027" id="FMM-Bed01-04Blowjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1637,14 +1906,17 @@
 	<actor gender="M">
 		<idle form="00001028" id="FMM-Chair01-02Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001029" id="FMM-Chair01-02Handjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000102A" id="FMM-Chair01-02Handjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1652,14 +1924,17 @@
 	<actor gender="M">
 		<idle form="0000102B" id="FMM-Chair01-03Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000102C" id="FMM-Chair01-03Handjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000102D" id="FMM-Chair01-03Handjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1667,14 +1942,17 @@
 	<actor gender="M">
 		<idle form="0000102E" id="FMM-Chair01-04Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000102F" id="FMM-Chair01-04Handjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001030" id="FMM-Chair01-04Handjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1682,14 +1960,17 @@
 	<actor gender="M">
 		<idle form="00001031" id="FMM-Chair01-05Blowjob-Doggy-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001032" id="FMM-Chair01-05Blowjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001033" id="FMM-Chair01-05Blowjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1697,14 +1978,17 @@
 	<actor gender="M">
 		<idle form="0000181C" id="FMM-Chair01-06Blowjob-Doggy-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000181D" id="FMM-Chair01-06Blowjob-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000181E" id="FMM-Chair01-06Blowjob-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1712,14 +1996,17 @@
 	<actor gender="M">
 		<idle form="0000181F" id="FMM-Chair01-07Deepthroat-Doggy-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001820" id="FMM-Chair01-07Deepthroat-Doggy-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001821" id="FMM-Chair01-07Deepthroat-Doggy-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1729,14 +2016,17 @@
 	<actor gender="M">
 		<idle form="0002360A" id="FMF-DoubleBed01-03Doggy-AnalFingering-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002360B" id="FMF-DoubleBed01-03Doggy-AnalFingering-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002360C" id="FMF-DoubleBed01-03Doggy-AnalFingering-F2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1746,14 +2036,17 @@
 	<actor gender="M">
 		<idle form="00021EF5" id="FMM-DoubleBed01-03DoubleTeam-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF6" id="FMM-DoubleBed01-03DoubleTeam-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF7" id="FMM-DoubleBed01-03DoubleTeam-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1763,15 +2056,18 @@
 	<actor gender="M">
 		<idle form="00001034" id="FMM-Floor01-01DoubleTeam-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001035" id="FMM-Floor01-01DoubleTeam-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001036" id="FMM-Floor01-01DoubleTeam-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1779,15 +2075,18 @@
 	<actor gender="M">
 		<idle form="00001037" id="FMM-Floor01-02DoubleTeam-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001038" id="FMM-Floor01-02DoubleTeam-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001039" id="FMM-Floor01-02DoubleTeam-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1797,14 +2096,17 @@
 	<actor gender="M">
 		<idle form="000082C9" id="FMM-Floor04-03DoubleTeam-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000082CA" id="FMM-Floor04-03DoubleTeam-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000082CB" id="FMM-Floor04-03DoubleTeam-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1814,16 +2116,19 @@
 	<actor gender="M">
 		<idle form="0000BFA8" id="FMM-Floor05-03DoubleTeam-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BFA9" id="FMM-Floor05-03DoubleTeam-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection Up" to="2"/>
 		<value path="morph" value="Penis Length" to="0"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000BFAA" id="FMM-Floor05-03DoubleTeam-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1833,15 +2138,18 @@
 	<actor gender="M">
 		<idle form="0000103A" id="FMM-Floor02-01DoubleTeamRough-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000103B" id="FMM-Floor02-01DoubleTeamRough-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000103C" id="FMM-Floor02-01DoubleTeamRough-M2"/>
 		<value path="morph" value="Erection Down" to="1.5"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1849,14 +2157,17 @@
 	<actor gender="M">
 		<idle form="0000103D" id="FMM-Floor02-02DoubleTeamRough-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000103E" id="FMM-Floor02-02DoubleTeamRough-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000103F" id="FMM-Floor02-02DoubleTeamRough-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1866,16 +2177,19 @@
 	<actor gender="M">
 		<idle form="0000550D" id="FMM-Floor03-03Gangbang-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000550E" id="FMM-Floor03-03Gangbang-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000550F" id="FMM-Floor03-03Gangbang-M2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1885,16 +2199,19 @@
 	<actor gender="M">
 		<idle form="00002763" id="FMM-Couch02-03Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002764" id="FMM-Couch02-03Handjob-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002765" id="FMM-Couch02-03Handjob-M2"/>
 		<value path="morph" value="Erection Up" to="0.8"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1902,16 +2219,19 @@
 	<actor gender="M">
 		<idle form="00012319" id="FMM-Couch02-04Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0001231A" id="FMM-Couch02-04Handjob-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0001231B" id="FMM-Couch02-04Handjob-M2"/>
 		<value path="morph" value="Erection Up" to="0.8"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1919,16 +2239,19 @@
 	<actor gender="M">
 		<idle form="00003698" id="FMM-Couch02-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00003699" id="FMM-Couch02-05Blowjob-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000369A" id="FMM-Couch02-05Blowjob-M2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1938,16 +2261,19 @@
 	<actor gender="M">
 		<idle form="00010C3C" id="FMM-BunkBed01-03Threesome-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00010C3D" id="FMM-BunkBed01-03Threesome-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00010C3E" id="FMM-BunkBed01-03Threesome-M2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1957,18 +2283,22 @@
 	<actor gender="M">
 		<idle form="263D7"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D8"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D9"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263DA"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1976,18 +2306,22 @@
 	<actor gender="M">
 		<idle form="00011B76" id="FMMM-Floor01-03Gangbang-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00011B77" id="FMMM-Floor01-03Gangbang-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00011B78" id="FMMM-Floor01-03Gangbang-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00011B79" id="FMMM-Floor01-03Gangbang-M3"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -1997,19 +2331,23 @@
 	<actor gender="M">
 		<idle form="00006BE9" id="FMMM-Floor02-03Gangbang-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006BEA" id="FMMM-Floor02-03Gangbang-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006BEB" id="FMMM-Floor02-03Gangbang-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006BEC" id="FMMM-Floor02-03Gangbang-M3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2019,18 +2357,22 @@
 	<actor gender="M">
 		<idle form="00007388" id="FMMM-Floor03-03Gangbang-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007389" id="FMMM-Floor03-03Gangbang-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000738A" id="FMMM-Floor03-03Gangbang-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000738B" id="FMMM-Floor03-03Gangbang-M3"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2041,21 +2383,25 @@
 		<idle form="00001052" id="FMMM-Standing01-01Gangbang-F1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001053" id="FMMM-Standing01-01Gangbang-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001054" id="FMMM-Standing01-01Gangbang-M2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001055" id="FMMM-Standing01-01Gangbang-M3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2064,21 +2410,25 @@
 		<idle form="00001056" id="FMMM-Standing01-02Gangbang-F1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001057" id="FMMM-Standing01-02Gangbang-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001058" id="FMMM-Standing01-02Gangbang-M2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001059" id="FMMM-Standing01-02Gangbang-M3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2088,22 +2438,27 @@
 	<actor gender="M">
 		<idle form="0000105A" id="FMMMM-Floor01-01Gangbang-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000105B" id="FMMMM-Floor01-01Gangbang-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000105C" id="FMMMM-Floor01-01Gangbang-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000105D" id="FMMMM-Floor01-01Gangbang-M3"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000105E" id="FMMMM-Floor01-01Gangbang-M4"/>
         <value path="action" value="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2113,23 +2468,28 @@
 	<actor gender="M">
 		<idle form="000113D8" id="FMMMM-Floor02-03Gangbang-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000113D9" id="FMMMM-Floor02-03Gangbang-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000113DA" id="FMMMM-Floor02-03Gangbang-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000113DB" id="FMMMM-Floor02-03Gangbang-M3"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000113DC" id="FMMMM-Floor02-03Gangbang-M4"/>
 		<value path="morph" value="Erection Up" to="0.6"/>
         <value path="action" value="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2139,22 +2499,27 @@
 	<actor gender="M">
 		<idle form="00021EF8" id="FMMMM-Standing01-03Multiple-Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EF9" id="FMMMM-Standing01-03Multiple-Handjob-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EFA" id="FMMMM-Standing01-03Multiple-Handjob-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EFB" id="FMMMM-Standing01-03Multiple-Handjob-M3"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021EFC" id="FMMMM-Standing01-03Multiple-Handjob-M4"/>
         <value path="action" value="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2164,38 +2529,47 @@
 	<actor gender="M">
 		<idle form="00021F0D" id="FMMMMMMMM-Floor01-03Gangbang-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F0E" id="FMMMMMMMM-Floor01-03Gangbang-M1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F0F" id="FMMMMMMMM-Floor01-03Gangbang-M2"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F10" id="FMMMMMMMM-Floor01-03Gangbang-M3"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F11" id="FMMMMMMMM-Floor01-03Gangbang-M4"/>
         <value path="action" value="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F12" id="FMMMMMMMM-Floor01-03Gangbang-M5"/>
         <value path="action" value="MaleMoan Action" target="5" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F13" id="FMMMMMMMM-Floor01-03Gangbang-M6"/>
         <value path="action" value="MaleMoan Action" target="6" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F14" id="FMMMMMMMM-Floor01-03Gangbang-M7"/>
         <value path="action" value="MaleMoan Action" target="7" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021F15" id="FMMMMMMMM-Floor01-03Gangbang-M8"/>
         <value path="action" value="MaleMoan Action" target="8" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2208,42 +2582,52 @@
 	<actor gender="M">
 		<idle form="263CD"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263CE"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263CF"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D0"/>
         <value path="action" value="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D1"/>
         <value path="action" value="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D2"/>
         <value path="action" value="MaleMoan Action" target="5" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D3"/>
         <value path="action" value="MaleMoan Action" target="6" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D4"/>
         <value path="action" value="MaleMoan Action" target="7" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D5"/>
         <value path="action" value="MaleMoan Action" target="8" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="263D6"/>
         <value path="action" value="MaleMoan Action" target="9" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2255,9 +2639,11 @@
 	<actor gender="M">
 		<idle form="0000A182" id="FBG-Standing02-03Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0000A183" id="FBG-Standing02-03Blowjob-BG1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -2265,9 +2651,11 @@
 	<actor gender="M">
 		<idle form="0001231E" id="FBG-Standing02-04Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0001231F" id="FBG-Standing02-04Blowjob-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2275,10 +2663,12 @@
 	<actor gender="M">
 		<idle form="00012320" id="FBG-Standing02-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00012321" id="FBG-Standing02-05Blowjob-BG1"/>
 		<value path="morph" value="Erection Up" to="0.2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2288,9 +2678,11 @@
 	<actor gender="M">
 		<idle form="000045E2" id="FBG-Floor01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="000045E3" id="FBG-Floor01-03Doggy-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2298,9 +2690,11 @@
 	<actor gender="M">
 		<idle form="00004D85" id="FBG-Floor01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00004D86" id="FBG-Floor01-04Doggy-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2308,9 +2702,11 @@
 	<actor gender="M">
 		<idle form="00005525" id="FBG-Floor01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00005526" id="FBG-Floor01-05Doggy-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2318,9 +2714,11 @@
 	<actor gender="M">
 		<idle form="00005CC2" id="FBG-Floor01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00005CC3" id="FBG-Floor01-06Doggy-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2328,9 +2726,11 @@
 	<actor gender="M">
 		<idle form="00006469" id="FBG-Floor01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0000646A" id="FBG-Floor01-07Climax-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2340,9 +2740,11 @@
 	<actor gender="M">
 		<idle form="0000276A" id="FFG-Standing01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00002769" id="FFG-Standing01-03Doggy-FG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2350,9 +2752,11 @@
 	<actor gender="M">
 		<idle form="0000B0BC" id="FFG-Standing01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0000B0BD" id="FFG-Standing01-04Doggy-FG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2360,9 +2764,11 @@
 	<actor gender="M">
 		<idle form="0000B0BE" id="FFG-Standing01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0000B0BF" id="FFG-Standing01-05Doggy-FG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2370,9 +2776,11 @@
 	<actor gender="M">
 		<idle form="0000B0C0" id="FFG-Standing01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0000B0C1" id="FFG-Standing01-06Doggy-FG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2380,9 +2788,11 @@
 	<actor gender="M">
 		<idle form="0001231C" id="FFG-Standing01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0001231D" id="FFG-Standing01-07Climax-FG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2392,9 +2802,11 @@
 	<actor gender="M">
 		<idle form="0000A17F" id="FBG-Standing01-03Carry-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0000A180" id="FBG-Standing01-03Carry-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2402,9 +2814,11 @@
 	<actor gender="M">
 		<idle form="00012322" id="FBG-Standing01-04Carry-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00012323" id="FBG-Standing01-04Carry-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2412,9 +2826,11 @@
 	<actor gender="M">
 		<idle form="00012324" id="FBG-Standing01-05Carry-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00012325" id="FBG-Standing01-05Carry-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2422,9 +2838,11 @@
 	<actor gender="M">
 		<idle form="00012AC1" id="FBG-Standing01-06Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00012AC2" id="FBG-Standing01-06Climax-BG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2434,10 +2852,12 @@
 	<actor gender="M">
 		<idle form="00014198" id="FFG-Standing02-03Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00014199" id="FFG-Standing02-03Handjob-FG1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2445,9 +2865,11 @@
 	<actor gender="M">
 		<idle form="0001419A" id="FFG-Standing02-04Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0001419B" id="FFG-Standing02-04Handjob-FG1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2455,10 +2877,12 @@
 	<actor gender="M">
 		<idle form="0001419D" id="FFG-Standing02-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0001419E" id="FFG-Standing02-05Blowjob-FG1"/>
 		<value path="morph" value="Erection Up" to="0.2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2466,12 +2890,117 @@
 	<actor gender="M">
 		<idle form="0001419F" id="FFG-Standing02-06Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="000141A0" id="FFG-Standing02-06Blowjob-FG1"/>
 		<value path="morph" value="Erection Up" to="0.2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
+
+
+
+<!-- Handjob Animations -->
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
+		<idle form="000226B5" id="FD-DoubleBed02-01Tease-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="000226B6" id="FD-DoubleBed02-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
+		<idle form="000226B3" id="FD-DoubleBed02-02Start-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="000226B4" id="FD-DoubleBed02-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
+		<idle form="000207C4" id="FD-DoubleBed02-03Handjob-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="000207C5" id="FD-DoubleBed02-03Handjob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
+		<idle form="000207C6" id="FD-DoubleBed02-04Handjob-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="000207C7" id="FD-DoubleBed02-04Handjob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
+		<idle form="000207C8" id="FD-DoubleBed02-05Blowjob-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="000207C9" id="FD-DoubleBed02-05Blowjob-D1"/>
+		<value path="morph" value="Erection Up" to="0.2"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
+		<idle form="000207CA" id="FD-DoubleBed02-06Facefuck-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="000207CB" id="FD-DoubleBed02-06Facefuck-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
+		<idle form="00021F04" id="FD-DoubleBed02-07Climax-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00021F05" id="FD-DoubleBed02-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
+		<idle form="00023603" id="FD-DoubleBed02-08Finish-F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00023604" id="FD-DoubleBed02-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
+	</actor>
+</animation>
+
+
 
 <!-- Blowjob Animations -->
 
@@ -2479,9 +3008,11 @@
 	<actor gender="M">
 		<idle form="00021F00" id="FD-Bed01-01Tease-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021F01" id="FD-Bed01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2489,9 +3020,11 @@
 	<actor gender="M">
 		<idle form="000226AF" id="FD-Bed01-02Start-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226B0" id="FD-Bed01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2499,9 +3032,11 @@
 	<actor gender="M">
 		<idle form="000207BC" id="FD-Bed01-03Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207BD" id="FD-Bed01-03Handjob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2509,9 +3044,12 @@
 	<actor gender="M">
 		<idle form="000207BE" id="FD-Bed01-04Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207BF" id="FD-Bed01-04Blowjob-D1"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2519,10 +3057,12 @@
 	<actor gender="M">
 		<idle form="000207C2" id="FD-Bed01-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207C3" id="FD-Bed01-05Blowjob-D1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2530,10 +3070,12 @@
 	<actor gender="M">
 		<idle form="000207C0" id="FD-Bed01-06Facefuck-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207C1" id="FD-Bed01-06Facefuck-D1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2541,10 +3083,12 @@
 	<actor gender="M">
 		<idle form="00021718" id="FD-Bed01-07Climax-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021719" id="FD-Bed01-07Climax-D1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2552,10 +3096,12 @@
 	<actor gender="M">
 		<idle form="000235FA" id="FD-Bed01-08Finish-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000235FB" id="FD-Bed01-08Finish-D1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2565,9 +3111,11 @@
 	<actor gender="M">
 		<idle form="00021F02" id="FD-Bed02-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021F03" id="FD-Bed02-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2575,9 +3123,11 @@
 	<actor gender="M">
 		<idle form="000226B1" id="FD-Bed02-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226B2" id="FD-Bed02-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2585,9 +3135,11 @@
 	<actor gender="M">
 		<idle form="000207D2" id="FD-Bed02-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207D3" id="FD-Bed02-03Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2595,9 +3147,11 @@
 	<actor gender="M">
 		<idle form="000207D4" id="FD-Bed02-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207D5" id="FD-Bed02-04Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2605,9 +3159,11 @@
 	<actor gender="M">
 		<idle form="00020F73" id="FD-Bed02-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020F74" id="FD-Bed02-05Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2615,9 +3171,11 @@
 	<actor gender="M">
 		<idle form="00020F75" id="FD-Bed02-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020F76" id="FD-Bed02-06Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2625,9 +3183,11 @@
 	<actor gender="M">
 		<idle form="00021716" id="FD-Bed02-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021717" id="FD-Bed02-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2635,9 +3195,11 @@
 	<actor gender="M">
 		<idle form="00023601" id="FD-Bed02-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00023602" id="FD-Bed02-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2647,9 +3209,11 @@
 	<actor gender="M">
 		<idle form="000226B7" id="FD-DoubleBed03-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226B8" id="FD-DoubleBed03-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2657,9 +3221,11 @@
 	<actor gender="M">
 		<idle form="0002360D" id="FD-DoubleBed03-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0002360E" id="FD-DoubleBed03-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2667,9 +3233,11 @@
 	<actor gender="M">
 		<idle form="00021ECF" id="FD-DoubleBed03-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021ED0" id="FD-DoubleBed03-03Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2677,9 +3245,11 @@
 	<actor gender="M">
 		<idle form="00021ED1" id="FD-DoubleBed03-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021ED2" id="FD-DoubleBed03-04Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2687,9 +3257,11 @@
 	<actor gender="M">
 		<idle form="00021ED3" id="FD-DoubleBed03-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021ED4" id="FD-DoubleBed03-05Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2697,9 +3269,11 @@
 	<actor gender="M">
 		<idle form="00021ED5" id="FD-DoubleBed03-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021ED6" id="FD-DoubleBed03-06Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2707,9 +3281,11 @@
 	<actor gender="M">
 		<idle form="000226B9" id="FD-DoubleBed03-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226BA" id="FD-DoubleBed03-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2717,9 +3293,11 @@
 	<actor gender="M">
 		<idle form="0002360F" id="FD-DoubleBed03-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00023610" id="FD-DoubleBed03-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2729,9 +3307,11 @@
 	<actor gender="M">
 		<idle form="0001AC2C" id="FD-Floor01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001AC2D" id="FD-Floor01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2739,9 +3319,11 @@
 	<actor gender="M">
 		<idle form="0001A491" id="FD-Floor01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001A492" id="FD-Floor01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2749,9 +3331,11 @@
 	<actor gender="M">
 		<idle form="0001601E" id="FD-Floor01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001601F" id="FD-Floor01-03Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2759,9 +3343,11 @@
 	<actor gender="M">
 		<idle form="00016F54" id="FD-Floor01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00016F55" id="FD-Floor01-04Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2769,9 +3355,11 @@
 	<actor gender="M">
 		<idle form="00015883" id="FD-Floor01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00015884" id="FD-Floor01-05Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2779,9 +3367,11 @@
 	<actor gender="M">
 		<idle form="000176EF" id="FD-Floor01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000176F0" id="FD-Floor01-06Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2789,9 +3379,11 @@
 	<actor gender="M">
 		<idle form="0001C309" id="FD-Floor01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001C30A" id="FD-Floor01-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2799,9 +3391,11 @@
 	<actor gender="M">
 		<idle form="0001CAA4" id="FD-Floor01-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001CAA5" id="FD-Floor01-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2810,20 +3404,24 @@
 <animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="00021F06" id="FD-RoundTableSmall01-01Tease-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021F07" id="FD-RoundTableSmall01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00022E5F" id="FD-RoundTableSmall01-02Start-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00022E60" id="FD-RoundTableSmall01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2831,9 +3429,11 @@
 	<actor gender="M">
 		<idle form="000207B5" id="FD-RoundTableSmall01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207B6" id="FD-RoundTableSmall01-03Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2841,9 +3441,11 @@
 	<actor gender="M">
 		<idle form="000207CE" id="FD-RoundTableSmall01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207CF" id="FD-RoundTableSmall01-04Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2851,9 +3453,11 @@
 	<actor gender="M">
 		<idle form="000207D0" id="FD-RoundTableSmall01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207D1" id="FD-RoundTableSmall01-05Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2861,9 +3465,11 @@
 	<actor gender="M">
 		<idle form="000207CC" id="FD-RoundTableSmall01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207CD" id="FD-RoundTableSmall01-06Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2871,9 +3477,11 @@
 	<actor gender="M">
 		<idle form="000226C4" id="FD-RoundTableSmall01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226C5" id="FD-RoundTableSmall01-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2881,9 +3489,11 @@
 	<actor gender="M">
 		<idle form="000235FC" id="FD-RoundTableSmall01-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000235FD" id="FD-RoundTableSmall01-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2893,9 +3503,11 @@
 	<actor gender="M">
 		<idle form="0001E930" id="FD-Standing01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E931" id="FD-Standing01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2903,9 +3515,11 @@
 	<actor gender="M">
 		<idle form="00020001" id="FD-Standing01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020002" id="FD-Standing01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2913,9 +3527,11 @@
 	<actor gender="M">
 		<idle form="0001E175" id="FD-Standing01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E176" id="FD-Standing01-03Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2923,9 +3539,11 @@
 	<actor gender="M">
 		<idle form="0001E91C" id="FD-Standing01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E91D" id="FD-Standing01-04Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2933,9 +3551,11 @@
 	<actor gender="M">
 		<idle form="0001E920" id="FD-Standing01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E921" id="FD-Standing01-05Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2943,9 +3563,11 @@
 	<actor gender="M">
 		<idle form="0001E924" id="FD-Standing01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E925" id="FD-Standing01-06Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2953,9 +3575,11 @@
 	<actor gender="M">
 		<idle form="00020003" id="FD-Standing01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020004" id="FD-Standing01-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -2963,93 +3587,16 @@
 	<actor gender="M">
 		<idle form="00020007" id="FD-Standing01-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020008" id="FD-Standing01-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
-<!-- Handjob Animations -->
 
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S1" frames="500">
-	<actor gender="M">
-		<idle form="000226B5" id="FD-DoubleBed02-01Tease-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="000226B6" id="FD-DoubleBed02-01Tease-D1"/>
-	</actor>
-</animation>
 
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S2" frames="500">
-	<actor gender="M">
-		<idle form="000226B3" id="FD-DoubleBed02-02Start-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="000226B4" id="FD-DoubleBed02-02Start-D1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S3" frames="500">
-	<actor gender="M">
-		<idle form="000207C4" id="FD-DoubleBed02-03Handjob-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="000207C5" id="FD-DoubleBed02-03Handjob-D1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S4" frames="500">
-	<actor gender="M">
-		<idle form="000207C6" id="FD-DoubleBed02-04Handjob-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="000207C7" id="FD-DoubleBed02-04Handjob-D1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S5" frames="500">
-	<actor gender="M">
-		<idle form="000207C8" id="FD-DoubleBed02-05Blowjob-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="000207C9" id="FD-DoubleBed02-05Blowjob-D1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S6" frames="500">
-	<actor gender="M">
-		<idle form="000207CA" id="FD-DoubleBed02-06Facefuck-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="000207CB" id="FD-DoubleBed02-06Facefuck-D1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S7" frames="200">
-	<actor gender="M">
-		<idle form="00021F04" id="FD-DoubleBed02-07Climax-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="00021F05" id="FD-DoubleBed02-07Climax-D1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S8" frames="500">
-	<actor gender="M">
-		<idle form="00023603" id="FD-DoubleBed02-08Finish-F1"/>
-        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="00023604" id="FD-DoubleBed02-08Finish-D1"/>
-	</actor>
-</animation>
 
 <!-- Missionary Animations -->
 
@@ -3057,9 +3604,11 @@
 	<actor gender="M">
 		<idle form="0001E914" id="FD-Couch01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E915" id="FD-Couch01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3067,10 +3616,12 @@
 	<actor gender="M">
 		<idle form="0001E916" id="FD-Couch01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E917" id="FD-Couch01-02Start-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3078,10 +3629,12 @@
 	<actor gender="M">
 		<idle form="0001D23F" id="FD-Couch01-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001D240" id="FD-Couch01-03Missionary-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3089,10 +3642,12 @@
 	<actor gender="M">
 		<idle form="0001D9DA" id="FD-Couch01-04Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001D9DB" id="FD-Couch01-04Missionary-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3100,10 +3655,12 @@
 	<actor gender="M">
 		<idle form="0001E910" id="FD-Couch01-05Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E911" id="FD-Couch01-05Missionary-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3111,10 +3668,12 @@
 	<actor gender="M">
 		<idle form="0001E912" id="FD-Couch01-06Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E913" id="FD-Couch01-06Missionary-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3122,10 +3681,12 @@
 	<actor gender="M">
 		<idle form="0001E918" id="FD-Couch01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E919" id="FD-Couch01-07Climax-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3133,10 +3694,12 @@
 	<actor gender="M">
 		<idle form="0001E91A" id="FD-Couch01-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E91B" id="FD-Couch01-08Finish-D1"/>
 		<value path="morph" value="Erection Down" to="0.6"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3146,9 +3709,11 @@
 	<actor gender="M">
 		<idle form="000226BB" id="FD-Floor02-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226BC" id="FD-Floor02-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3156,9 +3721,11 @@
 	<actor gender="M">
 		<idle form="000226BD" id="FD-Floor02-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226BE" id="FD-Floor02-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3166,9 +3733,11 @@
 	<actor gender="M">
 		<idle form="000226BF" id="FD-Floor02-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226C0" id="FD-Floor02-03Missionary-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3176,9 +3745,11 @@
 	<actor gender="M">
 		<idle form="000207B7" id="FD-Floor02-04Sitting-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207B8" id="FD-Floor02-04Sitting-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3186,9 +3757,11 @@
 	<actor gender="M">
 		<idle form="00020F6F" id="FD-Floor02-05Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020F70" id="FD-Floor02-05Missionary-D1"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3196,9 +3769,11 @@
 	<actor gender="M">
 		<idle form="00020F71" id="FD-Floor02-06Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020F72" id="FD-Floor02-06Missionary-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3206,9 +3781,11 @@
 	<actor gender="M">
 		<idle form="0002171A" id="FD-Floor02-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0002171B" id="FD-Floor02-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3216,9 +3793,11 @@
 	<actor gender="M">
 		<idle form="00023605" id="FD-Floor02-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00023606" id="FD-Floor02-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3228,9 +3807,11 @@
 	<actor gender="M">
 		<idle form="00021EDF" id="FD-SleepingBag01-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE0" id="FD-SleepingBag01-03Missionary-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3240,9 +3821,11 @@
 	<actor gender="M">
 		<idle form="0001E91E" id="FD-DoubleBed01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E91F" id="FD-DoubleBed01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3250,9 +3833,11 @@
 	<actor gender="M">
 		<idle form="0001E92C" id="FD-DoubleBed01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E92D" id="FD-DoubleBed01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3260,9 +3845,11 @@
 	<actor gender="M">
 		<idle form="0001E922" id="FD-DoubleBed01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E923" id="FD-DoubleBed01-03Doggy-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3270,9 +3857,11 @@
 	<actor gender="M">
 		<idle form="0001E926" id="FD-DoubleBed01-04Sideways-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E927" id="FD-DoubleBed01-04Sideways-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3280,9 +3869,11 @@
 	<actor gender="M">
 		<idle form="0001E928" id="FD-DoubleBed01-05Sideways-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E929" id="FD-DoubleBed01-05Sideways-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3290,9 +3881,11 @@
 	<actor gender="M">
 		<idle form="0001E92A" id="FD-DoubleBed01-06Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E92B" id="FD-DoubleBed01-06Missionary-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3300,9 +3893,11 @@
 	<actor gender="M">
 		<idle form="0001E92E" id="FD-DoubleBed01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E92F" id="FD-DoubleBed01-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3310,9 +3905,11 @@
 	<actor gender="M">
 		<idle form="0001F866" id="FD-DoubleBed01-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001F867" id="FD-DoubleBed01-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3322,9 +3919,11 @@
 	<actor gender="M">
 		<idle form="00017E8A" id="FD-Chair01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00017E8B" id="FD-Chair01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3332,9 +3931,11 @@
 	<actor gender="M">
 		<idle form="00018625" id="FD-Chair01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00018626" id="FD-Chair01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3342,9 +3943,11 @@
 	<actor gender="M">
 		<idle form="000167B9" id="FD-Chair01-03Sitting-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000167BA" id="FD-Chair01-03Sitting-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3352,9 +3955,11 @@
 	<actor gender="M">
 		<idle form="00018DC0" id="FD-Chair01-04Sitting-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00018DC1" id="FD-Chair01-04Sitting-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3362,9 +3967,11 @@
 	<actor gender="M">
 		<idle form="0001955B" id="FD-Chair01-05Sitting-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001955C" id="FD-Chair01-05Sitting-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3372,9 +3979,11 @@
 	<actor gender="M">
 		<idle form="00019CF6" id="FD-Chair01-06Sitting-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00019CF7" id="FD-Chair01-06Sitting-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3382,9 +3991,11 @@
 	<actor gender="M">
 		<idle form="0001AC2E" id="FD-Chair01-07Climax-F1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001AC2F" id="FD-Chair01-07Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3392,9 +4003,11 @@
 	<actor gender="M">
 		<idle form="0001BB6E" id="FD-Chair01-08Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001BB6F" id="FD-Chair01-08Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3403,39 +4016,48 @@
 <animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="00021ED7" id="FDD-DoubleBed01-01Tease-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021ED8" id="FDD-DoubleBed01-01Tease-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021ED9" id="FDD-DoubleBed01-01Tease-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00021EFD" id="FDD-DoubleBed01-02Start-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EFE" id="FDD-DoubleBed01-02Start-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EFF" id="FDD-DoubleBed01-02Start-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S3" frames="500">
 	<actor gender="M">
 		<idle form="00021723" id="FDD-DoubleBed01-03Doggy-BlowJob-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021724" id="FDD-DoubleBed01-03Doggy-BlowJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021725" id="FDD-DoubleBed01-03Doggy-BlowJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3443,12 +4065,15 @@
 	<actor gender="M">
 		<idle form="00021EBF" id="FDD-DoubleBed01-04Doggy-HandJob-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EC0" id="FDD-DoubleBed01-04Doggy-HandJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EC1" id="FDD-DoubleBed01-04Doggy-HandJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3456,38 +4081,47 @@
 	<actor gender="M">
 		<idle form="00021EC2" id="FDD-DoubleBed01-05Doggy-HandJob-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EC3" id="FDD-DoubleBed01-05Doggy-HandJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EC4" id="FDD-DoubleBed01-05Doggy-HandJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S6" frames="500">
 	<actor gender="M">
 		<idle form="00021EDC" id="FDD-DoubleBed01-06Doggy-BlowJob-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EDD" id="FDD-DoubleBed01-06Doggy-BlowJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EDE" id="FDD-DoubleBed01-06Doggy-BlowJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S7" frames="200">
 	<actor gender="M">
 		<idle form="00021EE1" id="FDD-DoubleBed01-07Climax-BlowJob-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE2" id="FDD-DoubleBed01-07Climax-BlowJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE3" id="FDD-DoubleBed01-07Climax-BlowJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3495,12 +4129,15 @@
 	<actor gender="M">
 		<idle form="00021EE4" id="FDD-DoubleBed01-08Switch-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE5" id="FDD-DoubleBed01-08Switch-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE6" id="FDD-DoubleBed01-08Switch-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3508,12 +4145,15 @@
 	<actor gender="M">
 		<idle form="00021EE7" id="FDD-DoubleBed01-09Missionary-HandJob-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE8" id="FDD-DoubleBed01-09Missionary-HandJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EE9" id="FDD-DoubleBed01-09Missionary-HandJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3521,12 +4161,15 @@
 	<actor gender="M">
 		<idle form="00021EEA" id="FDD-DoubleBed01-10Missionary-HandJob-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EEB" id="FDD-DoubleBed01-10Missionary-HandJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EEC" id="FDD-DoubleBed01-10Missionary-HandJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3534,25 +4177,31 @@
 	<actor gender="M">
 		<idle form="00021EED" id="FDD-DoubleBed01-11Missionary-HandJob-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EEE" id="FDD-DoubleBed01-11Missionary-HandJob-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021EEF" id="FDD-DoubleBed01-11Missionary-HandJob-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S12" frames="200">
 	<actor gender="M">
 		<idle form="00021F08" id="FDD-DoubleBed01-12Climax-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021F09" id="FDD-DoubleBed01-12Climax-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021F0A" id="FDD-DoubleBed01-12Climax-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3560,12 +4209,15 @@
 	<actor gender="M">
 		<idle form="000235FE" id="FDD-DoubleBed01-13Finish-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000235FF" id="FDD-DoubleBed01-13Finish-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00023600" id="FDD-DoubleBed01-13Finish-D2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3574,28 +4226,34 @@
 <animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="00023607" id="FDH-Floor01-01TeaseRestrained-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00023608" id="FDH-Floor01-01TeaseRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00023609" id="FDH-Floor01-01TeaseRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00023611" id="FDH-Floor01-02StartRestrained-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00023612" id="FDH-Floor01-02StartRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00023613" id="FDH-Floor01-02StartRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3603,13 +4261,16 @@
 	<actor gender="M">
 		<idle form="000207B0" id="FDH-Floor01-03DoggyRestrained-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207B1" id="FDH-Floor01-03DoggyRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000207B2" id="FDH-Floor01-03DoggyRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3617,13 +4278,16 @@
 	<actor gender="M">
 		<idle form="00020F77" id="FDH-Floor01-04DoggyRestrained-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020F78" id="FDH-Floor01-04DoggyRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00020F79" id="FDH-Floor01-04DoggyRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3631,13 +4295,16 @@
 	<actor gender="M">
 		<idle form="00020F7A" id="FDH-Floor01-05DoggyRestrained-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00020F7B" id="FDH-Floor01-05DoggyRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00020F7C" id="FDH-Floor01-05DoggyRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3645,27 +4312,33 @@
 	<actor gender="M">
 		<idle form="000207B9" id="FDH-Floor01-06DoggyRestrained-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000207BA" id="FDH-Floor01-06DoggyRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000207BB" id="FDH-Floor01-06DoggyRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S7" frames="200">
 	<actor gender="M">
 		<idle form="00021720" id="FDH-Floor01-07ClimaxRestrained-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00021721" id="FDH-Floor01-07ClimaxRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00021722" id="FDH-Floor01-07ClimaxRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3673,13 +4346,16 @@
 	<actor gender="M">
 		<idle form="000226C1" id="FDH-Floor01-08FinishRestrained-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="000226C2" id="FDH-Floor01-08FinishRestrained-D1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000226C3" id="FDH-Floor01-08FinishRestrained-H1"/>
-        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -3689,10 +4365,12 @@
 	<actor gender="M">
 		<idle form="00007B5D" id="FSM-DoubleBed02-03Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00007B5E" id="FSM-DoubleBed02-03Blowjob-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3700,10 +4378,12 @@
 	<actor gender="M">
 		<idle form="000099E2" id="FSM-DoubleBed02-04Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000099E3" id="FSM-DoubleBed02-04Blowjob-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3711,10 +4391,12 @@
 	<actor gender="M">
 		<idle form="0000A91F" id="FSM-DoubleBed02-05Standing69-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000A920" id="FSM-DoubleBed02-05Standing69-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3722,9 +4404,11 @@
 	<actor gender="M">
 		<idle form="0000E624" id="FSM-DoubleBed02-06Standing69-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000E625" id="FSM-DoubleBed02-06Standing69-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3732,9 +4416,11 @@
 	<actor gender="M">
 		<idle form="00012313" id="FSM-DoubleBed02-07Standing69-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00012314" id="FSM-DoubleBed02-07Standing69-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3742,10 +4428,12 @@
 	<actor gender="M">
 		<idle form="00012315" id="FSM-DoubleBed02-08Deepthroat69-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00012316" id="FSM-DoubleBed02-08Deepthroat69-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3755,9 +4443,11 @@
 	<actor gender="M">
 		<idle form="00007B5F" id="FSM-Standing02-03Handjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00007B60" id="FSM-Standing02-03Handjob-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3765,9 +4455,11 @@
 	<actor gender="M">
 		<idle form="0000DE87" id="FSM-Standing02-04Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000DE88" id="FSM-Standing02-04Blowjob-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3775,9 +4467,11 @@
 	<actor gender="M">
 		<idle form="000150E6" id="FSM-Standing02-05Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000150E7" id="FSM-Standing02-05Blowjob-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3785,9 +4479,11 @@
 	<actor gender="M">
 		<idle form="000150E8" id="FSM-Standing02-06Blowjob-F1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000150E9" id="FSM-Standing02-06Blowjob-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3797,10 +4493,12 @@
 	<actor gender="M">
 		<idle form="0000D6E6" id="FSM-Standing03-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000D6E7" id="FSM-Standing03-01Tease-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3808,10 +4506,12 @@
 	<actor gender="M">
 		<idle form="0000D6E8" id="FSM-Standing03-03Carry-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000D6E9" id="FSM-Standing03-03Carry-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3819,10 +4519,12 @@
 	<actor gender="M">
 		<idle form="00012317" id="FSM-Standing03-04Carry-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00012318" id="FSM-Standing03-04Carry-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3830,10 +4532,12 @@
 	<actor gender="M">
 		<idle form="00012326" id="FSM-Standing03-05Carry-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00012327" id="FSM-Standing03-05Carry-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3843,9 +4547,11 @@
 	<actor gender="M">
 		<idle form="00021EDA" id="FSM-DoubleBed03-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00021EDB" id="FSM-DoubleBed03-01Tease-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3853,9 +4559,11 @@
 	<actor gender="M">
 		<idle form="0000E626" id="FSM-DoubleBed03-03Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000E627" id="FSM-DoubleBed03-03Cowgirl-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3863,9 +4571,11 @@
 	<actor gender="M">
 		<idle form="0000E628" id="FSM-DoubleBed03-04Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000E629" id="FSM-DoubleBed03-04Cowgirl-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3873,10 +4583,12 @@
 	<actor gender="M">
 		<idle form="0000EDCB" id="FSM-DoubleBed03-05Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000EDCC" id="FSM-DoubleBed03-05Cowgirl-SM1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3884,10 +4596,12 @@
 	<actor gender="M">
 		<idle form="0000F566" id="FSM-DoubleBed03-06Cowgirl-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000F567" id="FSM-DoubleBed03-06Cowgirl-SM1"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3897,10 +4611,12 @@
 	<actor gender="M">
 		<idle form="0000C7A2" id="FSM-SMBed02-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000C7A3" id="FSM-SMBed02-03Doggy-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3908,9 +4624,11 @@
 	<actor gender="M">
 		<idle form="000139F9" id="FSM-SMBed02-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000139FA" id="FSM-SMBed02-04Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3918,9 +4636,11 @@
 	<actor gender="M">
 		<idle form="000139FB" id="FSM-SMBed02-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000139FC" id="FSM-SMBed02-05Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3928,10 +4648,12 @@
 	<actor gender="M">
 		<idle form="000139FD" id="FSM-SMBed02-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000139FE" id="FSM-SMBed02-06Doggy-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3941,9 +4663,11 @@
 	<actor gender="M">
 		<idle form="00021F0B" id="FSM-DoubleBed01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00021F0C" id="FSM-DoubleBed01-02Start-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3951,9 +4675,11 @@
 	<actor gender="M">
 		<idle form="00007B5B" id="FSM-DoubleBed01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00007B5C" id="FSM-DoubleBed01-03Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3961,9 +4687,11 @@
 	<actor gender="M">
 		<idle form="0000923E" id="FSM-DoubleBed01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000923F" id="FSM-DoubleBed01-04Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3971,9 +4699,11 @@
 	<actor gender="M">
 		<idle form="0000D6E2" id="FSM-DoubleBed01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000D6E3" id="FSM-DoubleBed01-05Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3981,9 +4711,11 @@
 	<actor gender="M">
 		<idle form="0000D6E4" id="FSM-DoubleBed01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000D6E5" id="FSM-DoubleBed01-06Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -3993,9 +4725,11 @@
 	<actor gender="M">
 		<idle form="00002F04" id="FSM-Standing01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00002F05" id="FSM-Standing01-03Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4003,9 +4737,11 @@
 	<actor gender="M">
 		<idle form="0000B85F" id="FSM-Standing01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000B860" id="FSM-Standing01-04Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4013,10 +4749,12 @@
 	<actor gender="M">
 		<idle form="0000B861" id="FSM-Standing01-05Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000B862" id="FSM-Standing01-05Doggy-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4024,10 +4762,12 @@
 	<actor gender="M">
 		<idle form="0000B863" id="FSM-Standing01-06Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000B864" id="FSM-Standing01-06Doggy-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4037,9 +4777,11 @@
 	<actor gender="M">
 		<idle form="00012AC3" id="FSM-Bed01-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00012AC4" id="FSM-Bed01-03Missionary-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4047,10 +4789,12 @@
 	<actor gender="M">
 		<idle form="0001493A" id="FSM-Bed01-04Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001493B" id="FSM-Bed01-04Missionary-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4058,10 +4802,12 @@
 	<actor gender="M">
 		<idle form="0001493C" id="FSM-Bed01-05Powerbomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001493D" id="FSM-Bed01-05Powerbomb-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4071,10 +4817,12 @@
 	<actor gender="M">
 		<idle form="00003E3D" id="FSM-SMBed01-01Tease-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00003E3E" id="FSM-SMBed01-01Tease-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4082,10 +4830,12 @@
 	<actor gender="M">
 		<idle form="00003E3F" id="FSM-SMBed01-02Start-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00003E40" id="FSM-SMBed01-02Start-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4093,10 +4843,12 @@
 	<actor gender="M">
 		<idle form="00003E41" id="FSM-SMBed01-03Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00003E42" id="FSM-SMBed01-03Missionary-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4104,10 +4856,12 @@
 	<actor gender="M">
 		<idle form="00003E43" id="FSM-SMBed01-04Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00003E44" id="FSM-SMBed01-04Missionary-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4115,10 +4869,12 @@
 	<actor gender="M">
 		<idle form="00003E45" id="FSM-SMBed01-05Missionary-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00003E46" id="FSM-SMBed01-05Missionary-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4128,10 +4884,12 @@
 	<actor gender="M">
 		<idle form="00021EC7" id="FSM-Bed02-03ReversePowerBomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00021EC8" id="FSM-Bed02-03ReversePowerBomb-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4139,10 +4897,12 @@
 	<actor gender="M">
 		<idle form="00021EC9" id="FSM-Bed02-04ReversePowerBomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00021ECA" id="FSM-Bed02-04ReversePowerBomb-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4150,10 +4910,12 @@
 	<actor gender="M">
 		<idle form="00021ECB" id="FSM-Bed02-05ReversePowerBomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00021ECC" id="FSM-Bed02-05ReversePowerBomb-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4161,10 +4923,12 @@
 	<actor gender="M">
 		<idle form="00021ECD" id="FSM-Bed02-06ReversePowerBomb-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00021ECE" id="FSM-Bed02-06ReversePowerBomb-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4174,10 +4938,12 @@
 	<actor gender="M">
 		<idle form="0001493E" id="FSM-Floor01-03Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001493F" id="FSM-Floor01-03Doggy-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4185,9 +4951,11 @@
 	<actor gender="M">
 		<idle form="00014940" id="FSM-Floor01-04Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00014941" id="FSM-Floor01-04Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4195,9 +4963,11 @@
 	<actor gender="M">
 		<idle form="00014942" id="FSM-Floor01-05Wheelbarrow-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00014943" id="FSM-Floor01-05Wheelbarrow-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4205,10 +4975,12 @@
 	<actor gender="M">
 		<idle form="00014944" id="FSM-Floor01-06Wheelbarrow-F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00014945" id="FSM-Floor01-06Wheelbarrow-SM1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4218,12 +4990,15 @@
 	<actor gender="M">
 		<idle form="0001049D" id="FSMSM-SMBed01-03Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001049E" id="FSMSM-SMBed01-03Handjob-Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001049F" id="FSMSM-SMBed01-03Handjob-Doggy-SM2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4231,12 +5006,15 @@
 	<actor gender="M">
 		<idle form="00014946" id="FSMSM-SMBed01-04Handjob-Doggy-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00014947" id="FSMSM-SMBed01-04Handjob-Doggy-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00014948" id="FSMSM-SMBed01-04Handjob-Doggy-SM2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4244,12 +5022,15 @@
 	<actor gender="M">
 		<idle form="00014949" id="FSMSM-SMBed01-05Spitroast-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001494A" id="FSMSM-SMBed01-05Spitroast-SM1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0001494B" id="FSMSM-SMBed01-05Spitroast-SM2"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4259,14 +5040,17 @@
 	<actor gender="M">
 		<idle form="0000FD01" id="FSMSM-CampBed01-03DoubleTeam-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000FD02" id="FSMSM-CampBed01-03DoubleTeam-SM1"/>
 		<value path="morph" value="Erection Up" to="0.8"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000FD03" id="FSMSM-CampBed01-03DoubleTeam-SM2"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -4276,13 +5060,16 @@
 	<actor gender="M">
 		<idle form="000104A0" id="FSMSM-Standing01-03DoubleTeam-F1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000104A1" id="FSMSM-Standing01-03DoubleTeam-SM1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000104A2" id="FSMSM-Standing01-03DoubleTeam-SM2"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
