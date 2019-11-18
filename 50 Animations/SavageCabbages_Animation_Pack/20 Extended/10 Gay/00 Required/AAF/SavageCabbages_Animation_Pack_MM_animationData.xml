@@ -2278,6 +2278,7 @@
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00012321" id="FBG-Standing02-05Blowjob-BG1"/>
+		<value path="morph" value="Erection Up" to="0.2"/>
 	</actor>
 </animation>
 
@@ -2436,6 +2437,7 @@
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="00014199" id="FFG-Standing02-03Handjob-FG1"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
 	</actor>
 </animation>
 
@@ -2456,6 +2458,7 @@
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="0001419E" id="FFG-Standing02-05Blowjob-FG1"/>
+		<value path="morph" value="Erection Up" to="0.2"/>
 	</actor>
 </animation>
 
@@ -2466,6 +2469,7 @@
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
 		<idle form="000141A0" id="FFG-Standing02-06Blowjob-FG1"/>
+		<value path="morph" value="Erection Up" to="0.2"/>
 	</actor>
 </animation>
 
