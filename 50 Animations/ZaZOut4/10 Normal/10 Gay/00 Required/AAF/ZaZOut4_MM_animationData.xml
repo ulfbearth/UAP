@@ -6,39 +6,47 @@
 <animation id="ZaZOut4_Blowjob_MM_01_S1" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00004504" id="ZOut4-HP_2P_BJ00_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004503" id="ZOut4-HP_2P_BJ00_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S2" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="000035C6" id="ZOut4-HP_2P_BJ01_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035C5" id="ZOut4-HP_2P_BJ01_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S3" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="000035C8" id="ZOut4-HP_2P_BJ02_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035C7" id="ZOut4-HP_2P_BJ02_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S4" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="000035CA" id="ZOut4-HP_2P_BJ03_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035C9" id="ZOut4-HP_2P_BJ03_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -47,18 +55,22 @@
 <animation id="ZaZOut4_Blowjob_MM_01_4TR5" frames="180" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00003D85" id="ZOut4-HP_2P_BJ03_TR_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00003D84" id="ZOut4-HP_2P_BJ03_TR_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S5" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00003D66" id="ZOut4-HP_2P_BJ04_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00003D65" id="ZOut4-HP_2P_BJ04_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -67,37 +79,45 @@
 <animation id="ZaZOut4_Blowjob_MM_01_5TR6" frames="300" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00004529" id="ZOut4-HP_2P_BJ04_TR_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004528" id="ZOut4-HP_2P_BJ04_TR_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S6" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00004502" id="ZOut4-HP_2P_BJ05_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004501" id="ZOut4-HP_2P_BJ05_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S7" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00004506" id="ZOut4-HP_2P_BJ06_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004505" id="ZOut4-HP_2P_BJ06_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Blowjob_MM_01_S8" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="0000452B" id="ZOut4-HP_2P_BJ07_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000452A" id="ZOut4-HP_2P_BJ07_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -106,72 +126,88 @@
 <animation id="ZaZOut4_Pussy_MM_01_00" frames="80" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00002698" id="ZOut4-HP_2P_A-Enter_Pussy_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002697" id="ZOut4-HP_2P_A-Enter_Pussy_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S1" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00001EE4" id="ZOut4-HP_2P_A-Pussy00_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE3" id="ZOut4-HP_2P_A-Pussy00_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S2" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00001EE5" id="ZOut4-HP_2P_A-Pussy01_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE6" id="ZOut4-HP_2P_A-Pussy01_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S3" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00001EEB" id="ZOut4-HP_2P_A-Pussy02_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EEA" id="ZOut4-HP_2P_A-Pussy02_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S4" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00002691" id="ZOut4-HP_2P_A-Pussy03_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002690" id="ZOut4-HP_2P_A-Pussy03_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S5" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00002694" id="ZOut4-HP_2P_A-Pussy04_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002693" id="ZOut4-HP_2P_A-Pussy04_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S6" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00002696" id="ZOut4-HP_2P_A-Pussy05_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002695" id="ZOut4-HP_2P_A-Pussy05_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S7" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="0000269A" id="ZOut4-HP_2P_A-Pussy06_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002699" id="ZOut4-HP_2P_A-Pussy06_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -180,18 +216,22 @@
 <animation id="ZaZOut4_Pussy_MM_01_7TR8" frames="400" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="000026A3" id="ZOut4-HP_2P_A-Pussy06_TR_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000026A2" id="ZOut4-HP_2P_A-Pussy06_TR_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S8" frames="300" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="000026A5" id="ZOut4-HP_2P_A-Pussy07_F"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000026A4" id="ZOut4-HP_2P_A-Pussy07_M"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -200,18 +240,22 @@
 <animation id="ZaZOut4_Pussy_MM_01_8TR9" frames="90" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="000026A7" id="ZOut4-HP_2P_A-Pussy07_TR_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000026A6" id="ZOut4-HP_2P_A-Pussy07_TR_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_Pussy_MM_01_S9" frames="500" offset="0,0,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="000026A9" id="ZOut4-HP_2P_A-Pussy08_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000026A8" id="ZOut4-HP_2P_A-Pussy08_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
@@ -220,99 +264,123 @@
 <animation id="ZaZOut4_DoubleP_MM_01_S1" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00001EE4" id="ZOut4-HP_2P_A-Pussy00_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE3" id="ZOut4-HP_2P_A-Pussy00_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004503" id="ZOut4-HP_2P_BJ00_M"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S2" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00001EE5" id="ZOut4-HP_2P_A-Pussy01_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE6" id="ZOut4-HP_2P_A-Pussy01_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035C5" id="ZOut4-HP_2P_BJ01_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S3" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00001EEB" id="ZOut4-HP_2P_A-Pussy02_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EEA" id="ZOut4-HP_2P_A-Pussy02_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035C7" id="ZOut4-HP_2P_BJ02_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S4" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00002691" id="ZOut4-HP_2P_A-Pussy03_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002690" id="ZOut4-HP_2P_A-Pussy03_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000035C9" id="ZOut4-HP_2P_BJ03_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S5" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00002694" id="ZOut4-HP_2P_A-Pussy04_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002693" id="ZOut4-HP_2P_A-Pussy04_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00003D65" id="ZOut4-HP_2P_BJ04_M"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S6" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="00002696" id="ZOut4-HP_2P_A-Pussy05_F"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002695" id="ZOut4-HP_2P_A-Pussy05_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004501" id="ZOut4-HP_2P_BJ05_M"/>
 		<value path="morph" value="Erection Up" to="1.0"/>
+        <value path="action" value="MaleOrgasm Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S7" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="0000269A" id="ZOut4-HP_2P_A-Pussy06_F"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002699" id="ZOut4-HP_2P_A-Pussy06_M"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004505" id="ZOut4-HP_2P_BJ06_M"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="ZaZOut4_DoubleP_MM_01_S8" frames="300" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 	<actor gender="M">
 		<idle form="000026A5" id="ZOut4-HP_2P_A-Pussy07_F"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000026A4" id="ZOut4-HP_2P_A-Pussy07_M"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000452A" id="ZOut4-HP_2P_BJ07_M"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
