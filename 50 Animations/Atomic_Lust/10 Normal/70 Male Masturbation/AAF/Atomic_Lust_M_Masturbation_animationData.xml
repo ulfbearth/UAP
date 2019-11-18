@@ -7,6 +7,7 @@
 	<actor gender="M">
 		<idle form="000428DC" id="AtomicJerkingM"/>
        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -14,5 +15,6 @@
 	<actor gender="M">
 		<idle form="000428DD" id="AtomicJerkingOrgasmM"/>
        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>

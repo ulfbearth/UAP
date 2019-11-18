@@ -7,11 +7,13 @@
 	<actor gender="M">
 		<idle form="00000FAE" id="Crazy_Front01_FHandstandBJ"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA1" id="Crazy_Center_MHandstandBJ"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
         <value path="morphs" value="Erection up" to="0.2"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -19,10 +21,12 @@
 	<actor gender="M">
 		<idle form="00000FB1" id="Crazy_Front01_FLayingBJ"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA4" id="Crazy_Center_MLayingBJ"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -30,10 +34,12 @@
 	<actor gender="M">
 		<idle form="00000FAA" id="Crazy_Front01_FChokingJackOff_Aggressive"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA0" id="Crazy_Center_MChokingJackOff_Aggressive"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -41,10 +47,12 @@
 	<actor gender="M">
 		<idle form="00000FB0" id="Crazy_Front01_FLayedBackFuck"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA3" id="Crazy_Center_MLayedBackFuck"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -52,10 +60,12 @@
 	<actor gender="M">
 		<idle form="00000FB2" id="Crazy_Front01_FLayingGorilla"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA5" id="Crazy_Center_MLayingGorilla"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -63,10 +73,12 @@
 	<actor gender="M">
 		<idle form="00000FAF" id="Crazy_Front01_FKneeling69"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA2" id="Crazy_Center_MKneeling69"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -74,10 +86,12 @@
 	<actor gender="M">
 		<idle form="00000FB3" id="Crazy_Front01_FStandingChokehold_Aggressive"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA6" id="Crazy_Center_MStandingChokehold_Aggressive"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -85,10 +99,12 @@
 	<actor gender="M">
 		<idle form="00000FB4" id="Crazy_Front01_FWheelbarrow"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA7" id="Crazy_Center_MWheelbarrow"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -98,14 +114,17 @@
 	<actor gender="M">
 		<idle form="00000FA8" id="Crazy_Front01_F3DP"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9E" id="Crazy_Center_M3DP"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F99" id="Crazy_Back01_M3DP"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -113,14 +132,17 @@
 	<actor gender="M">
 		<idle form="00000FA9" id="Crazy_Front01_F3Spitroast"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9F" id="Crazy_Center_M3Spitroast"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9A" id="Crazy_Back01_M3Spitroast"/>
         <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -130,9 +152,11 @@
 	<actor gender="M">
 		<idle form="00000FAB" id="Crazy_Front01_FDogHandjob"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00000F9B" id="Crazy_Center_DogDogHandjob"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -140,9 +164,11 @@
 	<actor gender="M">
 		<idle form="00000FAC" id="Crazy_Front01_FDogmeatStyle"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00000F9C" id="Crazy_Center_DogDogmeatStyle"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>
 
@@ -150,8 +176,10 @@
 	<actor gender="M">
 		<idle form="00000FAD" id="Crazy_Front01_FDogmeatStyleFaster"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00000F9D" id="Crazy_Center_DogDogmeatStyleFaster"/>
+		<value path="morph" value="CErection" to="1"/>
 	</actor>
 </animation>

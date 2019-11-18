@@ -6,18 +6,21 @@
 <animation id="GUBA_Facedown_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000F99" id="GrayUserBPFacedown00"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Facedown_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000F9A" id="GrayUserBPFacedown01"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Facedown_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000F9B" id="GrayUserBPFacedown02"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -26,12 +29,14 @@
 <animation id="GUBA_Facedown_MM_Kneel_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000F9C" id="GrayUserBPFacedownkneel00"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Facedown_MM_Kneel_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000F9D" id="GrayUserBPFacedownkneel01"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -40,24 +45,28 @@
 <animation id="GUBA_Hogtie_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000F9E" id="GrayUserBPHogtie00"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Hogtie_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000F9F" id="GrayUserBPHogtie01"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Hogtie_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000FA0" id="GrayUserBPHogtie02"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Hogtie_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00000FA1" id="GrayUserBPHogtie03"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
@@ -66,23 +75,27 @@
 <animation id="GUBA_Side_MM_01_S1" frames="300">
 	<actor gender="M">
 		<idle form="00000FA2" id="GrayUserBPSide00"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Side_MM_01_S2" frames="300">
 	<actor gender="M">
 		<idle form="00000FA3" id="GrayUserBPSide01"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Side_MM_01_S3" frames="300">
 	<actor gender="M">
 		<idle form="00000FA4" id="GrayUserBPSide02"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
 
 <animation id="GUBA_Side_MM_01_S4" frames="300">
 	<actor gender="M">
 		<idle form="00000FA5" id="GrayUserBPSide03"/>
+		<value path="morph" value="Erection" to="1"/>
 	</actor>
 </animation>
