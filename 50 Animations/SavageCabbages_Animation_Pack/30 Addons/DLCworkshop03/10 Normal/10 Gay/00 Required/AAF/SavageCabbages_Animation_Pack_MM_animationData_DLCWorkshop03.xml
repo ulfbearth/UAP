@@ -1,47 +1,72 @@
 <meta title="SavageCabbage's Animation Pack - Gay Animation Data DLCWorkshop03" version="1.0" dataSet="animation"/>
 <defaults source="SavageCabbage_Animations.esp"/>
 
+
+
+<!-- Weight Bench -->
+<!-- 2 Actors -->
+
 <animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="27337" id="Tease_WeightBenchS1_F1"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="27338" id="Tease_WeightBenchS1_M1"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="27339" id="Cowgirl_WeightBenchS2_F1"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2733A" id="Cowgirl_WeightBenchS2_M1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S3" frames="500">
 	<actor gender="M">
 		<idle form="2733B" id="Cowgirl_WeightBenchS3_F1"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2733C" id="Cowgirl_WeightBenchS3_M1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S4" frames="500">
 	<actor gender="M">
 		<idle form="2733D" id="Cowgirl_WeightBenchS4_F1"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="2733E" id="Cowgirl_WeightBenchS3_M1"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S5" frames="500">
 	<actor gender="M">
 		<idle form="2733F" id="Cowgirl_WeightBenchS5_F1"/>
+        <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="27340" id="Cowgirl_WeightBenchS3_M1"/>
+        <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
