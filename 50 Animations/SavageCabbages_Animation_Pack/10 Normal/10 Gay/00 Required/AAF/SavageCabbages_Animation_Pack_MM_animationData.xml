@@ -2277,6 +2277,27 @@
 	</actor>
 </animation>
 
+
+<!-- PoolTable -->
+
+<animation id="SCAP_TeasePoolTable_MM_3Human_01" frames="500">
+	<actor gender="M">
+		<idle form="00001822" id="FMM-PoolTable01-01Tease-F1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001823" id="FMM-PoolTable01-01Tease-M1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00001824" id="FMM-PoolTable01-01Tease-M2"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
 <!-- Gangbang Animations -->
 
 <animation id="SCAP_GangbangDoubleBed_MM_4Human_01" frames="500">
