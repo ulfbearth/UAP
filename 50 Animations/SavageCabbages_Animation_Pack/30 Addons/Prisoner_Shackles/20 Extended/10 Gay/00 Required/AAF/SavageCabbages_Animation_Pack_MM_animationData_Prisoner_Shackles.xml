@@ -2,44 +2,69 @@
 <defaults source="SavageCabbage_Animations.esp"/>
 
 
+<!-- Shackles -->
+<!-- 2 Actors -->
 
 <animation id="SCAP_HeldShackles_MM_2Human_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="00001816" id="FM-Shackles01-01Start-F1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001817" id="FM-Shackles01-01Start-M1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
-<animation id="SCAP_HeldShackles_MM_2Human_01_S2" frames="300">
+<animation id="SCAP_HeldShackles_MM_2Human_01_S2" frames="500">
 	<actor gender="M">
 		<idle form="00001016" id="FM-Shackles01-02Held-F1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001017" id="FM-Shackles01-02Held-M1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 <animation id="SCAP_HeldShackles_MM_2Human_01_S3" frames="500">
 	<actor gender="M">
 		<idle form="00027329"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002732A"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
 
 
+
+
+
+<!-- 3 Actors -->
+
 <animation id="SCAP_HeldShackles_MM_3Human_01" frames="500">
 	<actor gender="M">
 		<idle form="00001049" id="FMM-Shackles01-02Held-F1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000104A" id="FMM-Shackles01-02Held-M1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000104B" id="FMM-Shackles01-02Held-M2"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
+        <value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
 	</actor>
 </animation>
