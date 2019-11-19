@@ -7,12 +7,12 @@
 	<actor gender="M">
 		<idle form="0000267F" id="GrayDoggy01S01F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002680" id="GrayDoggy01S01M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -20,12 +20,12 @@
 	<actor gender="M">
 		<idle form="00002681" id="GrayDoggy01S02F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002682" id="GrayDoggy01S02M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -33,12 +33,12 @@
 	<actor gender="M">
 		<idle form="00002683" id="GrayDoggy01S03F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002684" id="GrayDoggy01S03M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -46,12 +46,12 @@
 	<actor gender="M">
 		<idle form="00002685" id="GrayDoggy01S04F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002686" id="GrayDoggy01S04M"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -61,12 +61,12 @@
 	<actor gender="M">
 		<idle form="00005441" id="GrayDoggy01S01FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002680" id="GrayDoggy01S01M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -74,12 +74,12 @@
 	<actor gender="M">
 		<idle form="00005442" id="GrayDoggy01S02FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002682" id="GrayDoggy01S02M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -87,12 +87,12 @@
 	<actor gender="M">
 		<idle form="00005443" id="GrayDoggy01S03FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002684" id="GrayDoggy01S03M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -100,12 +100,12 @@
 	<actor gender="M">
 		<idle form="00005444" id="GrayDoggy01S04FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002686" id="GrayDoggy01S04M"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -115,13 +115,13 @@
 	<actor gender="M">
 		<idle form="00002687" id="GrayDoggy02S01F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002688" id="GrayDoggy02S01M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -129,13 +129,13 @@
 	<actor gender="M">
 		<idle form="00002689" id="GrayDoggy02S02F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000268A" id="GrayDoggy02S02M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -143,13 +143,13 @@
 	<actor gender="M">
 		<idle form="0000268B" id="GrayDoggy02S03F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000268C" id="GrayDoggy02S03M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -157,13 +157,13 @@
 	<actor gender="M">
 		<idle form="0000268D" id="GrayDoggy02S04F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000268E" id="GrayDoggy02S04M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -173,13 +173,13 @@
 	<actor gender="M">
 		<idle form="00004CA1" id="GrayDoggy02S01FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002688" id="GrayDoggy02S01M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -187,13 +187,13 @@
 	<actor gender="M">
 		<idle form="00004CA2" id="GrayDoggy02S02FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000268A" id="GrayDoggy02S02M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -201,13 +201,13 @@
 	<actor gender="M">
 		<idle form="00004CA3" id="GrayDoggy02S03FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000268C" id="GrayDoggy02S03M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -215,13 +215,13 @@
 	<actor gender="M">
 		<idle form="00004CA4" id="GrayDoggy02S04FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000268E" id="GrayDoggy02S04M"/>
 		<value path="morph" value="Erection Down" to="0.2"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -231,12 +231,12 @@
 	<actor gender="M">
 		<idle form="0000266F" id="GrayMissionary01S01F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002670" id="GrayMissionary01S01M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -244,12 +244,12 @@
 	<actor gender="M">
 		<idle form="00002671" id="GrayMissionary01S02F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002672" id="GrayMissionary01S02M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -257,12 +257,12 @@
 	<actor gender="M">
 		<idle form="00002673" id="GrayMissionary01S03F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002674" id="GrayMissionary01S03M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -270,12 +270,12 @@
 	<actor gender="M">
 		<idle form="00002675" id="GrayMissionary01S04F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002676" id="GrayMissionary01S04M"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -285,12 +285,12 @@
 	<actor gender="M">
 		<idle form="00005445" id="GrayMissionary01S01FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002670" id="GrayMissionary01S01M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -298,12 +298,12 @@
 	<actor gender="M">
 		<idle form="00005446" id="GrayMissionary01S02FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002672" id="GrayMissionary01S02M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -311,12 +311,12 @@
 	<actor gender="M">
 		<idle form="00005447" id="GrayMissionary01S03FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002674" id="GrayMissionary01S03M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -324,12 +324,12 @@
 	<actor gender="M">
 		<idle form="00005448" id="GrayMissionary01S04FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002676" id="GrayMissionary01S04M"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -339,12 +339,12 @@
 	<actor gender="M">
 		<idle form="00002677" id="GrayMissionary02S01F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002678" id="GrayMissionary02S01M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -352,12 +352,12 @@
 	<actor gender="M">
 		<idle form="00002679" id="GrayMissionary02S02F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000267A" id="GrayMissionary02S02M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -365,12 +365,12 @@
 	<actor gender="M">
 		<idle form="0000267B" id="GrayMissionary02S03F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000267C" id="GrayMissionary02S03M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -378,12 +378,12 @@
 	<actor gender="M">
 		<idle form="0000267D" id="GrayMissionary02S04F"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000267E" id="GrayMissionary02S04M"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -393,12 +393,12 @@
 	<actor gender="M">
 		<idle form="00005449" id="GrayMissionary02S01FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002678" id="GrayMissionary02S01M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -406,12 +406,12 @@
 	<actor gender="M">
 		<idle form="0000544A" id="GrayMissionary02S02FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000267A" id="GrayMissionary02S02M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -419,12 +419,12 @@
 	<actor gender="M">
 		<idle form="0000544B" id="GrayMissionary02S03FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000267C" id="GrayMissionary02S03M"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -432,12 +432,12 @@
 	<actor gender="M">
 		<idle form="0000544C" id="GrayMissionary02S04FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000267E" id="GrayMissionary02S04M"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -447,12 +447,12 @@
 	<actor gender="M">
 		<idle form="00000F99" id="GraySpanking01S01F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9A" id="GraySpanking01S01M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -460,12 +460,12 @@
 	<actor gender="M">
 		<idle form="00000F9B" id="GraySpanking01S02F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9C" id="GraySpanking01S02M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -473,12 +473,12 @@
 	<actor gender="M">
 		<idle form="00000F9D" id="GraySpanking01S03F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9E" id="GraySpanking01S03M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -486,12 +486,12 @@
 	<actor gender="M">
 		<idle form="00000F9F" id="GraySpanking01S04F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA0" id="GraySpanking01S04M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -501,12 +501,12 @@
 	<actor gender="M">
 		<idle form="00005BF6" id="GraySpanking01S01FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9A" id="GraySpanking01S01M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -514,12 +514,12 @@
 	<actor gender="M">
 		<idle form="00005BF7" id="GraySpanking01S02FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9C" id="GraySpanking01S02M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -527,12 +527,12 @@
 	<actor gender="M">
 		<idle form="00005BF8" id="GraySpanking01S03FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000F9E" id="GraySpanking01S03M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -540,12 +540,12 @@
 	<actor gender="M">
 		<idle form="00005BF9" id="GraySpanking01S04FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00000FA0" id="GraySpanking01S04M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -555,12 +555,12 @@
 	<actor gender="M">
 		<idle form="0000268F" id="GraySpanking02S01F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002690" id="GraySpanking02S01M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -568,12 +568,12 @@
 	<actor gender="M">
 		<idle form="00002691" id="GraySpanking02S02F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002692" id="GraySpanking02S02M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -581,12 +581,12 @@
 	<actor gender="M">
 		<idle form="00002693" id="GraySpanking02S03F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002694" id="GraySpanking02S03M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -594,12 +594,12 @@
 	<actor gender="M">
 		<idle form="00002695" id="GraySpanking02S04F"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002696" id="GraySpanking02S04M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -609,12 +609,12 @@
 	<actor gender="M">
 		<idle form="00005BFA" id="GraySpanking02S01FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002690" id="GraySpanking02S01M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -622,12 +622,12 @@
 	<actor gender="M">
 		<idle form="00005BFB" id="GraySpanking02S02FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002692" id="GraySpanking02S02M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -635,12 +635,12 @@
 	<actor gender="M">
 		<idle form="00005BFC" id="GraySpanking02S03FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002694" id="GraySpanking02S03M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -648,11 +648,11 @@
 	<actor gender="M">
 		<idle form="00005BFD" id="GraySpanking02S04FGag"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002696" id="GraySpanking02S04M"/>
         <value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>

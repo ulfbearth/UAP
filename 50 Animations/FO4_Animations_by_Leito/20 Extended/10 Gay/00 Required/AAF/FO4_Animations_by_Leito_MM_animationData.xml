@@ -7,12 +7,12 @@
 	<actor gender="M">
 		<idle form="0000B71E" id="LeitoAggressiveBlowjobF"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B71F" id="LeitoAggressiveBlowjobM"/>
         <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -21,13 +21,13 @@
 		<idle form="00006367" id="LeitoAggressiveCarryF"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000173C" id="LeitoAggressiveCarryM"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -35,13 +35,13 @@
 	<actor gender="M">
 		<idle form="0000B720" id="LeitoAggressiveCowgirlF"/>
         <value path="action" value="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B721" id="LeitoAggressiveCowgirlM"/>
 		<value path="morph" value="Erection Down" to="0.4"/>
         <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -49,13 +49,13 @@
 	<actor gender="M">
 		<idle form="0000B723" id="LeitoAggressiveDoggyF"/>
         <value path="action" value="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B722" id="LeitoAggressiveDoggyM"/>
 		<value path="morph" value="Erection Up" to="0.1"/>
         <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -63,12 +63,12 @@
 	<actor gender="M">
 		<idle form="0000B724" id="LeitoAggressiveMissionaryF"/>
         <value path="action" value="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B725" id="LeitoAggressiveMissionaryM"/>
         <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -77,13 +77,13 @@
 		<idle form="0000B726" id="LeitoAggressivePowerbombF"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000B727" id="LeitoAggressivePowerbombM"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -93,12 +93,12 @@
 	<actor gender="M">
 		<idle form="00004CB2" id="LeitoBlowjob_A1_S1"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CB6" id="LeitoBlowjob_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -106,12 +106,12 @@
 	<actor gender="M">
 		<idle form="00004CB3" id="LeitoBlowjob_A1_S2"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CB7" id="LeitoBlowjob_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -119,12 +119,12 @@
 	<actor gender="M">
 		<idle form="00004CB4" id="LeitoBlowjob_A1_S3"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CB8" id="LeitoBlowjob_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -132,12 +132,12 @@
 	<actor gender="M" conditions="Orgasm">
 		<idle form="00004CB5" id="LeitoBlowjob_A1_S4"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" conditions="Orgasm">
 		<idle form="00004CB9" id="LeitoBlowjob_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -148,13 +148,13 @@
 		<idle form="00004503" id="LeitoCarry_A1_S1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004507" id="LeitoCarry_A2_S1"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -163,13 +163,13 @@
 		<idle form="00004504" id="LeitoCarry_A1_S2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004508" id="LeitoCarry_A2_S2"/>
 		<value path="morph" value="Erection Up" to="0.8"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -178,13 +178,13 @@
 		<idle form="00004505" id="LeitoCarry_A1_S3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004509" id="LeitoCarry_A2_S3"/>
 		<value path="morph" value="Erection Up" to="0.9"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -193,13 +193,13 @@
 		<idle form="00004506" id="LeitoCarry_A1_S4"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000450A" id="LeitoCarry_A2_S4"/>
 		<value path="morph" value="Erection Up" to="0.9"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -210,13 +210,13 @@
 		<idle form="0000A891" id="LeitoCarry2_A1_S1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A895" id="LeitoCarry2_A2_S1"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -225,13 +225,13 @@
 		<idle form="0000A892" id="LeitoCarry2_A1_S2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A896" id="LeitoCarry2_A2_S2"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -240,13 +240,13 @@
 		<idle form="0000A893" id="LeitoCarry2_A1_S3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A897" id="LeitoCarry2_A2_S3"/>
 		<value path="morph" value="Erection Up" to="0.9"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -255,13 +255,13 @@
 		<idle form="0000A894" id="LeitoCarry2_A1_S4"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A898" id="LeitoCarry2_A2_S4"/>
 		<value path="morph" value="Erection Up" to="0.9"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -271,13 +271,13 @@
 	<actor gender="M">
 		<idle form="0000A8A1" id="LeitoReverseCarry_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A8A5" id="LeitoReverseCarry_A2_S1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -285,13 +285,13 @@
 	<actor gender="M">
 		<idle form="0000A8A2" id="LeitoReverseCarry_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A8A6" id="LeitoReverseCarry_A2_S2"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -299,13 +299,13 @@
 	<actor gender="M">
 		<idle form="0000A8A3" id="LeitoReverseCarry_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A8A7" id="LeitoReverseCarry_A2_S3"/>
 		<value path="morph" value="Erection Up" to="0.8"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -313,13 +313,13 @@
 	<actor gender="M">
 		<idle form="0000A8A4" id="LeitoReverseCarry_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A8A8" id="LeitoReverseCarry_A2_S4"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -329,13 +329,13 @@
 	<actor gender="M">
 		<idle form="0000173F" id="LeitoCowgirl_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001740" id="LeitoCowgirl_A2_S1"/>
 		<value path="morph" value="Erection Down" to="0.5"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -343,13 +343,13 @@
 	<actor gender="M">
 		<idle form="00002E27" id="LeitoCowgirl_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E2A" id="LeitoCowgirl_A2_S2"/>
 		<value path="morph" value="Erection Up" to="0.6"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -357,13 +357,13 @@
 	<actor gender="M">
 		<idle form="00002E28" id="LeitoCowgirl_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E2B" id="LeitoCowgirl_A2_S3"/>
 		<value path="morph" value="Erection Up" to="0.6"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -371,13 +371,13 @@
 	<actor gender="M">
 		<idle form="00002E29" id="LeitoCowgirl_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E2C" id="LeitoCowgirl_A2_S4"/>
 		<value path="morph" value="Erection Up" to="0.6"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -387,12 +387,12 @@
 	<actor gender="M">
 		<idle form="00005C34" id="LeitoCowgirl2_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00005C38" id="LeitoCowgirl2_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -400,12 +400,12 @@
 	<actor gender="M">
 		<idle form="00005C35" id="LeitoCowgirl2_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00005C39" id="LeitoCowgirl2_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -413,12 +413,12 @@
 	<actor gender="M">
 		<idle form="00005C36" id="LeitoCowgirl2_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00005C3A" id="LeitoCowgirl2_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -426,12 +426,12 @@
 	<actor gender="M">
 		<idle form="00005C37" id="LeitoCowgirl2_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00005C3B" id="LeitoCowgirl2_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -441,13 +441,13 @@
 	<actor gender="M">
 		<idle form="000063DF" id="LeitoCowgirl3_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000063E3" id="LeitoCowgirl3_A2_S1"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -455,13 +455,13 @@
 	<actor gender="M">
 		<idle form="000063E0" id="LeitoCowgirl3_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000063E4" id="LeitoCowgirl3_A2_S2"/>
 		<value path="morph" value="Erection Down" to="1.3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -469,13 +469,13 @@
 	<actor gender="M">
 		<idle form="000063E1" id="LeitoCowgirl3_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000063E5" id="LeitoCowgirl3_A2_S3"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -483,13 +483,13 @@
 	<actor gender="M">
 		<idle form="000063E2" id="LeitoCowgirl3_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="000063E6" id="LeitoCowgirl3_A2_S4"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -499,12 +499,12 @@
 	<actor gender="M">
 		<idle form="0000A899" id="LeitoCowgirl4_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A89D" id="LeitoCowgirl4_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -512,12 +512,12 @@
 	<actor gender="M">
 		<idle form="0000A89A" id="LeitoCowgirl4_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A89E" id="LeitoCowgirl4_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -525,12 +525,12 @@
 	<actor gender="M">
 		<idle form="0000A89B" id="LeitoCowgirl4_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A89F" id="LeitoCowgirl4_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -538,12 +538,12 @@
 	<actor gender="M">
 		<idle form="0000A89C" id="LeitoCowgirl4_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000A8A0" id="LeitoCowgirl4_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -553,13 +553,13 @@
 	<actor gender="M">
 		<idle form="00006B82" id="LeitoReverseCowgirl_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006B86" id="LeitoReverseCowgirl_A2_S1"/>
 		<value path="morph" value="Erection Up" to="1.25"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -567,13 +567,13 @@
 	<actor gender="M">
 		<idle form="00006B83" id="LeitoReverseCowgirl_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006B87" id="LeitoReverseCowgirl_A2_S2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -581,13 +581,13 @@
 	<actor gender="M">
 		<idle form="00006B84" id="LeitoReverseCowgirl_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006B88" id="LeitoReverseCowgirl_A2_S3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -595,13 +595,13 @@
 	<actor gender="M">
 		<idle form="00006B85" id="LeitoReverseCowgirl_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00006B89" id="LeitoReverseCowgirl_A2_S4"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -611,13 +611,13 @@
 	<actor gender="M">
 		<idle form="0000732E" id="LeitoReverseCowgirl_2_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007332" id="LeitoReverseCowgirl_2_A2_S1"/>
 		<value path="morph" value="Erection Up" to="2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -625,13 +625,13 @@
 	<actor gender="M">
 		<idle form="0000732F" id="LeitoReverseCowgirl_2_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007333" id="LeitoReverseCowgirl_2_A2_S2"/>
 		<value path="morph" value="Erection Up" to="3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -639,13 +639,13 @@
 	<actor gender="M">
 		<idle form="00007330" id="LeitoReverseCowgirl_2_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007334" id="LeitoReverseCowgirl_2_A2_S3"/>
 		<value path="morph" value="Erection Up" to="3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -653,13 +653,13 @@
 	<actor gender="M">
 		<idle form="00007331" id="LeitoReverseCowgirl_2_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007335" id="LeitoReverseCowgirl_2_A2_S4"/>
 		<value path="morph" value="Erection Up" to="3"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -669,12 +669,12 @@
 	<actor gender="M">
 		<idle form="00001739" id="LeitoDoggy_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001738" id="LeitoDoggy_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -682,12 +682,12 @@
 	<actor gender="M">
 		<idle form="00001EDE" id="LeitoDoggy_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE1" id="LeitoDoggy_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -695,12 +695,12 @@
 	<actor gender="M">
 		<idle form="00001EDF" id="LeitoDoggy_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE2" id="LeitoDoggy_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -708,12 +708,12 @@
 	<actor gender="M">
 		<idle form="00001EE0" id="LeitoDoggy_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00001EE3" id="LeitoDoggy_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -723,12 +723,12 @@
 	<actor gender="M">
 		<idle form="00002E35" id="LeitoDoggy2_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E39" id="LeitoDoggy2_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -736,12 +736,12 @@
 	<actor gender="M">
 		<idle form="00002E36" id="LeitoDoggy2_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E3A" id="LeitoDoggy2_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -749,12 +749,12 @@
 	<actor gender="M">
 		<idle form="00002E37" id="LeitoDoggy2_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E3B" id="LeitoDoggy2_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -762,12 +762,12 @@
 	<actor gender="M">
 		<idle form="00002E38" id="LeitoDoggy2_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E3C" id="LeitoDoggy2_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -777,13 +777,13 @@
 	<actor gender="M">
 		<idle form="00007AD1" id="LeitoStandingDoggy_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007AD5" id="LeitoStandingDoggy_A2_S1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -791,13 +791,13 @@
 	<actor gender="M">
 		<idle form="00007AD2" id="LeitoStandingDoggy_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007AD6" id="LeitoStandingDoggy_A2_S2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -805,13 +805,13 @@
 	<actor gender="M">
 		<idle form="00007AD3" id="LeitoStandingDoggy_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007AD7" id="LeitoStandingDoggy_A2_S3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -819,13 +819,13 @@
 	<actor gender="M">
 		<idle form="00007AD4" id="LeitoStandingDoggy_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007AD8" id="LeitoStandingDoggy_A2_S4"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -835,12 +835,12 @@
 	<actor gender="M">
 		<idle form="00007AD9" id="LeitoStandingDoggy2_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007ADD" id="LeitoStandingDoggy2_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -848,12 +848,12 @@
 	<actor gender="M">
 		<idle form="00007ADA" id="LeitoStandingDoggy2_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007ADE" id="LeitoStandingDoggy2_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -861,12 +861,12 @@
 	<actor gender="M">
 		<idle form="00007ADB" id="LeitoStandingDoggy2_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007ADF" id="LeitoStandingDoggy2_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -874,12 +874,12 @@
 	<actor gender="M">
 		<idle form="00007ADC" id="LeitoStandingDoggy2_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00007AE0" id="LeitoStandingDoggy2_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -889,13 +889,13 @@
 	<actor gender="M">
 		<idle form="00004C8D" id="LeitoMissionary_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004C8E" id="LeitoMissionary_A2_S1"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -903,13 +903,13 @@
 	<actor gender="M">
 		<idle form="00002682" id="LeitoMissionary_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002685" id="LeitoMissionary_A2_S2"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -917,13 +917,13 @@
 	<actor gender="M">
 		<idle form="00002683" id="LeitoMissionary_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002686" id="LeitoMissionary_A2_S3"/>
 		<value path="morph" value="Erection Up" to="0.8"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -931,13 +931,13 @@
 	<actor gender="M">
 		<idle form="00002684" id="LeitoMissionary_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002687" id="LeitoMissionary_A2_S4"/>
 		<value path="morph" value="Erection Up" to="0.7"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -947,12 +947,12 @@
 	<actor gender="M">
 		<idle form="00002E2D" id="LeitoMissionary2_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E31" id="LeitoMissionary2_A2_S1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -960,12 +960,12 @@
 	<actor gender="M">
 		<idle form="00002E2E" id="LeitoMissionary2_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E32" id="LeitoMissionary2_A2_S2"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -973,12 +973,12 @@
 	<actor gender="M">
 		<idle form="00002E2F" id="LeitoMissionary2_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E33" id="LeitoMissionary2_A2_S3"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -986,12 +986,12 @@
 	<actor gender="M">
 		<idle form="00002E30" id="LeitoMissionary2_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00002E34" id="LeitoMissionary2_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1002,13 +1002,13 @@
 		<idle form="0000450B" id="LeitoPowerbomb_A1_S1"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0000450F" id="LeitoPowerbomb_A2_S1"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1017,13 +1017,13 @@
 		<idle form="0000450C" id="LeitoPowerbomb_A1_S2"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004510" id="LeitoPowerbomb_A2_S2"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1032,13 +1032,13 @@
 		<idle form="0000450D" id="LeitoPowerbomb_A1_S3"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004511" id="LeitoPowerbomb_A2_S3"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1047,13 +1047,13 @@
 		<idle form="0000450E" id="LeitoPowerbomb_A1_S4"/>
 		<value path="morph" value="Erection Up" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004512" id="LeitoPowerbomb_A2_S4"/>
 		<value path="morph" value="Erection Down" to="1"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1063,13 +1063,13 @@
 	<actor gender="M">
 		<idle form="00004CEB" id="LeitoSpoon_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CEF" id="LeitoSpoon_A2_S1"/>
 		<value path="morph" value="Erection Up" to="1.25"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1077,13 +1077,13 @@
 	<actor gender="M">
 		<idle form="00004CEC" id="LeitoSpoon_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CF0" id="LeitoSpoon_A2_S2"/>
 		<value path="morph" value="Erection Up" to="1.25"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1091,13 +1091,13 @@
 	<actor gender="M">
 		<idle form="00004CED" id="LeitoSpoon_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CF1" id="LeitoSpoon_A2_S3"/>
 		<value path="morph" value="Erection Up" to="1.25"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1105,13 +1105,13 @@
 	<actor gender="M">
 		<idle form="00004CEE" id="LeitoSpoon_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M">
 		<idle form="00004CF2" id="LeitoSpoon_A2_S4"/>
 		<value path="morph" value="Erection Up" to="1.25"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1121,11 +1121,11 @@
 	<actor gender="M">
 		<idle form="00004523" id="LeitoCanineDoggy_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00004524" id="LeitoCanineDoggy_A2_S1"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1133,11 +1133,11 @@
 	<actor gender="M">
 		<idle form="0000268B" id="LeitoCanineDoggy_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00002688" id="LeitoCanineDoggy_A2_S2"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1145,11 +1145,11 @@
 	<actor gender="M">
 		<idle form="0000268C" id="LeitoCanineDoggy_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00002689" id="LeitoCanineDoggy_A2_S3"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1157,11 +1157,11 @@
 	<actor gender="M">
 		<idle form="0000268D" id="LeitoCanineDoggy_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0000268A" id="LeitoCanineDoggy_A2_S4"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1171,11 +1171,11 @@
 	<actor gender="M">
 		<idle form="00003D80" id="LeitoCanineDoggy2_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00003D7C" id="LeitoCanineDoggy2_A2_S1"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1183,11 +1183,11 @@
 	<actor gender="M">
 		<idle form="00003D81" id="LeitoCanineDoggy2_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00003D7D" id="LeitoCanineDoggy2_A2_S2"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1195,11 +1195,11 @@
 	<actor gender="M">
 		<idle form="00003D82" id="LeitoCanineDoggy2_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00003D7E" id="LeitoCanineDoggy2_A2_S3"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1207,11 +1207,11 @@
 	<actor gender="M">
 		<idle form="00003D83" id="LeitoCanineDoggy2_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00003D7F" id="LeitoCanineDoggy2_A2_S4"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1221,11 +1221,11 @@
 	<actor gender="M">
 		<idle form="00001EE4" id="LeitoCanineMissionary_A1_S1"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00001EE8" id="LeitoCanineMissionary_A2_S1"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1233,11 +1233,11 @@
 	<actor gender="M">
 		<idle form="00001EE5" id="LeitoCanineMissionary_A1_S2"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00001EE9" id="LeitoCanineMissionary_A2_S2"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1245,11 +1245,11 @@
 	<actor gender="M">
 		<idle form="00001EE6" id="LeitoCanineMissionary_A1_S3"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00001EEA" id="LeitoCanineMissionary_A2_S3"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1257,11 +1257,11 @@
 	<actor gender="M">
 		<idle form="00001EE7" id="LeitoCanineMissionary_A1_S4"/>
         <value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="00001EEB" id="LeitoCanineMissionary_A2_S4"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1271,12 +1271,12 @@
 	<actor gender="M" stopOverlaySet="M_Back_M">
 		<idle form="00001EDC" id="LeitoSuperMutantCarryF"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00001EDD" id="LeitoSuperMutantCarryM"/>
 		<value path="morph" value="Erection Up" to="0.5"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1284,12 +1284,12 @@
 	<actor gender="M" stopOverlaySet="M_Back_M">
 		<idle form="00004C8F" id="LeitoSuperMutantReverseCarryF"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00004C8C" id="LeitoSuperMutantReverseCarryM"/>
 		<value path="morph" value="Erection Up" to="1"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1297,11 +1297,11 @@
 	<actor gender="M" stopOverlaySet="M_Back_M">
 		<idle form="0000542A" id="LeitoSuperMutantDoggyF"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000542D" id="LeitoSuperMutantDoggyM"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1309,11 +1309,11 @@
 	<actor gender="M" stopOverlaySet="M_Back_M">
 		<idle form="0000542B" id="LeitoSuperMutantStandingDoggyF"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000542E" id="LeitoSuperMutantStandingDoggyM"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1321,12 +1321,12 @@
 	<actor gender="M" stopOverlaySet="M_Back_M">
 		<idle form="0000B73D" id="LeitoSuperMutantPowerbombF"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000B73E" id="LeitoSuperMutantPowerbombM"/>
 		<value path="morph" value="Erection Down" to="1"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
 
@@ -1334,10 +1334,10 @@
 	<actor gender="M" stopOverlaySet="M_Back_M">
 		<idle form="0000542C" id="LeitoSuperMutantStandingSidewaysF"/>
         <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-		<value path="morph" value="Erection" to="1"/>
+		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000542F" id="LeitoSuperMutantStandingSidewaysM"/>
-		<value path="morph" value="CErection" to="1"/>
+		<value path="morph" value="CErection" to="1.0000000000001"/>
 	</actor>
 </animation>
