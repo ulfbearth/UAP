@@ -2633,6 +2633,12 @@
 
 
 
+
+<!--====================================================================================================================================================-->
+<!--====================================================================================================================================================-->
+<!--============================================================Feral Ghoul Animations==================================================================-->
+
+
 <!-- Blowjob Animations -->
 
 <animation id="SCAP_StandingBlowjob_MM_2Ghoul_01_S3" frames="500">
@@ -2899,6 +2905,12 @@
 	</actor>
 </animation>
 
+
+
+
+<!--====================================================================================================================================================-->
+<!--====================================================================================================================================================-->
+<!--============================================================Dog Animations==================================================================-->
 
 
 <!-- Handjob Animations -->
@@ -4359,6 +4371,11 @@
 	</actor>
 </animation>
 
+
+<!--====================================================================================================================================================-->
+<!--====================================================================================================================================================-->
+<!--============================================================SuperMutant Animations==================================================================-->
+
 <!-- Blowjob Animations -->
 
 <animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S3" frames="500">
@@ -4546,7 +4563,7 @@
 <animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S1" frames="500">
 	<actor gender="M">
 		<idle form="00021EDA" id="FSM-DoubleBed03-01Tease-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -4816,7 +4833,7 @@
 <animation id="SCAP_MissionaryBed_MM_2Mutant_02_S1" frames="500">
 	<actor gender="M">
 		<idle form="00003E3D" id="FSM-SMBed01-01Tease-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -5005,7 +5022,7 @@
 <animation id="SCAP_DoggyBed_MM_3Mutant_01_S4" frames="500">
 	<actor gender="M">
 		<idle form="00014946" id="FSMSM-SMBed01-04Handjob-Doggy-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -5021,7 +5038,7 @@
 <animation id="SCAP_DoggyBed_MM_3Mutant_01_S5" frames="500">
 	<actor gender="M">
 		<idle form="00014949" id="FSMSM-SMBed01-05Spitroast-F1"/>
-        <value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+        <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
