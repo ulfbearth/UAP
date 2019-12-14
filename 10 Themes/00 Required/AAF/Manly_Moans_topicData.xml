@@ -87,11 +87,11 @@
 	
 	
 <!-- Player Voiceset -->
-	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83F" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
 	
 	
 <!-- Ulfberth Voiceset -->
-	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isUlfberth"/>
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="840" voiceTypeSource="Manly Moans.esp" conditions="isUlfberth"/>
 	
 	
 	
