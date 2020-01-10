@@ -25,6 +25,31 @@
 </topicGroup>
 
 
+<topicGroup id="CreatureMoans Topic" tryRate="4" chance="100">
+
+<!-- Behemoth Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="842" voiceTypeSource="Manly Moans.esp" conditions="isBehemoth"/>
+	
+<!-- Dog Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="844" voiceTypeSource="Manly Moans.esp" conditions="isDog"/>
+	
+<!-- FeralGhoul Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="845" voiceTypeSource="Manly Moans.esp" conditions="isFeralGhoul"/>
+	
+<!-- Gorilla Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="846" voiceTypeSource="Manly Moans.esp" conditions="isGorilla"/>
+	
+<!-- MutantHound Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="841" voiceTypeSource="Manly Moans.esp" conditions="isMutantHound"/>
+	
+<!-- Supermutant Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="847" voiceTypeSource="Manly Moans.esp" conditions="isSupermutant"/>
+	
+<!-- YaoGuai Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="848" voiceTypeSource="Manly Moans.esp" conditions="isYaoGuai"/>
+</topicGroup>
+
+
 
 <!--=====================================================================================================================================================================================-->
 
@@ -101,6 +126,12 @@
 </topicGroup>
 
 
+
+<topicGroup id="CreatureAggMoans Topic" tryRate="4" chance="70">
+
+<!-- Supermutant Voiceset -->
+	<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="849" voiceTypeSource="Manly Moans.esp"  conditions="isSupermutant"/>
+</topicGroup>
 
 <!--=====================================================================================================================================================================================-->
 

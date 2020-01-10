@@ -11,4 +11,18 @@
 
 <condition id="isDanse" name="Paladin Danse"/>
 
+<condition id="isBehemoth" skeleton="SupermutantBehemoth"/>
+
+<condition id="isDog" skeleton="Dog"/>
+
+<condition id="isFeralGhoul" skeleton="FeralGhoul"/>
+
+<condition id="isGorilla" skeleton="Gorilla"/>
+
+<condition id="isMutantHound" skeleton="FEVHound"/>
+
+<condition id="isSupermutant" skeleton="Supermutant"/>
+
+<condition id="isYaoGuai" skeleton="YaoGuai"/>
+
 <condition id="Orgasm" statRules="Arousal)35"/>
