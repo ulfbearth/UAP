@@ -1,8 +1,9 @@
 <meta title="BP70's Fallout 4 Sex Animations - Gay Position Tree Data" version="2.1.1" dataSet="positionTree"/>
 <defaults/>
 
-<tree id="BP70s_Fallout_4_Sex_Animations_MM_Menu">
-	<branch id="Kiss" positionID="FO4SA_Missionary_MM_Impregnate_01_1">
+<tree id="BP70s_Fallout_4_Sex_Animations_Tree">
+	<branch id="Start" positionID="FO4SA_Missionary_MM_Impregnate_01_1">
+	 <branch id="Kiss (Missionary Impregnate)" positionID="FO4SA_Missionary_MM_Impregnate_01_1">
 			<branch id="Start Fucking" positionID="FO4SA_Missionary_MM_Impregnate_01_2A">
 					<branch id="Lower His Head" positionID="FO4SA_Missionary_MM_Impregnate_01_3A">
 							<branch id="Wrap Hir Legs Around Him" positionID="FO4SA_Missionary_MM_Impregnate_01_4A">
@@ -18,4 +19,19 @@
 					</branch>
 			</branch>
 	</branch>
+		 <branch id="Kiss (Cowgirl Impregnate)" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 1, Kiss)">
+				<branch id="Start Fucking" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 2, Start Fucking)">
+						<branch id="Pull Him in Deeper" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 3, Fuck Faster and Deeper)">
+								<branch id="Thrust Into him" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 5, Thrust Into Him)">
+										<branch id="Give him a creampie!" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 7, Orgasm)"></branch>
+								</branch>
+						</branch>
+						<branch id="Pull Him in Deeper and Finger him Ass" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 4, Finger His Ass)">
+								<branch id="Thrust Into him" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 6, Thrust Into Him and Finger Him)">
+										<branch id="Give him a creampie!" positionID="BP70's Fallout 4 Sex Animations - Gay Impregnate Cowgirl (Stage 8, Orgasm and Finger)"></branch>
+								</branch>
+						</branch>
+				</branch>
+		 </branch>
+		</branch>
 </tree>
