@@ -12,7 +12,7 @@
 	<actor gender="M">
 		<idle form="00000FA1" id="Crazy_Center_MHandstandBJ"/>
         <value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-        <value path="morphs" value="Erection up" to="0.2"/>
+        <value path="morph" value="Erection up" to="0.2"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
 </animation>
