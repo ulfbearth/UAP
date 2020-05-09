@@ -1,6 +1,0 @@
-<meta title="SavageCabbage's Animation Pack - Furniture Data DLCWorkshop03" version="1.0" dataSet="furniture"/>
-<defaults source="DLCworkshop03.esm"/>
-
-<group id="WeightBench">
-	<furniture form="119A"/>
-</group>
