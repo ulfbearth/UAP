@@ -3,63 +3,45 @@
 
 <action id="MaleMoan Action">
     <self topicGroupID="MaleMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</self>
 	
 	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</target>
 </action>
 
 
 <action id="CreatureMoan Action">
     <self topicGroupID="CreatureMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</self>
 	
 	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="CreatureMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</target>
 </action>
 
 
 <action id="MaleBlowjob Action">
     <self topicGroupID="MaleBlowjob Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".025"/>
 	</self>
 	
 	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleBlowjob Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".025"/>
 	</target>
 </action>
 
 
 <action id="MaleOrgasm Action">
-    <self reactionSet="Arousal Reset" topicGroupID="MaleOrgasm Topic">
-		<stat type="speed" range="0-" statID="Fatigue" add=".1"/>
-		<stat type="speed" range="0-" statID="Arousal" add=".1"/>
+    <self topicGroupID="MaleOrgasm Topic">
 	</self>
 
-	<target swf="AAF_BasicRoundMeter.swf" reactionSet="Arousal Reset" x="1" y="7" topicGroupID="MaleOrgasm Topic">
-		<stat type="speed" range="0-" statID="Fatigue" add=".1"/>
-		<stat type="speed" range="0-" statID="Arousal" add=".1"/>
+	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleOrgasm Topic">
 	</target>
 </action>
 
 
 <action id="MaleAggMoan Action">
     <self topicGroupID="MaleAggMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</self>
 
 	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleAggMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</target>
 </action>
 
@@ -67,26 +49,18 @@
 
 <action id="CreatureAggMoan Action">
     <self topicGroupID="CreatureAggMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</self>
 
 	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="CreatureAggMoans Topic">
-		<stat type="speed" range="0-" statID="Arousal" add=".05"/>
-		<stat type="speed" range="0-" statID="Fatigue" add=".01"/>
 	</target>
 </action>
 
 
 
 <action id="MaleAggOrgasm Action">
-    <self reactionSet="Arousal Reset" topicGroupID="MaleAggMoans Topic">
-		<stat type="speed" range="0-" statID="Fatigue" add=".2"/>
-		<stat type="speed" range="0-" statID="Arousal" add=".1"/>
+    <self topicGroupID="MaleAggMoans Topic">
 	</self>
 
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" reactionSet="Arousal Reset" topicGroupID="MaleAggMoans Topic">
-		<stat type="speed" range="0-" statID="Fatigue" add=".2"/>
-		<stat type="speed" range="0-" statID="Arousal" add=".1"/>
+	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleAggMoans Topic">
 	</target>
 </action>

@@ -1,8 +1,0 @@
-<meta title="Manly_Moans_actorStatData.xml" version="1.0" dataSet="actorStat"/>
-<defaults isPersistent="false" isHidden="false" defaultValue="0" minValue="0" maxValue="100" decayRate="1"/>
-
-
-<group id="statGroup1" showInProfile="true" showInStatMode="true" showInScene="true">
-	<stat id="Arousal" shortForm="Lust" actorValueFormID="AAF" actorValueSource="Fallout4.esm" priority="2"/>
-	<stat id="Fatigue" shortForm="FA" actorValueFormID="AAD" actorValueSource="Fallout4.esm" priority="1"/>
-</group>

@@ -1,9 +1,0 @@
-<meta title="Manly_Moans_reactionSetData.xml" version="1.0-" dataSet="reaction"/>
-<defaults loadPriority="-1"/>
-
-
-<reactionSet id="Arousal Reset">
-	<condition>
-		<setStat stat="Arousal" range="99-" targetStat="Arousal" setTo="30.0"/>
-	</condition>
-</reactionSet>
