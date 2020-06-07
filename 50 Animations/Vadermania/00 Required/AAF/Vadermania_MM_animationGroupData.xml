@@ -1,0 +1,12 @@
+<meta title="SavageCabbage's Animation Pack - Gay Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
+<defaults/>
+
+
+<!--===================================== Deathclaw Animations =========================================-->
+<animationGroup id="VM_Deathclaw_MM_Slow_01_Staged" sequential="true">
+	<stage animation="VM_Deathclaw_MM_Slow_01" loops="4"/>
+</animationGroup>
+
+<animationGroup id="VM_Deathclaw_MM_Fast_02_Staged" sequential="true">
+	<stage animation="VM_Deathclaw_MM_Fast_02" loops="4"/>
+</animationGroup>

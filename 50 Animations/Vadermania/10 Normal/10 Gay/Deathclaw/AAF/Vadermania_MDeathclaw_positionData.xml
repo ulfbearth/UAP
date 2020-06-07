@@ -2,5 +2,5 @@
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
 
-<position id="Vadermania - Gay Deathclaw (Slow)" animation="VM_Deathclaw_MM_Slow_01" tags="Vader,M_DClawM,NoFurn,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="Vadermania - Gay Deathclaw (Fast)" animation="VM_Deathclaw_MM_Fast_02" tags="Vader,M_DClawM,NoFurn,Aggressive,Held3,Stim7,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="Vadermania - Gay Deathclaw (Slow)" animationGroup="VM_Deathclaw_MM_Slow_01_Staged" tags="Vader,M_DClawM,NoFurn,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="Vadermania - Gay Deathclaw (Fast)" animationGroup="VM_Deathclaw_MM_Fast_02_Staged" tags="Vader,M_DClawM,NoFurn,Aggressive,Held3,Stim7,Love3,Dom-5,NullToSelf,PenisToAnus"/>
