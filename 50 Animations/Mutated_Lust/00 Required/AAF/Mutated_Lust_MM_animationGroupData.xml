@@ -1,0 +1,16 @@
+<meta title="SavageCabbage's Animation Pack - Gay Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
+<defaults/>
+
+
+<!--===================================== Deathclaw Animations =========================================-->
+<animationGroup id="ML_Dumpster_MM_01_Staged" sequential="true">
+	<stage animation="ML_Dumpster_MM_01" loops="4"/>
+</animationGroup>
+
+<animationGroup id="ML_Fleshlight_MM_01_Staged" sequential="true">
+	<stage animation="ML_Fleshlight_MM_01" loops="4"/>
+</animationGroup>
+
+<animationGroup id="ML_Tease_MM_01_Staged" sequential="true">
+	<stage animation="ML_Tease_MM_01" loops="4"/>
+</animationGroup>

@@ -1,7 +1,0 @@
-<meta title="Mutated Lust - Action Data" version="1.3.0" dataSet="action"/>
-<defaults/>
-
-<action id="addTongue">
-    <self startEquipmentSet="addTongue" stopEquipmentSet="removeTongue">   
-    </self>
-</action>
