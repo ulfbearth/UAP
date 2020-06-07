@@ -129,12 +129,12 @@
 </animation>
 
 <animation id="Leito_Blowjob_MM_01_S4" frames="320">
-	<actor gender="M" conditions="Orgasm">
+	<actor gender="M">
 		<idle form="00004CB5" id="LeitoBlowjob_A1_S4"/>
         <value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
 	</actor>
-	<actor gender="M" conditions="Orgasm">
+	<actor gender="M">
 		<idle form="00004CB9" id="LeitoBlowjob_A2_S4"/>
         <value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 		<value path="morph" value="Erection" to="1.0000000000001"/>
