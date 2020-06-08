@@ -49,12 +49,8 @@
   <xs:complexType name="statType">
     <xs:simpleContent>
       <xs:extension base="xs:string">
-        <xs:attribute type="xs:string" name="type" use="required"/>
-        <xs:attribute type="xs:string" name="range" use="required"/>
-        <xs:attribute type="xs:string" name="statID" use="required"/>
-        <xs:attribute type="xs:float" name="add"/>
-        <xs:attribute type="xs:string" name="id"/>
-        <xs:attribute type="xs:string" name="shortForm"/>
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="shortForm" use="required"/>
         <xs:attribute type="xs:float" name="minValue"/>
         <xs:attribute type="xs:string" name="actorValueFormID"/>
         <xs:attribute type="xs:string" name="actorValueSource"/>
@@ -70,9 +66,18 @@
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
+  <xs:complexType name="actionStatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="statID" use="required"/>
+        <xs:attribute type="xs:float" name="add" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
   <xs:complexType name="selfType">
     <xs:sequence>
-      <xs:element type="statType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="actionStatType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
     <xs:attribute type="xs:string" name="meter"/>
     <xs:attribute type="xs:string" name="tags"/>
@@ -90,7 +95,7 @@
   </xs:complexType>
   <xs:complexType name="targetType">
     <xs:sequence>
-      <xs:element type="statType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="actionStatType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
     <xs:attribute type="xs:string" name="meter"/>
     <xs:attribute type="xs:string" name="tags"/>
@@ -678,6 +683,8 @@
         <xs:attribute type="xs:string" name="id" use="required"/>
         <xs:attribute type="xs:string" name="form" use="required"/>
         <xs:attribute type="xs:string" name="skeleton"/>
+        <xs:attribute type="xs:string" name="maleSWF"/>
+        <xs:attribute type="xs:string" name="femaleSWF"/>
         <xs:attribute type="xs:boolean" name="requiresAnimationReset"/>
       </xs:extension>
     </xs:simpleContent>
@@ -815,14 +822,25 @@
   <xs:complexType name="comboStatType">
     <xs:simpleContent>
       <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="subtract"/>
         <xs:attribute type="xs:string" name="id" use="required"/>
         <xs:attribute type="xs:string" name="shortForm" use="required"/>
+        <xs:attribute type="xs:float" name="minValue"/>
+        <xs:attribute type="xs:string" name="actorValueFormID"/>
+        <xs:attribute type="xs:string" name="actorValueSource"/>
         <xs:attribute type="xs:integer" name="priority"/>
-        <xs:attribute type="xs:string" name="add"/>
+        <xs:attribute type="xs:float" name="decayRate"/>
         <xs:attribute type="xs:boolean" name="isPersistent"/>
+        <xs:attribute type="xs:string" name="defaultValue"/>
+        <xs:attribute type="xs:float" name="maxValue"/>
+        <xs:attribute type="xs:string" name="gender"/>
+        <xs:attribute type="xs:boolean" name="isHidden"/>
+        <xs:attribute type="xs:boolean" name="showInProfile"/>
+        <xs:attribute type="xs:boolean" name="showInStatMode"/>
         <xs:attribute type="xs:string" name="average"/>
         <xs:attribute type="xs:string" name="divide"/>
         <xs:attribute type="xs:string" name="multiply"/>
+        <xs:attribute type="xs:string" name="add"/>
         <xs:attribute type="xs:string" name="subtract"/>
       </xs:extension>
     </xs:simpleContent>
