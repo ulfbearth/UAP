@@ -76,7 +76,7 @@
 
 	<!-- 3 Actors -->
 
-	<animation id="SCAP_DoubleTeamStocks_MM_3Human_01" frames="500" offset="0,0,0,0:0,0,0,0:0,0,2.5,0>
+	<animation id="SCAP_DoubleTeamStocks_MM_3Human_01" frames="500" offset="0,0,0,0:0,0,0,0:0,0,2.5,0">
 		<actor gender="M">
 			<idle form="0000104F" id="FMM-Stocks01-02DoubleTeam-F1"/>
 			<value path="morph" value="Erection" to="1.0000000000001"/>
