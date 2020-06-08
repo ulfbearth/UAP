@@ -1,35 +1,36 @@
 <animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults/>
+	<defaults/>
 
-<!-- Facedown Animations -->
+	<!-- Facedown Animations -->
 
-<animationGroup id="GUBA_Facedown_MM_01_Staged" sequential="true">
-	<stage animation="GUBA_Facedown_MM_01_S1"/>
-	<stage animation="GUBA_Facedown_MM_01_S2"/>
-	<stage animation="GUBA_Facedown_MM_01_S3"/>
-</animationGroup>
+	<animationGroup id="GUBA_Facedown_MM_01_Staged" sequential="true">
+		<stage animation="GUBA_Facedown_MM_01_S1"/>
+		<stage animation="GUBA_Facedown_MM_01_S2"/>
+		<stage animation="GUBA_Facedown_MM_01_S3"/>
+	</animationGroup>
 
-<!-- Facedown Kneel Animations -->
+	<!-- Facedown Kneel Animations -->
 
-<animationGroup id="GUBA_Facedown_MM_Kneel_01_Staged" sequential="true">
-	<stage animation="GUBA_Facedown_MM_Kneel_01_S1"/>
-	<stage animation="GUBA_Facedown_MM_Kneel_01_S2"/>
-</animationGroup>
+	<animationGroup id="GUBA_Facedown_MM_Kneel_01_Staged" sequential="true">
+		<stage animation="GUBA_Facedown_MM_Kneel_01_S1"/>
+		<stage animation="GUBA_Facedown_MM_Kneel_01_S2"/>
+	</animationGroup>
 
-<!-- Hogtie Animations -->
+	<!-- Hogtie Animations -->
 
-<animationGroup id="GUBA_Hogtie_MM_01_Staged" sequential="true">
-	<stage animation="GUBA_Hogtie_MM_01_S1"/>
-	<stage animation="GUBA_Hogtie_MM_01_S2"/>
-	<stage animation="GUBA_Hogtie_MM_01_S3"/>
-	<stage animation="GUBA_Hogtie_MM_01_S4"/>
-</animationGroup>
+	<animationGroup id="GUBA_Hogtie_MM_01_Staged" sequential="true">
+		<stage animation="GUBA_Hogtie_MM_01_S1"/>
+		<stage animation="GUBA_Hogtie_MM_01_S2"/>
+		<stage animation="GUBA_Hogtie_MM_01_S3"/>
+		<stage animation="GUBA_Hogtie_MM_01_S4"/>
+	</animationGroup>
 
-<!-- Side Animations -->
+	<!-- Side Animations -->
 
-<animationGroup id="GUBA_Side_MM_01_Staged" sequential="true">
-	<stage animation="GUBA_Side_MM_01_S1"/>
-	<stage animation="GUBA_Side_MM_01_S2"/>
-	<stage animation="GUBA_Side_MM_01_S3"/>
-	<stage animation="GUBA_Side_MM_01_S4"/>
-</animationGroup>
+	<animationGroup id="GUBA_Side_MM_01_Staged" sequential="true">
+		<stage animation="GUBA_Side_MM_01_S1"/>
+		<stage animation="GUBA_Side_MM_01_S2"/>
+		<stage animation="GUBA_Side_MM_01_S3"/>
+		<stage animation="GUBA_Side_MM_01_S4"/>
+	</animationGroup>
+</animationGroupData>

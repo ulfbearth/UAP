@@ -1,17 +1,18 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<!-- Feral Ghoul -->
+    <!-- Feral Ghoul -->
 
-<position id="Gray User's Creature Pack - Gay Ghoul (Staged)" animationGroup="GUCP_Ghoul_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul (Stage 1)" animation="GUCP_Ghoul_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul (Stage 2)" animation="GUCP_Ghoul_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul (Stage 3)" animation="GUCP_Ghoul_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul (Stage 4)" animation="GUCP_Ghoul_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul (Staged)" animationGroup="GUCP_Ghoul_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul (Stage 1)" animation="GUCP_Ghoul_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul (Stage 2)" animation="GUCP_Ghoul_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul (Stage 3)" animation="GUCP_Ghoul_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul (Stage 4)" animation="GUCP_Ghoul_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
 
 
-<position id="Gray User's Creature Pack - Gay Ghoul 2 (Staged)" animationGroup="GUCP_Ghoul_MM_02_Staged" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 1)" animation="GUCP_Ghoul_MM_02_S1" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 2)" animation="GUCP_Ghoul_MM_02_S2" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 3)" animation="GUCP_Ghoul_MM_02_S3" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 4)" animation="GUCP_Ghoul_MM_02_S4" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul 2 (Staged)" animationGroup="GUCP_Ghoul_MM_02_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 1)" animation="GUCP_Ghoul_MM_02_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 2)" animation="GUCP_Ghoul_MM_02_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 3)" animation="GUCP_Ghoul_MM_02_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Ghoul 2 (Stage 4)" animation="GUCP_Ghoul_MM_02_S4" tags="GrayUser,Aggressive,NoFurn"/>
+</positionData>

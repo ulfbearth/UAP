@@ -1,6 +1,7 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<!-- Furniture Animations -->
+    <!-- Furniture Animations -->
 
-<position id="BP70's Fallout 4 Sex Animations - Masturbation (Male)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_M_01"/>
+    <position id="BP70's Fallout 4 Sex Animations - Masturbation (Male)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_M_01"/>
+</positionData>

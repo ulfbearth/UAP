@@ -1,7 +1,8 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
 
-<position id="Vadermania - Gay Doggy" animation="VM_Doggy_MM_01" tags="Vader,M_M,NoFurn,Standing,FromBehind,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="Vadermania - Gay Dogmeat" animation="VM_Dogmeat_MM_01" tags="Vader,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="Vadermania - Gay FEVHound" animation="VM_FEVHound_MM_01" tags="Vader,M_FEVHoundM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="Vadermania - Gay Doggy" animation="VM_Doggy_MM_01" tags="Vader,M_M,NoFurn,Standing,FromBehind,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="Vadermania - Gay Dogmeat" animation="VM_Dogmeat_MM_01" tags="Vader,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="Vadermania - Gay FEVHound" animation="VM_FEVHound_MM_01" tags="Vader,M_FEVHoundM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+</positionData>

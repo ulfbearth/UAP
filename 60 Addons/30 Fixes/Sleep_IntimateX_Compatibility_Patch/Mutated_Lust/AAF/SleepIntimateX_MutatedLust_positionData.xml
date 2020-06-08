@@ -1,6 +1,7 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="None" stopEquipmentSet="None" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+    <defaults startEquipmentSet="None" stopEquipmentSet="None" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
-<position id="DTSIXSM_562_S1" animation="ML_Blowjob_MM_01"/>
+    <position id="DTSIXSM_562_S1" animation="ML_Blowjob_MM_01"/>
 
-<position id="DTSIXSM_563_S1" animation="ML_PenisLick_MM_01"/>	<!-- requires specific mesh -->
+    <position id="DTSIXSM_563_S1" animation="ML_PenisLick_MM_01"/>	<!-- requires specific mesh -->
+</positionData>

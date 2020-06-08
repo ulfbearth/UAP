@@ -1,16 +1,17 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults stopEquipmentSet="reEquip" offset="0,50,180" LoadPriority="47" />
+    <defaults stopEquipmentSet="reEquip" offset="0,50,180" LoadPriority="47" />
 
-<!--ALL CREDITS FOR THE ANIMATIONS GO TO THE LEGITIMATE AUTHORS, SAVAGECABBAGE, LEITO,CRAZY OR RUGFT I JUST CHANGED SOME XMLs TO ALLOW MORE GENDER COMBINATIONS WHERE REASONABLY POSSIBLE-->
+    <!--ALL CREDITS FOR THE ANIMATIONS GO TO THE LEGITIMATE AUTHORS, SAVAGECABBAGE, LEITO,CRAZY OR RUGFT I JUST CHANGED SOME XMLs TO ALLOW MORE GENDER COMBINATIONS WHERE REASONABLY POSSIBLE-->
 
-<position id="2P-Atomic-Embrace" isHidden="True" startEquipmentSet="MCGKiss"/>
+    <position id="2P-Atomic-Embrace" isHidden="True" startEquipmentSet="MCGKiss"/>
 
-<position id="2P-Atomic-Kissing" isHidden="True" startEquipmentSet="MCGKiss"/>
+    <position id="2P-Atomic-Kissing" isHidden="True" startEquipmentSet="MCGKiss"/>
 
-<position id="Standing Idle to Holding Hands bis" isHidden="True" startEquipmentSet="MCGKiss" />
+    <position id="Standing Idle to Holding Hands bis" isHidden="True" startEquipmentSet="MCGKiss" />
 
-<position id="Holding Hands to Holding Kissing bis" isHidden="True" startEquipmentSet="MCGKiss" />
+    <position id="Holding Hands to Holding Kissing bis" isHidden="True" startEquipmentSet="MCGKiss" />
 
-<position id="Holding Kissing bis" isHidden="True" startEquipmentSet="MCGKiss" />
+    <position id="Holding Kissing bis" isHidden="True" startEquipmentSet="MCGKiss" />
 
-<position id="Atomic Bed Cuddle bis" location="Double Bed Anghelos" isHidden="True" startEquipmentSet="MCGKiss"/>
+    <position id="Atomic Bed Cuddle bis" location="Double Bed Anghelos" isHidden="True" startEquipmentSet="MCGKiss"/>
+</positionData>

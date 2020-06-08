@@ -1,5 +1,6 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
 
-<position id="Vadermania - Gay Gorilla" animation="VM_Gorilla_MM_01" tags="Vader,M_GorillaM,NoFurn,Aggressive,Held2,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="Vadermania - Gay Gorilla" animation="VM_Gorilla_MM_01" tags="Vader,M_GorillaM,NoFurn,Aggressive,Held2,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+</positionData>

@@ -1,20 +1,21 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="hh123_unEquip" stopEquipmentSet="hh123_reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1" walkOffset="0,50,90"/>
+    <defaults startEquipmentSet="hh123_unEquip" stopEquipmentSet="hh123_reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1" walkOffset="0,50,90"/>
 
-<animationOffset actor="1" offset="0,0,9,0"/>
-<animationOffset actor="2" offset="0,0,9,0"/>
+    <animationOffset actor="1" offset="0,0,9,0"/>
+    <animationOffset actor="2" offset="0,0,9,0"/>
 
-<position id="hh123_Leito Canine Mattress Doggy 1 stage 1" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Doggy 1 stage 2" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Doggy 1 stage 3" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Doggy 1 stage 4" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 1 stage 1" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 1 stage 2" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 1 stage 3" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 1 stage 4" animation="Leito_Doggy_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
 
-<position id="hh123_Leito Canine Mattress Doggy 2 stage 1" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Doggy 2 stage 2" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Doggy 2 stage 3" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Doggy 2 stage 4" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 2 stage 1" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 2 stage 2" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 2 stage 3" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Doggy 2 stage 4" animation="Leito_Doggy_MM_2Dog_02_S1" tags="hh123" isHidden="true"/>
 
-<position id="hh123_Leito Canine Mattress Missionary stage 1" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Missionary stage 2" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Missionary stage 3" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
-<position id="hh123_Leito Canine Mattress Missionary stage 4" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Missionary stage 1" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Missionary stage 2" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Missionary stage 3" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+    <position id="hh123_Leito Canine Mattress Missionary stage 4" animation="Leito_Missionary_MM_2Dog_01_S1" tags="hh123" isHidden="true"/>
+</positionData>

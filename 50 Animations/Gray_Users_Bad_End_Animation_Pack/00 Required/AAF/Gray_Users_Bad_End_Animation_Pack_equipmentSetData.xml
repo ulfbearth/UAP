@@ -1,14 +1,15 @@
 <equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults source="AAF_BadEnd_Animations.esp"/>
+  <defaults source="AAF_BadEnd_Animations.esp"/>
 
-<equipmentSet id="addEquipmentNoose"> 
+  <equipmentSet id="addEquipmentNoose">
     <condition>
-		<addEquipment form="00001EE6"/>
+      <addEquipment form="00001EE6"/>
     </condition>
-</equipmentSet>
+  </equipmentSet>
 
-<equipmentSet id="removeEquipmentNoose">
+  <equipmentSet id="removeEquipmentNoose">
     <condition>
-		<removeEquipment form="00001EE6"/>
+      <removeEquipment form="00001EE6"/>
     </condition>
-</equipmentSet>
+  </equipmentSet>
+</equipmentSetData>

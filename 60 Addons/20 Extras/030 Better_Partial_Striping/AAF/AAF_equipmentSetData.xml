@@ -1,9 +1,9 @@
 <equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 
-<!-- Default attributes are applied to the addEquipment and removeEquipment nodes below if no conflicting attribute is set there. -->
-<defaults source="Fallout4.esm" loadPriority="-1"/>
+	<!-- Default attributes are applied to the addEquipment and removeEquipment nodes below if no conflicting attribute is set there. -->
+	<defaults source="Fallout4.esm" loadPriority="-1"/>
 
-<!--
+	<!--
 Add or remove unEquip and reEquip entries to control which slots get
 equipped or unequipped before and after animations.
 
@@ -14,59 +14,59 @@ add a number after each. So, "Unnamed1" is slot index 24 and "Possibly Weapons2"
 is slot index 33.
 -->
 
-<equipmentSet id="unEquip">
-	<condition>
-		<unEquip bipedSlot="BODY"/>
-		<unEquip bipedSlot="Possibly Weapons"/>
-		<unEquip bipedSlot="Possibly Weapons2"/>
-		<unEquip bipedSlot="Possibly Weapons3"/>
-		<unEquip bipedSlot="Possibly Weapons4"/>
-		<unEquip bipedSlot="Possibly Weapons5"/>
-		<unEquip bipedSlot="Possibly Weapons6"/>
-		<unEquip bipedSlot="Possibly Weapons7"/>
-		<unEquip bipedSlot="Possibly Weapons8"/>
-		<unEquip bipedSlot="Possibly Weapons9"/>
-		<unEquip bipedSlot="Possibly Weapons10"/>
-		<unEquip bipedSlot="Possibly Weapons11"/>
-		<unEquip bipedSlot="Possibly Weapons12"/>
-		<unEquip bipedSlot="[U] Torso"/>
-		<unEquip bipedSlot="[A] Torso"/>
-		<removeEquipment form="000DF621"/>
-	</condition>
-	<condition skeleton="SupermutantBehemoth">
-		<unEquip bipedSlot="[U] Torso"/>
-		<unEquip bipedSlot="[A] Torso"/>
-		<unEquip bipedSlot="FX"/>
-	</condition>
-	<condition skeleton="Supermutant">
-		<unEquip bipedSlot="[A] L Leg"/>
-		<unEquip bipedSlot="[A] R Leg"/>
-	</condition>
-</equipmentSet>
+	<equipmentSet id="unEquip">
+		<condition>
+			<unEquip bipedSlot="BODY"/>
+			<unEquip bipedSlot="Possibly Weapons"/>
+			<unEquip bipedSlot="Possibly Weapons2"/>
+			<unEquip bipedSlot="Possibly Weapons3"/>
+			<unEquip bipedSlot="Possibly Weapons4"/>
+			<unEquip bipedSlot="Possibly Weapons5"/>
+			<unEquip bipedSlot="Possibly Weapons6"/>
+			<unEquip bipedSlot="Possibly Weapons7"/>
+			<unEquip bipedSlot="Possibly Weapons8"/>
+			<unEquip bipedSlot="Possibly Weapons9"/>
+			<unEquip bipedSlot="Possibly Weapons10"/>
+			<unEquip bipedSlot="Possibly Weapons11"/>
+			<unEquip bipedSlot="Possibly Weapons12"/>
+			<unEquip bipedSlot="[U] Torso"/>
+			<unEquip bipedSlot="[A] Torso"/>
+			<removeEquipment form="000DF621"/>
+		</condition>
+		<condition skeleton="SupermutantBehemoth">
+			<unEquip bipedSlot="[U] Torso"/>
+			<unEquip bipedSlot="[A] Torso"/>
+			<unEquip bipedSlot="FX"/>
+		</condition>
+		<condition skeleton="Supermutant">
+			<unEquip bipedSlot="[A] L Leg"/>
+			<unEquip bipedSlot="[A] R Leg"/>
+		</condition>
+	</equipmentSet>
 
-<equipmentSet id="reEquip">
-	<condition>
-		<reEquip bipedSlot="Hair Top"/>
-		<reEquip bipedSlot="Hair Long"/>
-		<reEquip bipedSlot="FaceGen Head"/>
-		<reEquip bipedSlot="BODY"/>
-		<reEquip bipedSlot="L Hand"/>
-		<reEquip bipedSlot="R Hand"/>
-		<reEquip bipedSlot="[U] Torso"/>
-		<reEquip bipedSlot="[U] L Arm"/>
-		<reEquip bipedSlot="[U] R Arm"/>
-		<reEquip bipedSlot="[U] L Leg"/>
-		<reEquip bipedSlot="[U] R Leg"/>
-		<unEquip bipedSlot="[U] Torso"/>
-		<unEquip bipedSlot="[A] Torso"/>
-		<reEquip bipedSlot="[A] L Arm"/>
-		<reEquip bipedSlot="[A] R Arm"/>
-		<reEquip bipedSlot="[A] L Leg"/>
-		<reEquip bipedSlot="[A] R Leg"/>
-	</condition>
-</equipmentSet>
+	<equipmentSet id="reEquip">
+		<condition>
+			<reEquip bipedSlot="Hair Top"/>
+			<reEquip bipedSlot="Hair Long"/>
+			<reEquip bipedSlot="FaceGen Head"/>
+			<reEquip bipedSlot="BODY"/>
+			<reEquip bipedSlot="L Hand"/>
+			<reEquip bipedSlot="R Hand"/>
+			<reEquip bipedSlot="[U] Torso"/>
+			<reEquip bipedSlot="[U] L Arm"/>
+			<reEquip bipedSlot="[U] R Arm"/>
+			<reEquip bipedSlot="[U] L Leg"/>
+			<reEquip bipedSlot="[U] R Leg"/>
+			<unEquip bipedSlot="[U] Torso"/>
+			<unEquip bipedSlot="[A] Torso"/>
+			<reEquip bipedSlot="[A] L Arm"/>
+			<reEquip bipedSlot="[A] R Arm"/>
+			<reEquip bipedSlot="[A] L Leg"/>
+			<reEquip bipedSlot="[A] R Leg"/>
+		</condition>
+	</equipmentSet>
 
-<!--
+	<!--
 Add or remove addEquipment and removeEquipment entries to control adding and
 removing any equipment to the actors before and after animations.
 
@@ -75,15 +75,16 @@ the set is applied to. For example, <condition isFemale="true"> will only
 apply the equipment commands to female actors.
 -->
 
-<equipmentSet id="addEquipmentExample">
-	<condition>
-		<addEquipment form="0004A521"/>
-	</condition>
-</equipmentSet>
+	<equipmentSet id="addEquipmentExample">
+		<condition>
+			<addEquipment form="0004A521"/>
+		</condition>
+	</equipmentSet>
 
-<equipmentSet id="removeEquipmentExample">
-	<condition>
-		<removeEquipment form="0004A521"/>
-		<removeEquipment form="000DF621"/>
-	</condition>
-</equipmentSet>
+	<equipmentSet id="removeEquipmentExample">
+		<condition>
+			<removeEquipment form="0004A521"/>
+			<removeEquipment form="000DF621"/>
+		</condition>
+	</equipmentSet>
+</equipmentSetData>

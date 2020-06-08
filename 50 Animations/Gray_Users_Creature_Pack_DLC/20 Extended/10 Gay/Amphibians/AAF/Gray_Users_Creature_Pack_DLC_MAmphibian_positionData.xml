@@ -1,28 +1,28 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 
-<!-- Angler -->
-<position id="Gray User's Creature Pack - Gay Angler (Staged)" animationGroup="GUCP_Angler_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/> 
-<position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+    <!-- Angler -->
+    <position id="Gray User's Creature Pack - Gay Angler (Staged)" animationGroup="GUCP_Angler_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Angler (Stage 1)" animation="GUCP_Angler_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
 
 
 
 
-<!-- Gulper -->
-<position id="Gray User's Creature Pack - Gay Gulper (Staged)" animationGroup="GUCP_Gulper_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/> 
-<position id="Gray User's Creature Pack - Gay Gulper (Stage 1)" animation="GUCP_Gulper_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Gulper (Stage 2)" animation="GUCP_Gulper_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Gulper (Stage 3)" animation="GUCP_Gulper_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Gulper (Stage 4)" animation="GUCP_Gulper_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+    <!-- Gulper -->
+    <position id="Gray User's Creature Pack - Gay Gulper (Staged)" animationGroup="GUCP_Gulper_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper (Stage 1)" animation="GUCP_Gulper_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper (Stage 2)" animation="GUCP_Gulper_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper (Stage 3)" animation="GUCP_Gulper_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper (Stage 4)" animation="GUCP_Gulper_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
 
 
-<position id="Gray User's Creature Pack - Gay Gulper Large (Staged)" animationGroup="GUCP_GulperLarge_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/> 
-<position id="Gray User's Creature Pack - Gay Gulper Large (Stage 1)" animation="GUCP_GulperLarge_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Gulper Large (Stage 2)" animation="GUCP_GulperLarge_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Gulper Large (Stage 3)" animation="GUCP_GulperLarge_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Gulper Large (Stage 4)" animation="GUCP_GulperLarge_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
-
+    <position id="Gray User's Creature Pack - Gay Gulper Large (Staged)" animationGroup="GUCP_GulperLarge_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper Large (Stage 1)" animation="GUCP_GulperLarge_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper Large (Stage 2)" animation="GUCP_GulperLarge_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper Large (Stage 3)" animation="GUCP_GulperLarge_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Gulper Large (Stage 4)" animation="GUCP_GulperLarge_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+</positionData>

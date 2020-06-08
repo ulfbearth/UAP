@@ -1,16 +1,17 @@
 <animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults/>
+	<defaults/>
 
 
-<!--===================================== Deathclaw Animations =========================================-->
-<animationGroup id="ML_Dumpster_MM_01_Staged" sequential="true">
-	<stage animation="ML_Dumpster_MM_01" loops="4"/>
-</animationGroup>
+	<!--===================================== Deathclaw Animations =========================================-->
+	<animationGroup id="ML_Dumpster_MM_01_Staged" sequential="true">
+		<stage animation="ML_Dumpster_MM_01" loops="4"/>
+	</animationGroup>
 
-<animationGroup id="ML_Fleshlight_MM_01_Staged" sequential="true">
-	<stage animation="ML_Fleshlight_MM_01" loops="4"/>
-</animationGroup>
+	<animationGroup id="ML_Fleshlight_MM_01_Staged" sequential="true">
+		<stage animation="ML_Fleshlight_MM_01" loops="4"/>
+	</animationGroup>
 
-<animationGroup id="ML_Tease_MM_01_Staged" sequential="true">
-	<stage animation="ML_Tease_MM_01" loops="4"/>
-</animationGroup>
+	<animationGroup id="ML_Tease_MM_01_Staged" sequential="true">
+		<stage animation="ML_Tease_MM_01" loops="4"/>
+	</animationGroup>
+</animationGroupData>

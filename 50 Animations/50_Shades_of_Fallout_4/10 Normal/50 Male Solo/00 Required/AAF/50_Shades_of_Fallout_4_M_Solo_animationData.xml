@@ -1,298 +1,299 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults source="AAF_GrayAnimations.esp"/>
+	<defaults source="AAF_GrayAnimations.esp"/>
 
-<!-- Solo Bent Animations -->
+	<!-- Solo Bent Animations -->
 
-<animation id="50SFO4_Bent_M_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="000063A0" id="GrayBent00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="000063A0" id="GrayBent00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="000063A1" id="GrayBent01"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="000063A1" id="GrayBent01"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="000063A3" id="GrayBent02"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="000063A3" id="GrayBent02"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="000063A5" id="GrayBent03"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="000063A5" id="GrayBent03"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="000063A7" id="GrayBentMast"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="000063A7" id="GrayBentMast"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Bent Gagged Animations -->
+	<!-- Solo Bent Gagged Animations -->
 
-<animation id="50SFO4_Bent_M_Gagged_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="000063A0" id="GrayBent00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_Gagged_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="000063A0" id="GrayBent00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_Gagged_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="000063A2" id="GrayBent01Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_Gagged_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="000063A2" id="GrayBent01Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_Gagged_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="000063A4" id="GrayBent02Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_Gagged_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="000063A4" id="GrayBent02Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_Gagged_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="000063A6" id="GrayBent03Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_Gagged_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="000063A6" id="GrayBent03Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Bent_M_Gagged_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="000063A8" id="GrayBentMastGag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Bent_M_Gagged_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="000063A8" id="GrayBentMastGag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Facedown Animations -->
+	<!-- Solo Facedown Animations -->
 
-<animation id="50SFO4_Facedown_M_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="000063A9" id="GrayFacedown00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="000063A9" id="GrayFacedown00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="000063AA" id="GrayFacedown01"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="000063AA" id="GrayFacedown01"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="000063AC" id="GrayFacedown02"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="000063AC" id="GrayFacedown02"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="000063AE" id="GrayFacedown03"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="000063AE" id="GrayFacedown03"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="000063B0" id="GrayFacedownMast"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="000063B0" id="GrayFacedownMast"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Facedown Gagged Animations -->
+	<!-- Solo Facedown Gagged Animations -->
 
-<animation id="50SFO4_Facedown_M_Gagged_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="000063A9" id="GrayFacedown00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_Gagged_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="000063A9" id="GrayFacedown00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_Gagged_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="000063AB" id="GrayFacedown01Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_Gagged_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="000063AB" id="GrayFacedown01Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_Gagged_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="000063AD" id="GrayFacedown02Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_Gagged_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="000063AD" id="GrayFacedown02Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_Gagged_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="000063AF" id="GrayFacedown03Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_Gagged_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="000063AF" id="GrayFacedown03Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Facedown_M_Gagged_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="000063B1" id="GrayFacedownMastGag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Facedown_M_Gagged_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="000063B1" id="GrayFacedownMastGag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Hogtie Animations -->
+	<!-- Solo Hogtie Animations -->
 
-<animation id="50SFO4_Hogtie_M_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="00005BFE" id="GrayHogtie00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="00005BFE" id="GrayHogtie00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="00005BFF" id="GrayHogtie01"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="00005BFF" id="GrayHogtie01"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="00005C00" id="GrayHogtie02"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="00005C00" id="GrayHogtie02"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="00005C01" id="GrayHogtie03"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="00005C01" id="GrayHogtie03"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="00005C02" id="GrayHogtieMast"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="00005C02" id="GrayHogtieMast"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Hogtie Gagged Animations -->
+	<!-- Solo Hogtie Gagged Animations -->
 
-<animation id="50SFO4_Hogtie_M_Gagged_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="00005BFE" id="GrayHogtie00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_Gagged_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="00005BFE" id="GrayHogtie00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_Gagged_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="0000639C" id="GrayHogtie01Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_Gagged_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="0000639C" id="GrayHogtie01Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_Gagged_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="0000639D" id="GrayHogtie02Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_Gagged_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="0000639D" id="GrayHogtie02Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_Gagged_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="0000639E" id="GrayHogtie03Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_Gagged_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="0000639E" id="GrayHogtie03Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Hogtie_M_Gagged_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="0000639F" id="GrayHogtieMastGag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Hogtie_M_Gagged_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="0000639F" id="GrayHogtieMastGag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Side Animations -->
+	<!-- Solo Side Animations -->
 
-<animation id="50SFO4_Side_M_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="000063B2" id="GraySide00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="000063B2" id="GraySide00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="000063B3" id="GraySide01"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="000063B3" id="GraySide01"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="000063B5" id="GraySide02"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="000063B5" id="GraySide02"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="000063B7" id="GraySide03"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="000063B7" id="GraySide03"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="000063B9" id="GraySideMast"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="000063B9" id="GraySideMast"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<!-- Solo Side Gagged Animations -->
+	<!-- Solo Side Gagged Animations -->
 
-<animation id="50SFO4_Side_M_Gagged_01_S1" frames="300">
-	<actor gender="M">
-		<idle form="000063B2" id="GraySide00"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_Gagged_01_S1" frames="300">
+		<actor gender="M">
+			<idle form="000063B2" id="GraySide00"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_Gagged_01_S2" frames="300">
-	<actor gender="M">
-		<idle form="000063B4" id="GraySide01Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_Gagged_01_S2" frames="300">
+		<actor gender="M">
+			<idle form="000063B4" id="GraySide01Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_Gagged_01_S3" frames="300">
-	<actor gender="M">
-		<idle form="000063B6" id="GraySide02Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_Gagged_01_S3" frames="300">
+		<actor gender="M">
+			<idle form="000063B6" id="GraySide02Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_Gagged_01_S4" frames="300">
-	<actor gender="M">
-		<idle form="000063B8" id="GraySide03Gag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_Gagged_01_S4" frames="300">
+		<actor gender="M">
+			<idle form="000063B8" id="GraySide03Gag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
-<animation id="50SFO4_Side_M_Gagged_01_S5" frames="300">
-	<actor gender="M">
-		<idle form="000063BA" id="GraySideMastGag"/>
-		<value path="morph" value="Erection" to="1.0000000000001"/>
-	</actor>
-</animation>
+	<animation id="50SFO4_Side_M_Gagged_01_S5" frames="300">
+		<actor gender="M">
+			<idle form="000063BA" id="GraySideMastGag"/>
+			<value path="morph" value="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+</animationData>

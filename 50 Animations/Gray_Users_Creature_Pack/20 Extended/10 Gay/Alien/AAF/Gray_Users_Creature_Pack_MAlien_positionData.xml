@@ -1,11 +1,12 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 
-<!-- Alien -->
+    <!-- Alien -->
 
-<position id="Gray User's Creature Pack - Gay Alien (Staged)" animationGroup="GUCP_Alien_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Alien (Stage 1)" animation="GUCP_Alien_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Alien (Stage 2)" animation="GUCP_Alien_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Alien (Stage 3)" animation="GUCP_Alien_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Alien (Stage 4)" animation="GUCP_Alien_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Alien (Staged)" animationGroup="GUCP_Alien_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Alien (Stage 1)" animation="GUCP_Alien_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Alien (Stage 2)" animation="GUCP_Alien_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Alien (Stage 3)" animation="GUCP_Alien_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Alien (Stage 4)" animation="GUCP_Alien_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+</positionData>

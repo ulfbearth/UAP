@@ -1,10 +1,11 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<!-- Deathclaw -->
+    <!-- Deathclaw -->
 
-<position id="Gray User's Creature Pack - Gay Deathclaw (Staged)" animationGroup="GUCP_Deathclaw_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Deathclaw (Stage 1)" animation="GUCP_Deathclaw_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Deathclaw (Stage 2)" animation="GUCP_Deathclaw_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Deathclaw (Stage 3)" animation="GUCP_Deathclaw_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
-<position id="Gray User's Creature Pack - Gay Deathclaw (Stage 4)" animation="GUCP_Deathclaw_MM_01_S4" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Deathclaw (Staged)" animationGroup="GUCP_Deathclaw_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Deathclaw (Stage 1)" animation="GUCP_Deathclaw_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Deathclaw (Stage 2)" animation="GUCP_Deathclaw_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Deathclaw (Stage 3)" animation="GUCP_Deathclaw_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Deathclaw (Stage 4)" animation="GUCP_Deathclaw_MM_01_S4" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+</positionData>

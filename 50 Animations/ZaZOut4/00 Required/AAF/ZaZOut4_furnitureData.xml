@@ -1,9 +1,10 @@
 <furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults source="ZaZOut4.esp"/>
+	<defaults source="ZaZOut4.esp"/>
 
-<group id="Hydraulic_Pillory">
-	<furniture form="00004CA5" id="ZOut4-Furn_HydraulicPillory_Institute"/>
-	<furniture form="00004CA1" id="ZOut4-Furn_HydraulicPillory_Raider"/>
-	<furniture form="00004CA3" id="ZOut4-Furn_HydraulicPillory_Vault-Tec"/>
-	<furniture form="00002670" id="ZOut4-Furn_HydraulicPillory_Wasteland"/>
-</group>
+	<group id="Hydraulic_Pillory">
+		<furniture form="00004CA5" id="ZOut4-Furn_HydraulicPillory_Institute"/>
+		<furniture form="00004CA1" id="ZOut4-Furn_HydraulicPillory_Raider"/>
+		<furniture form="00004CA3" id="ZOut4-Furn_HydraulicPillory_Vault-Tec"/>
+		<furniture form="00002670" id="ZOut4-Furn_HydraulicPillory_Wasteland"/>
+	</group>
+</furnitureData>

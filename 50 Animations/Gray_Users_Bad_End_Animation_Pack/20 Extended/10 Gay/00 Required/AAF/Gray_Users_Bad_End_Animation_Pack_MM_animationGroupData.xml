@@ -1,93 +1,94 @@
 ﻿<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults/>
+	<defaults/>
 
-<!-- Chair Animations -->
+	<!-- Chair Animations -->
 
-<animationGroup id="GUBEAP_Chair_MM_01_Staged" sequential="true">
-    <stage animation="GUBEAP_Chair_MM_01_S1"/>
-    <stage animation="GUBEAP_Chair_MM_01_S2"/>
-    <stage animation="GUBEAP_Chair_MM_01_S2"/>
-	<stage animation="GUBEAP_Chair_MM_01_S3"/>
-	<stage animation="GUBEAP_Chair_MM_01_S3"/>
-	<stage animation="GUBEAP_Chair_MM_01_S4"/>
-	<stage animation="GUBEAP_Chair_MM_01_S4"/>
-	<stage animation="GUBEAP_Chair_MM_01_4TR5"/>
-	<stage animation="GUBEAP_Chair_MM_01_S5A"/>
-	<stage animation="GUBEAP_Chair_MM_01_S5B"/>
-</animationGroup>
+	<animationGroup id="GUBEAP_Chair_MM_01_Staged" sequential="true">
+		<stage animation="GUBEAP_Chair_MM_01_S1"/>
+		<stage animation="GUBEAP_Chair_MM_01_S2"/>
+		<stage animation="GUBEAP_Chair_MM_01_S2"/>
+		<stage animation="GUBEAP_Chair_MM_01_S3"/>
+		<stage animation="GUBEAP_Chair_MM_01_S3"/>
+		<stage animation="GUBEAP_Chair_MM_01_S4"/>
+		<stage animation="GUBEAP_Chair_MM_01_S4"/>
+		<stage animation="GUBEAP_Chair_MM_01_4TR5"/>
+		<stage animation="GUBEAP_Chair_MM_01_S5A"/>
+		<stage animation="GUBEAP_Chair_MM_01_S5B"/>
+	</animationGroup>
 
-<!-- Garrote Free Animations -->
+	<!-- Garrote Free Animations -->
 
-<animationGroup id="GUBEAP_Garrote_Free_MM_01_Staged" sequential="true">
-    <stage animation="GUBEAP_Garrote_Free_MM_01_S1"/>
-    <stage animation="GUBEAP_Garrote_Free_MM_01_S2"/>
-    <stage animation="GUBEAP_Garrote_Free_MM_01_S2"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S3"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S3"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S4"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S4"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S5A"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S5A"/>
-	<stage animation="GUBEAP_Garrote_Free_MM_01_S5B"/>
-</animationGroup>
+	<animationGroup id="GUBEAP_Garrote_Free_MM_01_Staged" sequential="true">
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S1"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S2"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S2"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S3"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S3"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S4"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S4"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S5A"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S5A"/>
+		<stage animation="GUBEAP_Garrote_Free_MM_01_S5B"/>
+	</animationGroup>
 
-<!-- Garrote Tied Animations -->
+	<!-- Garrote Tied Animations -->
 
-<animationGroup id="GUBEAP_Garrote_Tied_MM_01_Staged" sequential="true">
-    <stage animation="GUBEAP_Garrote_Tied_MM_01_S1"/>
-    <stage animation="GUBEAP_Garrote_Tied_MM_01_S2"/>
-    <stage animation="GUBEAP_Garrote_Tied_MM_01_S2"/>
-    <stage animation="GUBEAP_Garrote_Tied_MM_01_S3"/>
-    <stage animation="GUBEAP_Garrote_Tied_MM_01_S3"/>
-	<stage animation="GUBEAP_Garrote_Tied_MM_01_S4"/>
-	<stage animation="GUBEAP_Garrote_Tied_MM_01_S4"/>
-	<stage animation="GUBEAP_Garrote_Tied_MM_01_S5A"/>
-	<stage animation="GUBEAP_Garrote_Tied_MM_01_S5A"/>
-	<stage animation="GUBEAP_Garrote_Tied_MM_01_S5B"/>
-</animationGroup>
+	<animationGroup id="GUBEAP_Garrote_Tied_MM_01_Staged" sequential="true">
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S1"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S2"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S2"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S3"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S3"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S4"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S4"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S5A"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S5A"/>
+		<stage animation="GUBEAP_Garrote_Tied_MM_01_S5B"/>
+	</animationGroup>
 
-<!-- Noose High Free Animations -->
+	<!-- Noose High Free Animations -->
 
-<animationGroup id="GUBEAP_Hanging_Free_MM_01_Staged" sequential="true">
-    <stage animation="GUBEAP_Hanging_Free_MM_01_S1"/>
-    <stage animation="GUBEAP_Hanging_Free_MM_01_S2"/>
-    <stage animation="GUBEAP_Hanging_Free_MM_01_S2"/>
-    <stage animation="GUBEAP_Hanging_Free_MM_01_S3"/>
-    <stage animation="GUBEAP_Hanging_Free_MM_01_S3"/>
-	<stage animation="GUBEAP_Hanging_Free_MM_01_S4A"/>
-	<stage animation="GUBEAP_Hanging_Free_MM_01_S4A"/>
-	<stage animation="GUBEAP_Hanging_Free_MM_01_S4B"/>
-	<stage animation="GUBEAP_Hanging_Free_MM_01_S4B"/>
-    <stage animation="GUBEAP_Hanging_Free_MM_01_S1"/>
-</animationGroup>
+	<animationGroup id="GUBEAP_Hanging_Free_MM_01_Staged" sequential="true">
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S1"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S2"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S2"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S3"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S3"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S4A"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S4A"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S4B"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S4B"/>
+		<stage animation="GUBEAP_Hanging_Free_MM_01_S1"/>
+	</animationGroup>
 
-<!-- Noose High Tied Animations -->
+	<!-- Noose High Tied Animations -->
 
-<animationGroup id="GUBEAP_Hanging_Tied_MM_01_Staged" sequential="true">
-    <stage animation="GUBEAP_Hanging_Tied_MM_01_S1"/>
-    <stage animation="GUBEAP_Hanging_Tied_MM_01_S2"/>
-    <stage animation="GUBEAP_Hanging_Tied_MM_01_S2"/>
-    <stage animation="GUBEAP_Hanging_Tied_MM_01_S3"/>
-    <stage animation="GUBEAP_Hanging_Tied_MM_01_S3"/>
-	<stage animation="GUBEAP_Hanging_Tied_MM_01_S4A"/>
-	<stage animation="GUBEAP_Hanging_Tied_MM_01_S4A"/>
-	<stage animation="GUBEAP_Hanging_Tied_MM_01_S4B"/>
-	<stage animation="GUBEAP_Hanging_Tied_MM_01_S4B"/>
-    <stage animation="GUBEAP_Hanging_Tied_MM_01_S1"/>
-</animationGroup>
+	<animationGroup id="GUBEAP_Hanging_Tied_MM_01_Staged" sequential="true">
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S1"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S2"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S2"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S3"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S3"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S4A"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S4A"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S4B"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S4B"/>
+		<stage animation="GUBEAP_Hanging_Tied_MM_01_S1"/>
+	</animationGroup>
 
-<!-- Pole High Animations -->
+	<!-- Pole High Animations -->
 
-<animationGroup id="GUBEAP_Pole_MM_01_Staged" sequential="true">
-    <stage animation="GUBEAP_Pole_MM_01_S1"/>
-    <stage animation="GUBEAP_Pole_MM_01_S2"/>
-	<stage animation="GUBEAP_Pole_MM_01_S3"/>
-	<stage animation="GUBEAP_Pole_MM_01_3TR4"/>
-<!-- Pole Low Animations -->
-	<stage animation="GUBEAP_Pole_MM_01_S4"/>
-	<stage animation="GUBEAP_Pole_MM_01_S5"/>
-	<stage animation="GUBEAP_Pole_MM_01_S6"/>
-	<stage animation="GUBEAP_Pole_MM_01_S7A"/>
-	<stage animation="GUBEAP_Pole_MM_01_S7B"/>
-	<stage animation="GUBEAP_Pole_MM_01_S7C"/>
-</animationGroup>
+	<animationGroup id="GUBEAP_Pole_MM_01_Staged" sequential="true">
+		<stage animation="GUBEAP_Pole_MM_01_S1"/>
+		<stage animation="GUBEAP_Pole_MM_01_S2"/>
+		<stage animation="GUBEAP_Pole_MM_01_S3"/>
+		<stage animation="GUBEAP_Pole_MM_01_3TR4"/>
+		<!-- Pole Low Animations -->
+		<stage animation="GUBEAP_Pole_MM_01_S4"/>
+		<stage animation="GUBEAP_Pole_MM_01_S5"/>
+		<stage animation="GUBEAP_Pole_MM_01_S6"/>
+		<stage animation="GUBEAP_Pole_MM_01_S7A"/>
+		<stage animation="GUBEAP_Pole_MM_01_S7B"/>
+		<stage animation="GUBEAP_Pole_MM_01_S7C"/>
+	</animationGroup>
+</animationGroupData>

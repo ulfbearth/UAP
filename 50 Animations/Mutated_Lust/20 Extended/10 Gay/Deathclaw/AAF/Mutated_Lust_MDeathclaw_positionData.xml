@@ -1,8 +1,10 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<!-- Deathclaw Animations -->
+    <!-- Deathclaw Animations -->
 
-<position id="Mutated Lust - Gay Dumpster" location="Dumpster" animationGroup="ML_Dumpster_MM_01_Staged" tags="Rufgt,Creature,M_DeathClawM,Dumpster,Standing,FromBehind,Neutral,Held5,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
-<position id="Mutated Lust - Gay Fleshlight" animationGroup="ML_Fleshlight_MM_01_Staged" tags="Rufgt,Creature,M_DeathClawM,NoFurn,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
-<position id="Mutated Lust - Gay Tease" animationGroup="ML_Tease_MM_01_Staged" tags="Rufgt,Creature,M_DeathClawM,NoFurn,LickTease,FromFront,Loving,Held1,Stim9,Love5,Dom3,NullToSelf,PenisToFace"/>
+    <position id="Mutated Lust - Gay Dumpster" location="Dumpster" animationGroup="ML_Dumpster_MM_01_Staged" tags="Rufgt,Creature,M_DeathClawM,Dumpster,Standing,FromBehind,Neutral,Held5,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+    <position id="Mutated Lust - Gay Fleshlight" animationGroup="ML_Fleshlight_MM_01_Staged" tags="Rufgt,Creature,M_DeathClawM,NoFurn,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+    <position id="Mutated Lust - Gay Tease" animationGroup="ML_Tease_MM_01_Staged" tags="Rufgt,Creature,M_DeathClawM,NoFurn,LickTease,FromFront,Loving,Held1,Stim9,Love5,Dom3,NullToSelf,PenisToFace"/>
+
+</positionData>

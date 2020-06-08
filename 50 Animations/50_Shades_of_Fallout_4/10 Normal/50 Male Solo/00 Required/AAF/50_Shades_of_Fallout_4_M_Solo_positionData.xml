@@ -1,106 +1,107 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<!-- Solo Bent Animations -->
+    <!-- Solo Bent Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Bent (Staged)" animationGroup="50SFO4_Bent_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Stage 1)" animation="50SFO4_Bent_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Stage 2)" animation="50SFO4_Bent_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Stage 3)" animation="50SFO4_Bent_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Stage 4)" animation="50SFO4_Bent_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Stage 5)" animation="50SFO4_Bent_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Staged)" animationGroup="50SFO4_Bent_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Stage 1)" animation="50SFO4_Bent_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Stage 2)" animation="50SFO4_Bent_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Stage 3)" animation="50SFO4_Bent_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Stage 4)" animation="50SFO4_Bent_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Stage 5)" animation="50SFO4_Bent_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Bent Gagged Animations -->
+    <!-- Solo Bent Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Staged)" animationGroup="50SFO4_Bent_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 1)" animation="50SFO4_Bent_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 2)" animation="50SFO4_Bent_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 3)" animation="50SFO4_Bent_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 4)" animation="50SFO4_Bent_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 5)" animation="50SFO4_Bent_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Staged)" animationGroup="50SFO4_Bent_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 1)" animation="50SFO4_Bent_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 2)" animation="50SFO4_Bent_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 3)" animation="50SFO4_Bent_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 4)" animation="50SFO4_Bent_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Stage 5)" animation="50SFO4_Bent_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Bent Mixed Animations -->
+    <!-- Solo Bent Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Bent (Mixed)" animationGroup="50SFO4_Bent_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Mixed)" animationGroup="50SFO4_Bent_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Bent Gagged Mixed Animations -->
+    <!-- Solo Bent Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Mixed)" animationGroup="50SFO4_Bent_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Bent (Gagged, Mixed)" animationGroup="50SFO4_Bent_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Facedown Animations -->
+    <!-- Solo Facedown Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Facedown (Staged)" animationGroup="50SFO4_Facedown_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Stage 1)" animation="50SFO4_Facedown_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Stage 2)" animation="50SFO4_Facedown_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Stage 3)" animation="50SFO4_Facedown_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Stage 4)" animation="50SFO4_Facedown_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Stage 5)" animation="50SFO4_Facedown_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Staged)" animationGroup="50SFO4_Facedown_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Stage 1)" animation="50SFO4_Facedown_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Stage 2)" animation="50SFO4_Facedown_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Stage 3)" animation="50SFO4_Facedown_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Stage 4)" animation="50SFO4_Facedown_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Stage 5)" animation="50SFO4_Facedown_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Facedown Gagged Animations -->
+    <!-- Solo Facedown Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Staged)" animationGroup="50SFO4_Facedown_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 1)" animation="50SFO4_Facedown_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 2)" animation="50SFO4_Facedown_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 3)" animation="50SFO4_Facedown_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 4)" animation="50SFO4_Facedown_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 5)" animation="50SFO4_Facedown_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Staged)" animationGroup="50SFO4_Facedown_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 1)" animation="50SFO4_Facedown_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 2)" animation="50SFO4_Facedown_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 3)" animation="50SFO4_Facedown_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 4)" animation="50SFO4_Facedown_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Stage 5)" animation="50SFO4_Facedown_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Facedown Mixed Animations -->
+    <!-- Solo Facedown Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Facedown (Mixed)" animationGroup="50SFO4_Facedown_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Mixed)" animationGroup="50SFO4_Facedown_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Facedown Gagged Mixed Animations -->
+    <!-- Solo Facedown Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Mixed)" animationGroup="50SFO4_Facedown_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Mixed)" animationGroup="50SFO4_Facedown_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Hogtie Animations -->
+    <!-- Solo Hogtie Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Hogtie (Staged)" animationGroup="50SFO4_Hogtie_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Stage 1)" animation="50SFO4_Hogtie_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Stage 2)" animation="50SFO4_Hogtie_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Stage 3)" animation="50SFO4_Hogtie_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Stage 4)" animation="50SFO4_Hogtie_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Stage 5)" animation="50SFO4_Hogtie_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Staged)" animationGroup="50SFO4_Hogtie_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Stage 1)" animation="50SFO4_Hogtie_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Stage 2)" animation="50SFO4_Hogtie_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Stage 3)" animation="50SFO4_Hogtie_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Stage 4)" animation="50SFO4_Hogtie_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Stage 5)" animation="50SFO4_Hogtie_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Hogtie Gagged Animations -->
+    <!-- Solo Hogtie Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Staged)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 1)" animation="50SFO4_Hogtie_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 2)" animation="50SFO4_Hogtie_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 3)" animation="50SFO4_Hogtie_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 4)" animation="50SFO4_Hogtie_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 5)" animation="50SFO4_Hogtie_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Staged)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 1)" animation="50SFO4_Hogtie_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 2)" animation="50SFO4_Hogtie_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 3)" animation="50SFO4_Hogtie_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 4)" animation="50SFO4_Hogtie_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Stage 5)" animation="50SFO4_Hogtie_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Hogtie Mixed Animations -->
+    <!-- Solo Hogtie Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Hogtie (Mixed)" animationGroup="50SFO4_Hogtie_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Mixed)" animationGroup="50SFO4_Hogtie_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Hogtie Gagged Mixed Animations -->
+    <!-- Solo Hogtie Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Mixed)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Mixed)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,HogTied,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Side Animations -->
+    <!-- Solo Side Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Side (Staged)" animationGroup="50SFO4_Side_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Stage 1)" animation="50SFO4_Side_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Stage 2)" animation="50SFO4_Side_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Stage 3)" animation="50SFO4_Side_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Stage 4)" animation="50SFO4_Side_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Stage 5)" animation="50SFO4_Side_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Staged)" animationGroup="50SFO4_Side_M_01_Staged" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Stage 1)" animation="50SFO4_Side_M_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Stage 2)" animation="50SFO4_Side_M_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Stage 3)" animation="50SFO4_Side_M_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Stage 4)" animation="50SFO4_Side_M_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Stage 5)" animation="50SFO4_Side_M_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Side Gagged Animations -->
+    <!-- Solo Side Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Staged)" animationGroup="50SFO4_Side_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 1)" animation="50SFO4_Side_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 2)" animation="50SFO4_Side_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 3)" animation="50SFO4_Side_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 4)" animation="50SFO4_Side_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 5)" animation="50SFO4_Side_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Staged)" animationGroup="50SFO4_Side_M_Gagged_01_Staged" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 1)" animation="50SFO4_Side_M_Gagged_01_S1" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 2)" animation="50SFO4_Side_M_Gagged_01_S2" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 3)" animation="50SFO4_Side_M_Gagged_01_S3" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 4)" animation="50SFO4_Side_M_Gagged_01_S4" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Stage 5)" animation="50SFO4_Side_M_Gagged_01_S5" isHidden="true" tags="GrayUser,M,Hidden,Utility,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Side Mixed Animations -->
+    <!-- Solo Side Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Side (Mixed)" animationGroup="50SFO4_Side_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Mixed)" animationGroup="50SFO4_Side_M_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
 
-<!-- Solo Side Gagged Mixed Animations -->
+    <!-- Solo Side Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Side (Gagged, Mixed)" animationGroup="50SFO4_Side_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+    <position id="50 Shades of Fallout 4 - Male Side (Gagged, Mixed)" animationGroup="50SFO4_Side_M_Gagged_01_Mixed" tags="GrayUser,M,NoFurn,Bound,Gagged,Held7,Love-5,Stim0,Dom-3,NullToSelf"/>
+</positionData>
