@@ -5,7 +5,7 @@
     <self topicGroupID="MaleMoans Topic">
 	</self>
 	
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleMoans Topic">
+	<target meter="basic" topicGroupID="MaleMoans Topic">
 	</target>
 </action>
 
@@ -14,7 +14,7 @@
     <self topicGroupID="CreatureMoans Topic">
 	</self>
 	
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="CreatureMoans Topic">
+	<target meter="basic" topicGroupID="CreatureMoans Topic">
 	</target>
 </action>
 
@@ -23,7 +23,7 @@
     <self topicGroupID="MaleBlowjob Topic">
 	</self>
 	
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleBlowjob Topic">
+	<target meter="basic" topicGroupID="MaleBlowjob Topic">
 	</target>
 </action>
 
@@ -32,7 +32,7 @@
     <self topicGroupID="MaleOrgasm Topic">
 	</self>
 
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleOrgasm Topic">
+	<target meter="basic" topicGroupID="MaleOrgasm Topic">
 	</target>
 </action>
 
@@ -41,7 +41,7 @@
     <self topicGroupID="MaleAggMoans Topic">
 	</self>
 
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleAggMoans Topic">
+	<target meter="basic" topicGroupID="MaleAggMoans Topic">
 	</target>
 </action>
 
@@ -51,7 +51,7 @@
     <self topicGroupID="CreatureAggMoans Topic">
 	</self>
 
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="CreatureAggMoans Topic">
+	<target meter="basic" topicGroupID="CreatureAggMoans Topic">
 	</target>
 </action>
 
@@ -61,7 +61,7 @@
     <self topicGroupID="MaleAggMoans Topic">
 	</self>
 
-	<target swf="AAF_BasicRoundMeter.swf" x="1" y="7" topicGroupID="MaleAggMoans Topic">
+	<target meter="basic" topicGroupID="MaleAggMoans Topic">
 	</target>
 </action>
 </actionData>

@@ -1,26 +1,27 @@
 <conditionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 
-<!-- Default attributes are applied to all condition nodes below if no conflicting attribute is set there. -->
-<defaults loadPriority="-1"/>
+    <!-- Default attributes are applied to all condition nodes below if no conflicting attribute is set there. -->
+    <defaults loadPriority="-1"/>
 
-<condition id="isGeneric" isPlayer="false"/>
+    <condition id="isGeneric" isPlayer="false"/>
 
-<condition id="isPlayer" isPlayer="true"/>
+    <condition id="isPlayer" isPlayer="true"/>
 
-<condition id="isUlfberth" name="Ulfberth"/>
+    <condition id="isUlfberth" name="Ulfberth"/>
 
-<condition id="isDanse" name="Paladin Danse"/>
+    <condition id="isDanse" name="Paladin Danse"/>
 
-<condition id="isBehemoth" skeleton="SupermutantBehemoth"/>
+    <condition id="isBehemoth" skeleton="SupermutantBehemoth"/>
 
-<condition id="isDog" skeleton="Dog"/>
+    <condition id="isDog" skeleton="Dog"/>
 
-<condition id="isFeralGhoul" skeleton="FeralGhoul"/>
+    <condition id="isFeralGhoul" skeleton="FeralGhoul"/>
 
-<condition id="isGorilla" skeleton="Gorilla"/>
+    <condition id="isGorilla" skeleton="Gorilla"/>
 
-<condition id="isMutantHound" skeleton="FEVHound"/>
+    <condition id="isMutantHound" skeleton="FEVHound"/>
 
-<condition id="isSupermutant" skeleton="Supermutant"/>
+    <condition id="isSupermutant" skeleton="Supermutant"/>
 
-<condition id="isYaoGuai" skeleton="YaoGuai"/>
+    <condition id="isYaoGuai" skeleton="YaoGuai"/>
+</conditionData>

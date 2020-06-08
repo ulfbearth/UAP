@@ -1,0 +1,6 @@
+<meterData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+    <defaults swf="AAF_BasicRoundMeter.swf"/>
+
+    <meter id="basic" x="1" y="7"/>
+</meterData>
