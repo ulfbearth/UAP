@@ -1,4 +1,4 @@
-<meta title="CreaturePack01_animationData.xml" version="1.0" dataSet="animation"/>
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults source="AAF_CreaturePack01.esp"/>
 
 <animation id="Mirelurkstage01" frames="300">

@@ -1,4 +1,4 @@
-<meta title="SavageCabbages_Animation_Pack_MSM_+_MH_positionData.xml" version="1.0" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 

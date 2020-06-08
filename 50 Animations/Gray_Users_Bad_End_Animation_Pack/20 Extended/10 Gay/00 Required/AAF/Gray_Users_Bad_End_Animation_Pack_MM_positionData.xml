@@ -1,4 +1,4 @@
-<meta title="Gray User's Bad End Animation Pack - Gay Position Data" version="1.0.3" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <!-- Institute Chair Animations -->

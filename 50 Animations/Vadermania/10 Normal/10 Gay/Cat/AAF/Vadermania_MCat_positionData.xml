@@ -1,4 +1,4 @@
-<meta title="Vadermania - Gay MM Position Data" version="1.1.0" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
 <position id="Vadermania - Gay Cat" animation="VM_Cat_MM_01" tags="Vader,CatM_CatM,NoFurn,Doggy,FromBehind,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>

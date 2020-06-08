@@ -1,4 +1,4 @@
-<meta title="SavageCabbage's Animation Pack - Gay Prisoner Shackles Position Data" version="1.0.4" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <position id="SavageCabbage's Animation Pack - Gay Held (Shackles, Staged)" location="Shackles" animationGroup="SCAP_HeldShackles_MM_2Human_01_Staged"/>

@@ -1,4 +1,4 @@
-<meta title="ZaZOut4 - Gay Position Tree Data" version="0.0.5-b" dataSet="positionTree"/>
+<positionTreeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults/>
 
 <tree id="ZaZOut4_MM_Menu">

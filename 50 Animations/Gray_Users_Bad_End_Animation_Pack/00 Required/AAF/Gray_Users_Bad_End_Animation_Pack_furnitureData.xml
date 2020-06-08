@@ -1,4 +1,4 @@
-<meta title="Gray User's Bad End Animation Pack - Furniture Data" version="1.0.3" dataSet="furniture"/>
+<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults source="AAF_BadEnd_Animations.esp"/>
 
 <group id="MachineChairFurniture">

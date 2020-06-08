@@ -1,4 +1,4 @@
-<meta title="ZaZOut4 - Gay Position Data" version="0.0.5-b" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <!-- Position Tree -->

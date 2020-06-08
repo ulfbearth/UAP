@@ -1,4 +1,4 @@
-<meta title="Rufgt_actorTypeData.xml" version="2.3a" dataSet="actorType"/>
+<actorTypeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults source="Fallout4.esm"/>
 
 <!-- HUMANS -->

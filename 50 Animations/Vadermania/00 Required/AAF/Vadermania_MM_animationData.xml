@@ -1,4 +1,4 @@
-<meta title="Vadermania - MM Animation Data" version="1.1.0" dataSet="animation"/>
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults source="Vadermania[AAF_anims].esp"/>
 
 <animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" frames="60">

@@ -1,4 +1,4 @@
-<meta title="Gray User's Bad End Animation Pack - Equipment Set Data" version="1.0.3" dataSet="equipmentSet"/>
+<equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults source="AAF_BadEnd_Animations.esp"/>
 
 <equipmentSet id="addEquipmentNoose"> 

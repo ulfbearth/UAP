@@ -1,4 +1,4 @@
-<meta title="Gray User's Creature Pack - Gay Position Data" version="2.0.0" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <!-- Yao-Guai -->

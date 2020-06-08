@@ -1,4 +1,4 @@
-<meta title="AJ_XML_SC_Ground_positionData.xml" version="1.0" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
 
 <position id="AJ-MM-Gr-Bed01-01Handjob" tags="SavageCabbage,M_M,NoFurn,Neutral,Held1,Love5,Stim7,Dom-5,NullToSelf,Handjob,PenisToHand"/>

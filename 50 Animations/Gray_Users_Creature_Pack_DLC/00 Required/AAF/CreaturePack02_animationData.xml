@@ -1,4 +1,4 @@
-<meta title="CreaturePack02_animationData.xml" version="1.0" dataSet="animation"/>
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults source="AAF_CreaturePack02DLC.esp"/>
 
 <animation id="Anglerstage01" frames="300" offset="0,3,-36,0:0,0,-36,0">

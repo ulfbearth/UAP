@@ -1,4 +1,4 @@
-<meta title="hh123_positionData_Mattress.xml" version="1.0" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="hh123_unEquip" stopEquipmentSet="hh123_reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1" walkOffset="0,50,90"/>
 
 <animationOffset actor="1" offset="0,0,9,0"/>

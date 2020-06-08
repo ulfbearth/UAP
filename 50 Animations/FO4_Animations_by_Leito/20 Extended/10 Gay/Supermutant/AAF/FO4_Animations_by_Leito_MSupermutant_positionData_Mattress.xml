@@ -1,4 +1,4 @@
-<meta title="FO4 Animations by Leito - Gay Mattress Position Data" version="2.0.0-a" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <animationOffset actor="1" offset="0,0,9,0"/>

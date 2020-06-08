@@ -1,4 +1,4 @@
-<meta title="Anghelos_Override_positionData.xml" version="1.0" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults stopEquipmentSet="reEquip" offset="0,50,180" LoadPriority="47" />
 
 <!--ALL CREDITS FOR THE ANIMATIONS GO TO THE LEGITIMATE AUTHORS, SAVAGECABBAGE, LEITO,CRAZY OR RUGFT I JUST CHANGED SOME XMLs TO ALLOW MORE GENDER COMBINATIONS WHERE REASONABLY POSSIBLE-->

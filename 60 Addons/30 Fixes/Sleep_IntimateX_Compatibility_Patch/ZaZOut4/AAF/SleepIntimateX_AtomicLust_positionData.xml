@@ -1,4 +1,4 @@
-<meta title="SleepIntimateX_AtomicLust_positionData.xml" version="2.1" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="None" stopEquipmentSet="None" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/><!--walkOffset="0,0,0"/>-->
 
 <position id="DTSIXMM_503_S1" animation="AtomicLust_Rocket69_MM_01" isHidden="true"/>

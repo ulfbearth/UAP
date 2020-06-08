@@ -1,4 +1,4 @@
-<meta title="SavageCabbage's Animation Pack - Gay TortureDevices Position Data" version="1.0.4" dataSet="position"/>
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <position id="SavageCabbage's Animation Pack - Gay Doggy (Hydro Pillory, Staged)" location="HydroPillory" animationGroup="SCAP_DoggyHydroPillory_MM_2Human_01_Staged"/>

@@ -1,4 +1,4 @@
-<meta title="cum_overlaysData_mutant.xml" version="1.0" dataSet="overlay"/>
+<overlayData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 
 <!-- Default attributes are applied to the overlaySet nodes below if no conflicting attribute is set there. -->
 <defaults loadPriority="0"/>
