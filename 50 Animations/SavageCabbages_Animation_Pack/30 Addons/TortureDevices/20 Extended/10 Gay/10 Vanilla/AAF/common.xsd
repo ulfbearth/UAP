@@ -841,7 +841,6 @@
         <xs:attribute type="xs:string" name="divide"/>
         <xs:attribute type="xs:string" name="multiply"/>
         <xs:attribute type="xs:string" name="add"/>
-        <xs:attribute type="xs:string" name="subtract"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
@@ -906,6 +905,7 @@
         <xs:attribute type="xs:float" name="to"/>
         <xs:attribute type="xs:integer" name="steps"/>
         <xs:attribute type="xs:float" name="frames"/>
+        <xs:attribute type="xs:float" name="start"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
