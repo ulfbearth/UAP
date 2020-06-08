@@ -4,18 +4,16 @@
 	<!-- Solo Male Animations -->
 
 	<animation id="AtomicLust_Jerking_M_01" frames="400">
-		<actor gender="M">
-			<idle form="000428DC" id="AtomicJerkingM"/>
-		<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000428DC">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Jerking_M_Orgasm_01" frames="400">
-		<actor gender="M">
-			<idle form="000428DD" id="AtomicJerkingOrgasmM"/>
-		<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000428DD">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 </animationData>
