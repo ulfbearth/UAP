@@ -4,390 +4,334 @@
 	<!-- Normal -->
 
 	<animation id="FO4SA_Blowjob_MM_01" frames="360" offset="0,0,0,180:0,0,0,0">
-		<actor gender="M">
-			<idle form="00006389" id="rxl_bp70_blowjob_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00006389">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000638A" id="rxl_bp70_blowjob_m"/>
-			<value path="morph" value="Erection Up" to="0.3"/>
-			<value path="morph" value="Erection Down" to="0.135"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000638A">
+			<morph id="Erection Up" to="0.3"/>
+			<morph id="Erection Down" to="0.135"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_BlowjobGround_MM_01" frames="320" offset="0,0,0,180:0,-2,0,180">
-		<actor gender="M">
-			<idle form="00007A63" id="rxl_bp70_groundblowjob_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A63">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00007A64" id="rxl_bp70_groundblowjob_m"/>
-			<value path="morph" value="Erection Up" to="0.25"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A64">
+			<morph id="Erection Up" to="0.25"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Cowgirl_MM_01" frames="320">
-		<actor gender="M">
-			<idle form="00000800" id="rxl_bp70_cowgirl_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000800">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000801" id="rxl_bp70_cowgirl_m"/>
-			<value path="morph" value="Erection Down" to="1"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000801">
+			<morph id="Erection Down" to="1"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Cowgirl_MM_Romantic_01" frames="120">
-		<actor gender="M">
-			<idle form="00000FAD" id="rxl_bp70_romanticcowgirl_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000FAD">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000FAE" id="rxl_bp70_romanticcowgirl_m"/>
-			<value path="morph" value="Erection Up" to="1.25"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000FAE">
+			<morph id="Erection Up" to="1.25"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Doggy_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
-		<actor gender="M">
-			<idle form="00000804" id="rxl_bp70_doggy_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000804">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000805" id="rxl_bp70_doggy_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000805">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Lotus_MM_01" frames="150">
-		<actor gender="M">
-			<idle form="00000808" id="rxl_bp70_lotus_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000808">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000809" id="rxl_bp70_lotus_m"/>
-			<value path="morph" value="Erection Up" to="1.1"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000809">
+			<morph id="Erection Up" to="1.1"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_01" frames="300" offset="0,0,0,180:0,-5,0,180">
-		<actor gender="M">
-			<idle form="00000802" id="rxl_bp70_missionary_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000802">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000803" id="rxl_bp70_missionary_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000803">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Romantic_01" frames="320">
-		<actor gender="M">
-			<idle form="00000FAF" id="rxl_bp70_romanticmish_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000FAF">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000FB0" id="rxl_bp70_romanticmish_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000FB0">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Rough_01" frames="601">
-		<actor gender="M">
-			<idle form="00000806" id="rxl_bp70_roughmissionary_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000806">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000807" id="rxl_bp70_roughmissionary_m"/>
-			<value path="morph" value="Erection Up" to="1"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000807">
+			<morph id="Erection Up" to="1"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S1" frames="1200">
-		<actor gender="M">
-			<idle form="0000080A" id="rxl_bp70_missionaryseq_1f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000080A">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000080B" id="rxl_bp70_missionaryseq_1m"/>
-			<value path="morph" value="Erection Up" to="0.3"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000080B">
+			<morph id="Erection Up" to="0.3"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S2" frames="1600">
-		<actor gender="M">
-			<idle form="0000080C" id="rxl_bp70_missionaryseq_2f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000080C">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000080D" id="rxl_bp70_missionaryseq_2m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000080D">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S3" frames="1600">
-		<actor gender="M">
-			<idle form="0000080E" id="rxl_bp70_missionaryseq_3f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000080E">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000080F" id="rxl_bp70_missionaryseq_3m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000080F">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S4" frames="1600">
-		<actor gender="M">
-			<idle form="00000810" id="rxl_bp70_missionaryseq_4f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000810">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000811" id="rxl_bp70_missionaryseq_4m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000811">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S5" frames="780">
-		<actor gender="M">
-			<idle form="00000812" id="rxl_bp70_missionaryseq_5f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000812">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000813" id="rxl_bp70_missionaryseq_5m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000813">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01" frames="240">
-		<actor gender="M">
-			<idle form="00000FB1" id="rxl_bp70_pronebone_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000FB1">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00000FB2" id="rxl_bp70_pronebone_m"/>
-			<value path="morph" value="Erection Up" to="1.1"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00000FB2">
+			<morph id="Erection Up" to="1.1"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S1" frames="960">
-		<actor gender="M">
-			<idle form="000098D1" id="rxl_bp70_standingseq_1f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D1">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000098D2" id="rxl_bp70_standingseq_1m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D2">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S2" frames="1080">
-		<actor gender="M">
-			<idle form="000098D3" id="rxl_bp70_standingseq_2f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D3">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000098D4" id="rxl_bp70_standingseq_2m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D4">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S3" frames="960">
-		<actor gender="M">
-			<idle form="000098D5" id="rxl_bp70_standingseq_3f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D5">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000098D6" id="rxl_bp70_standingseq_3m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D6">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S4" frames="1000">
-		<actor gender="M">
-			<idle form="000098D7" id="rxl_bp70_standingseq_4f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D7">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000098D8" id="rxl_bp70_standingseq_4m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000098D8">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MM_malebodyworship" frames="240" offset="0,12,0,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="DD90" id="rxl_bp70_femalebodyworship_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="DD90">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="DD91" id="rxl_bp70_femalebodyworship_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="DD91">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MM_aftersexbedrelax" frames="320">
-		<actor gender="M">
-			<idle form="5BDD" id="rxl_bp70_bedaftersexrelax_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="5BDD">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="5BDE" id="rxl_bp70_bedaftersexrelax_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="5BDE">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex01" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="637A" id="rxl_bp70_doublebedraunchysex01_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="637A">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="637B" id="rxl_bp70_doublebedraunchysex01_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
-			<value path="morph" value="Penis Adjust" to="1.72"/>
-			<value path="morph" value="Erection Up" to="45"/>
+		<actor gender="M" idleForm="637B">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="1.72"/>
+			<morph id="Erection Up" to="45"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex02" frames="200" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="637C" id="rxl_bp70_doublebedraunchysex02_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="637C">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="637D" id="rxl_bp70_doublebedraunchysex02_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="637D">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex03" frames="200" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="637E" id="rxl_bp70_doublebedraunchysex03_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="637E">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="637F" id="rxl_bp70_doublebedraunchysex03_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
-			<value path="morph" value="Penis Adjust" to="1.0"/>
+		<actor gender="M" idleForm="637F">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="1.0"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex04" frames="1000" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="6380" id="rxl_bp70_doublebedraunchysex04_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="6380">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="6381" id="rxl_bp70_doublebedraunchysex04_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
-			<value path="morph" value="Penis Adjust" to="1.76"/>
-			<value path="morph" value="Erection Up" to="50"/>
+		<actor gender="M" idleForm="6381">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="1.76"/>
+			<morph id="Erection Up" to="50"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex05" frames="800" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="6382" id="rxl_bp70_doublebedraunchysex05_f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="6382">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="6383" id="rxl_bp70_doublebedraunchysex05_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="6383">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MM_armchairmish" frames="320">
-		<actor gender="M">
-			<idle form="543A" id="rxl_bp70_armchairmish_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="543A">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="543B" id="rxl_bp70_armchairmish_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
-			<value path="morph" value="Penis Adjus" to="1.086"/>
+		<actor gender="M" idleForm="543B">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjus" to="1.086"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MM_armchaircow" frames="300">
-		<actor gender="M">
-			<idle form="543C" id="rxl_bp70_armchaircow_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="543C">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="543D" id="rxl_bp70_armchaircow_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
-			<value path="morph" value="Penis Adjus" to="0.72"/>
+		<actor gender="M" idleForm="543D">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjus" to="0.72"/>
 		</actor>
 	</animation>
 
@@ -395,82 +339,70 @@
 
 
 	<animation id="FO4SA_MM_couchblowjob01" frames="300" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="A07B" id="rxl_bp70_couchblowjob01_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A07B">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="A07C" id="rxl_bp70_couchblowjob01_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A07C">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob02" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="A07D" id="rxl_bp70_couchblowjob02_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A07D">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="A07E" id="rxl_bp70_couchblowjob02_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A07E">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob03" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="A07F" id="rxl_bp70_couchblowjob03_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A07F">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="A080" id="rxl_bp70_couchblowjob03_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A080">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob04" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="A081" id="rxl_bp70_couchblowjob04_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A081">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="A082" id="rxl_bp70_couchblowjob04_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A082">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob05" frames="480" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="A083" id="rxl_bp70_couchblowjob05_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A083">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="A084" id="rxl_bp70_couchblowjob05_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="A084">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MM_bartopsexperpendicular" frames="240">
-		<actor gender="M">
-			<idle form="ECD3" id="rxl_bp70_bartop_perpendicular_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="ECD3">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="ECD4" id="rxl_bp70_bartop_perpendicular_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="ECD4">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -483,74 +415,62 @@
 	<!-- Threesome Animations -->
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S1" frames="640" offset="0,0,0,180:0,0,0,0:0,-5,0,0">
-		<actor gender="M">
-			<idle form="00001EF8" id="rxl_bp70_lovetriangle_stage1_f1"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EF8">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001EF9" id="rxl_bp70_lovetriangle_stage1_f2"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EF9">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001EF7" id="rxl_bp70_lovetriangle_stage1_m"/>
-			<value path="action" value="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EF7">
+			<action id="MaleBlowjob Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S2" frames="720">
-		<actor gender="M">
-			<idle form="00001EFB" id="rxl_bp70_lovetriangle_stage2_f1"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EFB">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001EFC" id="rxl_bp70_lovetriangle_stage2_f2"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EFC">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001EFA" id="rxl_bp70_lovetriangle_stage2_m"/>
-			<value path="action" value="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EFA">
+			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S3" frames="720" offset="0,0,0,180:0,0,0,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="00001EFE" id="rxl_bp70_lovetriangle_stage3_f1"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EFE">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001EFF" id="rxl_bp70_lovetriangle_stage3_f2"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EFF">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001EFD" id="rxl_bp70_lovetriangle_stage3_m"/>
-			<value path="action" value="MaleMoan Action" target="2" loop="true" start="200" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001EFD">
+			<action id="MaleMoan Action" target="2" loop="true" start="200" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S4" frames="720">
-		<actor gender="M">
-			<idle form="00001F01" id="rxl_bp70_lovetriangle_stage4_f1"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001F01">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001F02" id="rxl_bp70_lovetriangle_stage4_f2"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001F02">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00001F00" id="rxl_bp70_lovetriangle_stage4_m"/>
-			<value path="action" value="MaleMoan Action" target="2" loop="true" start="400" from="1" to="0" frames="50.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00001F00">
+			<action id="MaleMoan Action" target="2" loop="true" start="400" from="1" to="0" frames="50.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -565,54 +485,46 @@
 	<!-- Chaise-->
 
 	<animation id="FO4SA_ChaiseFuck_MM_01" frames="320">
-		<actor gender="M">
-			<idle form="00007A65" id="rxl_bp70_chaisefuck01_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A65">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00007A66" id="rxl_bp70_chaisefuck01_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A66">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ChaiseFuck_MM_02" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="00007A67" id="rxl_bp70_chaisefuck02_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A67">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00007A68" id="rxl_bp70_chaisefuck02_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A68">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ChaiseFuck_MM_03" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="00007A69" id="rxl_bp70_chaisefuck03_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A69">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00007A6A" id="rxl_bp70_chaisefuck03_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A6A">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ChaiseFuck_MM_04" frames="240">
-		<actor gender="M">
-			<idle form="00007A6B" id="rxl_bp70_chaisefuck04_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A6B">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00007A6C" id="rxl_bp70_chaisefuck04_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00007A6C">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -621,150 +533,128 @@
 	<!-- Bed / Double Bed -->
 
 	<animation id="FO4SA_CowgirlBed_MM_01" frames="320">
-		<actor gender="M">
-			<idle form="000072C3" id="rxl_bp70_bedcowgirl_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000072C3">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000072C4" id="rxl_bp70_bedcowgirl_m"/>
-			<value path="morph" value="Erection Down" to="1"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000072C4">
+			<morph id="Erection Down" to="1"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_CowgirlBed_MM_Pound_01" frames="320">
-		<actor gender="M">
-			<idle form="0000ECB2" id="rxl_bp70_bedpoundcowgirl_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000ECB2">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000ECB3" id="rxl_bp70_bedpoundcowgirl_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000ECB3">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_DoggyBed_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
-		<actor gender="M">
-			<idle form="000072C5" id="rxl_bp70_beddoggy_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000072C5">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000072C6" id="rxl_bp70_beddoggy_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000072C6">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MissionaryBed_MM_01" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="000072C1" id="rxl_bp70_bedmissionary_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000072C1">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000072C2" id="rxl_bp70_bedmissionary_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000072C2">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MissionaryBed_MM_Pound_01" frames="320">
-		<actor gender="M">
-			<idle form="0000ECB4" id="rxl_bp70_bedpoundmissionary_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000ECB4">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000ECB5" id="rxl_bp70_bedpoundmissionary_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000ECB5">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MissionaryBed_MM_Romantic_01" frames="320">
-		<actor gender="M">
-			<idle form="0000A072" id="rxl_bp70_bedromanticmish_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000A072">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000A073" id="rxl_bp70_bedromanticmish_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000A073">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex1" frames="120">
-		<actor gender="M">
-			<idle form="E52E" id="rxl_bp70_shaunconception1_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E52E">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="E52F" id="rxl_bp70_shaunconception1_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E52F">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex2" frames="96">
-		<actor gender="M">
-			<idle form="E530" id="rxl_bp70_shaunconception2_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E530">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="E531" id="rxl_bp70_shaunconception2_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E531">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex3" frames="320">
-		<actor gender="M">
-			<idle form="E532" id="rxl_bp70_shaunconception3_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E532">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="E533" id="rxl_bp70_shaunconception3_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E533">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex4" frames="160">
-		<actor gender="M">
-			<idle form="CE50" id="rxl_bp70_shaunconception4_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="CE50">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="CE51" id="rxl_bp70_shaunconception4_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="CE51">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex5" frames="1220">
-		<actor gender="M">
-			<idle form="E534" id="rxl_bp70_shaunconception5_f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E534">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="E535" id="rxl_bp70_shaunconception5_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="E535">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -774,67 +664,57 @@
 	<!-- Extractor Chair -->
 
 	<animation id="FO4SA_ExtractorChair_MM_01" frames="240">
-		<actor gender="M">
-			<idle form="000035E7" id="rxl_bp70_syringechairfuck_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035E7">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000035E8" id="rxl_bp70_syringechairfuck_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035E8">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_02" frames="240">
-		<actor gender="M">
-			<idle form="000035E9" id="rxl_bp70_syringechairfuck2_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035E9">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000035EA" id="rxl_bp70_syringechairfuck2_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035EA">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_03" frames="240">
-		<actor gender="M">
-			<idle form="000035EB" id="rxl_bp70_syringechairfuck3_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035EB">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000035EC" id="rxl_bp70_syringechairfuck3_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035EC">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_04" frames="360">
-		<actor gender="M">
-			<idle form="000035ED" id="rxl_bp70_syringechairfuck4_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035ED">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="000035EE" id="rxl_bp70_syringechairfuck4_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="000035EE">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_05" frames="240">
-		<actor gender="M">
-			<idle form="00005BEE" id="rxl_bp70_syringechairfuck5_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00005BEE">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="00005BEF" id="rxl_bp70_syringechairfuck5_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00005BEF">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -848,417 +728,351 @@
 	<!-- Position Tree Animations -->
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_1" frames="160">
-		<actor gender="M">
-			<idle form="0000BEE7" id="rxl_bp70_impregnationmish_1_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEE7">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEE8" id="rxl_bp70_impregnationmish_1_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEE8">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_1TR2A" frames="1">
-		<actor gender="M">
-			<idle form="0000BEFB" id="rxl_bp70_impregnationmish_1_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEFB">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEFC" id="rxl_bp70_impregnationmish_1_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEFC">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2A" frames="160">
-		<actor gender="M">
-			<idle form="0000BEE9" id="rxl_bp70_impregnationmish_2_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEE9">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEEA" id="rxl_bp70_impregnationmish_2_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEEA">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2ATR3A" frames="16">
-		<actor gender="M">
-			<idle form="0000BEFD" id="rxl_bp70_impregnationmish_2_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEFD">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEFE" id="rxl_bp70_impregnationmish_2_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEFE">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3A" frames="240">
-		<actor gender="M">
-			<idle form="0000BEEB" id="rxl_bp70_impregnationmish_3_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEEB">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEEC" id="rxl_bp70_impregnationmish_3_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEEC">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3ATR4A" frames="16">
-		<actor gender="M">
-			<idle form="0000BEFF" id="rxl_bp70_impregnationmish_3_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEFF">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BF00" id="rxl_bp70_impregnationmish_3_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF00">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4A" frames="240">
-		<actor gender="M">
-			<idle form="0000BEED" id="rxl_bp70_impregnationmish_4_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEED">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEEE" id="rxl_bp70_impregnationmish_4_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEEE">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4ATR5A" frames="16">
-		<actor gender="M">
-			<idle form="0000BF01" id="rxl_bp70_impregnationmish_4_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF01">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BF02" id="rxl_bp70_impregnationmish_4_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF02">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_5A" frames="1400">
-		<actor gender="M">
-			<idle form="0000BEEF" id="rxl_bp70_impregnationmish_5_f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEEF">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEF0" id="rxl_bp70_impregnationmish_5_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF0">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_1TR2B" frames="80">
-		<actor gender="M">
-			<idle form="0000BF03" id="rxl_bp70_impregnationmish_1b_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF03">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BF04" id="rxl_bp70_impregnationmish_1b_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF04">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2B" frames="160">
-		<actor gender="M">
-			<idle form="0000BEF3" id="rxl_bp70_impregnationmish_2b_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF3">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEF4" id="rxl_bp70_impregnationmish_2b_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF4">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2BTR3B" frames="16">
-		<actor gender="M">
-			<idle form="0000BF05" id="rxl_bp70_impregnationmish_2b_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF05">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BF06" id="rxl_bp70_impregnationmish_2b_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF06">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3B" frames="240">
-		<actor gender="M">
-			<idle form="0000BEF5" id="rxl_bp70_impregnationmish_3b_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF5">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEF6" id="rxl_bp70_impregnationmish_3b_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF6">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3BTR4B" frames="16">
-		<actor gender="M">
-			<idle form="0000BF07" id="rxl_bp70_impregnationmish_3b_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF07">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BF08" id="rxl_bp70_impregnationmish_3b_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF08">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4B" frames="240">
-		<actor gender="M">
-			<idle form="0000BEF7" id="rxl_bp70_impregnationmish_4b_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF7">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEF8" id="rxl_bp70_impregnationmish_4b_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF8">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4BTR5B" frames="16">
-		<actor gender="M">
-			<idle form="0000BF09" id="rxl_bp70_impregnationmish_4b_f_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF09">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BF0A" id="rxl_bp70_impregnationmish_4b_m_trans"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BF0A">
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_5B" frames="1400">
-		<actor gender="M">
-			<idle form="0000BEF9" id="rxl_bp70_impregnationmish_5b_f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEF9">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="0000BEFA" id="rxl_bp70_impregnationmish_5b_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0000BEFA">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_standing69_MM_01" frames="300" offset="0,0,-1.5,180:0,0,0,180">
-		<actor gender="M">
-			<idle form="1038F" id="rxl_bp70_standing69_f"/>
-			<value path="morph" value="Erection Down" to="0.1"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1038F">
+			<morph id="Erection Down" to="0.1"/>
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="10390" id="rxl_bp70_standing69_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="10390">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_footjob_01_S1" frames="320">
-		<actor gender="M">
-			<idle form="1038D" id="rxl_bp70_footjob_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1038D">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="1038E" id="rxl_bp70_footjob_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1038E">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_footjob_01_S2" frames="320">
-		<actor gender="M">
-			<idle form="35C8" id="rxl_bp70_footjob2_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="35C8">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="35C9" id="rxl_bp70_footjob2_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="35C9">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S1" frames="240">
-		<actor gender="M">
-			<idle form="174F" id="rxl_bp70_mistress01_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="174F">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="1750" id="rxl_bp70_mistress01_m"/>
-			<value path="morph" value="Erection Up" to="0.34"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1750">
+			<morph id="Erection Up" to="0.34"/>
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S2" frames="240">
-		<actor gender="M">
-			<idle form="1751" id="rxl_bp70_mistress02_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1751">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="1752" id="rxl_bp70_mistress02_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1752">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S3" frames="240">
-		<actor gender="M">
-			<idle form="1753" id="rxl_bp70_mistress03_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1753">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="1754" id="rxl_bp70_mistress03_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1754">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S4" frames="240">
-		<actor gender="M">
-			<idle form="1755" id="rxl_bp70_mistress04_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1755">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="1756" id="rxl_bp70_mistress04_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="1756">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S5" frames="240">
-		<actor gender="M">
-			<idle form="98DE" id="rxl_bp70_mistress05_f"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="98DE">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="98DF" id="rxl_bp70_mistress05_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="98DF">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_kissing" frames="320">
-		<actor gender="M">
-			<idle form="3D6D" id="rxl_bp70_impregnationcow_1_f"/>
-			<value path="action" value="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="3D6D">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="3D6E" id="rxl_bp70_impregnationcow_1_m"/>
-			<value path="action" value="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="3D6E">
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_startfucking" frames="300">
-		<actor gender="M">
-			<idle form="6B22" id="rxl_bp70_impregnationcow_2_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="6B22">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="6B23" id="rxl_bp70_impregnationcow_2_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="6B23">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" frames="300">
-		<actor gender="M">
-			<idle form="72BD" id="rxl_bp70_impregnationcow_3_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="72BD">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="72BE" id="rxl_bp70_impregnationcow_3_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="72BE">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" frames="300">
-		<actor gender="M">
-			<idle form="BF18" id="rxl_bp70_impregnationcow_3b_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="BF18">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="BF19" id="rxl_bp70_impregnationcow_3b_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="BF19">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_thrust" frames="320">
-		<actor gender="M">
-			<idle form="FC07" id="rxl_bp70_impregnationcow_3_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC07">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="FC08" id="rxl_bp70_impregnationcow_3_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC08">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_thrustfinger" frames="320">
-		<actor gender="M">
-			<idle form="FC09" id="rxl_bp70_impregnationcow_3b_f"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC09">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="FC0A" id="rxl_bp70_impregnationcow_3b_m"/>
-			<value path="action" value="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC0A">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_orgasm" frames="600">
-		<actor gender="M">
-			<idle form="FC0B" id="rxl_bp70_impregnationcow_3_f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC0B">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="FC0C" id="rxl_bp70_impregnationcow_3_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC0C">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_orgasmfinger" frames="600">
-		<actor gender="M">
-			<idle form="FC0D" id="rxl_bp70_impregnationcow_3b_f"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC0D">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M">
-			<idle form="FC0E" id="rxl_bp70_impregnationcow_3b_m"/>
-			<value path="action" value="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="FC0E">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 </animationData>
