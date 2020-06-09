@@ -1,0 +1,84 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="SavageCabbage_Animations.esp"/>
+
+	<!-- Stocks -->
+	<!-- 2 Actors -->
+
+	<animation id="SCAP_DoggyStocks_MM_2Human_01_S1" frames="500">
+		<actor gender="M" idleForm="CEDF">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="CEE0">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggyStocks_MM_2Human_01_S2" frames="500">
+		<actor gender="M" idleForm="00001818">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="00001819">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggyStocks_MM_2Human_01_S3" frames="500">
+		<actor gender="M" idleForm="00001018">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="00001019">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggyStocks_MM_2Human_01_S4" frames="500">
+		<actor gender="M" idleForm="0000181A">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="0000181B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggyStocks_MM_2Human_01_S5" frames="500">
+		<actor gender="M" idleForm="0001325E">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="0001325F">
+			<morph id="Erection Up" to="1"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+	</animation>
+
+
+
+
+
+	<!-- 3 Actors -->
+
+	<animation id="SCAP_DoubleTeamStocks_MM_3Human_01" frames="500" offset="0,0,0,0:0,0,0,0:0,0,2.5,0">
+		<actor gender="M" idleForm="0000104F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="00001050">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" idleForm="00001051">
+			<morph id="Erection Up" to="1"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+	</animation>
+</animationData>
