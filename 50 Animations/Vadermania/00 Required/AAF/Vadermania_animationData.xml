@@ -2,131 +2,91 @@
 	<defaults source="Vadermania[AAF_anims].esp"/>
 
 
-	<animation id="vad_Doggy" offset="0,-70,0,0:0,0,0,0" time="60" >
-		<actor gender="M">
-			<idle form="01000f9D" id="vad_Doggy_Male"/>
+	<animation id="vad_Doggy" offset="0,-70,0,0:0,0,0,0" frames="119">
+		<actor gender="M" idleForm="01000f9D">
 		</actor>
-		<actor gender="F">
-			<idle form="01000f9e" id="vad_Doggy_Female"/>
+		<actor gender="F" idleForm="01000f9e">
 		</actor>
 	</animation>
 
-	<animation id="vad_Table" offset="0,-70,0,0:0,0,0,0" time="60" >
-		<actor gender="M">
-			<idle form="01000f99" id="vad_Table_Male"/>
+	<animation id="vad_Table" offset="0,-70,0,0:0,0,0,0" frames="119">
+		<actor gender="M" idleForm="01000f99">
 		</actor>
-		<actor gender="F">
-			<idle form="01000f9b" id="vad_Table_Female"/>
+		<actor gender="F" idleForm="01000f9b">
 		</actor>
 	</animation>
 
 
-	<animation id="vad_Dogmeat02" time="60">
+	<animation id="vad_Dogmeat02" frames="180">
 
-		<actor gender="F">
-			<idle form="01000f9f" id="vad_Dogmeat02_Female"/>
+		<actor gender="F" idleForm="01000f9f">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="01000fa0" id="vad_Dogmeat02_Dog"/>
+		<actor gender="M" skeleton="Dog" idleForm="01000fa0">
 		</actor>
 	</animation>
 
-	<animation id="vad_Deathclaw02"  time="480">
+	<animation id="vad_Deathclaw02"  frames="480">
 
-		<actor gender="F">
-
-			<idle form="01002e07" id="vad_Deathclaw02_Human01"/>
+		<actor gender="F" idleForm="01002e07">
 		</actor>
-		<actor gender="M" skeleton="Deathclaw">
-			<idle form="01002e08" id="vad_Deathclaw02_Deathclaw01"/>
+		<actor gender="M" skeleton="Deathclaw" idleForm="01002e08">
 		</actor>
 	</animation>
 
 
-	<animation id="vad_Deathclaw0202"  time="480">
+	<animation id="vad_Deathclaw0202"  frames="2360">
 
-		<actor gender="F">
-
-			<idle form="010044DB" id="vad_Deathclaw02_Human02"/>
+		<actor gender="F" idleForm="010044DB">
 		</actor>
-		<actor gender="M" skeleton="Deathclaw">
-			<idle form="01003D41" id="vad_Deathclaw02_Deathclaw02"/>
+		<actor gender="M" skeleton="Deathclaw" idleForm="01003D41">
 		</actor>
 	</animation>
 
 
+	<animation id="vad_Ghoul02"  frames="120">
 
-	<animation id="vad_Cat01" offset="0,0,0,0:0,0,0,0" time="60">
-
-		<actor gender="M" skeleton="Cat">
-			<idle form="01002e09" id="vad_Cat01_Cat_m"/>
+		<actor gender="F" idleForm="0100173c">
 		</actor>
-		<actor gender="M" skeleton="Cat">
-			<idle form="01002e0a" id="vad_Cat01_Cat_f"/>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173B">
 		</actor>
 	</animation>
 
-	<animation id="vad_Ghoul02"  time="120">
+	<animation id="vad_Ghoul03"  frames="240">
 
-		<actor gender="F">
-
-			<idle form="0100173c" id="vad_Ghoul02_Human01"/>
+		<actor gender="F" idleForm="0100173D">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul">
-			<idle form="0100173B" id="vad_Ghoul02_Ghoul01"/>
-		</actor>
-	</animation>
-
-	<animation id="vad_Ghoul03"  time="240">
-
-		<actor gender="F">
-
-			<idle form="0100173D" id="vad_Ghoul03_Human01"/>
-		</actor>
-		<actor gender="M" skeleton="FeralGhoul">
-			<idle form="0100173E" id="vad_Ghoul03_Ghoul01"/>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173E">
 		</actor>
 	</animation>
 
 
 
-	<animation id="vad_Ghoul4w MMMF"  time="60">
+	<animation id="vad_Ghoul4w MMMF"  frames="60">
 
-		<actor gender="F">
-
-			<idle form="01001ed8" id="vad_Ghoul4w_Human_01"/>
+		<actor gender="F" idleForm="01001ed8">
 		</actor>
 		
-		<actor gender="M" skeleton="FeralGhoul">
-			<idle form="01001ed9" id="vad_Ghoul4w_AC2_01"/>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001ed9">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul">
-			<idle form="01001eda" id="vad_Ghoul4w_AC3_01"/>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001eda">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul">
-			<idle form="01001edb" id="vad_Ghoul4w_AC4_01"/>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001edb">
 		</actor>
 	</animation>
 
-	<animation id="vad_FEVHound01"  time="100">
+	<animation id="vad_FEVHound01"  frames="100">
 
-		<actor gender="F">
-
-			<idle form="01002E13" id="vad_FEVHound01_Human_01"/>
+		<actor gender="F" idleForm="01002E13">
 		</actor>
-		<actor gender="M" skeleton="FEVHound">
-			<idle form="01002e12" id="vad_FEVHound01_FEVHound_01"/>
+		<actor gender="M" skeleton="FEVHound" idleForm="01002e12">
 		</actor>
 	</animation>
 
-	<animation id="vad_Gorilla01"  time="240">
+	<animation id="vad_Gorilla01"  frames="240">
 
-		<actor gender="F">
-
-			<idle form="010035b5" id="vad_Gorilla01_Human_01"/>
+		<actor gender="F" idleForm="010035b5">
 		</actor>
-		<actor gender="M" skeleton="Gorilla">
-			<idle form="010035b4" id="vad_Gorilla01_Gorilla_01"/>
+		<actor gender="M" skeleton="Gorilla" idleForm="010035b4">
 		</actor>
 	</animation>
 </animationData>
