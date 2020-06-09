@@ -584,7 +584,7 @@
   </xs:complexType>
   <xs:complexType name="overlayGroupType">
     <xs:sequence>
-      <xs:element type="overlayType" name="overlay"/>
+      <xs:element type="overlayType" name="overlay" maxOccurs="unbounded" minOccurs="1"/>
     </xs:sequence>
     <xs:attribute type="xs:byte" name="duration"/>
     <xs:attribute type="xs:byte" name="quantity"/>
@@ -905,7 +905,7 @@
         <xs:attribute type="xs:float" name="to"/>
         <xs:attribute type="xs:integer" name="steps"/>
         <xs:attribute type="xs:float" name="frames"/>
-        <xs:attribute type="xs:float" name="start"/>
+        <xs:attribute type="xs:integer" name="start"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>

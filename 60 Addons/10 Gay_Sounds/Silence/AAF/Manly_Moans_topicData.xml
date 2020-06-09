@@ -1,52 +1,150 @@
 <topicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults source="Fallou4.esm"/>
+	<defaults source="Manly Moans.esp"/>
+
+	<!-- Regular MOANS -->
+
+	<topicGroup id="MaleMoans Topic" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12901" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12902" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="835" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83D" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+	</topicGroup>
+
+
+	<topicGroup id="CreatureMoans Topic" tryRate="0" chance="0">
+
+		<!-- Behemoth Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="842" voiceTypeSource="Manly Moans.esp" conditions="isBehemoth"/>
+
+		<!-- Dog Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="844" voiceTypeSource="Manly Moans.esp" conditions="isDog"/>
+
+		<!-- FeralGhoul Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="845" voiceTypeSource="Manly Moans.esp" conditions="isFeralGhoul"/>
+
+		<!-- Gorilla Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="846" voiceTypeSource="Manly Moans.esp" conditions="isGorilla"/>
+
+		<!-- MutantHound Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="841" voiceTypeSource="Manly Moans.esp" conditions="isMutantHound"/>
+
+		<!-- Supermutant Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="847" voiceTypeSource="Manly Moans.esp" conditions="isSupermutant"/>
+
+		<!-- YaoGuai Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="848" voiceTypeSource="Manly Moans.esp" conditions="isYaoGuai"/>
+	</topicGroup>
 
 
 
-<!-- IF YOU PICKED THE SILENCE! OPTION, THIS XML FILL FIX THE AAF ERROR AND WILL GUARANTEE NO MOANING WILL BE APPLIED-->
-<!-- Regular MOANS -->
-
-<topicGroup id="MaleMoans Topic" tryRate="0" chance="0">
-</topicGroup>
+	<!--=====================================================================================================================================================================================-->
 
 
 
-<!--=====================================================================================================================================================================================-->
+	<!-- Blowjob MOANS -->
+
+	<topicGroup id="MaleBlowjob Topic" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="837" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83C" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+	</topicGroup>
 
 
 
-<!-- Blowjob MOANS -->
-
-<topicGroup id="MaleBlowjob Topic" tryRate="0" chance="0">
-</topicGroup>
+	<!--=====================================================================================================================================================================================-->
 
 
 
-<!--=====================================================================================================================================================================================-->
+	<!-- Orgasm MOANS -->
+
+	<topicGroup id="MaleOrgasm Topic" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12909" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="838" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83E" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+	</topicGroup>
 
 
 
-<!-- Orgasm MOANS -->
-
-<topicGroup id="MaleOrgasm Topic" tryRate="0" chance="0">
-</topicGroup>
+	<!--=====================================================================================================================================================================================-->
 
 
+	<!-- Aggressive MOANS -->
 
-<!--=====================================================================================================================================================================================-->
+	<topicGroup id="MaleAggMoans Topic" tryRate="0" chance="0">
 
-
-<!-- Aggressive MOANS -->
-
-<topicGroup id="MaleAggMoans Topic" tryRate="0" chance="0">
-</topicGroup>
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
 
 
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83F" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
 
-<!--=====================================================================================================================================================================================-->
+
+		<!-- Ulfberth Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="840" voiceTypeSource="Manly Moans.esp" conditions="isUlfberth"/>
 
 
-<!-- Aggressive Orgasm MOANS -->
 
-<topicGroup id="MaleAggOrgasm Topic" tryRate="0" chance="0">
-</topicGroup>
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+	</topicGroup>
+
+
+
+	<topicGroup id="CreatureAggMoans Topic" tryRate="0" chance="0">
+
+		<!-- Supermutant Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="849" voiceTypeSource="Manly Moans.esp" conditions="isSupermutant"/>
+	</topicGroup>
+
+	<!--=====================================================================================================================================================================================-->
+
+
+	<!-- Aggressive Orgasm MOANS -->
+
+	<topicGroup id="MaleAggOrgasm Topic" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+
+
+		<!-- Player VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+	</topicGroup>
+</topicData>	
