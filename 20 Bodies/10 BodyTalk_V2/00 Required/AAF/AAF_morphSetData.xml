@@ -1,67 +1,66 @@
 <morphSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-<defaults/>
+	<defaults/>
 
-<morphSet id="ready">
-	<condition isFemale="false">
-		<morph value="CErection" to="1"/>
-		<morph value="Erection" to="1"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
+	<morphSet id="ready">
+		<condition isFemale="false">
+			<morph value="CErection" to="1"/>
+			<morph value="Erection" to="1"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
 
-<morphSet id="unReady">
-	<condition isFemale="false">
-		<morph value="CErection" to="0"/>
-		<morph value="Erection" to="0"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
+	<morphSet id="unReady">
+		<condition isFemale="false">
+			<morph value="CErection" to="0"/>
+			<morph value="Erection" to="0"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
 
-<morphSet id="Erect">
-	<condition isFemale="false">
-		<morph value="CErection" to="1"/>
-		<morph value="Erection" to="1"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
+	<morphSet id="Erect">
+		<condition isFemale="false">
+			<morph value="CErection" to="1"/>
+			<morph value="Erection" to="1"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
 
-<morphSet id="Erected">
-	<condition isFemale="false">
-		<morph value="CErection" to="1"/>
-		<morph value="Erection" to="1"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
+	<morphSet id="Erected">
+		<condition isFemale="false">
+			<morph value="CErection" to="1"/>
+			<morph value="Erection" to="1"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
 
-<morphSet id="Flaccid">
-	<condition isFemale="false">
-		<morph value="CErection" to="0"/>
-		<morph value="Erection" to="0"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
+	<morphSet id="Flaccid">
+		<condition isFemale="false">
+			<morph value="CErection" to="0"/>
+			<morph value="Erection" to="0"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
 
-<morphSet id="SCReady">
-	<condition isFemale="false">
-		<morph value="CErection" to="1"/>
-		<morph value="Erection" to="1"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
+	<morphSet id="SCReady">
+		<condition isFemale="false">
+			<morph value="CErection" to="1"/>
+			<morph value="Erection" to="1"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
 
-<morphSet id="SCunReady">
-	<condition isFemale="false">
-		<morph value="CErection" to="0"/>
-		<morph value="Erection" to="0"/>
-		<morph value="Erection Up" to="0"/>
-		<morph value="Erection Down" to="0"/>
-	</condition>
-</morphSet>
-
-
+	<morphSet id="SCunReady">
+		<condition isFemale="false">
+			<morph value="CErection" to="0"/>
+			<morph value="Erection" to="0"/>
+			<morph value="Erection Up" to="0"/>
+			<morph value="Erection Down" to="0"/>
+		</condition>
+	</morphSet>
+</morphSetData>
