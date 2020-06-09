@@ -2,663 +2,517 @@
 	<defaults source="AAF_CreaturePack01.esp"/>
 
 	<animation id="Mirelurkstage01" frames="300">
-		<actor gender="F">
-			<idle form="01000FA1" id="CP_Mire01_F"/>
+		<actor gender="F" idleForm="01000FA1">
 		</actor>
-		<actor skeleton="Mirelurk">
-			<idle form="01000FBD" id="CP_Mire01_C"/>
+		<actor skeleton="Mirelurk" idleForm="01000FBD">
 		</actor>
 	</animation>
 
 	<animation id="Mirelurkstage02" frames="300">
-		<actor gender="F">
-			<idle form="01000FA2" id="CP_Mire02_F"/>
+		<actor gender="F" idleForm="01000FA2">
 		</actor>
-		<actor skeleton="Mirelurk">
-			<idle form="01000FBE" id="CP_Mire02_C"/>
+		<actor skeleton="Mirelurk" idleForm="01000FBE">
 		</actor>
 	</animation>
 
 	<animation id="Mirelurkstage03" frames="300">
-		<actor gender="F">
-			<idle form="01000FA3" id="CP_Mire03_F"/>
+		<actor gender="F" idleForm="01000FA3">
 		</actor>
-		<actor skeleton="Mirelurk">
-			<idle form="01000FBF" id="CP_Mire03_C"/>
+		<actor skeleton="Mirelurk" idleForm="01000FBF">
 		</actor>
 	</animation>
 
 	<animation id="Mirelurkstage04" frames="300">
-		<actor gender="F">
-			<idle form="01000FA4" id="CP_Mire04_F"/>
+		<actor gender="F" idleForm="01000FA4">
 		</actor>
-		<actor skeleton="Mirelurk">
-			<idle form="01000FC0" id="CP_Mire04_C"/>
+		<actor skeleton="Mirelurk" idleForm="01000FC0">
 		</actor>
 	</animation>
 
 	<animation id="Scorpionstage01" frames="300">
-		<actor gender="F">
-			<idle form="01000FAD" id="CP_Scorp01_F"/>
+		<actor gender="F" idleForm="01000FAD">
 		</actor>
-		<actor skeleton="RadScorpion">
-			<idle form="01000FC9" id="CP_Scorp01_C"/>
+		<actor skeleton="RadScorpion" idleForm="01000FC9">
 		</actor>
 	</animation>
 
 	<animation id="Scorpionstage02" frames="300">
-		<actor gender="F">
-			<idle form="01000FAE" id="CP_Scorp02_F"/>
+		<actor gender="F" idleForm="01000FAE">
 		</actor>
-		<actor skeleton="RadScorpion">
-			<idle form="01000FCA" id="CP_Scorp02_C"/>
+		<actor skeleton="RadScorpion" idleForm="01000FCA">
 		</actor>
 	</animation>
 
 	<animation id="Scorpionstage03" frames="300">
-		<actor gender="F">
-			<idle form="01000FAF" id="CP_Scorp03_F"/>
+		<actor gender="F" idleForm="01000FAF">
 		</actor>
-		<actor skeleton="RadScorpion">
-			<idle form="01000FCB" id="CP_Scorp03_C"/>
+		<actor skeleton="RadScorpion" idleForm="01000FCB">
 		</actor>
 	</animation>
 
 	<animation id="Scorpionstage04" frames="300">
-		<actor gender="F">
-			<idle form="01000FB0" id="CP_Scorp04_F"/>
+		<actor gender="F" idleForm="01000FB0">
 		</actor>
-		<actor skeleton="RadScorpion">
-			<idle form="01000FCC" id="CP_Scorp04_C"/>
+		<actor skeleton="RadScorpion" idleForm="01000FCC">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkQstage01" frames="300">
-		<actor gender="F">
-			<idle form="01000FA9" id="CP_MireQ01_F"/>
+		<actor gender="F" idleForm="01000FA9">
 		</actor>
-		<actor skeleton="MirelurkQueen">
-			<idle form="01000FC5" id="CP_MireQ01_C"/>
+		<actor skeleton="MirelurkQueen" idleForm="01000FC5">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkQstage02" frames="300">
-		<actor gender="F">
-			<idle form="01000FAA" id="CP_MireQ02_F"/>
+		<actor gender="F" idleForm="01000FAA">
 		</actor>
-		<actor skeleton="MirelurkQueen">
-			<idle form="01000FC6" id="CP_MireQ02_C"/>
+		<actor skeleton="MirelurkQueen" idleForm="01000FC6">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkQstage03" frames="300">
-		<actor gender="F">
-			<idle form="01000FAB" id="CP_MireQ03_F"/>
+		<actor gender="F" idleForm="01000FAB">
 		</actor>
-		<actor skeleton="MirelurkQueen">
-			<idle form="01000FC7" id="CP_MireQ03_C"/>
+		<actor skeleton="MirelurkQueen" idleForm="01000FC7">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkQstage04" frames="300">
-		<actor gender="F">
-			<idle form="01000FAC" id="CP_MireQ04_F"/>
+		<actor gender="F" idleForm="01000FAC">
 		</actor>
-		<actor skeleton="MirelurkQueen">
-			<idle form="01000FC8" id="CP_MireQ04_C"/>
+		<actor skeleton="MirelurkQueen" idleForm="01000FC8">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkHstage01" frames="300">
-		<actor gender="F">
-			<idle form="01000FA5" id="CP_MireH01_F"/>
+		<actor gender="F" idleForm="01000FA5">
 		</actor>
-		<actor skeleton="MirelurkHunter">
-			<idle form="01000FC1" id="CP_MireH01_C"/>
+		<actor skeleton="MirelurkHunter" idleForm="01000FC1">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkHstage02" frames="300">
-		<actor gender="F">
-			<idle form="01000FA6" id="CP_MireH02_F"/>
+		<actor gender="F" idleForm="01000FA6">
 		</actor>
-		<actor skeleton="MirelurkHunter">
-			<idle form="01000FC2" id="CP_MireH02_C"/>
+		<actor skeleton="MirelurkHunter" idleForm="01000FC2">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkHstage03" frames="300">
-		<actor gender="F">
-			<idle form="01000FA7" id="CP_MireH03_F"/>
+		<actor gender="F" idleForm="01000FA7">
 		</actor>
-		<actor skeleton="MirelurkHunter">
-			<idle form="01000FC3" id="CP_MireH03_C"/>
+		<actor skeleton="MirelurkHunter" idleForm="01000FC3">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkHstage04" frames="300">
-		<actor gender="F">
-			<idle form="01000FA8" id="CP_MireH04_F"/>
+		<actor gender="F" idleForm="01000FA8">
 		</actor>
-		<actor skeleton="MirelurkHunter">
-			<idle form="01000FC4" id="CP_MireH04_C"/>
+		<actor skeleton="MirelurkHunter" idleForm="01000FC4">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkKstage01" frames="300" offset="0,0,-11,0:0,0,-11,0">
-		<actor gender="F">
-			<idle form="01001F0F" id="CP_MireK01_F"/>
+		<actor gender="F" idleForm="01001F0F">
 		</actor>
-		<actor skeleton="MirelurkKing">
-			<idle form="01001F03" id="CP_MireK01_C"/>
+		<actor skeleton="MirelurkKing" idleForm="01001F03">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkKstage02" frames="300" offset="0,0,-11,0:0,0,-11,0">
-		<actor gender="F">
-			<idle form="01001F10" id="CP_MireK02_F"/>
+		<actor gender="F" idleForm="01001F10">
 		</actor>
-		<actor skeleton="MirelurkKing">
-			<idle form="01001F04" id="CP_MireK02_C"/>
+		<actor skeleton="MirelurkKing" idleForm="01001F04">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkKstage03" frames="300" offset="0,0,-11,0:0,0,-11,0">
-		<actor gender="F">
-			<idle form="01001F11" id="CP_MireK03_F"/>
+		<actor gender="F" idleForm="01001F11">
 		</actor>
-		<actor skeleton="MirelurkKing">
-			<idle form="01001F05" id="CP_MireK03_C"/>
+		<actor skeleton="MirelurkKing" idleForm="01001F05">
 		</actor>
 	</animation>
 
 	<animation id="MirelurkKstage04" frames="300" offset="0,0,-11,0:0,0,-11,0">
-		<actor gender="F">
-			<idle form="01001F12" id="CP_MireK04_F"/>
+		<actor gender="F" idleForm="01001F12">
 		</actor>
-		<actor skeleton="MirelurkKing">
-			<idle form="01001F06" id="CP_MireK04_C"/>
+		<actor skeleton="MirelurkKing" idleForm="01001F06">
 		</actor>
 	</animation>
 
 
 	<animation id="Yaostage01" frames="300">
-		<actor gender="F">
-			<idle form="01001F0B" id="CP_Yao01_F"/>
+		<actor gender="F" idleForm="01001F0B">
 		</actor>
-		<actor skeleton="YaoGuai">
-			<idle form="01001F07" id="CP_Yao01_C"/>
+		<actor skeleton="YaoGuai" idleForm="01001F07">
 		</actor>
 	</animation>
 
 	<animation id="Yaostage02" frames="300">
-		<actor gender="F">
-			<idle form="01001F0C" id="CP_Yao02_F"/>
+		<actor gender="F" idleForm="01001F0C">
 		</actor>
-		<actor skeleton="YaoGuai">
-			<idle form="01001F08" id="CP_Yao02_C"/>
+		<actor skeleton="YaoGuai" idleForm="01001F08">
 		</actor>
 	</animation>
 
 	<animation id="Yaostage03" frames="300">
-		<actor gender="F">
-			<idle form="01001F0D" id="CP_Yao03_F"/>
+		<actor gender="F" idleForm="01001F0D">
 		</actor>
-		<actor skeleton="YaoGuai">
-			<idle form="01001F09" id="CP_Yao03_C"/>
+		<actor skeleton="YaoGuai" idleForm="01001F09">
 		</actor>
 	</animation>
 
 	<animation id="Yaostage04" frames="300">
-		<actor gender="F">
-			<idle form="01001F0E" id="CP_Yao04_F"/>
+		<actor gender="F" idleForm="01001F0E">
 		</actor>
-		<actor skeleton="YaoGuai">
-			<idle form="01001F0A" id="CP_Yao04_C"/>
+		<actor skeleton="YaoGuai" idleForm="01001F0A">
 		</actor>
 	</animation>
 
 
 	<animation id="Stingwingstage01" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="F">
-			<idle form="01000FB1" id="CP_Sting01_F"/>
+		<actor gender="F" idleForm="01000FB1">
 		</actor>
-		<actor skeleton="Stingwing">
-			<idle form="01000FCD" id="CP_Sting01_C"/>
+		<actor skeleton="Stingwing" idleForm="01000FCD">
 		</actor>
 	</animation>
 
 	<animation id="Stingwingstage02" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="F">
-			<idle form="01000FB2" id="CP_Sting02_F"/>
+		<actor gender="F" idleForm="01000FB2">
 		</actor>
-		<actor skeleton="Stingwing">
-			<idle form="01000FCE" id="CP_Sting02_C"/>
+		<actor skeleton="Stingwing" idleForm="01000FCE">
 		</actor>
 	</animation>
 
 	<animation id="Stingwingstage03" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="F">
-			<idle form="01000FB3" id="CP_Sting03_F"/>
+		<actor gender="F" idleForm="01000FB3">
 		</actor>
-		<actor skeleton="Stingwing">
-			<idle form="01000FCF" id="CP_Sting03_C"/>
+		<actor skeleton="Stingwing" idleForm="01000FCF">
 		</actor>
 	</animation>
 
 	<animation id="Stingwingstage04" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="F">
-			<idle form="01000FB4" id="CP_Sting04_F"/>
+		<actor gender="F" idleForm="01000FB4">
 		</actor>
-		<actor skeleton="Stingwing">
-			<idle form="01000FD0" id="CP_Sting04_C"/>
+		<actor skeleton="Stingwing" idleForm="01000FD0">
 		</actor>
 	</animation>
 
 	<animation id="Bloodbugstage01" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="F">
-			<idle form="01000F9D" id="CP_Blood01_F"/>
+		<actor gender="F" idleForm="01000F9D">
 		</actor>
-		<actor skeleton="Mosquito">
-			<idle form="01000FB9" id="CP_Blood01_C"/>
+		<actor skeleton="Mosquito" idleForm="01000FB9">
 		</actor>
 	</animation>
 
 	<animation id="Bloodbugstage02" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="F">
-			<idle form="01000F9E" id="CP_Blood02_F"/>
+		<actor gender="F" idleForm="01000F9E">
 		</actor>
-		<actor skeleton="Mosquito">
-			<idle form="01000FBA" id="CP_Blood02_C"/>
+		<actor skeleton="Mosquito" idleForm="01000FBA">
 		</actor>
 	</animation>
 
 	<animation id="Bloodbugstage03" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="F">
-			<idle form="01000F9F" id="CP_Blood03_F"/>
+		<actor gender="F" idleForm="01000F9F">
 		</actor>
-		<actor skeleton="Mosquito">
-			<idle form="01000FBB" id="CP_Blood03_C"/>
+		<actor skeleton="Mosquito" idleForm="01000FBB">
 		</actor>
 	</animation>
 
 	<animation id="Bloodbugstage04" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="F">
-			<idle form="01000FA0" id="CP_Blood04_F"/>
+		<actor gender="F" idleForm="01000FA0">
 		</actor>
-		<actor skeleton="Mosquito">
-			<idle form="01000FBC" id="CP_Blood04_C"/>
+		<actor skeleton="Mosquito" idleForm="01000FBC">
 		</actor>
 	</animation>
 
 	<animation id="Bloatflystage01" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="F">
-			<idle form="01000F99" id="CP_Bloat01_F"/>
+		<actor gender="F" idleForm="01000F99">
 		</actor>
-		<actor skeleton="Bloatfly">
-			<idle form="01000FB5" id="CP_Bloat01_C"/>
+		<actor skeleton="Bloatfly" idleForm="01000FB5">
 		</actor>
 	</animation>
 
 	<animation id="Bloatflystage02" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="F">
-			<idle form="01000F9A" id="CP_Bloat02_F"/>
+		<actor gender="F" idleForm="01000F9A">
 		</actor>
-		<actor skeleton="Bloatfly">
-			<idle form="01000FB6" id="CP_Bloat02_C"/>
+		<actor skeleton="Bloatfly" idleForm="01000FB6">
 		</actor>
 	</animation>
 
 	<animation id="Bloatflystage03" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="F">
-			<idle form="01000F9B" id="CP_Bloat03_F"/>
+		<actor gender="F" idleForm="01000F9B">
 		</actor>
-		<actor skeleton="Bloatfly">
-			<idle form="01000FB7" id="CP_Bloat03_C"/>
+		<actor skeleton="Bloatfly" idleForm="01000FB7">
 		</actor>
 	</animation>
 
 	<animation id="Bloatflystage04" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="F">
-			<idle form="01000F9C" id="CP_Bloat04_F"/>
+		<actor gender="F" idleForm="01000F9C">
 		</actor>
-		<actor skeleton="Bloatfly">
-			<idle form="01000FB8" id="CP_Bloat04_C"/>
+		<actor skeleton="Bloatfly" idleForm="01000FB8">
 		</actor>
 	</animation>
 
 	<animation id="Alienstage01" frames="300">
-		<actor gender="F">
-			<idle form="01004538" id="CP_Alien01_F"/>
+		<actor gender="F" idleForm="01004538">
 		</actor>
-		<actor skeleton="Bloatfly">
-			<idle form="01004540" id="CP_Alien01_C"/>
+		<actor skeleton="Bloatfly" idleForm="01004540">
 		</actor>
 	</animation>
 
 	<animation id="Alienstage01" frames="300">
-		<actor gender="F">
-			<idle form="01004538" id="CP_Alien01_F"/>
+		<actor gender="F" idleForm="01004538">
 		</actor>
-		<actor skeleton="Alien">
-			<idle form="01004540" id="CP_Alien01_C"/>
+		<actor skeleton="Alien" idleForm="01004540">
 		</actor>
 	</animation>
 
 	<animation id="Alienstage02" frames="300">
-		<actor gender="F">
-			<idle form="01004539" id="CP_Alien02_F"/>
+		<actor gender="F" idleForm="01004539">
 		</actor>
-		<actor skeleton="Alien">
-			<idle form="01004541" id="CP_Alien02_C"/>
+		<actor skeleton="Alien" idleForm="01004541">
 		</actor>
 	</animation>
 
 	<animation id="Alienstage03" frames="300">
-		<actor gender="F">
-			<idle form="0100453a" id="CP_Alien03_F"/>
+		<actor gender="F" idleForm="0100453a">
 		</actor>
-		<actor skeleton="Alien">
-			<idle form="01004542" id="CP_Alien03_C"/>
+		<actor skeleton="Alien" idleForm="01004542">
 		</actor>
 	</animation>
 
 	<animation id="Alienstage04" frames="300">
-		<actor gender="F">
-			<idle form="0100453b" id="CP_Alien04_F"/>
+		<actor gender="F" idleForm="0100453b">
 		</actor>
-		<actor skeleton="Alien">
-			<idle form="01004543" id="CP_Alien04_C"/>
+		<actor skeleton="Alien" idleForm="01004543">
 		</actor>
 	</animation>
 
 	<animation id="Behemothstage01" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="F">
-			<idle form="01004534" id="CP_Behemoth01_F"/>
+		<actor gender="F" idleForm="01004534">
 		</actor>
-		<actor skeleton="SupermutantBehemoth">
-			<idle form="01004530" id="CP_Behemoth01_C"/>
+		<actor skeleton="SupermutantBehemoth" idleForm="01004530">
 		</actor>
 	</animation>
 
 	<animation id="Behemothstage02" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="F">
-			<idle form="01004535" id="CP_Behemoth02_F"/>
+		<actor gender="F" idleForm="01004535">
 		</actor>
-		<actor skeleton="SupermutantBehemoth">
-			<idle form="01004531" id="CP_Behemoth02_C"/>
+		<actor skeleton="SupermutantBehemoth" idleForm="01004531">
 		</actor>
 	</animation>
 
 	<animation id="Behemothstage03" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="F">
-			<idle form="01004536" id="CP_Behemoth03_F"/>
+		<actor gender="F" idleForm="01004536">
 		</actor>
-		<actor skeleton="SupermutantBehemoth">
-			<idle form="01004532" id="CP_Behemoth03_C"/>
+		<actor skeleton="SupermutantBehemoth" idleForm="01004532">
 		</actor>
 	</animation>
 
 	<animation id="Behemothstage04" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="F">
-			<idle form="01004537" id="CP_Behemoth04_F"/>
+		<actor gender="F" idleForm="01004537">
 		</actor>
-		<actor skeleton="SupermutantBehemoth">
-			<idle form="01004533" id="CP_Behemoth04_C"/>
+		<actor skeleton="SupermutantBehemoth" idleForm="01004533">
 		</actor>
 	</animation>
 
 	<animation id="Moleratstage01" frames="300">
-		<actor gender="F">
-			<idle form="0100453c" id="CP_Molerat01_F"/>
+		<actor gender="F" idleForm="0100453c">
 		</actor>
-		<actor skeleton="Molerat">
-			<idle form="01004544" id="CP_Molerat01_C"/>
+		<actor skeleton="Molerat" idleForm="01004544">
 		</actor>
 	</animation>
 
 	<animation id="Moleratstage02" frames="300">
-		<actor gender="F">
-			<idle form="0100453d" id="CP_Molerat02_F"/>
+		<actor gender="F" idleForm="0100453d">
 		</actor>
-		<actor skeleton="Molerat">
-			<idle form="01004545" id="CP_Molerat02_C"/>
+		<actor skeleton="Molerat" idleForm="01004545">
 		</actor>
 	</animation>
 
 	<animation id="Moleratstage03" frames="300">
-		<actor gender="F">
-			<idle form="0100453e" id="CP_Molerat03_F"/>
+		<actor gender="F" idleForm="0100453e">
 		</actor>
-		<actor skeleton="Molerat">
-			<idle form="01004546" id="CP_Molerat03_C"/>
+		<actor skeleton="Molerat" idleForm="01004546">
 		</actor>
 	</animation>
 
 	<animation id="Moleratstage04" frames="300">
-		<actor gender="F">
-			<idle form="0100453f" id="CP_Molerat04_F"/>
+		<actor gender="F" idleForm="0100453f">
 		</actor>
-		<actor skeleton="Molerat">
-			<idle form="01004547" id="CP_Molerat04_C"/>
+		<actor skeleton="Molerat" idleForm="01004547">
 		</actor>
 	</animation>
 
 	<animation id="Ghoulstage01" frames="300">
-		<actor gender="F">
-			<idle form="0100547c" id="CP_Ghoul01_F"/>
+		<actor gender="F" idleForm="0100547c">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="01005480" id="CP_Ghoul01_C"/>
+		<actor skeleton="FeralGhoul" idleForm="01005480">
 		</actor>
 	</animation>
 
 	<animation id="Ghoulstage02" frames="300">
-		<actor gender="F">
-			<idle form="0100547d" id="CP_Ghoul02_F"/>
+		<actor gender="F" idleForm="0100547d">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="01005481" id="CP_Ghoul02_C"/>
+		<actor skeleton="FeralGhoul" idleForm="01005481">
 		</actor>
 	</animation>
 
 	<animation id="Ghoulstage03" frames="300">
-		<actor gender="F">
-			<idle form="0100547e" id="CP_Ghoul03_F"/>
+		<actor gender="F" idleForm="0100547e">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="01005482" id="CP_Ghoul03_C"/>
+		<actor skeleton="FeralGhoul" idleForm="01005482">
 		</actor>
 	</animation>
 
 	<animation id="Ghoulstage04" frames="300">
-		<actor gender="F">
-			<idle form="0100547f" id="CP_Ghoul04_F"/>
+		<actor gender="F" idleForm="0100547f">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="01005483" id="CP_Ghoul04_C"/>
+		<actor skeleton="FeralGhoul" idleForm="01005483">
 		</actor>
 	</animation>
 
 	<animation id="02Ghoulstage01" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a1" id="CP_02Ghoul01_F"/>
+		<actor gender="F" idleForm="0100a0a1">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="0100a09d" id="CP_02Ghoul01_C"/>
+		<actor skeleton="FeralGhoul" idleForm="0100a09d">
 		</actor>
 	</animation>
 
 	<animation id="02Ghoulstage02" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a2" id="CP_02Ghoul02_F"/>
+		<actor gender="F" idleForm="0100a0a2">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="0100a09e" id="CP_02Ghoul02_C"/>
+		<actor skeleton="FeralGhoul" idleForm="0100a09e">
 		</actor>
 	</animation>
 
 	<animation id="02Ghoulstage03" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a3" id="CP_02Ghoul03_F"/>
+		<actor gender="F" idleForm="0100a0a3">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="0100a09f" id="CP_02Ghoul03_C"/>
+		<actor skeleton="FeralGhoul" idleForm="0100a09f">
 		</actor>
 	</animation>
 
 	<animation id="02Ghoulstage04" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a4" id="CP_02Ghoul04_F"/>
+		<actor gender="F" idleForm="0100a0a4">
 		</actor>
-		<actor skeleton="FeralGhoul">
-			<idle form="0100a0a0" id="CP_02Ghoul04_C"/>
+		<actor skeleton="FeralGhoul" idleForm="0100a0a0">
 		</actor>
 	</animation>
 
 	<animation id="Deathclawstage01" frames="300">
-		<actor gender="F">
-			<idle form="010063b8" id="CP_Death01_F"/>
+		<actor gender="F" idleForm="010063b8">
 		</actor>
-		<actor skeleton="Deathclaw">
-			<idle form="010063bc" id="CP_Death01_C"/>
+		<actor skeleton="Deathclaw" idleForm="010063bc">
 		</actor>
 	</animation>
 
 	<animation id="Deathclawstage02" frames="300">
-		<actor gender="F">
-			<idle form="010063b9" id="CP_Death02_F"/>
+		<actor gender="F" idleForm="010063b9">
 		</actor>
-		<actor skeleton="Deathclaw">
-			<idle form="010063bd" id="CP_Death02_C"/>
+		<actor skeleton="Deathclaw" idleForm="010063bd">
 		</actor>
 	</animation>
 
 	<animation id="Deathclawstage03" frames="300">
-		<actor gender="F">
-			<idle form="010063ba" id="CP_Death03_F"/>
+		<actor gender="F" idleForm="010063ba">
 		</actor>
-		<actor skeleton="Deathclaw">
-			<idle form="010063be" id="CP_Death03_C"/>
+		<actor skeleton="Deathclaw" idleForm="010063be">
 		</actor>
 	</animation>
 
 	<animation id="Deathclawstage04" frames="300">
-		<actor gender="F">
-			<idle form="010063bb" id="CP_Death04_F"/>
+		<actor gender="F" idleForm="010063bb">
 		</actor>
-		<actor skeleton="Deathclaw">
-			<idle form="010063bf" id="CP_Death04_C"/>
+		<actor skeleton="Deathclaw" idleForm="010063bf">
 		</actor>
 	</animation>
 
 	<animation id="FEVHoundstage01" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
-		<actor gender="F">
-			<idle form="01007a8f" id="CP_FEV01_F"/>
+		<actor gender="F" idleForm="01007a8f">
 		</actor>
-		<actor skeleton="FEVHound">
-			<idle form="01007a8b" id="CP_FEV01_C"/>
+		<actor skeleton="FEVHound" idleForm="01007a8b">
 		</actor>
 	</animation>
 
 	<animation id="FEVHoundstage02" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
-		<actor gender="F">
-			<idle form="01007a90" id="CP_FEV02_F"/>
+		<actor gender="F" idleForm="01007a90">
 		</actor>
-		<actor skeleton="FEVHound">
-			<idle form="01007a8c" id="CP_FEV02_C"/>
+		<actor skeleton="FEVHound" idleForm="01007a8c">
 		</actor>
 	</animation>
 
 	<animation id="FEVHoundstage03" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
-		<actor gender="F">
-			<idle form="01007a91" id="CP_FEV03_F"/>
+		<actor gender="F" idleForm="01007a91">
 		</actor>
-		<actor skeleton="FEVHound">
-			<idle form="01007a8d" id="CP_FEV03_C"/>
+		<actor skeleton="FEVHound" idleForm="01007a8d">
 		</actor>
 	</animation>
 
 	<animation id="FEVHoundstage04" frames="300" offset="0,0,-4.5,0:0,0,-4.5,0">
-		<actor gender="F">
-			<idle form="01007a92" id="CP_FEV04_F"/>
+		<actor gender="F" idleForm="01007a92">
 		</actor>
-		<actor skeleton="FEVHound">
-			<idle form="01007a8e" id="CP_FEV04_C"/>
+		<actor skeleton="FEVHound" idleForm="01007a8e">
 		</actor>
 	</animation>
 
 	<animation id="Mutantstage01" frames="300">
-		<actor gender="F">
-			<idle form="010098fb" id="CP_Mutant01_F"/>
+		<actor gender="F" idleForm="010098fb">
 		</actor>
-		<actor skeleton="Supermutant">
-			<idle form="010098f7" id="CP_Mutant01_C"/>
+		<actor skeleton="Supermutant" idleForm="010098f7">
 		</actor>
 	</animation>
 
 	<animation id="Mutantstage02" frames="300">
-		<actor gender="F">
-			<idle form="010098fd" id="CP_Mutant02_F"/>
+		<actor gender="F" idleForm="010098fd">
 		</actor>
-		<actor skeleton="Supermutant">
-			<idle form="010098f8" id="CP_Mutant02_C"/>
+		<actor skeleton="Supermutant" idleForm="010098f8">
 		</actor>
 	</animation>
 
 	<animation id="Mutantstage03" frames="300">
-		<actor gender="F">
-			<idle form="010098fe" id="CP_Mutant03_F"/>
+		<actor gender="F" idleForm="010098fe">
 		</actor>
-		<actor skeleton="Supermutant">
-			<idle form="010098f9" id="CP_Mutant03_C"/>
+		<actor skeleton="Supermutant" idleForm="010098f9">
 		</actor>
 	</animation>
 
 	<animation id="Mutantstage04" frames="300">
-		<actor gender="F">
-			<idle form="010098ff" id="CP_Mutant04_F"/>
+		<actor gender="F" idleForm="010098ff">
 		</actor>
-		<actor skeleton="Supermutant">
-			<idle form="010098fa" id="CP_Mutant04_C"/>
+		<actor skeleton="Supermutant" idleForm="010098fa">
 		</actor>
 	</animation>
 
 	<animation id="02Mutantstage01" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a5" id="CP_02Mutant01_F"/>
+		<actor gender="F" idleForm="0100a0a5">
 		</actor>
-		<actor skeleton="SuperMutant">
-			<idle form="0100a099" id="CP_02Mutant01_C"/>
+		<actor skeleton="SuperMutant" idleForm="0100a099">
 		</actor>
 	</animation>
 
 	<animation id="02Mutantstage02" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a6" id="CP_02Mutant02_F"/>
+		<actor gender="F" idleForm="0100a0a6">
 		</actor>
-		<actor skeleton="SuperMutant">
-			<idle form="0100a09a" id="CP_02Mutant02_C"/>
+		<actor skeleton="SuperMutant" idleForm="0100a09a">
 		</actor>
 	</animation>
 
 	<animation id="02Mutantstage03" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a7" id="CP_02Mutant03_F"/>
+		<actor gender="F" idleForm="0100a0a7">
 		</actor>
-		<actor skeleton="SuperMutant">
-			<idle form="0100a09b" id="CP_02Mutant03_C"/>
-			<value path="morph" value="Erection Down" to="0.2"/>
+		<actor skeleton="SuperMutant" idleForm="0100a09b">
+			<morph id="Erection Down" to="0.2"/>
 		</actor>
 	</animation>
 
 	<animation id="02Mutantstage04" frames="300">
-		<actor gender="F">
-			<idle form="0100a0a8" id="CP_02Mutant04_F"/>
+		<actor gender="F" idleForm="0100a0a8">
 		</actor>
-		<actor skeleton="SuperMutant">
-			<idle form="0100a09c" id="CP_02Mutant04_C"/>
-			<value path="morph" value="Erection Down" to="0.2"/>
+		<actor skeleton="SuperMutant" idleForm="0100a09c">
+			<morph id="Erection Down" to="0.2"/>
 		</actor>
 	</animation>
 </animationData>
