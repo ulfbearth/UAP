@@ -1,0 +1,89 @@
+﻿<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="GrayUserBPAnimations.esp"/>
+
+	<!-- Facedown Animations -->
+
+	<animation id="GUBA_Facedown_MM_01_S1" frames="300">
+		<actor gender="M" idleForm="00000F99">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Facedown_MM_01_S2" frames="300">
+		<actor gender="M" idleForm="00000F9A">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Facedown_MM_01_S3" frames="300">
+		<actor gender="M" idleForm="00000F9B">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<!-- Facedown Kneel Animations -->
+
+	<animation id="GUBA_Facedown_MM_Kneel_01_S1" frames="300">
+		<actor gender="M" idleForm="00000F9C">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Facedown_MM_Kneel_01_S2" frames="300">
+		<actor gender="M" idleForm="00000F9D">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<!-- Hogtie Animations -->
+
+	<animation id="GUBA_Hogtie_MM_01_S1" frames="300">
+		<actor gender="M" idleForm="00000F9E">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Hogtie_MM_01_S2" frames="300">
+		<actor gender="M" idleForm="00000F9F">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Hogtie_MM_01_S3" frames="300">
+		<actor gender="M" idleForm="00000FA0">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Hogtie_MM_01_S4" frames="300">
+		<actor gender="M" idleForm="00000FA1">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<!-- Side Animations -->
+
+	<animation id="GUBA_Side_MM_01_S1" frames="300">
+		<actor gender="M" idleForm="00000FA2">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Side_MM_01_S2" frames="300">
+		<actor gender="M" idleForm="00000FA3">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Side_MM_01_S3" frames="300">
+		<actor gender="M" idleForm="00000FA4">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="GUBA_Side_MM_01_S4" frames="300">
+		<actor gender="M" idleForm="00000FA5">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+</animationData>
