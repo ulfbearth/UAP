@@ -4,54 +4,46 @@
 	<!-- Angler -->
 
 	<animation id="GUCP_Angler_MM_01_S1" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M">
-			<idle form="010081e7" id="_CP_AnglerFem01"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081e7">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Angler">
-			<idle form="010081ff" id="_CP_AnglerC01"/>
+		<actor gender="M" skeleton="Angler" idleForm="010081ff">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Angler_MM_01_S2" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M">
-			<idle form="010081e8" id="_CP_AnglerFem02"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081e8">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Angler">
-			<idle form="01008200" id="_CP_AnglerC02"/>
+		<actor gender="M" skeleton="Angler" idleForm="01008200">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Angler_MM_01_S3" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M">
-			<idle form="010081e9" id="_CP_AnglerFem03"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081e9">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Angler">
-			<idle form="01008201" id="_CP_AnglerC03"/>
+		<actor gender="M" skeleton="Angler" idleForm="01008201">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Angler_MM_01_S4" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M">
-			<idle form="010081ea" id="_CP_AnglerFem04"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081ea">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Angler">
-			<idle form="01008202" id="_CP_AnglerC04"/>
+		<actor gender="M" skeleton="Angler" idleForm="01008202">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -62,54 +54,46 @@
 	<!-- Fog Crawler -->
 
 	<animation id="GUCP_Fog_MM_01_S1" frames="300">
-		<actor gender="M">
-			<idle form="010081ef" id="_CP_FogFem01"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081ef">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FogCrawler">
-			<idle form="01008207" id="_CP_FogC01"/>
+		<actor gender="M" skeleton="FogCrawler" idleForm="01008207">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Fog_MM_01_S2" frames="300">
-		<actor gender="M">
-			<idle form="010081f0" id="_CP_FogFem02"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f0">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FogCrawler">
-			<idle form="01008208" id="_CP_FogC02"/>
+		<actor gender="M" skeleton="FogCrawler" idleForm="01008208">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Fog_MM_01_S3" frames="300">
-		<actor gender="M">
-			<idle form="010081f1" id="_CP_FogFem03"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f1">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FogCrawler">
-			<idle form="01008209" id="_CP_FogC03"/>
+		<actor gender="M" skeleton="FogCrawler" idleForm="01008209">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Fog_MM_01_S4" frames="300">
-		<actor gender="M">
-			<idle form="010081f2" id="_CP_FogFem04"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f2">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FogCrawler">
-			<idle form="0100820a" id="_CP_FogC04"/>
+		<actor gender="M" skeleton="FogCrawler" idleForm="0100820a">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -119,106 +103,90 @@
 	<!-- Gulper -->
 
 	<animation id="GUCP_Gulper_MM_01_S1" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="010081f3" id="_CP_GulperFem01"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f3">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Gulper">
-			<idle form="0100820b" id="_CP_GulperC01"/>
+		<actor gender="M" skeleton="Gulper" idleForm="0100820b">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Gulper_MM_01_S2" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="010081f4" id="_CP_GulperFem02"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f4">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Gulper">
-			<idle form="0100820c" id="_CP_GulperC02"/>
+		<actor gender="M" skeleton="Gulper" idleForm="0100820c">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Gulper_MM_01_S3" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="010081f5" id="_CP_GulperFem03"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f5">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Gulper">
-			<idle form="0100820d" id="_CP_GulperC03"/>
+		<actor gender="M" skeleton="Gulper" idleForm="0100820d">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Gulper_MM_01_S4" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="010081f6" id="_CP_GulperFem04"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f6">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Gulper">
-			<idle form="0100820e" id="_CP_GulperC04"/>
+		<actor gender="M" skeleton="Gulper" idleForm="0100820e">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S1" frames="300">
-		<actor gender="M">
-			<idle form="01026047" id="_CP_GulperLFem01"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="01026047">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="GulperLarge">
-			<idle form="0100820b" id="_CP_GulperC01"/>
+		<actor gender="M" skeleton="GulperLarge" idleForm="0100820b">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S2" frames="300">
-		<actor gender="M">
-			<idle form="01026048" id="_CP_GulperLFem02"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="01026048">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="GulperLarge">
-			<idle form="0100820c" id="_CP_GulperC02"/>
+		<actor gender="M" skeleton="GulperLarge" idleForm="0100820c">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S3" frames="300">
-		<actor gender="M">
-			<idle form="01026049" id="_CP_GulperLFem03"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="01026049">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="GulperLarge">
-			<idle form="0100820d" id="_CP_GulperC03"/>
+		<actor gender="M" skeleton="GulperLarge" idleForm="0100820d">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S4" frames="300">
-		<actor gender="M">
-			<idle form="0102604a" id="_CP_GulperLFem04"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="0102604a">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="GulperLarge">
-			<idle form="0100820e" id="_CP_GulperC04"/>
+		<actor gender="M" skeleton="GulperLarge" idleForm="0100820e">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -228,55 +196,47 @@
 
 	<!-- Hermit -->
 
-	<animation id="GUCP_Hermit_MM_01_S1" frames="300" offset="0,5.5,1,0:0,0,0,0"> <!-- In Animation offset is 156.365-->
-		<actor gender="M">
-			<idle form="010081f7" id="_CP_HermitFem01"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+	<animation id="GUCP_Hermit_MM_01_S1" frames="300" offset="0,5.5,1,0:0,0,0,0">		<!-- In Animation offset is 156.365-->
+		<actor gender="M" idleForm="010081f7">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Hermit">
-			<idle form="0100820f" id="_CP_HermitC01"/>
+		<actor gender="M" skeleton="Hermit" idleForm="0100820f">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
-	<animation id="GUCP_Hermit_MM_01_S2" frames="300" offset="0,5.5,1,0:0,0,0,0"> 
-		<actor gender="M">
-			<idle form="010081f8" id="_CP_HermitFem02"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+	<animation id="GUCP_Hermit_MM_01_S2" frames="300" offset="0,5.5,1,0:0,0,0,0">
+		<actor gender="M" idleForm="010081f8">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Hermit">
-			<idle form="01008210" id="_CP_HermitC02"/>
+		<actor gender="M" skeleton="Hermit" idleForm="01008210">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Hermit_MM_01_S3" frames="300" offset="0,5.5,1,0:0,0,0,0">
-		<actor gender="M">
-			<idle form="010081f9" id="_CP_HermitFem03"/>
-			<value path="action" value="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="010081f9">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Hermit">
-			<idle form="01008211" id="_CP_HermitC03"/>
+		<actor gender="M" skeleton="Hermit" idleForm="01008211">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
-	<animation id="GUCP_Hermit_MM_01_S4" frames="300" offset="0,5.5,1,0:0,0,0,0"> 
-		<actor gender="M">
-			<idle form="010081fa" id="_CP_HermitFem04"/>
-			<value path="action" value="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<value path="morph" value="Erection" to="1.0000000000001"/>
+	<animation id="GUCP_Hermit_MM_01_S4" frames="300" offset="0,5.5,1,0:0,0,0,0">
+		<actor gender="M" idleForm="010081fa">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Hermit">
-			<idle form="01008212" id="_CP_HermitC04"/>
+		<actor gender="M" skeleton="Hermit" idleForm="01008212">
 
-			<value path="morph" value="CErection" to="1.0000000000001"/>
+			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 </animationData>

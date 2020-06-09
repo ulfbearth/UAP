@@ -6,18 +6,18 @@
 
     <!-- Hermit Crab -->
     <position id="Gray User's Creature Pack - Gay Hermit (Staged)" animationGroup="GUCP_Hermit_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Hermit (Stage 1)" animation="GUCP_Hermit_MM_01_S1" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Hermit (Stage 2)" animation="GUCP_Hermit_MM_01_S2" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Hermit (Stage 3)" animation="GUCP_Hermit_MM_01_S3" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Hermit (Stage 4)" animation="GUCP_Hermit_MM_01_S4" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Hermit (Stage 1)" animation="GUCP_Hermit_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Hermit (Stage 2)" animation="GUCP_Hermit_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Hermit (Stage 3)" animation="GUCP_Hermit_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Hermit (Stage 4)" animation="GUCP_Hermit_MM_01_S4" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
 
 
 
 
     <!-- Fog Crawler -->
     <position id="Gray User's Creature Pack - Gay Fog Crawler (Staged)" animationGroup="GUCP_Fog_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 1)" animation="GUCP_Fog_MM_01_S1" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 2)" animation="GUCP_Fog_MM_01_S2" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 3)" animation="GUCP_Fog_MM_01_S3" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
-    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 4)" animation="GUCP_Fog_MM_01_S4" isHidden="True" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 1)" animation="GUCP_Fog_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 2)" animation="GUCP_Fog_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 3)" animation="GUCP_Fog_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Fog Crawler (Stage 4)" animation="GUCP_Fog_MM_01_S4" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
 </positionData>
