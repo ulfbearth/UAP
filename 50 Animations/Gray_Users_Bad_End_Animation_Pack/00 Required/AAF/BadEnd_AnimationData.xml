@@ -1,0 +1,299 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults source="AAF_BadEnd_Animations.esp"/>
+
+    <animation id="NooseHighFree00" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001eeb">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighFree01" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001eec">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighFree02" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001eed">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighFreeEnd01" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001eee">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighFreeEnd02" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001eef">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighTied00" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001ef0">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighTied01" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001ef1">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighTied02" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001ef2">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighTiedEnd01" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001ef3">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighTiedEnd02" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="0100b0c8">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighTiedStill01" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="0100d6de">
+        </actor>
+    </animation>
+
+    <animation id="NooseHighFreeStill01" frames="300">
+        <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="0100d6dd">
+        </actor>
+    </animation>
+
+    <animation id="PoleLow00" frames="300">
+        <actor gender="F" idleForm="01001ef4">
+        </actor>
+    </animation>
+
+    <animation id="PoleLow01" frames="300">
+        <actor gender="F" idleForm="01001ef5">
+        </actor>
+    </animation>
+
+    <animation id="PoleLow02" frames="300">
+        <actor gender="F" idleForm="01001ef6">
+        </actor>
+    </animation>
+
+    <animation id="PoleLowEnd00" frames="240">
+        <actor gender="F" idleForm="0100b0c9">
+        </actor>
+    </animation>
+
+    <animation id="PoleLowEnd01" frames="300">
+        <actor gender="F" idleForm="0100b0ca">
+        </actor>
+    </animation>
+
+    <animation id="PoleLowEnd02" frames="300">
+        <actor gender="F" idleForm="0100b0cb">
+        </actor>
+    </animation>
+
+    <animation id="PoleTransition01" frames="240">
+        <actor gender="F" idleForm="01001efa">
+        </actor>
+    </animation>
+
+    <animation id="PoleHigh00" frames="300">
+        <actor gender="F" idleForm="01001ef7">
+        </actor>
+    </animation>
+
+    <animation id="PoleHigh01" frames="300">
+        <actor gender="F" idleForm="01001ef8">
+        </actor>
+    </animation>
+
+    <animation id="PoleHigh02" frames="300">
+        <actor gender="F" idleForm="01001ef9">
+        </actor>
+    </animation>
+
+    <animation id="PoleStill01" frames="300">
+        <actor gender="F" idleForm="0100d6df">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFree00" frames="300">
+        <actor gender="F" idleForm="01004dbf">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFree01" frames="300">
+        <actor gender="F" idleForm="01004dc0">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFree02" frames="300">
+        <actor gender="F" idleForm="01004dc1">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFree03" frames="300">
+        <actor gender="F" idleForm="01004dc2">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFreeEnd01" frames="300">
+        <actor gender="F" idleForm="01004dc3">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFreeEnd02" frames="300">
+        <actor gender="F" idleForm="01004dc4">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTied00" frames="300">
+        <actor gender="F" idleForm="01004dc5">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTied01" frames="300">
+        <actor gender="F" idleForm="01004dc6">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTied02" frames="300">
+        <actor gender="F" idleForm="01004dc7">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTied03" frames="300">
+        <actor gender="F" idleForm="01004dc8">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTiedEnd01" frames="300">
+        <actor gender="F" idleForm="01004dc9">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTiedEnd02" frames="300">
+        <actor gender="F" idleForm="01004dca">
+        </actor>
+    </animation>
+
+    <animation id="GPoleTiedStill01" frames="300">
+        <actor gender="F" idleForm="0100d6dc">
+        </actor>
+    </animation>
+
+    <animation id="GPoleFreeStill01" frames="300">
+        <actor gender="F" idleForm="0100d6db">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChair00" frames="300">
+        <actor gender="F" idleForm="01004dcb">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChair01" frames="300">
+        <actor gender="F" idleForm="01004dcc">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChair02" frames="300">
+        <actor gender="F" idleForm="01004dcd">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChair03" frames="300">
+        <actor gender="F" idleForm="01004dce">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChairEnd00" frames="300">
+        <actor gender="F" idleForm="01008ab6">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChairEnd01" frames="300">
+        <actor gender="F" idleForm="01004dcf">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChairEnd02" frames="300">
+        <actor gender="F" idleForm="01004dd0">
+        </actor>
+    </animation>
+
+    <animation id="InstituteChairStill01" frames="300">
+        <actor gender="F" idleForm="0100d6da">
+        </actor>
+    </animation>
+
+    <animation id="MachineChair00" frames="300">
+        <actor gender="F" idleForm="01004dcb">
+        </actor>
+    </animation>
+
+    <animation id="MachineChair01" frames="300">
+        <actor gender="F" idleForm="01004dcc">
+        </actor>
+    </animation>
+
+    <animation id="MachineChair02" frames="300">
+        <actor gender="F" idleForm="01004dcd">
+        </actor>
+    </animation>
+
+    <animation id="MachineChair03" frames="300">
+        <actor gender="F" idleForm="01004dce">
+        </actor>
+    </animation>
+
+    <animation id="MachineChairEnd00" frames="300">
+        <actor gender="F" idleForm="01008ab6">
+        </actor>
+    </animation>
+
+    <animation id="MachineChairEnd01" frames="300">
+        <actor gender="F" idleForm="01004dcf">
+        </actor>
+    </animation>
+
+    <animation id="MachineChairEnd02" frames="300">
+        <actor gender="F" idleForm="01004dd0">
+        </actor>
+    </animation>
+
+    <animation id="MachineChairStill01" frames="300">
+        <actor gender="F" idleForm="0100d6da">
+        </actor>
+    </animation>
+
+
+    <animation id="Test00" frames="300">
+        <actor gender="F" idleForm="010036e2">
+        </actor>
+    </animation>
+
+    <animation id="Test01" frames="300">
+        <actor gender="F" idleForm="010036e3">
+        </actor>
+    </animation>
+
+    <animation id="Test02" frames="300">
+        <actor gender="F" idleForm="010036e4">
+        </actor>
+    </animation>
+
+    <animation id="Test03" frames="300">
+        <actor gender="F" idleForm="010036e5">
+        </actor>
+    </animation>
+
+    <animation id="Test04" frames="300">
+        <actor gender="F" idleForm="010036e6">
+        </actor>
+    </animation>
+
+    <animation id="Test05" frames="300">
+        <actor gender="F" idleForm="010036e7">
+        </actor>
+    </animation>
+</animationData>
