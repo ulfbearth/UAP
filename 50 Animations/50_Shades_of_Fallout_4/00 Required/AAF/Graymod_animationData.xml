@@ -1,0 +1,859 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults source="AAF_GrayAnimations.esp"/>
+
+    <!-- Spanking 01 Animations -->
+
+    <animation id="Gray_Spanking01_S1" frames="300">
+        <actor gender="F" idleForm="01000f99">
+        </actor>
+        <actor gender="M" idleForm="01000f9A">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01_S2" frames="300">
+        <actor gender="F" idleForm="01000f9B">
+        </actor>
+        <actor gender="M" idleForm="01000f9C">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01_S3" frames="300">
+        <actor gender="F" idleForm="01000f9D">
+        </actor>
+        <actor gender="M" idleForm="01000f9E">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01_S4" frames="300">
+        <actor gender="F" idleForm="01000f9F">
+        </actor>
+        <actor gender="M" idleForm="01000fA0">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01Gag_S1" frames="300">
+        <actor gender="F" idleForm="01005bf6">
+        </actor>
+        <actor gender="M" idleForm="01000f9A">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01Gag_S2" frames="300">
+        <actor gender="F" idleForm="01005bf7">
+        </actor>
+        <actor gender="M" idleForm="01000f9C">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01Gag_S3" frames="300">
+        <actor gender="F" idleForm="01005bf8">
+        </actor>
+        <actor gender="M" idleForm="01000f9E">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking01Gag_S4" frames="300">
+        <actor gender="F" idleForm="01005bf9">
+        </actor>
+        <actor gender="M" idleForm="01000fA0">
+        </actor>
+    </animation>
+
+
+    <!-- Spanking 02 Animations -->
+
+    <animation id="Gray_Spanking02_S1" frames="300">
+        <actor gender="F" idleForm="0100268f">
+        </actor>
+        <actor gender="M" idleForm="01002690">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02_S2" frames="300">
+        <actor gender="F" idleForm="01002691">
+        </actor>
+        <actor gender="M" idleForm="01002692">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02_S3" frames="300">
+        <actor gender="F" idleForm="01002693">
+        </actor>
+        <actor gender="M" idleForm="01002694">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02_S4" frames="300">
+        <actor gender="F" idleForm="01002695">
+        </actor>
+        <actor gender="M" idleForm="01002696">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02Gag_S1" frames="300">
+        <actor gender="F" idleForm="01005bfa">
+        </actor>
+        <actor gender="M" idleForm="01002690">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02Gag_S2" frames="300">
+        <actor gender="F" idleForm="01005bfb">
+        </actor>
+        <actor gender="M" idleForm="01002692">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02Gag_S3" frames="300">
+        <actor gender="F" idleForm="01005bfc">
+        </actor>
+        <actor gender="M" idleForm="01002694">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Spanking02Gag_S4" frames="300">
+        <actor gender="F" idleForm="01005bfd">
+        </actor>
+        <actor gender="M" idleForm="01002696">
+        </actor>
+    </animation>
+
+
+
+
+
+    <!-- Missionary 01 Animations -->
+
+    <animation id="Gray_Missionary01_S1" frames="300">
+        <actor gender="F" idleForm="0100266f">
+        </actor>
+        <actor gender="M" idleForm="01002670">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01_S2" frames="300">
+        <actor gender="F" idleForm="01002671">
+        </actor>
+        <actor gender="M" idleForm="01002672">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01_S3" frames="300">
+        <actor gender="F" idleForm="01002673">
+        </actor>
+        <actor gender="M" idleForm="01002674">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01_S4" frames="300">
+        <actor gender="F"  idleForm="01002675">
+        </actor>
+        <actor gender="M" idleForm="01002676">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01Gag_S1" frames="300">
+        <actor gender="F" idleForm="01005445">
+        </actor>
+        <actor gender="M" idleForm="01002670">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01Gag_S2" frames="300">
+        <actor gender="F" idleForm="01005446">
+        </actor>
+        <actor gender="M" idleForm="01002672">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01Gag_S3" frames="300">
+        <actor gender="F" idleForm="01005447">
+        </actor>
+        <actor gender="M" idleForm="01002674">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01Gag_S4" frames="300">
+        <actor gender="F"  idleForm="01005448">
+        </actor>
+        <actor gender="M" idleForm="01002676">
+        </actor>
+    </animation>
+
+
+    <!-- Missionary 02 Animations -->
+
+    <animation id="Gray_Missionary02_S1" frames="300">
+        <actor gender="F" idleForm="01002677">
+        </actor>
+        <actor gender="M" idleForm="01002678">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02_S2" frames="300">
+        <actor gender="F" idleForm="01002679">
+        </actor>
+        <actor gender="M" idleForm="0100267a">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02_S3" frames="300">
+        <actor gender="F" idleForm="0100267b">
+        </actor>
+        <actor gender="M" idleForm="0100267c">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02_S4" frames="300">
+        <actor gender="F"  idleForm="0100267d">
+        </actor>
+        <actor gender="M" idleForm="0100267e">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02Gag_S1" frames="300">
+        <actor gender="F" idleForm="01005449">
+        </actor>
+        <actor gender="M" idleForm="01002678">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02Gag_S2" frames="300">
+        <actor gender="F" idleForm="0100544A">
+        </actor>
+        <actor gender="M" idleForm="0100267a">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02Gag_S3" frames="300">
+        <actor gender="F" idleForm="0100544B">
+        </actor>
+        <actor gender="M" idleForm="0100267c">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02Gag_S4" frames="300">
+        <actor gender="F" idleForm="0100544C">
+        </actor>
+        <actor gender="M" idleForm="0100267e">
+        </actor>
+    </animation>
+
+
+    <!-- Doggy 01 Animations -->
+
+    <animation id="Gray_Doggy01_S1" frames="300">
+        <actor gender="F" idleForm="0100267f">
+        </actor>
+        <actor gender="M" idleForm="01002680">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01_S2" frames="300">
+        <actor gender="F" idleForm="01002681">
+        </actor>
+        <actor gender="M" idleForm="01002682">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01_S3" frames="300">
+        <actor gender="F" idleForm="01002683">
+        </actor>
+        <actor gender="M" idleForm="01002684">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01_S4" frames="300">
+        <actor gender="F"  idleForm="01002685">
+        </actor>
+        <actor gender="M" idleForm="01002686">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01Gag_S1" frames="300">
+        <actor gender="F" idleForm="01005441">
+        </actor>
+        <actor gender="M" idleForm="01002680">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01Gag_S2" frames="300">
+        <actor gender="F" idleForm="01005442">
+        </actor>
+        <actor gender="M" idleForm="01002682">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01Gag_S3" frames="300">
+        <actor gender="F" idleForm="01005443">
+        </actor>
+        <actor gender="M" idleForm="01002684">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01Gag_S4" frames="300">
+        <actor gender="F"  idleForm="01005444">
+        </actor>
+        <actor gender="M" idleForm="01002686">
+        </actor>
+    </animation>
+
+
+    <!-- Doggy 02 Animations -->
+
+    <animation id="Gray_Doggy02_S1" frames="300">
+        <actor gender="F" idleForm="01002687">
+        </actor>
+        <actor gender="M" idleForm="01002688">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02_S2" frames="300">
+        <actor gender="F" idleForm="01002689">
+        </actor>
+        <actor gender="M" idleForm="0100268a">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02_S3" frames="300">
+        <actor gender="F" idleForm="0100268b">
+        </actor>
+        <actor gender="M" idleForm="0100268c">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02_S4" frames="300">
+        <actor gender="F"  idleForm="0100268d">
+        </actor>
+        <actor gender="M" idleForm="0100268e">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02Gag_S1" frames="300">
+        <actor gender="F" idleForm="01004ca1">
+        </actor>
+        <actor gender="M" idleForm="01002688">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02Gag_S2" frames="300">
+        <actor gender="F" idleForm="01004ca2">
+        </actor>
+        <actor gender="M" idleForm="0100268a">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02Gag_S3" frames="300">
+        <actor gender="F" idleForm="01004ca3">
+        </actor>
+        <actor gender="M" idleForm="0100268c">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02Gag_S4" frames="300">
+        <actor gender="F"  idleForm="01004ca4">
+        </actor>
+        <actor gender="M" idleForm="0100268e">
+            <morph id="Erection Down" to="0.2"/>
+        </actor>
+    </animation>
+
+
+    <!-- ===================================================================================== -->
+    <!-- FF Animations-->
+
+
+    <animation id="Gray_Missionary01FF_S1" frames="300">
+        <actor gender="F" idleForm="0100266f">
+        </actor>
+        <actor gender="F" idleForm="01005bf2">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FF_S2" frames="300">
+        <actor gender="F" idleForm="01002671">
+        </actor>
+        <actor gender="F" idleForm="01005bf3">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FF_S3" frames="300">
+        <actor gender="F" idleForm="01002673">
+        </actor>
+        <actor gender="F" idleForm="01005bf4">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FF_S4" frames="300">
+        <actor gender="F" idleForm="01002675">
+        </actor>
+        <actor gender="F" idleForm="01005bf5">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FFGag_S1" frames="300">
+        <actor gender="F" idleForm="01005445">
+        </actor>
+        <actor gender="F" idleForm="01005bf2">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FFGag_S2" frames="300">
+        <actor gender="F" idleForm="01005446">
+        </actor>
+        <actor gender="F" idleForm="01005bf3">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FFGag_S3" frames="300">
+        <actor gender="F" idleForm="01005447">
+        </actor>
+        <actor gender="F" idleForm="01005bf4">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary01FFGag_S4" frames="300">
+        <actor gender="F" idleForm="01005448">
+        </actor>
+        <actor gender="F" idleForm="01005bf5">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+
+    <!-- Missionary 02 Animations -->
+
+    <animation id="Gray_Missionary02FF_S1" frames="300">
+        <actor gender="F" idleForm="01002677">
+        </actor>
+        <actor gender="F" idleForm="0100544D">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02FF_S2" frames="300">
+        <actor gender="F" idleForm="01002679">
+        </actor>
+        <actor gender="F" idleForm="0100544E">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02FF_S3" frames="300">
+        <actor gender="F" idleForm="0100267b">
+        </actor>
+        <actor gender="F" idleForm="0100544F">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02FF_S4" frames="300">
+        <actor gender="F" idleForm="0100267d">
+        </actor>
+        <actor gender="F" idleForm="01005450">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+
+    <animation id="Gray_Missionary02FFGag_S1" frames="300">
+        <actor gender="F" idleForm="01005449">
+        </actor>
+        <actor gender="F" idleForm="0100544D">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02FFGag_S2" frames="300">
+        <actor gender="F" idleForm="0100544A">
+        </actor>
+        <actor gender="F" idleForm="0100544E">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02FFGag_S3" frames="300">
+        <actor gender="F" idleForm="0100544B">
+        </actor>
+        <actor gender="F" idleForm="0100544F">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Missionary02FFGag_S4" frames="300">
+        <actor gender="F" idleForm="0100544C">
+        </actor>
+        <actor gender="F" idleForm="01005450">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+
+    <!-- Doggy 01 Animations-->
+
+    <animation id="Gray_Doggy01FF_S1" frames="300">
+        <actor gender="F" idleForm="0100267f">
+        </actor>
+        <actor gender="F" idleForm="01005bea">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FF_S2" frames="300">
+        <actor gender="F" idleForm="01002681">
+        </actor>
+        <actor gender="F" idleForm="01005beb">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FF_S3" frames="300">
+        <actor gender="F" idleForm="01002683">
+        </actor>
+        <actor gender="F" idleForm="01005bec">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FF_S4" frames="300">
+        <actor gender="F" idleForm="01002685">
+        </actor>
+        <actor gender="F" idleForm="01005bed">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FFGag_S1" frames="300">
+        <actor gender="F" idleForm="01005441">
+        </actor>
+        <actor gender="F" idleForm="01005bea">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FFGag_S2" frames="300">
+        <actor gender="F" idleForm="01005442">
+        </actor>
+        <actor gender="F" idleForm="01005beb">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FFGag_S3" frames="300">
+        <actor gender="F" idleForm="01005443">
+        </actor>
+        <actor gender="F" idleForm="01005bec">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy01FFGag_S4" frames="300">
+        <actor gender="F" idleForm="01005444">
+        </actor>
+        <actor gender="F" idleForm="01005bed">
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+
+
+    <!-- Doggy 02 Animations -->
+
+    <animation id="Gray_Doggy02FF_S1" frames="300">
+        <actor gender="F" idleForm="01002687">
+        </actor>
+        <actor gender="F" idleForm="01005bee">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FF_S2" frames="300">
+        <actor gender="F" idleForm="01002689">
+        </actor>
+        <actor gender="F" idleForm="01005bef">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FF_S3" frames="300">
+        <actor gender="F" idleForm="0100268b">
+        </actor>
+        <actor gender="F" idleForm="01005bf0">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FF_S4" frames="300">
+        <actor gender="F" idleForm="0100268d">
+        </actor>
+        <actor gender="F" idleForm="01005bf1">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FFGag_S1" frames="300">
+        <actor gender="F" idleForm="01004ca1">
+        </actor>
+        <actor gender="F" idleForm="01005bee">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FFGag_S2" frames="300">
+        <actor gender="F" idleForm="01004ca2">
+        </actor>
+        <actor gender="F" idleForm="01005bef">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FFGag_S3" frames="300">
+        <actor gender="F" idleForm="01004ca3">
+        </actor>
+        <actor gender="F" idleForm="01005bf0">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+    <animation id="Gray_Doggy02FFGag_S4" frames="300">
+        <actor gender="F" idleForm="01004ca4">
+        </actor>
+        <actor gender="F" idleForm="01005bf1">
+            <morph id="Erection Down" to="0.2"/>
+            <action id="FF_activity"/>
+        </actor>
+    </animation>
+
+
+
+    <!-- ===================================================================================== -->
+    <!-- Solo Animations-->
+    <!-- Solo Bent Animations -->
+
+    <animation id="Gray_Bent_S0" frames="300">
+        <actor gender="F" idleForm="010063A0">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Bent_S1" frames="300">
+        <actor gender="F" idleForm="010063A1">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Bent_S2" frames="300">
+        <actor gender="F" idleForm="010063A3">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Bent_S3" frames="300">
+        <actor gender="F" idleForm="010063A5">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Bent_m" frames="300">
+        <actor gender="F" idleForm="010063A7">
+        </actor>
+    </animation>
+
+    <animation id="Gray_BentGag_S0" frames="300">
+        <actor gender="F" idleForm="010063A0">
+        </actor>
+    </animation>
+
+    <animation id="Gray_BentGag_S1" frames="300">
+        <actor gender="F" idleForm="010063a2">
+        </actor>
+    </animation>
+
+    <animation id="Gray_BentGag_S2" frames="300">
+        <actor gender="F" idleForm="010063a4">
+        </actor>
+    </animation>
+
+    <animation id="Gray_BentGag_S3" frames="300">
+        <actor gender="F" idleForm="010063a6">
+        </actor>
+    </animation>
+
+    <animation id="Gray_BentGag_m" frames="300">
+        <actor gender="F" idleForm="010063a8">
+        </actor>
+    </animation>
+
+    <!-- Solo Facedown Animations -->
+
+    <animation id="Gray_Facedown_S0" frames="300">
+        <actor gender="F" idleForm="010063a9">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Facedown_S1" frames="300">
+        <actor gender="F" idleForm="010063aa">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Facedown_S2" frames="300">
+        <actor gender="F" idleForm="010063ac">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Facedown_S3" frames="300">
+        <actor gender="F" idleForm="010063ae">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Facedown_m" frames="300">
+        <actor gender="F" idleForm="010063b0">
+        </actor>
+    </animation>
+
+    <animation id="Gray_FacedownGag_S0" frames="300">
+        <actor gender="F" idleForm="010063a9">
+        </actor>
+    </animation>
+
+    <animation id="Gray_FacedownGag_S1" frames="300">
+        <actor gender="F" idleForm="010063ab">
+        </actor>
+    </animation>
+
+    <animation id="Gray_FacedownGag_S2" frames="300">
+        <actor gender="F" idleForm="010063ad">
+        </actor>
+    </animation>
+
+    <animation id="Gray_FacedownGag_S3" frames="300">
+        <actor gender="F" idleForm="010063af">
+        </actor>
+    </animation>
+
+    <animation id="Gray_FacedownGag_m" frames="300">
+        <actor gender="F" idleForm="010063b1">
+        </actor>
+    </animation>
+
+    <!-- Solo Hogtie Animations -->
+
+    <animation id="Gray_Hogtie_S0" frames="300">
+        <actor gender="F" idleForm="01005bfe">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Hogtie_S1" frames="300">
+        <actor gender="F" idleForm="01005bff">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Hogtie_S2" frames="300">
+        <actor gender="F" idleForm="01005c00">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Hogtie_S3" frames="300">
+        <actor gender="F" idleForm="01005c01">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Hogtie_m" frames="300">
+        <actor gender="F" idleForm="01005c02">
+        </actor>
+    </animation>
+
+    <animation id="Gray_HogtieGag_S0" frames="300">
+        <actor gender="F" idleForm="01005bfe">
+        </actor>
+    </animation>
+
+    <animation id="Gray_HogtieGag_S1" frames="300">
+        <actor gender="F" idleForm="0100639c">
+        </actor>
+    </animation>
+
+    <animation id="Gray_HogtieGag_S2" frames="300">
+        <actor gender="F" idleForm="0100639d">
+        </actor>
+    </animation>
+
+    <animation id="Gray_HogtieGag_S3" frames="300">
+        <actor gender="F" idleForm="0100639e">
+        </actor>
+    </animation>
+
+    <animation id="Gray_HogtieGag_m" frames="300">
+        <actor gender="F" idleForm="0100639f">
+        </actor>
+    </animation>
+
+    <!-- Solo Side Animations -->
+
+    <animation id="Gray_Side_S0" frames="300">
+        <actor gender="F" idleForm="010063b2">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Side_S1" frames="300">
+        <actor gender="F" idleForm="010063b3">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Side_S2" frames="300">
+        <actor gender="F" idleForm="010063b5">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Side_S3" frames="300">
+        <actor gender="F" idleForm="010063b7">
+        </actor>
+    </animation>
+
+    <animation id="Gray_Side_m" frames="300">
+        <actor gender="F" idleForm="010063b9">
+        </actor>
+    </animation>
+
+    <animation id="Gray_SideGag_S0" frames="300">
+        <actor gender="F" idleForm="010063b2">
+        </actor>
+    </animation>
+
+    <animation id="Gray_SideGag_S1" frames="300">
+        <actor gender="F" idleForm="010063b4">
+        </actor>
+    </animation>
+
+    <animation id="Gray_SideGag_S2" frames="300">
+        <actor gender="F" idleForm="010063b6">
+        </actor>
+    </animation>
+
+    <animation id="Gray_SideGag_S3" frames="300">
+        <actor gender="F" idleForm="010063b8">
+        </actor>
+    </animation>
+
+    <animation id="Gray_SideGag_m" frames="300">
+        <actor gender="M" idleForm="010063ba">
+        </actor>
+    </animation>
+</animationData>
