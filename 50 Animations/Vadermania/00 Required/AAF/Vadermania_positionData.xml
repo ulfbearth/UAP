@@ -1,0 +1,17 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+    <animationOffset actor="1" offset="0,0,0"/>
+    <animationOffset actor="2" offset="0,0,0"/>
+
+    <position id="vad_Doggy" animation="vad_Doggy"/>
+    <position id="vad_Table" animation="vad_Table"/>
+    <position id="vad_Dogmeat02" animation="vad_Dogmeat02"/>
+    <position id="vad_Deathclaw slow" animation="vad_Deathclaw02" />
+    <position id="vad_Deathclaw fast" animation="vad_Deathclaw0202" />
+    <position id="vad_Ghoul Behind MF" animation="vad_Ghoul02" />
+    <position id="vad_Ghoul 4w MMMF" animation="vad_Ghoul4w MMMF" />
+    <position id="vad_Ghoul aggro doggy MF" animation="vad_Ghoul03" />
+    <position id="vad_FEVHound Doggy" animation="vad_FEVHound01" startEquipmentSet="addFEVHoundDick" stopEquipmentSet="removeFEVHoundDick" />
+    <position id="vad_Gorilla Front" animation="vad_Gorilla01" startEquipmentSet="addGorillaDick" stopEquipmentSet="removeGorillaDick" />
+</positionData>
