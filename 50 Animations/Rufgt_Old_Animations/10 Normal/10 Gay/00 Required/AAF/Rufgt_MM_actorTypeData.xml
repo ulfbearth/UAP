@@ -1,9 +1,0 @@
-<actorTypeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="Fallout4.esm"/>
-
-	<!-- HUMANS -->
-
-	<group id="Ghoul">
-		<actorType form="000EAFB7" id="ActorTypeGhoul"/>
-	</group>
-</actorTypeData>
