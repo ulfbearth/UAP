@@ -1,0 +1,8 @@
+<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="DLCworkshop03.esm"/>
+
+	<group id="WeightBench">
+		<furniture form="119A"/>
+	</group>
+	
+</furnitureData>

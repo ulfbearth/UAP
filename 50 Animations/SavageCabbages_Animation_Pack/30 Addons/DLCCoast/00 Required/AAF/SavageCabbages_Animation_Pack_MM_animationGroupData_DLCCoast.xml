@@ -1,8 +1,6 @@
 <animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults/>
 
-
-
 	<animationGroup id="SCAP_SittingOuthouse_MM_2Dog_01_Staged" sequential="true">
 		<stage animation="SCAP_SittingOuthouse_MM_2Dog_01_S1"/>
 		<stage animation="SCAP_SittingOuthouse_MM_2Dog_01_S2"/>
@@ -13,4 +11,5 @@
 		<stage animation="SCAP_SittingOuthouse_MM_2Dog_01_S7"/>
 		<stage animation="SCAP_SittingOuthouse_MM_2Dog_01_S8"/>
 	</animationGroup>
+	
 </animationGroupData>

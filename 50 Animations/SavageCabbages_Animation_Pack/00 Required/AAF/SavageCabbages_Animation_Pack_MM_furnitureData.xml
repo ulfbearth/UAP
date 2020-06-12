@@ -1,0 +1,17 @@
+<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="Fallout4.esm"/>
+
+
+
+	<group id="WallChurch">
+		<furniture form="000DD7EB" id="ChurchMainA1x2Wall01"/>
+		<furniture form="000DD7E8" id="ChurchMainA1x2Win01"/>
+		<furniture form="000DD7E9" id="ChurchMainA1x2Win01Full01"/>
+		<furniture form="000DD80F" id="ChurchMainAButtress01"/>
+		<furniture form="000DD84A" id="ChurchMainA1x2WallHalf01Full01"/>
+		<furniture form="000DD88C" id="ChurchMainA1x2Wall01Full01"/>
+	</group>
+
+	
+	
+</furnitureData>
