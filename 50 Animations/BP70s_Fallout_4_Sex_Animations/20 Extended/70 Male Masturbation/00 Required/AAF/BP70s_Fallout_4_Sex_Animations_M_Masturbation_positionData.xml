@@ -3,5 +3,13 @@
 
     <!-- Furniture Animations -->
 
-    <position id="BP70's Fallout 4 Sex Animations - Masturbation (Male)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_M_01"/>
+    <position id="BP70 Fast Male Masturbation (Couch)" location="Couch" animation="rxl_bp70_male_couchmastfast"/>
+    <position id="BP70 Male Masturbation (Couch)" location="Couch" animation="rxl_bp70_male_couchmast"/>
+    <position id="BP70 Male Masturbation (Double Bed)" location="Double Bed" animation="rxl_bp70_male_bedmast"/>
+    <position id="BP70 Male Masturbation (Bed)" location="Single Bed" animation="rxl_bp70_male_bedmast"/>
+    <position id="BP70 Male Masturbation (Toilet)" location="Toilet" animation="rxl_bp70_male_toiletmast"/>
+
+
+
+
 </positionData>

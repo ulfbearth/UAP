@@ -1,13 +1,31 @@
 <transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
     <defaults/>
 
+    <!-- Missionary Animations-->
     <transition from="FO4SA_Missionary_MM_Impregnate_01_1" to="FO4SA_Missionary_MM_Impregnate_01_2A" animation="FO4SA_Missionary_MM_Impregnate_01_1TR2A"/>
     <transition from="FO4SA_Missionary_MM_Impregnate_01_2A" to="FO4SA_Missionary_MM_Impregnate_01_3A" animation="FO4SA_Missionary_MM_Impregnate_01_2ATR3A"/>
     <transition from="FO4SA_Missionary_MM_Impregnate_01_3A" to="FO4SA_Missionary_MM_Impregnate_01_4A" animation="FO4SA_Missionary_MM_Impregnate_01_3ATR4A"/>
     <transition from="FO4SA_Missionary_MM_Impregnate_01_4A" to="FO4SA_Missionary_MM_Impregnate_01_5A" animation="FO4SA_Missionary_MM_Impregnate_01_4ATR5A"/>
 
+
+
     <transition from="FO4SA_Missionary_MM_Impregnate_01_1" to="FO4SA_Missionary_MM_Impregnate_01_2B" animation="FO4SA_Missionary_MM_Impregnate_01_1TR2B"/>
     <transition from="FO4SA_Missionary_MM_Impregnate_01_2B" to="FO4SA_Missionary_MM_Impregnate_01_3B" animation="FO4SA_Missionary_MM_Impregnate_01_2BTR3B"/>
     <transition from="FO4SA_Missionary_MM_Impregnate_01_3B" to="FO4SA_Missionary_MM_Impregnate_01_4B" animation="FO4SA_Missionary_MM_Impregnate_01_3BTR4B"/>
     <transition from="FO4SA_Missionary_MM_Impregnate_01_4B" to="FO4SA_Missionary_MM_Impregnate_01_5B" animation="FO4SA_Missionary_MM_Impregnate_01_4BTR5B"/>
+
+
+
+    <transition from="FO4SA_Missionaryswish_MM_01_S1" to="FO4SA_Missionaryswish_MM_01_S2" animation="FO4SA_Missionaryswish_MM_01_S1-2Trans"/>
+    <transition from="FO4SA_Missionaryswish_MM_01_S2" to="FO4SA_Missionaryswish_MM_01_S3" animation="FO4SA_Missionaryswish_MM_01_S2-3Trans"/>
+    <transition from="FO4SA_Missionaryswish_MM_01_S3" to="FO4SA_Missionaryswish_MM_01_S4" animation="FO4SA_Missionaryswish_MM_01_S3-4Trans"/>
+    <transition from="FO4SA_Missionaryswish_MM_01_S4" to="FO4SA_Missionaryswish_MM_01_S5" animation="FO4SA_Missionaryswish_MM_01_S4-5Trans"/>
+
+
+
+
+
+    <!-- Doggy Animations-->
+    <transition from="FO4SA_ProneBone_MM_01_S1" to="FO4SA_ProneBone_MM_01_S2" animation="FO4SA_ProneBone_MM_01_S1-2Trans"/>
+    <transition from="FO4SA_ProneBone_MM_01_S2" to="FO4SA_ProneBone_MM_01_S3" animation="FO4SA_ProneBone_MM_01_S2-3Trans"/>
 </transitionData>
