@@ -6,47 +6,47 @@
 	<topicGroup id="MaleMoans Topic" tryRate="0" chance="0">
 
 		<!-- Generic Male VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12901" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12902" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12901" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12902" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
 
 
 		<!-- Ulfberth VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="835" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="835" voiceTypeSource="Fallout4.esm" isOverride="true" conditions="isUlfberth"/>
 
 
 		<!-- Player Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83D" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83D" voiceTypeSource="Fallout4.esm" conditions="isPlayer"/>
 
 
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Fallout4.esm" isOverride="true" conditions="isDanse"/>
 	</topicGroup>
 
 
 	<topicGroup id="CreatureMoans Topic" tryRate="0" chance="0">
 
 		<!-- Behemoth Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="842" voiceTypeSource="Manly Moans.esp" conditions="isBehemoth"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="842" voiceTypeSource="Fallout4.esm" conditions="isBehemoth"/>
 
 		<!-- Dog Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="844" voiceTypeSource="Manly Moans.esp" conditions="isDog"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="844" voiceTypeSource="Fallout4.esm" conditions="isDog"/>
 
 		<!-- FeralGhoul Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="845" voiceTypeSource="Manly Moans.esp" conditions="isFeralGhoul"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="845" voiceTypeSource="Fallout4.esm" conditions="isFeralGhoul"/>
 
 		<!-- Gorilla Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="846" voiceTypeSource="Manly Moans.esp" conditions="isGorilla"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="846" voiceTypeSource="Fallout4.esm" conditions="isGorilla"/>
 
 		<!-- MutantHound Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="841" voiceTypeSource="Manly Moans.esp" conditions="isMutantHound"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="841" voiceTypeSource="Fallout4.esm" conditions="isMutantHound"/>
 
 		<!-- Supermutant Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="847" voiceTypeSource="Manly Moans.esp" conditions="isSupermutant"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="847" voiceTypeSource="Fallout4.esm" conditions="isSupermutant"/>
 
 		<!-- YaoGuai Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="848" voiceTypeSource="Manly Moans.esp" conditions="isYaoGuai"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="848" voiceTypeSource="Fallout4.esm" conditions="isYaoGuai"/>
 	</topicGroup>
 
 
@@ -60,15 +60,15 @@
 	<topicGroup id="MaleBlowjob Topic" tryRate="0" chance="0">
 
 		<!-- Generic Male VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
 
 
 		<!-- Ulfberth VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="837" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="837" voiceTypeSource="Fallout4.esm" isOverride="true" conditions="isUlfberth"/>
 
 
 		<!-- Player Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83C" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83C" voiceTypeSource="Fallout4.esm" conditions="isPlayer"/>
 	</topicGroup>
 
 
@@ -82,20 +82,20 @@
 	<topicGroup id="MaleOrgasm Topic" tryRate="0" chance="0">
 
 		<!-- Generic Male VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12909" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12909" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
 
 
 		<!-- Ulfberth VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="838" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isUlfberth"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="838" voiceTypeSource="Fallout4.esm" isOverride="true" conditions="isUlfberth"/>
 
 
 		<!-- Player Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83E" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83E" voiceTypeSource="Fallout4.esm" conditions="isPlayer"/>
 
 
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83A" voiceTypeSource="Fallout4.esm" isOverride="true" conditions="isDanse"/>
 	</topicGroup>
 
 
@@ -108,21 +108,21 @@
 	<topicGroup id="MaleAggMoans Topic" tryRate="0" chance="0">
 
 		<!-- Generic Male VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
 
 
 		<!-- Player Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83F" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83F" voiceTypeSource="Fallout4.esm" conditions="isPlayer"/>
 
 
 		<!-- Ulfberth Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="840" voiceTypeSource="Manly Moans.esp" conditions="isUlfberth"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="840" voiceTypeSource="Fallout4.esm" conditions="isUlfberth"/>
 
 
 
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Fallout4.esm" isOverride="true" conditions="isDanse"/>
 	</topicGroup>
 
 
@@ -130,7 +130,7 @@
 	<topicGroup id="CreatureAggMoans Topic" tryRate="0" chance="0">
 
 		<!-- Supermutant Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="849" voiceTypeSource="Manly Moans.esp" conditions="isSupermutant"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="849" voiceTypeSource="Fallout4.esm" conditions="isSupermutant"/>
 	</topicGroup>
 
 	<!--=====================================================================================================================================================================================-->
@@ -141,10 +141,10 @@
 	<topicGroup id="MaleAggOrgasm Topic" tryRate="0" chance="0">
 
 		<!-- Generic Male VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
 
 
 		<!-- Player VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Fallout4.esm" conditions="isGeneric"/>
 	</topicGroup>
 </topicData>	
