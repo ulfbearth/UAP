@@ -3,7 +3,7 @@
 
     <!-- Institute Chair Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Staged)" tags="Sequential" location="InstituteChairFurniture" animationGroup="GUBEAP_Chair_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Institute Chair" tags="Sequential" location="InstituteChairFurniture" animationGroup="GUBEAP_Chair_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 1)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 2)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Institute Chair (Stage 3)" location="InstituteChairFurniture" animation="GUBEAP_Chair_MM_01_S3" isHidden="true"/>
@@ -13,7 +13,7 @@
 
     <!-- Machine Chair Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Staged)" tags="Sequential" location="MachineChairFurniture" animationGroup="GUBEAP_Chair_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Machine Chair" tags="Sequential" location="MachineChairFurniture" animationGroup="GUBEAP_Chair_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 1)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 2)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Machine Chair (Stage 3)" location="MachineChairFurniture" animation="GUBEAP_Chair_MM_01_S3" isHidden="true"/>
@@ -23,7 +23,7 @@
 
     <!-- Garrote Free Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Staged)" tags="Sequential,LegsFree" location="StranglingPoleFurniture" animationGroup="GUBEAP_Garrote_Free_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Garrote (Free)" tags="Sequential,LegsFree" location="StranglingPoleFurniture" animationGroup="GUBEAP_Garrote_Free_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 1)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 2)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Garrote (Free, Stage 3)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Free_MM_01_S3" isHidden="true"/>
@@ -33,7 +33,7 @@
 
     <!-- Garrote Tied Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Staged)" tags="Sequential,LegsTied" location="StranglingPoleFurniture" animationGroup="GUBEAP_Garrote_Tied_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied)" tags="Sequential,LegsTied" location="StranglingPoleFurniture" animationGroup="GUBEAP_Garrote_Tied_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 1)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 2)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Garrote (Tied, Stage 3)" location="StranglingPoleFurniture" animation="GUBEAP_Garrote_Tied_MM_01_S3" isHidden="true"/>
@@ -43,7 +43,7 @@
 
     <!-- Noose High Free Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Staged)" tags="Sequential,LegsFree" location="GallowsFurniture" animationGroup="GUBEAP_Hanging_Free_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Hanging (Free)" tags="Sequential,LegsFree" location="GallowsFurniture" animationGroup="GUBEAP_Hanging_Free_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 1)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 2)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Hanging (Free, Stage 3)" location="GallowsFurniture" animation="GUBEAP_Hanging_Free_MM_01_S3" isHidden="true"/>
@@ -52,7 +52,7 @@
 
     <!-- Noose High Tied Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Staged)"  tags="Sequential,LegsTied" location="GallowsFurniture" animationGroup="GUBEAP_Hanging_Tied_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied)"  tags="Sequential,LegsTied" location="GallowsFurniture" animationGroup="GUBEAP_Hanging_Tied_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 1)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 2)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Hanging (Tied, Stage 3)" location="GallowsFurniture" animation="GUBEAP_Hanging_Tied_MM_01_S3" isHidden="true"/>
@@ -61,7 +61,7 @@
 
     <!-- Pole High Animations -->
 
-    <position id="Gray User's Bad End Animation Pack - Gay Pole (Staged)" location="ImpalingPoleFurniture" animationGroup="GUBEAP_Pole_MM_01_Staged"/>
+    <position id="Gray User's Bad End Animation Pack - Gay Pole" location="ImpalingPoleFurniture" animationGroup="GUBEAP_Pole_MM_01_Staged"/>
     <position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 1)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S1" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 2)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S2" isHidden="true"/>
     <position id="Gray User's Bad End Animation Pack - Gay Pole (Stage 3)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_MM_01_S3" isHidden="true"/>

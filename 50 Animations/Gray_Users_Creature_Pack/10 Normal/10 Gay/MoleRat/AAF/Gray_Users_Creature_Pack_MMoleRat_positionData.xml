@@ -4,7 +4,7 @@
 
     <!-- Molerat -->
 
-    <position id="Gray User's Creature Pack - Gay Molerat (Staged)" animationGroup="GUCP_Molerat_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Molerat" animationGroup="GUCP_Molerat_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Molerat (Stage 1)" animation="GUCP_Molerat_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Molerat (Stage 2)" animation="GUCP_Molerat_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Molerat (Stage 3)" animation="GUCP_Molerat_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>

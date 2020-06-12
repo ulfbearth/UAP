@@ -4,7 +4,7 @@
 
     <!-- Alien -->
 
-    <position id="Gray User's Creature Pack - Gay Alien (Staged)" animationGroup="GUCP_Alien_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Alien" animationGroup="GUCP_Alien_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Alien (Stage 1)" animation="GUCP_Alien_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Alien (Stage 2)" animation="GUCP_Alien_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Alien (Stage 3)" animation="GUCP_Alien_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>

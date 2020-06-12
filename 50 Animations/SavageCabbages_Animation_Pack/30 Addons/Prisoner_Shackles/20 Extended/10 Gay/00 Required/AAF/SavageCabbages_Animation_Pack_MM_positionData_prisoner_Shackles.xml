@@ -1,7 +1,7 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-    <position id="SavageCabbage's Animation Pack - Gay Held (Shackles, Staged)" location="Shackles" animationGroup="SCAP_HeldShackles_MM_2Human_01_Staged"/>
+    <position id="SavageCabbage's Animation Pack - Gay Held (Shackles)" location="Shackles" animationGroup="SCAP_HeldShackles_MM_2Human_01_Staged"/>
     <position id="SavageCabbage's Animation Pack - Gay Held (Shackles, Stage 1)" location="Shackles" animation="SCAP_HeldShackles_MM_2Human_01_S1"/>
     <position id="SavageCabbage's Animation Pack - Gay Held (Shackles, Stage 2)" location="Shackles" animation="SCAP_HeldShackles_MM_2Human_01_S2"/>
     <position id="SavageCabbage's Animation Pack - Gay Held (Shackles, Stage 3)" location="Shackles" animation="SCAP_HeldShackles_MM_2Human_01_S3"/>

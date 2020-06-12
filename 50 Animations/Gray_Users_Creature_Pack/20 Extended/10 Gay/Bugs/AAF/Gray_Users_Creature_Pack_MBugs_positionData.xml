@@ -4,7 +4,7 @@
 
     <!-- Bloatfly -->
 
-    <position id="Gray User's Creature Pack - Gay Bloatfly (Staged)" animationGroup="GUCP_Bloatfly_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Bloatfly" animationGroup="GUCP_Bloatfly_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Bloatfly (Stage 1)" animation="GUCP_Bloatfly_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Bloatfly (Stage 2)" animation="GUCP_Bloatfly_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Bloatfly (Stage 3)" animation="GUCP_Bloatfly_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -12,7 +12,7 @@
 
     <!-- Bloodbug -->
 
-    <position id="Gray User's Creature Pack - Gay Bloodbug (Staged)" animationGroup="GUCP_Bloodbug_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Bloodbug" animationGroup="GUCP_Bloodbug_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Bloodbug (Stage 1)" animation="GUCP_Bloodbug_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Bloodbug (Stage 2)" animation="GUCP_Bloodbug_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Bloodbug (Stage 3)" animation="GUCP_Bloodbug_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -20,7 +20,7 @@
 
     <!-- Mirelurk -->
 
-    <position id="Gray User's Creature Pack - Gay Mirelurk (Staged)" animationGroup="GUCP_Mirelurk_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Mirelurk" animationGroup="GUCP_Mirelurk_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk (Stage 1)" animation="GUCP_Mirelurk_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk (Stage 2)" animation="GUCP_Mirelurk_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk (Stage 3)" animation="GUCP_Mirelurk_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -28,7 +28,7 @@
 
     <!-- Mirelurk Hunter -->
 
-    <position id="Gray User's Creature Pack - Gay Mirelurk Hunter (Staged)" animationGroup="GUCP_MirelurkHunter_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Mirelurk Hunter" animationGroup="GUCP_MirelurkHunter_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk Hunter (Stage 1)" animation="GUCP_MirelurkHunter_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk Hunter (Stage 2)" animation="GUCP_MirelurkHunter_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk Hunter (Stage 3)" animation="GUCP_MirelurkHunter_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -36,7 +36,7 @@
 
     <!-- Mirelurk King -->
 
-    <position id="Gray User's Creature Pack - Gay Mirelurk King (Staged)" animationGroup="GUCP_MirelurkKing_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Mirelurk King" animationGroup="GUCP_MirelurkKing_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk King (Stage 1)" animation="GUCP_MirelurkKing_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk King (Stage 2)" animation="GUCP_MirelurkKing_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk King (Stage 3)" animation="GUCP_MirelurkKing_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -44,7 +44,7 @@
 
     <!-- Mirelurk Queen -->
 
-    <position id="Gray User's Creature Pack - Gay Mirelurk Queen (Staged)" animationGroup="GUCP_MirelurkQueen_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Mirelurk Queen" animationGroup="GUCP_MirelurkQueen_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk Queen (Stage 1)" animation="GUCP_MirelurkQueen_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk Queen (Stage 2)" animation="GUCP_MirelurkQueen_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Mirelurk Queen (Stage 3)" animation="GUCP_MirelurkQueen_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -52,7 +52,7 @@
 
     <!-- Rad Scorpion -->
 
-    <position id="Gray User's Creature Pack - Gay Radscorpion (Staged)" animationGroup="GUCP_Radscorpion_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Radscorpion" animationGroup="GUCP_Radscorpion_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Radscorpion (Stage 1)" animation="GUCP_Radscorpion_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Radscorpion (Stage 2)" animation="GUCP_Radscorpion_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Radscorpion (Stage 3)" animation="GUCP_Radscorpion_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
@@ -60,7 +60,7 @@
 
     <!-- Stingwing -->
 
-    <position id="Gray User's Creature Pack - Gay Stingwing (Staged)" animationGroup="GUCP_Stingwing_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Stingwing" animationGroup="GUCP_Stingwing_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Stingwing (Stage 1)" animation="GUCP_Stingwing_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Stingwing (Stage 2)" animation="GUCP_Stingwing_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Stingwing (Stage 3)" animation="GUCP_Stingwing_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>

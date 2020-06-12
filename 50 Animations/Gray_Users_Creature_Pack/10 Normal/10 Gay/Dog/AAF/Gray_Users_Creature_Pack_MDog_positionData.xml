@@ -3,7 +3,7 @@
 
     <!-- FEVHound -->
 
-    <position id="Gray User's Creature Pack - Gay FEVHound (Staged)" animationGroup="GUCP_FEVHound_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay FEVHound" animationGroup="GUCP_FEVHound_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay FEVHound (Stage 1)" animation="GUCP_FEVHound_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay FEVHound (Stage 2)" animation="GUCP_FEVHound_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay FEVHound (Stage 3)" animation="GUCP_FEVHound_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>

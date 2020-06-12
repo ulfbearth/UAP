@@ -4,7 +4,7 @@
 
     <!-- Behemoth -->
 
-    <position id="Gray User's Creature Pack - Gay Behemoth (Staged)" animationGroup="GUCP_Behemoth_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="Gray User's Creature Pack - Gay Behemoth" animationGroup="GUCP_Behemoth_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Behemoth (Stage 1)" animation="GUCP_Behemoth_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Behemoth (Stage 2)" animation="GUCP_Behemoth_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
     <position id="Gray User's Creature Pack - Gay Behemoth (Stage 3)" animation="GUCP_Behemoth_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
