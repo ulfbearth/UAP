@@ -1,5 +1,5 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="rufgt's Animations.esp"/>
+	<defaults idleSource="rufgt's Animations.esp"/>
 
 
 	<animation id="MM Rocket 69" frames="60">

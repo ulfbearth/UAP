@@ -1,77 +1,61 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="SavageCabbage_Animations.esp"/>
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
 
 
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S1" frames="500">
-		<actor gender="M">
-			<idle form="00020011" id="FD-Outhouse01-01Tease-F1"/>
+		<actor gender="M" idleForm="00020011">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="00020012" id="FD-Outhouse01-01Tease-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="00020012">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S2" frames="500">
-		<actor gender="M">
-			<idle form="00020013" id="FD-Outhouse01-02Start-F1"/>
+		<actor gender="M" idleForm="00020013">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="00020014" id="FD-Outhouse01-02Start-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="00020014">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S3" frames="500">
-		<actor gender="M">
-			<idle form="00020009" id="FD-Outhouse01-03Sitting-F1"/>
+		<actor gender="M" idleForm="00020009">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="0002000A" id="FD-Outhouse01-03Sitting-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="0002000A">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S4" frames="500">
-		<actor gender="M">
-			<idle form="0002000B" id="FD-Outhouse01-04Sitting-F1"/>
+		<actor gender="M" idleForm="0002000B">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="0002000C" id="FD-Outhouse01-04Sitting-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="0002000C">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S5" frames="500">
-		<actor gender="M">
-			<idle form="0002000D" id="FD-Outhouse01-05Sitting-F1"/>
+		<actor gender="M" idleForm="0002000D">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="0002000E" id="FD-Outhouse01-05Sitting-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="0002000E">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S6" frames="500">
-		<actor gender="M">
-			<idle form="0002000F" id="FD-Outhouse01-06Sitting-F1"/>
+		<actor gender="M" idleForm="0002000F">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="00020010" id="FD-Outhouse01-06Sitting-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="00020010">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S7" frames="200">
-		<actor gender="M">
-			<idle form="00020015" id="FD-Outhouse01-07Climax-F1"/>
+		<actor gender="M" idleForm="00020015">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="00020016" id="FD-Outhouse01-07Climax-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="00020016">
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S8" frames="500">
-		<actor gender="M">
-			<idle form="000207B3" id="FD-Outhouse01-08Finish-F1"/>
+		<actor gender="M" idleForm="000207B3">
 		</actor>
-		<actor gender="M" skeleton="Dog">
-			<idle form="000207B4" id="FD-Outhouse01-08Finish-D1"/>
+		<actor gender="M" skeleton="Dog" idleForm="000207B4">
 		</actor>
 	</animation>
 </animationData>

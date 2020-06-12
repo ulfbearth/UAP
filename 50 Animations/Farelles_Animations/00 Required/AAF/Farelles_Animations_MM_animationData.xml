@@ -1,5 +1,5 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="Farelle_Animations.esp"/>
+	<defaults idleSource="Farelle_Animations.esp"/>
 
 	<animation id="Farelle_Blowjob_MM_Forced_01_S1" frames="60">
 		<actor gender="M" idleForm="0000359D">

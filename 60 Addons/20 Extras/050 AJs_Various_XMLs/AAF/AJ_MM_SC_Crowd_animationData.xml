@@ -1,7 +1,7 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="SavageCabbage_Animations.esp"/>
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
 
-	<animation id="AJ-MMM-Bed01-01Handjob-Doggy" time="500">
+	<animation id="AJ-MMM-Bed01-01Handjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="101C"/>
 		</actor>
@@ -13,7 +13,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Bed01-02Handjob-Doggy" time="500">
+	<animation id="AJ-MMM-Bed01-02Handjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="101F"/>
 		</actor>
@@ -25,7 +25,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Bed01-03Titjob-Doggy" time="500">
+	<animation id="AJ-MMM-Bed01-03Titjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="1022"/>
 		</actor>
@@ -37,7 +37,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Bed01-04Blowjob-Doggy" time="500">
+	<animation id="AJ-MMM-Bed01-04Blowjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="1025"/>
 		</actor>
@@ -49,7 +49,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-BunkBed01-03Threesome" time="500">
+	<animation id="AJ-MMM-BunkBed01-03Threesome" frames="500">
 		<actor gender="M">
 			<idle form="10C3C"/>
 		</actor>
@@ -63,7 +63,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Chair01-02Handjob-Doggy" time="500">
+	<animation id="AJ-MMM-Chair01-02Handjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="1028"/>
 		</actor>
@@ -75,7 +75,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Chair01-03Handjob-Doggy" time="500">
+	<animation id="AJ-MMM-Chair01-03Handjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="102B"/>
 		</actor>
@@ -87,7 +87,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Chair01-04Handjob-Doggy" time="500">
+	<animation id="AJ-MMM-Chair01-04Handjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="102E"/>
 		</actor>
@@ -99,7 +99,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Chair01-05Blowjob-Doggy" time="500">
+	<animation id="AJ-MMM-Chair01-05Blowjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="1031"/>
 		</actor>
@@ -111,7 +111,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Chair01-06Blowjob-Doggy" time="500">
+	<animation id="AJ-MMM-Chair01-06Blowjob-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="181C"/>
 		</actor>
@@ -124,7 +124,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Chair01-07Deepthroat-Doggy" time="500">
+	<animation id="AJ-MMM-Chair01-07Deepthroat-Doggy" frames="500">
 		<actor gender="M">
 			<idle form="181F"/>
 		</actor>
@@ -137,7 +137,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor01-01DoubleTeam" time="500">
+	<animation id="AJ-MMM-Floor01-01DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="1034"/>
 		</actor>
@@ -149,7 +149,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor01-02DoubleTeam" time="500">
+	<animation id="AJ-MMM-Floor01-02DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="1037"/>
 		</actor>
@@ -161,7 +161,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor02-01DoubleTeamRough" time="500">
+	<animation id="AJ-MMM-Floor02-01DoubleTeamRough" frames="500">
 		<actor gender="M">
 			<idle form="103A"/>
 		</actor>
@@ -175,7 +175,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor02-02DoubleTeamRough" time="1000">
+	<animation id="AJ-MMM-Floor02-02DoubleTeamRough" frames="1000">
 		<actor gender="M">
 			<idle form="103D"/>
 		</actor>
@@ -187,7 +187,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor03-03Gangbang" time="500">
+	<animation id="AJ-MMM-Floor03-03Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="550D"/>
 		</actor>
@@ -200,7 +200,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor04-03DoubleTeam" time="500">
+	<animation id="AJ-MMM-Floor04-03DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="82C9"/>
 		</actor>
@@ -214,7 +214,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Floor05-03DoubleTeam" time="500">
+	<animation id="AJ-MMM-Floor05-03DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="BFA8"/>
 		</actor>
@@ -227,7 +227,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-HydroPillory01-02DoubleTeam" time="500">
+	<animation id="AJ-MMM-HydroPillory01-02DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="1040"/>
 		</actor>
@@ -239,7 +239,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Pillory01-02DoubleTeam" time="500">
+	<animation id="AJ-MMM-Pillory01-02DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="1043"/>
 		</actor>
@@ -251,7 +251,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Pillory01-03DoubleTeam" time="500">
+	<animation id="AJ-MMM-Pillory01-03DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="1046"/>
 		</actor>
@@ -263,7 +263,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-PoolTable01-01Tease" time="500">
+	<animation id="AJ-MMM-PoolTable01-01Tease" frames="500">
 		<actor gender="M">
 			<idle form="1822"/>
 		</actor>
@@ -275,7 +275,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Shackles01-02Held" time="500">
+	<animation id="AJ-MMM-Shackles01-02Held" frames="500">
 		<actor gender="M">
 			<idle form="1049"/>
 		</actor>
@@ -288,7 +288,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Standing01-01Caught" time="500">
+	<animation id="AJ-MMM-Standing01-01Caught" frames="500">
 		<actor gender="M">
 			<idle form="1825"/>
 		</actor>
@@ -300,7 +300,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Standing01-02DoubleTeam" time="500">
+	<animation id="AJ-MMM-Standing01-02DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="104C"/>
 		</actor>
@@ -314,7 +314,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Standing01-03DoubleTeam" time="500">
+	<animation id="AJ-MMM-Standing01-03DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="1828"/>
 		</actor>
@@ -328,7 +328,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Stocks01-02DoubleTeam" time="500">
+	<animation id="AJ-MMM-Stocks01-02DoubleTeam" frames="500">
 		<actor gender="M">
 			<idle form="104F"/>
 		</actor>
@@ -341,7 +341,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Couch02-03Handjob" time="500">
+	<animation id="AJ-MMM-Couch02-03Handjob" frames="500">
 		<actor gender="M">
 			<idle form="2763"/>
 		</actor>
@@ -355,7 +355,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Couch02-04Handjob" time="500">
+	<animation id="AJ-MMM-Couch02-04Handjob" frames="500">
 		<actor gender="M">
 			<idle form="12319"/>
 		</actor>
@@ -369,7 +369,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMM-Couch02-05Blowjob" time="500">
+	<animation id="AJ-MMM-Couch02-05Blowjob" frames="500">
 		<actor gender="M">
 			<idle form="3698"/>
 		</actor>
@@ -383,7 +383,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMM-Standing01-01Gangbang" time="500">
+	<animation id="AJ-MMMM-Standing01-01Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="1052"/>
 		</actor>
@@ -401,7 +401,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMM-Standing01-02Gangbang" time="500">
+	<animation id="AJ-MMMM-Standing01-02Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="1056"/>
 		</actor>
@@ -419,7 +419,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMM-Floor01-03Gangbang" time="500">
+	<animation id="AJ-MMMM-Floor01-03Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="11B76"/>
 		</actor>
@@ -436,7 +436,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMM-Floor02-03Gangbang" time="500">
+	<animation id="AJ-MMMM-Floor02-03Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="6BE9"/>
 		</actor>
@@ -454,7 +454,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMM-Floor03-03Gangbang" time="500">
+	<animation id="AJ-MMMM-Floor03-03Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="7388"/>
 		</actor>
@@ -471,7 +471,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMMM-Floor01-01Gangbang" time="500">
+	<animation id="AJ-MMMMM-Floor01-01Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="105A"/>
 		</actor>
@@ -489,7 +489,7 @@
 		</actor>
 	</animation>
 
-	<animation id="AJ-MMMMM-Floor02-03Gangbang" time="500">
+	<animation id="AJ-MMMMM-Floor02-03Gangbang" frames="500">
 		<actor gender="M">
 			<idle form="113D8"/>
 		</actor>

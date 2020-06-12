@@ -1,5 +1,5 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="Vadermania[AAF_anims].esp"/>
+	<defaults idleSource="Vadermania[AAF_anims].esp"/>
 
 	<animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
 		<actor gender="M" idleForm="01000f9e">

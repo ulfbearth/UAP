@@ -1,5 +1,5 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults source="AAF_BadEnd_Animations.esp"/>
+    <defaults idleSource="AAF_BadEnd_Animations.esp"/>
 
     <animation id="NooseHighFree00" frames="300">
         <actor gender="F" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="01001eeb">
