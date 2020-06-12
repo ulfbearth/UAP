@@ -428,7 +428,7 @@
 		</actor>
 	</animation>
 
-	<animation id="FO4SA_Missionary_MM_Impregnate_01_1TR2A" frames="1">
+	<animation id="FO4SA_Missionary_MM_Impregnate_01_1TR2A" frames="15">
 		<actor gender="M" idleForm="0000BEFB">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
