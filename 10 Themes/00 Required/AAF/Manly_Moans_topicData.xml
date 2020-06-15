@@ -22,6 +22,9 @@
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>
 	</topicGroup>
 
 
@@ -69,6 +72,9 @@
 
 		<!-- Player Voiceset -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83C" voiceTypeSource="Manly Moans.esp" conditions="isPlayer"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>
 	</topicGroup>
 
 
@@ -96,6 +102,9 @@
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84B" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>
 	</topicGroup>
 
 
@@ -123,6 +132,9 @@
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>
 	</topicGroup>
 
 
@@ -146,5 +158,8 @@
 
 		<!-- Player VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84B" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>
 	</topicGroup>
 </topicData>	

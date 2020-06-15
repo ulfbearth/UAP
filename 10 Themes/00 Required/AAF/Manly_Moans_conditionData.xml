@@ -11,6 +11,8 @@
 
     <condition id="isDanse" name="Paladin Danse"/>
 
+    <condition id="isPyramid" name="Pyramid Head"/>
+
     <condition id="isBehemoth" skeleton="SupermutantBehemoth"/>
 
     <condition id="isDog" skeleton="Dog"/>
