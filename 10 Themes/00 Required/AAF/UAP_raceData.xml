@@ -1,0 +1,7 @@
+<raceData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<!-- Default attributes are applied to all race nodes below if no conflicting attribute is set there. -->
+	<defaults source="Fallout4.esm" loadPriority="-1"/>
+
+	<race id="null" form="null" skeleton="null"/>
+
+</raceData>

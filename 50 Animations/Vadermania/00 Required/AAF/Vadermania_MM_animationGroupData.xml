@@ -4,10 +4,16 @@
 
 	<!--===================================== Deathclaw Animations =========================================-->
 	<animationGroup id="VM_Deathclaw_MM_Slow_01_Staged" sequential="true">
-		<stage animation="VM_Deathclaw_MM_Slow_01" loops="4"/>
+		<stage animation="VM_Deathclaw_MM_Slow_01"/>
+		<stage animation="VM_Deathclaw_MM_Slow_01"/>
+		<stage animation="VM_Deathclaw_MM_Slow_01"/>
+		<stage animation="VM_Deathclaw_MM_Slow_01"/>
 	</animationGroup>
 
 	<animationGroup id="VM_Deathclaw_MM_Fast_02_Staged" sequential="true">
-		<stage animation="VM_Deathclaw_MM_Fast_02" loops="4"/>
+		<stage animation="VM_Deathclaw_MM_Fast_02"/>
+		<stage animation="VM_Deathclaw_MM_Fast_02"/>
+		<stage animation="VM_Deathclaw_MM_Fast_02"/>
+		<stage animation="VM_Deathclaw_MM_Fast_02"/>
 	</animationGroup>
 </animationGroupData>
