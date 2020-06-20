@@ -1,0 +1,6 @@
+<meta title="EFBS_protectedEquipmentData.xml" version="0.1" dataSet="protectedEquipment"/>
+<defaults />
+
+<condition>
+	<protectKeyword form="01000800" source="ErectionFix_SilverPerv.esp"/>
+</condition>
