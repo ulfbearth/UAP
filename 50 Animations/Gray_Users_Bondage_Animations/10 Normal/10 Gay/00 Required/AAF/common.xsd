@@ -644,7 +644,7 @@
       <xs:element type="branchType" name="branch" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
     <xs:attribute type="xs:string" name="id" use="required"/>
-    <xs:attribute type="xs:string" name="positionID"/>
+    <xs:attribute type="xs:string" name="positionID" use="required"/>
     <xs:attribute type="xs:boolean" name="isFlavor"/>
     <xs:attribute type="xs:boolean" name="isExit"/>
     <xs:attribute type="xs:float" name="time"/>
@@ -784,7 +784,7 @@
         <xs:attribute type="xs:string" name="source"/>
         <xs:attribute type="xs:string" name="id"/>
         <xs:attribute type="xs:string" name="voiceTypeFormID" use="required"/>
-        <xs:attribute type="xs:string" name="voiceTypeSource" use="required"/>
+        <xs:attribute type="xs:string" name="voiceTypeSource"/>
         <xs:attribute type="xs:string" name="conditions"/>
         <xs:attribute type="xs:boolean" name="isOverride"/>
       </xs:extension>
