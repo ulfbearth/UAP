@@ -159,6 +159,7 @@
         <xs:attribute type="xs:float" name="maxValue"/>
         <xs:attribute type="xs:float" name="decayRate"/>
         <xs:attribute type="xs:string" name="offset"/>
+        <xs:attribute type="xs:string" name="reactionSet"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
@@ -586,8 +587,8 @@
     <xs:sequence>
       <xs:element type="overlayType" name="overlay" maxOccurs="unbounded" minOccurs="1"/>
     </xs:sequence>
-    <xs:attribute type="xs:byte" name="duration"/>
-    <xs:attribute type="xs:byte" name="quantity"/>
+    <xs:attribute type="xs:float" name="duration"/>
+    <xs:attribute type="xs:integer" name="quantity"/>
   </xs:complexType>
   <xs:complexType name="overlaySetType">
     <xs:sequence>
