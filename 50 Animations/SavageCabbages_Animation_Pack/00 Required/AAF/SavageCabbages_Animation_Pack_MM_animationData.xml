@@ -680,13 +680,29 @@
 
 	<animation id="SCAP_ReverseCowgirlBench_MM_2Human_01_S6" frames="500">
 		<actor gender="M" idleForm="2731F">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.8"/>
 		</actor>
 		<actor gender="M" idleForm="27320">
 			<morph id="Erection Down" to="0.25"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis adjust" to="1.6"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ReverseCowgirlBench_MM_2Human_01_S7" frames="200">
+		<actor gender="M" idleForm="2DECF">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.8"/>
+		</actor>
+		<actor gender="M" idleForm="2DED0">
+			<morph id="Erection Down" to="0.25"/>
 			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="PenisAdjust" to="1.6"/>
 		</actor>
 	</animation>
 
@@ -801,6 +817,45 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0002171F">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.36"/>
+			<morph id="Penis Adjust" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_CowgirlMotorbike_MM_2Human_01_S4" frames="500">
+		<actor gender="M" idleForm="2E678">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E679">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.36"/>
+			<morph id="Penis Adjust" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_CowgirlMotorbike_MM_2Human_01_S5" frames="500">
+		<actor gender="M" idleForm="2E67A">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E67B">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.36"/>
+			<morph id="Penis Adjust" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_CowgirlMotorbike_MM_2Human_01_S6" frames="500">
+		<actor gender="M" idleForm="2E67C">
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E67D">
 			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="-0.36"/>
@@ -1083,34 +1138,46 @@
 
 	<animation id="SCAP_DoggyDesk_MM_2Human_01_S4" frames="500">
 		<actor gender="M" idleForm="0000C005">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000C006">
 			<morph id="Erection Up" to="0.5"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoggyDesk_MM_2Human_01_S5" frames="500">
 		<actor gender="M" idleForm="0002B0AD">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0002B0AE">
 			<morph id="Erection Up" to="0.5"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoggyDesk_MM_2Human_01_S6" frames="500">
 		<actor gender="M" idleForm="0002B0B3">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0002B0B4">
+			<morph id="Erection Up" to="0.5"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggyDesk_MM_2Human_01_S7" frames="200">
+		<actor gender="M" idleForm="2E676">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E677">
 			<morph id="Erection Up" to="0.5"/>
 			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1534,6 +1601,18 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00027322">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection Up" to="0.15"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_HandjobCouch_MM_2Human_01_S7" frames="200">
+		<actor gender="M" idleForm="2DED3">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DED4">
 			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection Up" to="0.15"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2117,21 +2196,32 @@
 
 	<animation id="SCAP_SpoonCouch_MM_2Human_01_S5" frames="500">
 		<actor gender="M" idleForm="00006444">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006445">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_SpoonCouch_MM_2Human_01_S6" frames="500">
 		<actor gender="M" idleForm="0002B0AB">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0002B0AC">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SpoonCouch_MM_2Human_01_S7" frames="200">
+		<actor gender="M" idleForm="2DED1">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DED2">
 			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -2776,7 +2866,7 @@
 
 	<!-- Handjob Animations -->
 
-	<animation id="SCAP_StandingHandjob_MM_5Human_01" frames="500">
+	<animation id="SCAP_StandingGangbang_MM_5Human_S3" frames="500">
 		<actor gender="M" idleForm="00021EF8">
 			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2798,6 +2888,99 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
+
+	<animation id="SCAP_StandingGangbang_MM_5Human_S4" frames="500">
+		<actor gender="M" idleForm="2DEBB">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEBC">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEBD">
+			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEBE">
+			<action id="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEBF">
+			<action id="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StandingGangbang_MM_5Human_S5" frames="500">
+		<actor gender="M" idleForm="2DEC5">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC6">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC7">
+			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC8">
+			<action id="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC9">
+			<action id="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StandingGangbang_MM_5Human_S6" frames="500">
+		<actor gender="M" idleForm="2DECA">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DECB">
+			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DECC">
+			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DECD">
+			<action id="MaleMoan Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DECE">
+			<action id="MaleMoan Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StandingGangbang_MM_5Human_S7" frames="500">
+		<actor gender="M" idleForm="2DEC0">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC1">
+			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC2">
+			<action id="MaleOrgasm Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC3">
+			<action id="MaleOrgasm Action" target="3" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2DEC4">
+			<action id="MaleOrgasm Action" target="4" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 
 	<!-- Gangbang Animations -->
 
@@ -3529,6 +3712,16 @@
 		</actor>
 	</animation>
 
+	<animation id="SCAP_DoggyToilet_MM_2Dog_01_S7" frames="500">
+		<actor gender="M" idleForm="2E686">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="2E687">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 
 
 	<animation id="SCAP_DoggyBench_MM_2Dog_01_S1" frames="500">
@@ -3537,6 +3730,16 @@
 			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B0B2">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggyBench_MM_2Dog_01_S2" frames="500">
+		<actor gender="M" idleForm="2DED5">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="2DED6">
 			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -4791,6 +4994,16 @@
 		</actor>
 	</animation>
 
+	<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S9" frames="200">
+		<actor gender="M" idleForm="2E680">
+			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E681">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 
 
 	<animation id="SCAP_StandingBlowjob_MM_2Mutant_01_S3" frames="500">
@@ -4961,6 +5174,16 @@
 		</actor>
 	</animation>
 
+	<animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S7" frames="200">
+		<actor gender="M" idleForm="2E682">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E683">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 
 
 	<!-- Doggy Animations -->
@@ -5079,6 +5302,16 @@
 		</actor>
 	</animation>
 
+	<animation id="SCAP_DoggyDoubleBed_MM_2Mutant_01_S7" frames="200">
+		<actor gender="M" idleForm="2E67E">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E67F">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 
 
 	<animation id="SCAP_StandingDoggy_MM_2Mutant_01_S3" frames="500">
@@ -5181,6 +5414,16 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="2A8FF">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_MissionaryBed_MM_2Mutant_01_S7" frames="200">
+		<actor gender="M" idleForm="2DED7">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2DED8">
 			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -5290,6 +5533,16 @@
 		</actor>
 	</animation>
 
+	<animation id="SCAP_ReversePowerBombBed_MM_2Mutant_01_S7" frames="200">
+		<actor gender="M" idleForm="2DED9">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2DEDA">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 	<!-- Wheelbarrow Animations -->
 
 	<animation id="SCAP_WheelbarrowGround_MM_2Mutant_01_S3" frames="500">
@@ -5328,6 +5581,16 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00014945">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_WheelbarrowGround_MM_2Mutant_01_S7" frames="500">
+		<actor gender="M" idleForm="2E684">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E685">
 			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -5596,10 +5859,20 @@
 
 	<animation id="SCAP_Doggy_MM_MutantHound_01_S6" frames="500">
 		<actor gender="M" idleForm="2D6FB">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="2D6FC">
+			<morph id="CErection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Doggy_MM_MutantHound_01_S7" frames="500">
+		<actor gender="M" idleForm="2E688">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2E689">
 			<morph id="CErection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -5648,6 +5921,18 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A148">
+			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.2000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Cowgirl_MM_Behemoth_01_S7" frames="500">
+		<actor gender="M" idleForm="2DEDB">
+			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2DEDC">
 			<morph id="CErection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2000000000001"/>
 		</actor>
