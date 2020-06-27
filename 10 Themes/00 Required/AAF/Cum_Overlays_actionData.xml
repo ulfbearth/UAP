@@ -1,0 +1,26 @@
+<actionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults />
+
+	<action id="Cum_Start-Back">
+		<self startOverlaySet="M_Back">
+		</self>
+	</action>
+
+	<action id="Cum_Start-Front">
+		<self startOverlaySet="M_Chest">
+		</self>
+	</action>
+
+
+	<action id="Cum_Start_Mutant-Back">
+		<self startOverlaySet="M_Back_Mutant">
+		</self>
+	</action>
+
+	<action id="Cum_Start_Mutant-Front">
+		<self startOverlaySet="M_Belly_Mutant">
+		</self>
+	</action>
+
+
+</actionData>

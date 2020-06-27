@@ -113,6 +113,7 @@
 	<animation id="Leito_Blowjob_MM_01_S4" frames="320">
 		<actor gender="M" idleForm="00004CB5">
 			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Front" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CB9">
@@ -166,6 +167,7 @@
 		<actor gender="M" idleForm="00004506">
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000450A">
@@ -220,6 +222,7 @@
 		<actor gender="M" idleForm="0000A894">
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A898">
@@ -270,6 +273,7 @@
 	<animation id="Leito_ReverseCarry_MM_01_S4" frames="280">
 		<actor gender="M" idleForm="0000A8A4">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A8">
@@ -320,6 +324,7 @@
 	<animation id="Leito_Cowgirl_MM_01_S4" frames="320">
 		<actor gender="M" idleForm="00002E29">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E2C">
@@ -367,6 +372,7 @@
 	<animation id="Leito_Cowgirl_MM_02_S4" frames="140">
 		<actor gender="M" idleForm="00005C37">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00005C3B">
@@ -416,6 +422,7 @@
 	<animation id="Leito_Cowgirl_MM_03_S4" frames="280">
 		<actor gender="M" idleForm="000063E2">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000063E6">
@@ -463,6 +470,7 @@
 	<animation id="Leito_Cowgirl_MM_04_S4" frames="280">
 		<actor gender="M" idleForm="0000A89C">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A0">
@@ -512,6 +520,7 @@
 	<animation id="Leito_ReverseCowgirl_MM_01_S4" frames="350">
 		<actor gender="M" idleForm="00006B85">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006B89">
@@ -562,6 +571,7 @@
 	<animation id="Leito_ReverseCowgirl_MM_02_S4" frames="280">
 		<actor gender="M" idleForm="00007331">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007335">
@@ -609,6 +619,7 @@
 	<animation id="Leito_Doggy_MM_01_S4" frames="320">
 		<actor gender="M" idleForm="00001EE0">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE3">
@@ -655,6 +666,7 @@
 	<animation id="Leito_Doggy_MM_02_S4" frames="320">
 		<actor gender="M" idleForm="00002E38">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E3C">
@@ -704,6 +716,7 @@
 	<animation id="Leito_StandingDoggy_MM_01_S4" frames="280">
 		<actor gender="M" idleForm="00007AD4">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AD8">
@@ -751,6 +764,7 @@
 	<animation id="Leito_StandingDoggy_MM_02_S4" frames="210">
 		<actor gender="M" idleForm="00007ADC">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AE0">
@@ -800,6 +814,7 @@
 	<animation id="Leito_Missionary_MM_01_S4" frames="240">
 		<actor gender="M" idleForm="00002684">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002687">
@@ -847,6 +862,7 @@
 	<animation id="Leito_Missionary_MM_02_S4" frames="350">
 		<actor gender="M" idleForm="00002E30">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E34">
@@ -900,6 +916,7 @@
 		<actor gender="M" idleForm="0000450E">
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004512">
@@ -950,6 +967,7 @@
 	<animation id="Leito_Spoon_MM_01_S4" frames="140">
 		<actor gender="M" idleForm="00004CEE">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CF2">
@@ -994,6 +1012,7 @@
 	<animation id="Leito_Doggy_MM_2Dog_01_S4" frames="320">
 		<actor gender="M" idleForm="0000268D">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="0000268A">
@@ -1036,6 +1055,7 @@
 	<animation id="Leito_Doggy_MM_2Dog_02_S4" frames="420">
 		<actor gender="M" idleForm="00003D83">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7F">
@@ -1078,6 +1098,7 @@
 	<animation id="Leito_Missionary_MM_2Dog_01_S4" frames="340" offset="0,-2,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00001EE7">
 			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Cum_Start-Back" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EEB">
