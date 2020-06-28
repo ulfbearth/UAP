@@ -10,7 +10,7 @@
 		</actor>
 		<actor gender="M" skeleton="Angler" idleForm="010081ff">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -21,7 +21,7 @@
 		</actor>
 		<actor gender="M" skeleton="Angler" idleForm="01008200">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -32,7 +32,7 @@
 		</actor>
 		<actor gender="M" skeleton="Angler" idleForm="01008201">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -43,7 +43,7 @@
 		</actor>
 		<actor gender="M" skeleton="Angler" idleForm="01008202">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -60,7 +60,7 @@
 		</actor>
 		<actor gender="M" skeleton="FogCrawler" idleForm="01008207">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -71,7 +71,7 @@
 		</actor>
 		<actor gender="M" skeleton="FogCrawler" idleForm="01008208">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -82,7 +82,7 @@
 		</actor>
 		<actor gender="M" skeleton="FogCrawler" idleForm="01008209">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -93,7 +93,7 @@
 		</actor>
 		<actor gender="M" skeleton="FogCrawler" idleForm="0100820a">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -109,7 +109,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gulper" idleForm="0100820b">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -120,7 +120,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gulper" idleForm="0100820c">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -131,7 +131,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gulper" idleForm="0100820d">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -142,7 +142,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gulper" idleForm="0100820e">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -153,7 +153,7 @@
 		</actor>
 		<actor gender="M" skeleton="GulperLarge" idleForm="0100820b">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -164,7 +164,7 @@
 		</actor>
 		<actor gender="M" skeleton="GulperLarge" idleForm="0100820c">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -175,7 +175,7 @@
 		</actor>
 		<actor gender="M" skeleton="GulperLarge" idleForm="0100820d">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -186,7 +186,7 @@
 		</actor>
 		<actor gender="M" skeleton="GulperLarge" idleForm="0100820e">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -203,7 +203,7 @@
 		</actor>
 		<actor gender="M" skeleton="Hermit" idleForm="0100820f">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -214,7 +214,7 @@
 		</actor>
 		<actor gender="M" skeleton="Hermit" idleForm="01008210">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -225,7 +225,7 @@
 		</actor>
 		<actor gender="M" skeleton="Hermit" idleForm="01008211">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -236,7 +236,7 @@
 		</actor>
 		<actor gender="M" skeleton="Hermit" idleForm="01008212">
 
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 </animationData>

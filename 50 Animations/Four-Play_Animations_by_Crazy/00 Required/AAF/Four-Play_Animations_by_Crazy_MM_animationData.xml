@@ -132,7 +132,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00000F9B">
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -142,7 +142,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00000F9C">
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -152,7 +152,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00000F9D">
-			<morph id="CErection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
