@@ -18,7 +18,7 @@
 	</action>
 
 	<action id="Cum_Start_Mutant-Front">
-		<self startOverlaySet="M_Belly_Mutant">
+		<self startOverlaySet="M_Chest_Mutant">
 		</self>
 	</action>
 
