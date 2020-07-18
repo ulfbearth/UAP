@@ -3,7 +3,7 @@
 
 	<animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
 		<actor gender="M" idleForm="01000f9e">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="01000f9D">
@@ -13,7 +13,7 @@
 
 	<animation id="VM_Table_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
 		<actor gender="M" idleForm="01000f9b">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="01000f99">
@@ -23,7 +23,7 @@
 
 	<animation id="VM_Dogmeat_MM_01" frames="180">
 		<actor gender="M" idleForm="01000f9f">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="01000fa0">
@@ -33,7 +33,7 @@
 
 	<animation id="VM_Deathclaw_MM_Slow_01" frames="480">
 		<actor gender="M" idleForm="01002e07">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01002e08">
@@ -45,7 +45,7 @@
 
 	<animation id="VM_Deathclaw_MM_Fast_02" frames="2360">
 		<actor gender="M" idleForm="010044DB">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01003D41">
@@ -66,7 +66,7 @@
 
 	<animation id="VM_Ghoul_MM_02" frames="120">
 		<actor gender="M" idleForm="0100173c">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173B">
@@ -76,7 +76,7 @@
 
 	<animation id="VM_Ghoul_MM_Aggressive_03" frames="240">
 		<actor gender="M" idleForm="0100173D">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173E">
@@ -86,7 +86,7 @@
 
 	<animation id="VM_Ghoul_MM_04" frames="60">
 		<actor gender="M" idleForm="01001ed8">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01001ed9">
@@ -102,7 +102,7 @@
 
 	<animation id="VM_FEVHound_MM_01" frames="100">
 		<actor gender="M" idleForm="01002E13">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="01002e12">
@@ -112,7 +112,7 @@
 
 	<animation id="VM_Gorilla_MM_01" frames="240">
 		<actor gender="M" idleForm="010035b5">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="010035b4">

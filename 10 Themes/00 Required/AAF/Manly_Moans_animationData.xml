@@ -1,0 +1,13 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="Fallout4.esm"/>
+
+	<animation id="Null" frames="13">
+		<actor idleForm="Null">
+			<action id="Resetall Action" loop="true"/>
+		</actor>
+		<actor idleForm="Null">
+			<action id="Resetall Action" loop="true"/>
+		</actor>
+	</animation>
+
+</animationData>

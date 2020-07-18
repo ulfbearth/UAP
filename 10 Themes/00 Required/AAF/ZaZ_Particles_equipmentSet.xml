@@ -1,0 +1,106 @@
+<equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+	<!-- Default attributes are applied to the addEquipment and removeEquipment nodes below if no conflicting attribute is set there. -->
+	<defaults source="Zaz Particle Effects.esp" loadPriority="-1"/>
+
+	<!--
+Add or remove unEquip and reEquip entries to control which slots get
+equipped or unequipped before and after animations.
+
+Use the exact slot names defined here: https://www.creationkit.com/fallout4/index.php?title=Biped_Slots
+
+For the slots with repeated names like "Unnamed" and "Possibly Weapons"
+add a number after each. So, "Unnamed1" is slot index 24 and "Possibly Weapons2"
+is slot index 33.
+-->
+
+	<equipmentSet id="CumFart-Heavy">
+		<condition>
+			<addEquipment form="801"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="CumFart-Light">
+		<condition>
+			<addEquipment form="80F"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="CumShot-Basic">
+		<condition>
+			<addEquipment form="810"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="CumShot-Thick-Slow">
+		<condition>
+			<addEquipment form="811"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="CumShot-Thick-Uber">
+		<condition>
+			<addEquipment form="812"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Gush-Heavy">
+		<condition>
+			<addEquipment form="813"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Gush-Light">
+		<condition>
+			<addEquipment form="814"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Pussy-CumLeak">
+		<condition>
+			<addEquipment form="815"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Pussy-Droplets">
+		<condition>
+			<addEquipment form="816"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Squirt-Heavy">
+		<condition>
+			<addEquipment form="817"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Squirt-Light">
+		<condition>
+			<addEquipment form="818"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="Squirt-Uber">
+		<condition>
+			<addEquipment form="819"/>
+		</condition>
+	</equipmentSet>
+	
+	<equipmentSet id="unEquipParticles">
+		<condition>
+			<removeEquipment form="801"/>
+			<removeEquipment form="80F"/>
+			<removeEquipment form="810"/>
+			<removeEquipment form="811"/>
+			<removeEquipment form="812"/>
+			<removeEquipment form="813"/>
+			<removeEquipment form="814"/>
+			<removeEquipment form="815"/>
+			<removeEquipment form="816"/>
+			<removeEquipment form="817"/>
+			<removeEquipment form="818"/>
+			<removeEquipment form="819"/>
+		</condition>
+	</equipmentSet>
+
+</equipmentSetData>

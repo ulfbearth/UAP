@@ -1,0 +1,30 @@
+<reactionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+	<defaults loadPriority="-1"/>
+
+
+<reactionSet id="WOOF_Reset">
+	<condition>
+		<setStat stat="WOOF" range="99-" targetStat="WOOF" setTo="0.0"/>
+	</condition>
+</reactionSet>
+
+<reactionSet id="About_To_Cum Mouth_Shut RS">
+	<condition>
+		<doNarration stat="WOOF" range="70-80" narrationID="About_to_Cum Mouth_Shut"/>
+	</condition>
+</reactionSet>
+
+<reactionSet id="About_To_Cum RS">
+	<condition>
+		<doNarration stat="WOOF" range="70-80" narrationID="About_to_Cum"/>
+	</condition>
+</reactionSet>
+
+<reactionSet id="Resetall">
+	<condition>
+		<setStat stat="WOOF" range="0-" targetStat="WOOF" setTo="0.0"/>
+	</condition>
+</reactionSet>
+
+</reactionData>

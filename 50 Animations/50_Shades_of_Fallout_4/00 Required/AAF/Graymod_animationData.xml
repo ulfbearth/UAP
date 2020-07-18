@@ -853,7 +853,7 @@
     </animation>
 
     <animation id="Gray_SideGag_m" frames="300">
-        <actor gender="M" idleForm="010063ba">
+        <actor gender="F" idleForm="010063ba">
         </actor>
     </animation>
 </animationData>

@@ -5,11 +5,11 @@
 
 	<animation id="FPAC_Blowjob_MM_Handstand_01" frames="135" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FAE">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA1">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection up" to="0.2"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -17,77 +17,77 @@
 
 	<animation id="FPAC_Blowjob_MM_Laying_01" frames="38" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FB1">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA4">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_ChokingJackOff_MM_Aggressive_01" frames="175" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FAA">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA0">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_Fuck_MM_LayedBack_01" frames="38" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FB0">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA3">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_Gorilla_MM_Laying_01" frames="29" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FB2">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA5">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_Kneeling69_MM_01" frames="31" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FAF">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA2">
-			<action id="MaleBlowjob Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_StandingChokehold_MM_Aggressive_01" frames="121" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FB3">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA6">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_Wheelbarrow_MM_01" frames="22" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FB4">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000FA7">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -96,30 +96,30 @@
 
 	<animation id="FPAC_DoubleP_MM_01" frames="135" offset="0,70,0,0:0,0,0,0:0,-70,0,0">
 		<actor gender="M" idleForm="00000FA8">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000F9E">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000F99">
-			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FPAC_Spitroast_MM_01" frames="66" offset="0,70,0,0:0,0,0,0:0,-70,0,0">
 		<actor gender="M" idleForm="00000FA9">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000F9F">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00000F9A">
-			<action id="MaleMoan Action" target="2" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -128,7 +128,7 @@
 
 	<animation id="FPAC_DogHandjob_MM_01" frames="160" offset="0,70,5,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FAB">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00000F9B">
@@ -138,7 +138,7 @@
 
 	<animation id="FPAC_DogmeatStyle_MM_01" frames="190" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FAC">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00000F9C">
@@ -148,7 +148,7 @@
 
 	<animation id="FPAC_DogmeatStyle_MM_Faster_01" frames="120" offset="0,70,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00000FAD">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00000F9D">

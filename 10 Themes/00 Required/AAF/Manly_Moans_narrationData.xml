@@ -1,0 +1,57 @@
+<narrationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+    <defaults loadPriority="-1"/>
+    <narrationGroup id="About_to_Cum Mouth_Shut">
+        <narration phrase="
+        ==================================================== 
+        %ACTOR1% : Fuck, im close!                      
+        %ACTOR0% : hmmmphf...                           
+        ====================================================
+        "
+        />
+
+        <narration phrase="
+        ==================================================== 
+        %ACTOR1% : Im cumming!                      
+        %ACTOR0% : hmmmphf...                           
+        ====================================================
+        "
+        />
+
+        <narration phrase="
+        ==================================================== 
+        %ACTOR1% : Ugh, i cant hold it anymore!                      
+        %ACTOR0% : hmmmphf...                           
+        ====================================================
+        "/>
+    </narrationGroup>
+
+
+
+    
+    <narrationGroup id="About_to_Cum">
+        <narration phrase="
+        ==================================================== 
+        %ACTOR1% : Fuck, im close!                      
+        %ACTOR0% : Mmmm, fill me good...                         
+        ====================================================
+        "/>
+
+        <narration phrase="
+        ==================================================== 
+        %ACTOR1% : Im cumming!                   
+        %ACTOR0% : Yes, give it to me!                       
+        ====================================================
+        "/>
+
+        <narration phrase="
+        ==================================================== 
+        %ACTOR1% : Ugh, i cant hold it anymore!                      
+        %ACTOR0% : Fuck Yeah!                         
+        ====================================================
+        "
+        />
+    </narrationGroup>
+
+    <library tag="adjective" data="fun,boring,exciting,blue,wonderful"/>
+</narrationData>

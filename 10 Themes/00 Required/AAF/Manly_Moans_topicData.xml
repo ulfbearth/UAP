@@ -3,7 +3,7 @@
 
 	<!-- Regular MOANS -->
 
-	<topicGroup id="MaleMoans Topic" tryRate="4" chance="70">
+	<topicGroup id="MaleMoans Topic" tryRate="7" chance="70">
 
 		<!-- Generic Male VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
@@ -22,13 +22,14 @@
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse2"/>
 
 		<!-- Pyramid Head VoiceSet-->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>
 	</topicGroup>
 
 
-	<topicGroup id="CreatureMoans Topic" tryRate="4" chance="100">
+	<topicGroup id="CreatureMoans Topic" tryRate="7" chance="70">
 
 		<!-- Behemoth Voiceset -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="842" voiceTypeSource="Manly Moans.esp" conditions="isBehemoth"/>
@@ -60,7 +61,7 @@
 
 	<!-- Blowjob MOANS -->
 
-	<topicGroup id="MaleBlowjob Topic" tryRate="4" chance="70">
+	<topicGroup id="MaleBlowjob Topic" tryRate="7" chance="70">
 
 		<!-- Generic Male VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
@@ -85,7 +86,7 @@
 
 	<!-- Orgasm MOANS -->
 
-	<topicGroup id="MaleOrgasm Topic" tryRate="4" chance="85">
+	<topicGroup id="MaleOrgasm Topic" tryRate="7" chance="85">
 
 		<!-- Generic Male VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12909" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
@@ -114,7 +115,7 @@
 
 	<!-- Aggressive MOANS -->
 
-	<topicGroup id="MaleAggMoans Topic" tryRate="4" chance="70">
+	<topicGroup id="MaleAggMoans Topic" tryRate="7" chance="70">
 
 		<!-- Generic Male VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>
@@ -139,7 +140,7 @@
 
 
 
-	<topicGroup id="CreatureAggMoans Topic" tryRate="4" chance="70">
+	<topicGroup id="CreatureAggMoans Topic" tryRate="7" chance="70">
 
 		<!-- Supermutant Voiceset -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="849" voiceTypeSource="Manly Moans.esp" conditions="isSupermutant"/>
@@ -150,7 +151,7 @@
 
 	<!-- Aggressive Orgasm MOANS -->
 
-	<topicGroup id="MaleAggOrgasm Topic" tryRate="4" chance="85">
+	<topicGroup id="MaleAggOrgasm Topic" tryRate="7" chance="85">
 
 		<!-- Generic Male VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" voiceTypeSource="Manly Moans.esp" conditions="isGeneric"/>

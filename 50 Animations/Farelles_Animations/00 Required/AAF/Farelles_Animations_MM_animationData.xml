@@ -3,40 +3,40 @@
 
 	<animation id="Farelle_Blowjob_MM_Forced_01_S1" frames="60">
 		<actor gender="M" idleForm="0000359D">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000359C">
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleAggMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Farelle_Blowjob_MM_Forced_01_S2" frames="60">
 		<actor gender="M" idleForm="00003D38">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00003D37">
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleAggMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Farelle_Feetjob_MM_01" frames="60">
 		<actor gender="M" idleForm="00006ADB">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006ADC">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Farelle_Blowjob_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="00005BA3">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00005BA4">
@@ -49,7 +49,7 @@
 
 	<animation id="Farelle_Gangbang_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="0000633F">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00006340">
@@ -62,7 +62,7 @@
 
 	<animation id="Farelle_Handjob_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="00004C6B">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00004C6C">
@@ -75,7 +75,7 @@
 
 	<animation id="Farelle_Teasing_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="00005409">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00005407">

@@ -1,0 +1,60 @@
+<conditionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+    <!-- Default attributes are applied to all condition nodes below if no conflicting attribute is set there. -->
+    <defaults loadPriority="-1"/>
+
+    <condition id="isGeneric" isPlayer="false"/>
+
+    <condition id="isPlayer" isPlayer="true"/>
+
+    <condition id="isUlfberth" name="Ulfberth"/>
+
+    <condition id="isDanse" name="Paladin Danse"/>
+    <condition id="isDanse2" name="Danse"/>
+
+    <condition id="isPyramid" name="Pyramid Head"/>
+
+    <condition id="isBehemoth" skeleton="SupermutantBehemoth"/>
+
+    <condition id="isDog" skeleton="Dog"/>
+
+    <condition id="isFeralGhoul" skeleton="FeralGhoul"/>
+
+    <condition id="isGorilla" skeleton="Gorilla"/>
+
+    <condition id="isMutantHound" skeleton="FEVHound"/>
+
+    <condition id="isSupermutant" skeleton="Supermutant"/>
+
+    <condition id="isYaoGuai" skeleton="YaoGuai"/>
+
+
+
+<!-- ======================================== Stats Rules ================================================ -->
+    <condition id="Foreplay" statRules="WOOF(19"/>
+
+    <!-- For 3 staged sequences anims -->
+    <condition id="Intermediary" statRules="WOOF)20,WOOF(79"/> 
+    <!-- -->
+
+    <!-- For 4 staged sequences anims -->
+    <condition id="Intermediary-20_49" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-50_79" statRules="WOOF)20,WOOF(79"/>
+    <!-- -->
+
+    <!-- For 5 staged sequences anims -->
+    <condition id="Intermediary-20_39" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-40_59" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-60_79" statRules="WOOF)20,WOOF(79"/>
+    <!-- -->
+
+    <!-- For 6 staged sequences anims -->
+    <condition id="Intermediary-20_34" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-35_49" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-50_64" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-65_79" statRules="WOOF)20,WOOF(79"/>
+    <!-- -->
+    
+    <condition id="Climax" statRules="WOOF)80"/>
+
+</conditionData>

@@ -1,0 +1,65 @@
+<actionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults />
+
+	<action id="Play-CumFart-Heavy">
+		<self startEquipmentSet="CumFart-Heavy" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-CumFart-Light">
+		<self startEquipmentSet="CumFart-Light" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-CumShot-Basic">
+		<self startEquipmentSet="CumShot-Basic" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-CumShot-Thick-Slow">
+		<self startEquipmentSet="CumShot-Thick-Slow" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-CumShot-Thick-Uber">
+		<self startEquipmentSet="CumShot-Thick-Uber" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Gush-Heavy">
+		<self startEquipmentSet="Gush-Heavy" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Gush-Light">
+		<self startEquipmentSet="Gush-Light" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Pussy-CumLeak">
+		<self startEquipmentSet="Pussy-CumLeak" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Pussy-Droplets">
+		<self startEquipmentSet="Pussy-Droplets" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Squirt-Heavy">
+		<self startEquipmentSet="Squirt-Heavy" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Squirt-Light">
+		<self startEquipmentSet="Squirt-Light" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+	<action id="Play-Squirt-Uber">
+		<self startEquipmentSet="Squirt-Uber" stopEquipmentSet="unEquipParticles">
+		</self>
+	</action>
+
+
+</actionData>
