@@ -1,382 +1,496 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults idleSource="FO4_AnimationsByLeito.esp"/>
 
-	<!-- Aggressive Animations -->
+	
+	<!-- Blowjob Animations -->
 
+	
 	<animation id="Leito_Blowjob_MM_Aggressive_01" frames="308">
 		<actor gender="M" idleForm="0000B71E">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleBlowjob Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000B71F">
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
-
-	<animation id="Leito_Carry_MM_Aggressive_01" frames="312">
-		<actor gender="M" idleForm="00006367">
-			<morph id="Erection Up" to="1"/>
-			<action id="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-		<actor gender="M" idleForm="0000173C">
-			<morph id="Erection Up" to="1"/>
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Cowgirl_MM_Aggressive_01" frames="300">
-		<actor gender="M" idleForm="0000B720">
-			<action id="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-		<actor gender="M" idleForm="0000B721">
-			<morph id="Erection Down" to="0.4"/>
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Doggy_MM_Aggressive_01" frames="312">
-		<actor gender="M" idleForm="0000B723">
-			<action id="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-		<actor gender="M" idleForm="0000B722">
-			<morph id="Erection Up" to="0.1"/>
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Missionary_MM_Aggressive_01" frames="228" offset="0,-5,0,0:0,0,0,0">
-		<actor gender="M" idleForm="0000B724">
-			<action id="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-		<actor gender="M" idleForm="0000B725">
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Powerbomb_MM_Aggressive_01" frames="300" offset="0,-5,0,0:0,0,0,0">
-		<actor gender="M" idleForm="0000B726">
-			<morph id="Erection Up" to="1"/>
-			<action id="MaleAggMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-		<actor gender="M" idleForm="0000B727">
-			<morph id="Erection Down" to="1"/>
-			<action id="MaleAggMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-	</animation>
-
-	<!-- Blowjob Animations -->
 
 	<animation id="Leito_Blowjob_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00004CB2">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004CB2" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleBlowjob Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CB6">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Blowjob_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00004CB3">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004CB3" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Mouth_Shut Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleBlowjob Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CB7">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Blowjob_MM_01_S3" frames="288">
-		<actor gender="M" idleForm="00004CB4">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004CB4" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Mouth_Shut Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleBlowjob Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CB8">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Blowjob_MM_01_S4" frames="320">
-		<actor gender="M" idleForm="00004CB5">
-			<action id="MaleBlowjob Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Front" frames="8.555"/>
+		<actor gender="M" idleForm="00004CB5" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleBlowjob Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CB9">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<!-- Carry Animations -->
 
-	<animation id="Leito_Carry_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00004503">
-			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	<animation id="Leito_Carry_MM_Aggressive_01" frames="312">
+		<actor gender="M" idleForm="00006367">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0"/>
+			<morph id="Anus Spread" to="1.157"/>
+		</actor>
+		<actor gender="M" idleForm="0000173C">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-1.134"/>
+			<morph id="Erection Up" to="1.688"/>
+			<morph id="Penis Adjust" to="1.793"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Carry_MM_01_S1" frames="300">
+		<actor gender="M" idleForm="00004503" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Erection Up" to="1"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.430"/>
 		</actor>
 		<actor gender="M" idleForm="00004507">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.999"/>
+			<morph id="Erection Up" to="2.125"/>
+			<morph id="Penis Adjust" to="2.062"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Carry_MM_01_S2" frames="304">
-		<actor gender="M" idleForm="00004504">
+		<actor gender="M" idleForm="00004504" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.745"/>
 		</actor>
 		<actor gender="M" idleForm="00004508">
-			<morph id="Erection Up" to="0.8"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.999"/>
+			<morph id="Erection Up" to="2.125"/>
+			<morph id="Penis Adjust" to="2.062"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Carry_MM_01_S3" frames="297">
-		<actor gender="M" idleForm="00004505">
+		<actor gender="M" idleForm="00004505" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.679"/>
 		</actor>
 		<actor gender="M" idleForm="00004509">
-			<morph id="Erection Up" to="0.9"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.409"/>
+			<morph id="Erection Up" to="0.857"/>
+			<morph id="Penis Adjust" to="0.930"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Carry_MM_01_S4" frames="270">
-		<actor gender="M" idleForm="00004506">
+		<actor gender="M" idleForm="00004506" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000450A">
-			<morph id="Erection Up" to="0.9"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.409"/>
+			<morph id="Erection Up" to="1.264"/>
+			<morph id="Penis Adjust" to="0.930"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Carry_MM_02_S1" frames="297">
-		<actor gender="M" idleForm="0000A891">
+		<actor gender="M" idleForm="0000A891" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A895">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.360"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Carry_MM_02_S2" frames="288">
-		<actor gender="M" idleForm="0000A892">
+		<actor gender="M" idleForm="0000A892" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A896">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.521"/>
+			<morph id="Penis Adjust" to="1.042"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Carry_MM_02_S3" frames="330">
-		<actor gender="M" idleForm="0000A893">
+		<actor gender="M" idleForm="0000A893" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A897">
-			<morph id="Erection Up" to="0.9"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.297"/>
+			<morph id="Erection Up" to="0.969"/>
+			<morph id="Penis Adjust " to="1.018"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Carry_MM_02_S4" frames="280">
-		<actor gender="M" idleForm="0000A894">
+		<actor gender="M" idleForm="0000A894" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A898">
-			<morph id="Erection Up" to="0.9"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.297"/>
+			<morph id="Erection Up" to="1.783"/>
+			<morph id="Penis Adjust " to="1.018"/>
 		</actor>
 	</animation>
 
 	<!-- Carry Reverse Animations -->
 
 	<animation id="Leito_ReverseCarry_MM_01_S1" frames="320">
-		<actor gender="M" idleForm="0000A8A1">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000A8A1" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.569"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A5">
-			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.429"/>
+			<morph id="Penis Adjust" to="1.268"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCarry_MM_01_S2" frames="288">
-		<actor gender="M" idleForm="0000A8A2">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000A8A2" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.750"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A6">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.826"/>
+			<morph id="Erection Up" to="1.745"/>
+			<morph id="Penis Adjust" to="2.109"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCarry_MM_01_S3" frames="290">
-		<actor gender="M" idleForm="0000A8A3">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000A8A3" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.750"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A7">
-			<morph id="Erection Up" to="0.8"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.826"/>
+			<morph id="Erection Up" to="3.0"/>
+			<morph id="Penis Adjust" to="2.334"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCarry_MM_01_S4" frames="280">
-		<actor gender="M" idleForm="0000A8A4">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="0000A8A4" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="0.750"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A8">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.826"/>
+			<morph id="Erection Up" to="3.0"/>
+			<morph id="Penis Adjust" to="2.334"/>
 		</actor>
 	</animation>
 
 	<!-- Cowgirl Animations -->
 
-	<animation id="Leito_Cowgirl_MM_01_S1" frames="350">
-		<actor gender="M" idleForm="0000173F">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	
+	<animation id="Leito_Cowgirl_MM_Aggressive_01" frames="300">
+		<actor gender="M" idleForm="0000B720">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
+		<actor gender="M" idleForm="0000B721">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection Down" to="0.4"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Cowgirl_MM_01_S1" frames="350">
+		<actor gender="M" idleForm="0000173F" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+		</actor>
 		<actor gender="M" idleForm="00001740">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Down" to="0.5"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00002E27">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E27" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E2A">
-			<morph id="Erection Up" to="0.6"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.772"/>
+			<morph id="Erection Up" to="1.495"/>
+			<morph id="Penis Adjust" to="1.178"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00002E28">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E28" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E2B">
-			<morph id="Erection Up" to="0.6"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.928"/>
+			<morph id="Erection Down" to="-1.108"/>
+			<morph id="Penis Adjust" to="2.109"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_01_S4" frames="320">
-		<actor gender="M" idleForm="00002E29">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00002E29" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E2C">
-			<morph id="Erection Up" to="0.6"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.928"/>
+			<morph id="Erection Down" to="-1.108"/>
+			<morph id="Penis Adjust" to="2.109"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Cowgirl_MM_02_S1" frames="350">
-		<actor gender="M" idleForm="00005C34">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00005C34" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
 		</actor>
 		<actor gender="M" idleForm="00005C38">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_02_S2" frames="340">
-		<actor gender="M" idleForm="00005C35">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00005C35" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
 		</actor>
 		<actor gender="M" idleForm="00005C39">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_02_S3" frames="340">
-		<actor gender="M" idleForm="00005C36">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00005C36" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
 		</actor>
 		<actor gender="M" idleForm="00005C3A">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_02_S4" frames="140">
-		<actor gender="M" idleForm="00005C37">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00005C37" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
 		</actor>
 		<actor gender="M" idleForm="00005C3B">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -384,624 +498,974 @@
 
 
 	<animation id="Leito_Cowgirl_MM_03_S1" frames="350">
-		<actor gender="M" idleForm="000063DF">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="000063DF" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000063E3">
-			<morph id="Erection Down" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
+			<morph id="Erection Down" to="1"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_03_S2" frames="340">
-		<actor gender="M" idleForm="000063E0">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="000063E0" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000063E4">
-			<morph id="Erection Down" to="1.3"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
+			<morph id="Erection Down" to="1"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_03_S3" frames="330">
-		<actor gender="M" idleForm="000063E1">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="000063E1" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000063E5">
-			<morph id="Erection Down" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
+			<morph id="Erection Down" to="1"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_03_S4" frames="280">
-		<actor gender="M" idleForm="000063E2">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="000063E2" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000063E6">
-			<morph id="Erection Down" to="1"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.5"/>
+			<morph id="Erection Down" to="1"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Cowgirl_MM_04_S1" frames="350">
-		<actor gender="M" idleForm="0000A899">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000A899" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A89D">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_04_S2" frames="340">
-		<actor gender="M" idleForm="0000A89A">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000A89A" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A89E">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_04_S3" frames="330">
-		<actor gender="M" idleForm="0000A89B">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000A89B" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A89F">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Cowgirl_MM_04_S4" frames="280">
-		<actor gender="M" idleForm="0000A89C">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="0000A89C" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A8A0">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 		</actor>
 	</animation>
 
 	<!-- Cowgirl Reverse Animations -->
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S1" frames="322">
-		<actor gender="M" idleForm="00006B82">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00006B82" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006B86">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis adjust" to="1.225"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S2" frames="340">
-		<actor gender="M" idleForm="00006B83">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00006B83" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006B87">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis adjust" to="1.225"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S3" frames="333">
-		<actor gender="M" idleForm="00006B84">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00006B84" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006B88">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis adjust" to="1.225"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S4" frames="350">
-		<actor gender="M" idleForm="00006B85">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00006B85" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006B89">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis adjust" to="1.225"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S1" frames="338">
-		<actor gender="M" idleForm="0000732E">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000732E" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007332">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="2"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-2.633"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S2" frames="336">
-		<actor gender="M" idleForm="0000732F">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000732F" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007333">
-			<morph id="Erection Up" to="3"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.585"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S3" frames="330">
-		<actor gender="M" idleForm="00007330">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007330" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007334">
-			<morph id="Erection Up" to="3"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.585"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S4" frames="280">
-		<actor gender="M" idleForm="00007331">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00007331" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007335">
-			<morph id="Erection Up" to="3"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.585"/>
 		</actor>
 	</animation>
 
 	<!-- Doggy Animations -->
 
+	<animation id="Leito_Doggy_MM_Aggressive_01" frames="312">
+		<actor gender="M" idleForm="0000B723">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="0000B722">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection Up" to="0.1"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.819"/>
+		</actor>
+	</animation>
+
 	<animation id="Leito_Doggy_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00001739">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00001739" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001738">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.325"/>
+			<morph id="Erection Up" to="-0.311"/>
+			<morph id="Penis Adjust" to="-1.848"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_01_S2" frames="308">
-		<actor gender="M" idleForm="00001EDE">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00001EDE" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE1">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.325"/>
+			<morph id="Erection Up" to="-0.311"/>
+			<morph id="Penis Adjust" to="-1.848"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00001EDF">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00001EDF" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE2">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.325"/>
+			<morph id="Erection Up" to="-0.311"/>
+			<morph id="Penis Adjust" to="-1.848"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_01_S4" frames="320">
-		<actor gender="M" idleForm="00001EE0">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00001EE0" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE3">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.325"/>
+			<morph id="Erection Up" to="-0.311"/>
+			<morph id="Penis Adjust" to="-1.848"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Doggy_MM_02_S1" frames="300">
-		<actor gender="M" idleForm="00002E35">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E35" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E39">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.432"/>
+			<morph id="Penis Adjust" to="-1.427"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_02_S2" frames="308">
-		<actor gender="M" idleForm="00002E36">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E36" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E3A">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.432"/>
+			<morph id="Penis Adjust" to="-1.427"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_02_S3" frames="315">
-		<actor gender="M" idleForm="00002E37">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E37" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E3B">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.432"/>
+			<morph id="Penis Adjust" to="-1.427"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_02_S4" frames="320">
-		<actor gender="M" idleForm="00002E38">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00002E38" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E3C">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.432"/>
+			<morph id="Penis Adjust" to="-1.427"/>
 		</actor>
 	</animation>
 
 	<!-- Doggy Standing Animations -->
 
 	<animation id="Leito_StandingDoggy_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00007AD1">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007AD1" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AD5">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.363"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00007AD2">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007AD2" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AD6">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.363"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_01_S3" frames="290">
-		<actor gender="M" idleForm="00007AD3">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007AD3" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AD7">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.363"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_01_S4" frames="280">
-		<actor gender="M" idleForm="00007AD4">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00007AD4" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AD8">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.363"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_StandingDoggy_MM_02_S1" frames="200">
-		<actor gender="M" idleForm="00007AD9">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007AD9" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007ADD">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.388"/>
+			<morph id="Penis Adjust" to="-1.382"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_02_S2" frames="224">
-		<actor gender="M" idleForm="00007ADA">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007ADA" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007ADE">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.388"/>
+			<morph id="Penis Adjust" to="-1.382"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_02_S3" frames="220">
-		<actor gender="M" idleForm="00007ADB">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00007ADB" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007ADF">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.406"/>
+			<morph id="Penis Adjust" to="-0.113"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_02_S4" frames="210">
-		<actor gender="M" idleForm="00007ADC">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00007ADC" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00007AE0">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.406"/>
+			<morph id="Penis Adjust" to="-0.113"/>
 		</actor>
 	</animation>
 
 	<!-- Missionary Animations -->
 
-	<animation id="Leito_Missionary_MM_01_S1" frames="320">
-		<actor gender="M" idleForm="00004C8D">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	<animation id="Leito_Missionary_MM_Aggressive_01" frames="228" offset="0,-5,0,0:0,0,0,0">
+		<actor gender="M" idleForm="0000B724">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="0000B725">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.205"/>
+			<morph id="Erection Down" to="0.267"/>
+			<morph id="Penis Adjust" to="-0.071"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Missionary_MM_01_S1" frames="320">
+		<actor gender="M" idleForm="00004C8D" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004C8E">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.770"/>
+			<morph id="Penis Adjust" to="0.496"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_01_S2" frames="224">
-		<actor gender="M" idleForm="00002682">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00002682" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002685">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.770"/>
+			<morph id="Penis Adjust" to="0.496"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_01_S3" frames="308">
-		<actor gender="M" idleForm="00002683">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00002683" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002686">
-			<morph id="Erection Up" to="0.8"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.770"/>
+			<morph id="Erection Down" to="-0.355"/>
+			<morph id="Penis Adjust" to="0.766"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_01_S4" frames="240">
-		<actor gender="M" idleForm="00002684">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
-			<morph id="Erection" to="1.0000000000001"/>
+		<actor gender="M" idleForm="00002684" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002687">
-			<morph id="Erection Up" to="0.7"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.770"/>
+			<morph id="Erection Down" to="-0.355"/>
+			<morph id="Penis Adjust" to="0.766"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Missionary_MM_02_S1" frames="360">
-		<actor gender="M" idleForm="00002E2D">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E2D" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E31">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.930"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_02_S2" frames="324">
-		<actor gender="M" idleForm="00002E2E">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E2E" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E32">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.930"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_02_S3" frames="320">
-		<actor gender="M" idleForm="00002E2F">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00002E2F" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E33">
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.930"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_02_S4" frames="350">
-		<actor gender="M" idleForm="00002E30">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00002E30" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002E34">
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.930"/>
 		</actor>
 	</animation>
 
 	<!-- Powerbomb Animations -->
 
-	<animation id="Leito_Powerbomb_MM_01_S1" frames="280" offset="0,-5,0,0:0,0,0,0">
-		<actor gender="M" idleForm="0000450B">
+	<animation id="Leito_Powerbomb_MM_Aggressive_01" frames="300" offset="0,-5,0,0:0,0,0,0">
+		<actor gender="M" idleForm="0000B726">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="0000B727">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection Down" to="1"/>
+			<action id="MaleAggMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.131"/>
+			<morph id="Penis Adjust" to="-0.251"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Powerbomb_MM_01_S1" frames="280" offset="0,-5,0,0:0,0,0,0">
+		<actor gender="M" idleForm="0000450B" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Erection Up" to="1"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000450F">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Down" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.131"/>
+			<morph id="Penis Adjust" to="-0.251"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Powerbomb_MM_01_S2" frames="300" offset="0,-5,0,0:0,0,0,0">
-		<actor gender="M" idleForm="0000450C">
+		<actor gender="M" idleForm="0000450C" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004510">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Down" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.131"/>
+			<morph id="Penis Adjust" to="-0.251"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Powerbomb_MM_01_S3" frames="299" offset="0,-5,0,0:0,0,0,0">
-		<actor gender="M" idleForm="0000450D">
+		<actor gender="M" idleForm="0000450D" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004511">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Down" to="1"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="-0.0278"/>
+			<morph id="Penis Adjust" to="-0.706"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Powerbomb_MM_01_S4" frames="320" offset="0,-5,0,0:0,0,0,0">
-		<actor gender="M" idleForm="0000450E">
+		<actor gender="M" idleForm="0000450E" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004512">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Down" to="1"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="-0.0278"/>
+			<morph id="Penis Adjust" to="-0.706"/>
 		</actor>
 	</animation>
 
 	<!-- Spoon Animations -->
 
 	<animation id="Leito_Spoon_MM_01_S1" frames="350">
-		<actor gender="M" idleForm="00004CEB">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004CEB" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CEF">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.085"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Spoon_MM_01_S2" frames="324">
-		<actor gender="M" idleForm="00004CEC">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004CEC" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CF0">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.085"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Spoon_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00004CED">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004CED" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CF1">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
-			<action id="MaleMoan Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.085"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Spoon_MM_01_S4" frames="140">
-		<actor gender="M" idleForm="00004CEE">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00004CEE" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CF2">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
-			<action id="MaleOrgasm Action" target="1" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-1.085"/>
 		</actor>
 	</animation>
 
 	<!-- Dog Animations -->
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S1" frames="480">
-		<actor gender="M" idleForm="00004523">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00004523" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00004524">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.5"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S2" frames="400">
-		<actor gender="M" idleForm="0000268B">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000268B" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00002688">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.6"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S3" frames="400">
-		<actor gender="M" idleForm="0000268C">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="0000268C" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00002689">
@@ -1010,21 +1474,28 @@
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S4" frames="320">
-		<actor gender="M" idleForm="0000268D">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="0000268D" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="0000268A">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.6"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S1" frames="480">
-		<actor gender="M" idleForm="00003D80">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00003D80" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7C">
@@ -1033,76 +1504,107 @@
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S2" frames="400">
-		<actor gender="M" idleForm="00003D81">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00003D81" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7D">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.6"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S3" frames="400">
-		<actor gender="M" idleForm="00003D82">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00003D82" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7E">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.6"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S4" frames="420">
-		<actor gender="M" idleForm="00003D83">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00003D83" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
+			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7F">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="-0.1"/>
 		</actor>
 	</animation>
 
 
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S1" frames="256" offset="0,-2,0,0:0,0,0,0">
-		<actor gender="M" idleForm="00001EE4">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00001EE4" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EE8">
+			<morph id="Erection Up" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S2" frames="400" offset="0,-2,0,0:0,0,0,0">
-		<actor gender="M" idleForm="00001EE5">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00001EE5" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="0.765"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EE9">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.6"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S3" frames="400" offset="0,-2,0,0:0,0,0,0">
-		<actor gender="M" idleForm="00001EE6">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+		<actor gender="M" idleForm="00001EE6" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="0.765"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EEA">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Penis Adjust" to="0.7"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S4" frames="340" offset="0,-2,0,0:0,0,0,0">
-		<actor gender="M" idleForm="00001EE7">
-			<action id="MaleOrgasm Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
-			<action id="Cum_Start-Back" frames="8.555"/>
+		<actor gender="M" idleForm="00001EE7" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="0.679"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
+			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
+			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EEB">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="2.2"/>
+			<morph id="Penis Adjust" to="1.2"/>
 		</actor>
 	</animation>
 
@@ -1110,60 +1612,88 @@
 
 	<animation id="Leito_Carry_MM_2Mutant_01" frames="306">
 		<actor gender="M" idleForm="00001EDC">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00001EDD">
-			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.68"/>
+			<morph id="Erection Down" to="-0.20"/>
+			<morph id="Penis Adjust" to="0.40"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_ReverseCarry_MM_2Mutant_01" frames="304">
 		<actor gender="M" idleForm="00004C8F">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="00004C8C">
-			<morph id="Erection Up" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.80"/>
+			<morph id="Erection Down" to="-0.60"/>
+			<morph id="Penis Adjust" to="0.80"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Mutant_01" frames="308">
 		<actor gender="M" idleForm="0000542A">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0000542D">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.32"/>
+			<morph id="Penis Adjust" to="-0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_2Mutant_01" frames="288">
 		<actor gender="M" idleForm="0000542B">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0000542E">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.10"/>
+			<morph id="Penis Adjust" to="-0.20"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_Powerbomb_MM_2Mutant_01" frames="300">
 		<actor gender="M" idleForm="0000B73D">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0000B73E">
+			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Down" to="1"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.8"/>
+			<morph id="Penis Adjust" to="0.8"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_StandingSideways_MM_2Mutant_01" frames="304">
 		<actor gender="M" idleForm="0000542C">
-			<action id="MaleMoan Action" target="0" loop="true" from="1" to="0" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
+			<action id="MaleMoan Action" from="1" to="0" frames="8.555"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0000542F">
