@@ -1,9 +1,0 @@
-<actorStatData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults isPersistent="false" isHidden="false" defaultValue="0" minValue="0" maxValue="200" decayRate="1000"/>
-
-
-    <group id="statGroup1" showInProfile="true" showInStatMode="true" showInScene="true">
-        <stat id="WOOF" shortForm="WOOF" actorValueFormID="245EF1" actorValueSource="Fallout4.esm" priority="2"/>
-    </group>
-
-</actorStatData>
