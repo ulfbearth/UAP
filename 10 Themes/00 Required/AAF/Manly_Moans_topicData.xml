@@ -133,6 +133,7 @@
 		<!-- Unique NPCS -->
 		<!-- Dance VoiceSet -->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isDanse2"/>
 
 		<!-- Pyramid Head VoiceSet-->
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" voiceTypeSource="Manly Moans.esp" isOverride="true" conditions="isPyramid"/>

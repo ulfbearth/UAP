@@ -3,60 +3,80 @@
 
 	<animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
 		<actor gender="M" idleForm="01000f9e">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="01000f9D">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.135"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Table_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
 		<actor gender="M" idleForm="01000f9b">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="01000f99">
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Dogmeat_MM_01" frames="180">
 		<actor gender="M" idleForm="01000f9f">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="01000fa0">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.20"/>
+			<morph id="Erection Up" to="1.20"/>
+			<morph id="Penis Adjust" to="1.20"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Deathclaw_MM_Slow_01" frames="480">
 		<actor gender="M" idleForm="01002e07">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.404"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01002e08">
 			<morph id="Scale" to="1"/>
-			<morph id="Erection Up" to="1"/>
+			<morph id="Erection Up" to="0.8"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Deathclaw_MM_Fast_02" frames="2360">
 		<actor gender="M" idleForm="010044DB">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.404"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01003D41">
-		<morph id="Erection Up" to="1.5"/>
-		<morph id="Scale" to="1"/>
+			<morph id="Erection Up" to="1.5"/>
+			<morph id="Scale" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Cat_MM_01" offset="0,0,0,0:0,0,0,0" frames="60">
 		<actor gender="F" skeleton="Cat" idleForm="01002e0a">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Cat" idleForm="01002e09">
@@ -66,57 +86,89 @@
 
 	<animation id="VM_Ghoul_MM_02" frames="120">
 		<actor gender="M" idleForm="0100173c">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="0.608"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173B">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.20"/>
+			<morph id="Erection Down" to="-0.60"/>
+			<morph id="Penis Adjust" to="1.30"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Ghoul_MM_Aggressive_03" frames="240">
 		<actor gender="M" idleForm="0100173D">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="0.608"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173E">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.10"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Ghoul_MM_04" frames="60">
 		<actor gender="M" idleForm="01001ed8">
+			<action id="Intermediary Action" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01001ed9">
+			<action id="Intermediary Action" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-0.20"/>
+			<morph id="Penis Adjust" to="0.51"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01001eda">
+			<action id="Intermediary Action" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.19"/>
+			<morph id="Erection Down" to="-0.19"/>
+			<morph id="Penis Adjust" to="0.80"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01001edb">
+			<action id="Intermediary Action" from="0" to="1" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_FEVHound_MM_01" frames="100">
 		<actor gender="M" idleForm="01002E13">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.450"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="01002e12">
 			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Erection Down" to="0.20"/>
+			<morph id="Penis Adjust" to="-0.20"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Gorilla_MM_01" frames="240">
 		<actor gender="M" idleForm="010035b5">
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="010035b4">
 			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="8.555"/>
+			<morph id="Erection Up" to="0.25"/>
 		</actor>
 	</animation>
 </animationData>
