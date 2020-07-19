@@ -1340,7 +1340,6 @@
 		<actor gender="M" idleForm="0000450E" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="8.555"/>
-			<morph id="Erection Up" to="1"/>
 			<action id="MaleOrgasm Action" from="1" to="0" frames="8.555"/>
 			<action id="Play-Pussy-CumLeak" from="1" to="0" frames="8.555"/>
 			<action id="Play-CumShot-Thick-Uber" from="1" to="0" frames="8.555"/>

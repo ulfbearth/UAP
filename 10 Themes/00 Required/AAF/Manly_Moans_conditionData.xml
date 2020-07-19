@@ -39,20 +39,20 @@
 
     <!-- For 4 staged sequences anims -->
     <condition id="Intermediary-20_49" statRules="WOOF)20,WOOF(49"/>
-    <condition id="Intermediary-50_79" statRules="WOOF)40,WOOF(79"/>
+    <condition id="Intermediary-50_79" statRules="WOOF)50,WOOF(79"/>
     <!-- -->
 
     <!-- For 5 staged sequences anims -->
     <condition id="Intermediary-20_39" statRules="WOOF)20,WOOF(39"/>
-    <condition id="Intermediary-40_59" statRules="WOOF)20,WOOF(59"/>
-    <condition id="Intermediary-60_79" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-40_59" statRules="WOOF)40,WOOF(59"/>
+    <condition id="Intermediary-60_79" statRules="WOOF)60,WOOF(79"/>
     <!-- -->
 
     <!-- For 6 staged sequences anims -->
     <condition id="Intermediary-20_34" statRules="WOOF)20,WOOF(34"/>
-    <condition id="Intermediary-35_49" statRules="WOOF)20,WOOF(49"/>
-    <condition id="Intermediary-50_64" statRules="WOOF)20,WOOF(64"/>
-    <condition id="Intermediary-65_79" statRules="WOOF)20,WOOF(79"/>
+    <condition id="Intermediary-35_49" statRules="WOOF)35,WOOF(49"/>
+    <condition id="Intermediary-50_64" statRules="WOOF)50,WOOF(64"/>
+    <condition id="Intermediary-65_79" statRules="WOOF)65,WOOF(79"/>
     <!-- -->
     
     <condition id="Climax" statRules="WOOF)80"/>
