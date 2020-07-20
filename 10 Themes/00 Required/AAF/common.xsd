@@ -550,7 +550,7 @@
   <xs:complexType name="narrationDataType">
     <xs:sequence>
       <xs:element type="defaultsType" name="defaults"/>
-      <xs:element type="narrationGroupType" name="narrationGroup"/>
+      <xs:element type="narrationGroupType" name="narrationGroup" maxOccurs="unbounded" minOccurs="1"/>
       <xs:element type="libraryType" name="library" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
   </xs:complexType>
@@ -971,6 +971,8 @@
         <xs:attribute type="xs:string" name="loops"/>
         <xs:attribute type="xs:float" name="weight"/>
         <xs:attribute type="xs:string" name="exitActors"/>
+        <xs:attribute type="xs:boolean" name="sendEvent"/>
+        <xs:attribute type="xs:string" name="switchTo"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
