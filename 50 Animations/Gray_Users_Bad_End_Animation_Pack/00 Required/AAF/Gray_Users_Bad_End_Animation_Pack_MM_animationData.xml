@@ -5,43 +5,43 @@
 
 	<animation id="GUBEAP_Chair_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00004DCB">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Chair_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00004DCC">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Chair_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00004DCD">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Chair_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00004DCE">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Chair_MM_01_4TR5" frames="300">
 		<actor gender="M" idleForm="00008AB6">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Chair_MM_01_S5A" frames="300">
 		<actor gender="M" idleForm="00004DCF">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Chair_MM_01_S5B" frames="300">
 		<actor gender="M" idleForm="00004DD0">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -49,37 +49,37 @@
 
 	<animation id="GUBEAP_Garrote_Free_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DBF">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Free_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC0">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Free_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC1">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Free_MM_01_S4" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC2">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Free_MM_01_S5A" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC3">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Free_MM_01_S5B" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC4">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -87,37 +87,37 @@
 
 	<animation id="GUBEAP_Garrote_Tied_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC5">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Tied_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC6">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Tied_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC7">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Tied_MM_01_S4" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC8">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Tied_MM_01_S5A" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DC9">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Garrote_Tied_MM_01_S5B" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00004DCA">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -125,31 +125,31 @@
 
 	<animation id="GUBEAP_Hanging_Free_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EEB">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Free_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EEC">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Free_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EED">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Free_MM_01_S4A" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EEE">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Free_MM_01_S4B" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EEF">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -157,31 +157,31 @@
 
 	<animation id="GUBEAP_Hanging_Tied_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EF0">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Tied_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EF1">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Tied_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EF2">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Tied_MM_01_S4A" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="00001EF3">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Hanging_Tied_MM_01_S4B" frames="300">
 		<actor gender="M" startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose" idleForm="0000B0C8">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
@@ -189,61 +189,61 @@
 
 	<animation id="GUBEAP_Pole_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00001EF7">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00001EF8">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00001EF9">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_3TR4" frames="300">
 		<actor gender="M" idleForm="00001EFA">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 	<!-- Pole Low Animations -->
 	<animation id="GUBEAP_Pole_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00001EF4">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S5" frames="300">
 		<actor gender="M" idleForm="00001EF5">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S6" frames="300">
 		<actor gender="M" idleForm="00001EF6">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S7A" frames="300">
 		<actor gender="M" idleForm="0000B0C9">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S7B" frames="300">
 		<actor gender="M" idleForm="0000B0CA">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUBEAP_Pole_MM_01_S7C" frames="300">
 		<actor gender="M" idleForm="0000B0CB">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 </animationData>

@@ -30,10 +30,10 @@
     
     <action id="Intermediary Action">
         <self meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".075"/>
+            <stat range="0-" statID="WOOF" add=".06"/>
         </self>
         <target meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".075"/>
+            <stat range="0-" statID="WOOF" add=".06"/>
         </target>
     </action>
     
@@ -48,10 +48,10 @@
     
     <action id="Full Action">
         <self meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".1"/>
+            <stat range="0-" statID="WOOF" add=".06"/>
         </self>
         <target meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".1"/>
+            <stat range="0-" statID="WOOF" add=".06"/>
         </target>
     </action>
 

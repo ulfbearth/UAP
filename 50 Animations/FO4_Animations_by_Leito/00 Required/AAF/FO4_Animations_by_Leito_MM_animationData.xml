@@ -1,10 +1,10 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults idleSource="FO4_AnimationsByLeito.esp"/>
 
-	
+
 	<!-- Blowjob Animations -->
 
-	
+
 	<animation id="Leito_Blowjob_MM_Aggressive_01" frames="308">
 		<actor gender="M" idleForm="0000B71E">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -68,7 +68,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004CB9">
@@ -318,7 +317,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="0.750"/>
@@ -335,7 +333,7 @@
 
 	<!-- Cowgirl Animations -->
 
-	
+
 	<animation id="Leito_Cowgirl_MM_Aggressive_01" frames="300">
 		<actor gender="M" idleForm="0000B720">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -481,7 +479,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -554,7 +551,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -625,7 +621,7 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 	</animation>
@@ -690,7 +686,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -762,7 +757,7 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -857,7 +852,7 @@
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE3">
@@ -930,7 +925,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1004,7 +998,6 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1078,7 +1071,7 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1243,7 +1236,6 @@
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1339,9 +1331,9 @@
 		<actor gender="M" idleForm="0000450E" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
+			<morph id="Erection Up" to="1"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1416,7 +1408,7 @@
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1478,7 +1470,7 @@
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="0000268A">
@@ -1536,7 +1528,7 @@
 			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="Play-CumShot-Thick-Uber" loop="true"/>
+
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7F">
