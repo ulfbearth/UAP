@@ -4,11 +4,11 @@
 
 	<animation id="MM Rocket 69" frames="60">
 		<actor gender="M" idleForm="01001732">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" idleForm="01001ECC">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
@@ -16,11 +16,11 @@
 
 	<animation id="MM Kissing" frames="60">
 		<actor gender="M" idleForm="0100359A">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="0"/>
 		</actor>
 		<actor gender="M" idleForm="0100359B">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="0"/>
 		</actor>
 	</animation>
@@ -28,11 +28,11 @@
 
 	<animation id="MM Make Out" frames="60">
 		<actor gender="M" idleForm="01004C6D">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="0"/>
 		</actor>
 		<actor gender="M" idleForm="01004C6E">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="0"/>
 		</actor>
 	</animation>
@@ -40,11 +40,11 @@
 
 	<animation id="MM Smooching" frames="60">
 		<actor gender="M" idleForm="01006AD8">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="0"/>
 		</actor>
 		<actor gender="M" idleForm="01006AD7">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="0"/>
 		</actor>
 	</animation>
@@ -52,11 +52,11 @@
 
 	<animation id="MM Cunnilingus" frames="60">
 		<actor gender="M" idleForm="01007A0D">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" idleForm="01007A0E">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
@@ -65,11 +65,11 @@
 	<animation id="MM Spooning" frames="60">
 		<actor gender="M" idleForm="01008942">
 			<morph id="Erection Up" to="1.25"/>
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" idleForm="01008943">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>

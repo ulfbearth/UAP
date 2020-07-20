@@ -5,14 +5,14 @@
 
 	<animation id="AtomicLust_Jerking_M_01" frames="400">
 		<actor gender="M" idleForm="000428DC">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Jerking_M_Orgasm_01" frames="400">
 		<actor gender="M" idleForm="000428DD">
-			<action id="MaleOrgasm Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>

@@ -5,58 +5,58 @@
 
 	<animation id="AtomicLust_Spork_MM_01" frames="304">
 		<actor gender="M" idleForm="0004D0BA" stopOverlaySet="Back_M">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004D0BB" stopOverlaySet="Belly_M">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Spork_MM_02" frames="304">
 		<actor gender="M" idleForm="0004D0BC">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004D0BD">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Cowgirl_MM_01" frames="400">
 		<actor gender="M" idleForm="0004C91B">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C91C">
 			<morph id="Erection Down" to="0.5"/>
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Cowgirl_MM_02" frames="400">
 		<actor gender="M" idleForm="0004C91D">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C91E">
 			<morph id="Erection Down" to="0.5"/>
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Cowgirl_MM_03" frames="400">
 		<actor gender="M" idleForm="0004C91F">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C920">
 			<morph id="Erection Down" to="0.5"/>
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -64,12 +64,12 @@
 	<animation id="AtomicLust_Embrace_MM_01" frames="400">
 		<actor gender="M" idleForm="000044D7">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000044D8">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -77,12 +77,12 @@
 	<animation id="AtomicLust_Kissing_MM_01" frames="360">
 		<actor gender="M" idleForm="0000540D">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000540E">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -91,165 +91,165 @@
 
 	<animation id="AtomicLust_BlowjobChair_MM_01" frames="400">
 		<actor gender="M" idleForm="00043FBA">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043FBB">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlBunkBed_MM_Bottom_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCCD">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCCE">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlBunkBed_MM_Top_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCCB">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCCC">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlDoubleBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003D530">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003D531">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlDoubleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041203">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00041204">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlMedBay_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041209">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004120A">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlMedBay_MM_InstituteInclined_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0004120B">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004120C">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlSingleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041207">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00041208">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlWallmountBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041205">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00041206">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlPreWarBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCD1">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCD2">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CowgirlVaultBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCCF">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCD0">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_ReverseCowgirlVaultBed_MM_01" frames="400">
 		<actor gender="M" idleForm="0004C917">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C918">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_ReverseCowgirlVaultBed_MM_Orgasm_01" frames="400">
 		<actor gender="M" idleForm="0004C919">
-			<action id="MaleOrgasm Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C91A">
-			<action id="MaleOrgasm Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CuddleBed_MM_01" frames="400">
 		<actor gender="M" idleForm="0001B959">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001B95A">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_CryoPod_MM_01" frames="400">
 		<actor gender="M" idleForm="0000A7BA">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A7BB">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -258,66 +258,66 @@
 
 	<animation id="AtomicLust_Spanking_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="0001C0F4">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001C0F5">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_1TR2" frames="96">
 		<actor gender="M" idleForm="0001C88F">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001C890">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="0001D7C5">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001D02B">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_2TR3" frames="51">
 		<actor gender="M" idleForm="0001DF5F">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001DF60">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="0001EE93">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001EE94">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_S4" frames="80">
 		<actor gender="M" idleForm="0001F62E">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001F62F">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -326,11 +326,11 @@
 
 	<animation id="AtomicLust_HoldingHands_MM_01" frames="60">
 		<actor gender="M" idleForm="0004307A">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004307B">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -338,11 +338,11 @@
 	<animation id="AtomicLust_HoldingHandstoHoldingJerking_MM_01" frames="136">
 		<actor gender="M" idleForm="0004307E">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004307F">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -350,11 +350,11 @@
 	<animation id="AtomicLust_HoldingHandstoHoldingKissing_MM_01" frames="65">
 		<actor gender="M" idleForm="0004307C">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004307D">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -362,11 +362,11 @@
 	<animation id="AtomicLust_HoldingKissing_MM_01" frames="60">
 		<actor gender="M" idleForm="00043080">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043081">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -374,11 +374,11 @@
 	<animation id="AtomicLust_StandingIdle_MM_01" frames="60">
 		<actor gender="M" idleForm="00043082">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043083">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -386,11 +386,11 @@
 	<animation id="AtomicLust_StandingIdletoHoldingHands_MM_01" frames="140">
 		<actor gender="M" idleForm="00043084">
 			<morph id="Erection" to="0"/>
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043085">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -399,32 +399,32 @@
 
 	<animation id="AtomicLust_Threesome_MM_01" frames="640">
 		<actor gender="M" idleForm="00005BAE">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00005BB0">
 			<morph id="Erection Up" to="0.2"/>
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00005BAF">
 			<morph id="Erection Up" to="0.2"/>
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Threesome_MM_02" frames="640">
 		<actor gender="M" idleForm="00043FBC">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043FBD">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043FBE">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -433,23 +433,23 @@
 
 	<animation id="AtomicLust_Cowboy_MM_01" frames="640">
 		<actor gender="M" idleForm="0004381F">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection Up" to="0.1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043820">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Rocket69_MM_01" frames="236">
 		<actor gender="M" idleForm="0002B43D">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0002B43E">
-			<action id="MaleBlowjob Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection Up" to="0.45"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

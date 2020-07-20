@@ -8,7 +8,7 @@
 
 	<animation id="Atomic Spork" frames="304">
 		<actor gender="F" idleForm="0204D0BA">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204D0BB">
 		</actor>
@@ -18,7 +18,7 @@
 
 	<animation id="Atomic Spork II" frames="304">
 		<actor gender="F" idleForm="0204D0BC">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204D0BD">
 		</actor>
@@ -28,7 +28,7 @@
 
 	<animation id="Atomic Cowgirl" frames="400">
 		<actor gender="F" idleForm="0204C91B">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204C91C">
 		</actor>
@@ -38,7 +38,7 @@
 
 	<animation id="Atomic Cowgirl 2" frames="400">
 		<actor gender="F" idleForm="0204C91D">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204C91E">
 		</actor>
@@ -48,7 +48,7 @@
 
 	<animation id="Atomic Cowgirl 2 Alt 1" frames="400">
 		<actor gender="F" idleForm="0204C91F">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204C920">
 		</actor>
@@ -142,10 +142,10 @@
 
 	<animation id="Atomic Threesome 2" frames="640">
 		<actor gender="F" idleForm="02043FBC">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="F" idleForm="02043FBD">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="02043FBE">
 		</actor>
@@ -211,10 +211,10 @@
 
 	<animation id="Atomic Scissor" frames="400">
 		<actor gender="F" idleForm="02018BBB">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="F" idleForm="02018BBC">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 	</animation>
 
@@ -243,7 +243,7 @@
 
 	<animation id="Atomic Reversed Cowgirl (Vault Bed)" frames="400">
 		<actor gender="F" idleForm="0204C917">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204C918">
 		</actor>
@@ -252,7 +252,7 @@
 
 	<animation id="Atomic Reversed Cowgirl (Vault Bed) Orgasm" frames="400">
 		<actor gender="F" idleForm="0204C919">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204C91A">
 		</actor>
@@ -261,7 +261,7 @@
 
 	<animation id="Atomic Cryo Pod" frames="400">
 		<actor gender="F" idleForm="0200A7BA">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0200A7BB">
 		</actor>
@@ -278,7 +278,7 @@
 
 	<animation id="Atomic Cunnilingus PA" frames="400">
 		<actor gender="F" idleForm="0201A288">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0201A289">
 		</actor>
@@ -287,7 +287,7 @@
 
 	<animation id="Atomic Cunnilingus Alt PA" frames="400">
 		<actor gender="F" idleForm="0201B1BE">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0201B1BF">
 		</actor>
@@ -306,7 +306,7 @@
 
 	<animation id="Atomic Cowgirl (Double Bed)" frames="400">
 		<actor gender="F" idleForm="0203D530">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0203D531">
 		</actor>
@@ -316,7 +316,7 @@
 
 	<animation id="Atomic Cowgirl (Pre-War Bed)" frames="400">
 		<actor gender="F" idleForm="0203DCD1">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0203DCD2">
 		</actor>
@@ -326,7 +326,7 @@
 
 	<animation id="Atomic Cowgirl (Bunk Bed Top)" frames="400">
 		<actor gender="F" idleForm="0203DCCB">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0203DCCC">
 		</actor>
@@ -336,7 +336,7 @@
 
 	<animation id="Atomic Cowgirl (Bunk Bed Bottom)" frames="400">
 		<actor gender="F" idleForm="0203DCCD">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0203DCCE">
 		</actor>
@@ -346,7 +346,7 @@
 
 	<animation id="Atomic Cowgirl (Vault Bed)" frames="400">
 		<actor gender="F" idleForm="0203DCCF">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0203DCD0">
 		</actor>
@@ -356,7 +356,7 @@
 
 	<animation id="Atomic Cowgirl (Institute Single Bed)" frames="400">
 		<actor gender="F" idleForm="02041207">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="02041208">
 		</actor>
@@ -366,7 +366,7 @@
 
 	<animation id="Atomic Cowgirl (Institute Double Bed)" frames="400">
 		<actor gender="F" idleForm="02041203">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="02041204">
 		</actor>
@@ -376,7 +376,7 @@
 
 	<animation id="Atomic Cowgirl (Institute Wallmounted Bed)" frames="400">
 		<actor gender="F" idleForm="02041205">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="02041206">
 		</actor>
@@ -386,7 +386,7 @@
 
 	<animation id="Atomic Cowgirl (Institute Med Bay)" frames="400">
 		<actor gender="F" idleForm="02041209">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204120A">
 		</actor>
@@ -396,7 +396,7 @@
 
 	<animation id="Atomic Cowgirl (Institute Med Bay Inclined)" frames="400">
 		<actor gender="F" idleForm="0204120B">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0204120C">
 		</actor>
@@ -424,7 +424,7 @@
 
 	<animation id="Atomic Fingering (Laying)" frames="400">
 		<actor gender="F" idleForm="020428DE">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 	</animation>
 
@@ -432,7 +432,7 @@
 
 	<animation id="Atomic Fingering (Sitting)" frames="400">
 		<actor gender="F" idleForm="020428DF">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 	</animation>
 
@@ -440,7 +440,7 @@
 
 	<animation id="Atomic Fingering 2 (Sitting)" frames="400">
 		<actor gender="F" idleForm="020428E0">
-			<action id="Female Sounds" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="Female Sounds" loop="true"/>
 		</actor>
 	</animation>
 </animationData>

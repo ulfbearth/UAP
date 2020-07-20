@@ -5,7 +5,7 @@
 
 	<animation id="FO4SA_MasturbationBed_M_01" frames="360">
 		<actor gender="M" idleForm="000035E6">
-			<action id="MaleMoan Action" loop="true" from="1" to="0" frames="8.555"/>
+			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
