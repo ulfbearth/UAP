@@ -10,4 +10,13 @@
 		</actor>
 	</animation>
 
+	<animation id="Null_Creature" frames="13">
+		<actor idleForm="Null">
+			<action id="Resetall Action" loop="true"/>
+		</actor>
+		<actor idleForm="Null" skeleton="!Human">
+			<action id="Resetall Action" loop="true"/>
+		</actor>
+	</animation>
+
 </animationData>

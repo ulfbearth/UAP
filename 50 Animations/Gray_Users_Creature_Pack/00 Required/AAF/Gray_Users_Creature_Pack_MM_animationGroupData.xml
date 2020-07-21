@@ -1,42 +1,210 @@
 <animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults/>
 
-	<!-- Supermutant -->
+	
+<!-- Supermutant -->
 
-	<animationGroup id="GUCP_Supermutant_MM_01_Staged" sequential="true">
-		<stage animation="GUCP_Supermutant_MM_01_S1" loops="1"/>
-		<stage animation="GUCP_Supermutant_MM_01_S2" loops="2"/>
-		<stage animation="GUCP_Supermutant_MM_01_S3" loops="5"/>
-		<stage animation="GUCP_Supermutant_MM_01_S4" loops="5"/>
-	</animationGroup>
+<animationGroup id="GUCP_Supermutant_MM_01_Staged" sequential="false">
+	<stage animation="GUCP_Supermutant_MM_01_S1"/>
+	<stage animation="GUCP_Supermutant_MM_01_S2"/>
+	<stage animation="GUCP_Supermutant_MM_01_S3"/>
+	<stage animation="GUCP_Supermutant_MM_01_S4"/>
+</animationGroup>
 
-	<animationGroup id="GUCP_Supermutant_MM_02_Staged" sequential="true">
-		<stage animation="GUCP_Supermutant_MM_02_S1" loops="1"/>
-		<stage animation="GUCP_Supermutant_MM_02_S2" loops="2"/>
-		<stage animation="GUCP_Supermutant_MM_02_S3" loops="5"/>
-		<stage animation="GUCP_Supermutant_MM_02_S4" loops="5"/>
-	</animationGroup>
+<animationGroup id="GUCP_Supermutant_MM_02_Staged" sequential="false">
+	<stage animation="GUCP_Supermutant_MM_02_S1"/>
+	<stage animation="GUCP_Supermutant_MM_02_S2"/>
+	<stage animation="GUCP_Supermutant_MM_02_S3"/>
+	<stage animation="GUCP_Supermutant_MM_02_S4"/>
+</animationGroup>
+
+<!-- Feral Ghoul -->
+
+<animationGroup id="GUCP_Ghoul_MM_01_Staged" sequential="false">
+	<stage animation="GUCP_Ghoul_MM_01_S1"/>
+	<stage animation="GUCP_Ghoul_MM_01_S2"/>
+	<stage animation="GUCP_Ghoul_MM_01_S3"/>
+	<stage animation="GUCP_Ghoul_MM_01_S4"/>
+</animationGroup>
+
+<animationGroup id="GUCP_Ghoul_MM_02_Staged" sequential="false">
+	<stage animation="GUCP_Ghoul_MM_02_S1"/>
+	<stage animation="GUCP_Ghoul_MM_02_S2"/>
+	<stage animation="GUCP_Ghoul_MM_02_S3"/>
+	<stage animation="GUCP_Ghoul_MM_02_S4"/>
+</animationGroup>
+
 
 	<!-- FEVHound -->
 
-	<animationGroup id="GUCP_FEVHound_MM_01_Staged" sequential="true">
-		<stage animation="GUCP_FEVHound_MM_01_S1" loops="1"/>
-		<stage animation="GUCP_FEVHound_MM_01_S2" loops="2"/>
-		<stage animation="GUCP_FEVHound_MM_01_S3" loops="3"/>
-		<stage animation="GUCP_FEVHound_MM_01_S4" loops="3"/>
+	<animationGroup id="GUCP_FEVHound_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S1"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S2"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S3"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
+		<stage animation="GUCP_FEVHound_MM_01_S4"/>
 	</animationGroup>
 
 	<!-- Deathclaw -->
 
-	<animationGroup id="GUCP_Deathclaw_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Deathclaw_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S1"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S2"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S3"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
+		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
 		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
@@ -45,31 +213,92 @@
 		<stage animation="GUCP_Deathclaw_MM_01_S4"/>
 	</animationGroup>
 
-	<!-- Feral Ghoul -->
-
-	<animationGroup id="GUCP_Ghoul_MM_01_Staged" sequential="true">
-		<stage animation="GUCP_Ghoul_MM_01_S1" loops="1"/>
-		<stage animation="GUCP_Ghoul_MM_01_S2" loops="2"/>
-		<stage animation="GUCP_Ghoul_MM_01_S3" loops="5"/>
-		<stage animation="GUCP_Ghoul_MM_01_S4" loops="5"/>
-	</animationGroup>
-
-	<animationGroup id="GUCP_Ghoul_MM_02_Staged" sequential="true">
-		<stage animation="GUCP_Ghoul_MM_02_S1" loops="1"/>
-		<stage animation="GUCP_Ghoul_MM_02_S2" loops="2"/>
-		<stage animation="GUCP_Ghoul_MM_02_S3" loops="5"/>
-		<stage animation="GUCP_Ghoul_MM_02_S4" loops="5"/>
-	</animationGroup>
+	
 
 	<!-- Molerat -->
 
-	<animationGroup id="GUCP_Molerat_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Molerat_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
+		<stage animation="GUCP_Molerat_MM_01_S1"/>
 		<stage animation="GUCP_Molerat_MM_01_S1"/>
 		<stage animation="GUCP_Molerat_MM_01_S2"/>
 		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
+		<stage animation="GUCP_Molerat_MM_01_S2"/>
 		<stage animation="GUCP_Molerat_MM_01_S3"/>
 		<stage animation="GUCP_Molerat_MM_01_S3"/>
 		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S3"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
+		<stage animation="GUCP_Molerat_MM_01_S4"/>
 		<stage animation="GUCP_Molerat_MM_01_S4"/>
 		<stage animation="GUCP_Molerat_MM_01_S4"/>
 		<stage animation="GUCP_Molerat_MM_01_S4"/>
@@ -77,22 +306,97 @@
 
 	<!-- Behemoth -->
 
-	<animationGroup id="GUCP_Behemoth_MM_01_Staged" sequential="true">
-		<stage animation="GUCP_Behemoth_MM_01_S1" loops="3"/>
-		<stage animation="GUCP_Behemoth_MM_01_S2" loops="3"/>
-		<stage animation="GUCP_Behemoth_MM_01_S3" loops="3"/>
-		<stage animation="GUCP_Behemoth_MM_01_S4" loops="3"/>
+	<animationGroup id="GUCP_Behemoth_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Behemoth_MM_01_S1"/>
+		<stage animation="GUCP_Behemoth_MM_01_S2"/>
+		<stage animation="GUCP_Behemoth_MM_01_S3"/>
+		<stage animation="GUCP_Behemoth_MM_01_S4"/>
 	</animationGroup>
 
 	<!-- Alien -->
 
-	<animationGroup id="GUCP_Alien_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Alien_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
+		<stage animation="GUCP_Alien_MM_01_S1"/>
 		<stage animation="GUCP_Alien_MM_01_S1"/>
 		<stage animation="GUCP_Alien_MM_01_S2"/>
 		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
+		<stage animation="GUCP_Alien_MM_01_S2"/>
 		<stage animation="GUCP_Alien_MM_01_S3"/>
 		<stage animation="GUCP_Alien_MM_01_S3"/>
 		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S3"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
+		<stage animation="GUCP_Alien_MM_01_S4"/>
 		<stage animation="GUCP_Alien_MM_01_S4"/>
 		<stage animation="GUCP_Alien_MM_01_S4"/>
 		<stage animation="GUCP_Alien_MM_01_S4"/>
@@ -100,13 +404,88 @@
 
 	<!-- Bloatfly -->
 
-	<animationGroup id="GUCP_Bloatfly_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Bloatfly_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S1"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S2"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S3"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
+		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
 		<stage animation="GUCP_Bloatfly_MM_01_S4"/>
@@ -114,13 +493,88 @@
 
 	<!-- Bloodbug -->
 
-	<animationGroup id="GUCP_Bloodbug_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Bloodbug_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S1"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S2"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S3"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
+		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
 		<stage animation="GUCP_Bloodbug_MM_01_S4"/>
@@ -128,13 +582,88 @@
 
 	<!-- Mirelurk -->
 
-	<animationGroup id="GUCP_Mirelurk_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Mirelurk_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S1"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S2"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S3"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
+		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
 		<stage animation="GUCP_Mirelurk_MM_01_S4"/>
@@ -142,13 +671,88 @@
 
 	<!-- Mirelurk Hunter -->
 
-	<animationGroup id="GUCP_MirelurkHunter_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_MirelurkHunter_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S1"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S2"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkHunter_MM_01_S4"/>
@@ -156,13 +760,88 @@
 
 	<!-- Mirelurk King -->
 
-	<animationGroup id="GUCP_MirelurkKing_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_MirelurkKing_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S1"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S2"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkKing_MM_01_S4"/>
@@ -170,13 +849,88 @@
 
 	<!-- Mirelurk Queen -->
 
-	<animationGroup id="GUCP_MirelurkQueen_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_MirelurkQueen_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S1"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S2"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S3"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
+		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
 		<stage animation="GUCP_MirelurkQueen_MM_01_S4"/>
@@ -184,13 +938,88 @@
 
 	<!-- Rad Scorpion -->
 
-	<animationGroup id="GUCP_Radscorpion_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Radscorpion_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S1"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S2"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S3"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
+		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
 		<stage animation="GUCP_Radscorpion_MM_01_S4"/>
@@ -198,13 +1027,88 @@
 
 	<!-- Stingwing -->
 
-	<animationGroup id="GUCP_Stingwing_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_Stingwing_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
+		<stage animation="GUCP_Stingwing_MM_01_S1"/>
 		<stage animation="GUCP_Stingwing_MM_01_S1"/>
 		<stage animation="GUCP_Stingwing_MM_01_S2"/>
 		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
+		<stage animation="GUCP_Stingwing_MM_01_S2"/>
 		<stage animation="GUCP_Stingwing_MM_01_S3"/>
 		<stage animation="GUCP_Stingwing_MM_01_S3"/>
 		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S3"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
+		<stage animation="GUCP_Stingwing_MM_01_S4"/>
 		<stage animation="GUCP_Stingwing_MM_01_S4"/>
 		<stage animation="GUCP_Stingwing_MM_01_S4"/>
 		<stage animation="GUCP_Stingwing_MM_01_S4"/>
@@ -212,13 +1116,88 @@
 
 	<!-- Yao-Guai -->
 
-	<animationGroup id="GUCP_YaoGuai_MM_01_Staged" sequential="true">
+	<animationGroup id="GUCP_YaoGuai_MM_01_Staged" sequential="false">
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S1"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S2"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S3"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
+		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S4"/>
 		<stage animation="GUCP_YaoGuai_MM_01_S4"/>

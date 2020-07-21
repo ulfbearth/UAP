@@ -88,18 +88,7 @@ is slot index 33.
 	
 	<equipmentSet id="unEquipParticles">
 		<condition>
-			<removeEquipment form="801"/>
-			<removeEquipment form="80F"/>
-			<removeEquipment form="810"/>
-			<removeEquipment form="811"/>
-			<removeEquipment form="812"/>
-			<removeEquipment form="813"/>
-			<removeEquipment form="814"/>
 			<removeEquipment form="815"/>
-			<removeEquipment form="816"/>
-			<removeEquipment form="817"/>
-			<removeEquipment form="818"/>
-			<removeEquipment form="819"/>
 		</condition>
 	</equipmentSet>
 

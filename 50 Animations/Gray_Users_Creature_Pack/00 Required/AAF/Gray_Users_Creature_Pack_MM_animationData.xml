@@ -4,84 +4,127 @@
 	<!-- Supermutant -->
 
 	<animation id="GUCP_Supermutant_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="010098fb">
+		<actor gender="M" idleForm="010098fb" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="1.132"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098f7">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.20"/>
+			<morph id="Erection Up" to="0.20"/>
+			<morph id="Penis Adjust" to="0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="010098fd">
+		<actor gender="M" idleForm="010098fd" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="1.132"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098f8">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.20"/>
+			<morph id="Erection Up" to="0.20"/>
+			<morph id="Penis Adjust" to="0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="010098fe">
+		<actor gender="M" idleForm="010098fe" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="1.132"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098f9">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.20"/>
+			<morph id="Erection Up" to="0.20"/>
+			<morph id="Penis Adjust" to="0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="010098ff">
+		<actor gender="M" idleForm="010098ff" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="1.132"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098fa">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.20"/>
+			<morph id="Erection Up" to="0.20"/>
+			<morph id="Penis Adjust" to="0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_02_S1" frames="300">
-		<actor gender="M" idleForm="0100a0a5">
+		<actor gender="M" idleForm="0100a0a5" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.388"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a099">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.59"/>
+			<morph id="Erection Up" to="-0.10"/>
+			<morph id="Penis Adjust" to="-0.45"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_02_S2" frames="300">
-		<actor gender="M" idleForm="0100a0a6">
+		<actor gender="M" idleForm="0100a0a6" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.629"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a09a">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.59"/>
+			<morph id="Erection Up" to="-0.10"/>
+			<morph id="Penis Adjust" to="-0.45"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_02_S3" frames="300">
-		<actor gender="M" idleForm="0100a0a7">
+		<actor gender="M" idleForm="0100a0a7" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.858"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a09b">
-			<morph id="Erection Down" to="0.2"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.50"/>
+			<morph id="Erection Up" to="-0.20"/>
+			<morph id="Erection Down" to="-0.15"/>
+			<morph id="Penis Adjust" to="-0.45"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_02_S4" frames="300">
-		<actor gender="M" idleForm="0100a0a8">
+		<actor gender="M" idleForm="0100a0a8" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.858"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a09c">
-			<morph id="Erection Down" to="0.2"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="0.50"/>
+			<morph id="Erection Up" to="-0.20"/>
+			<morph id="Erection Down" to="-0.15"/>
+			<morph id="Penis Adjust" to="-0.45"/>
 		</actor>
 	</animation>
 
@@ -89,7 +132,9 @@
 	<!-- FEV Hound -->
 
 	<animation id="GUCP_FEVHound_MM_01_S1" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
-		<actor gender="M" idleForm="01007a8f">
+		<actor gender="M" idleForm="01007a8f" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -99,7 +144,9 @@
 	</animation>
 
 	<animation id="GUCP_FEVHound_MM_01_S2" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
-		<actor gender="M" idleForm="01007a90">
+		<actor gender="M" idleForm="01007a90" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -109,7 +156,9 @@
 	</animation>
 
 	<animation id="GUCP_FEVHound_MM_01_S3" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
-		<actor gender="M" idleForm="01007a91">
+		<actor gender="M" idleForm="01007a91" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -119,7 +168,9 @@
 	</animation>
 
 	<animation id="GUCP_FEVHound_MM_01_S4" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
-		<actor gender="M" idleForm="01007a92">
+		<actor gender="M" idleForm="01007a92" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -132,129 +183,197 @@
 	<!-- Deathclaw -->
 
 	<animation id="GUCP_Deathclaw_MM_01_S1" frames="300" offset="0,0,0,0:0,23,0,0">
-		<actor gender="M" idleForm="010063b8">
+		<actor gender="M" idleForm="010063b8" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="2.064"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063bc">
 			<morph id="Scale" to="1"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to=".45"/>
+			<morph id="Erection Down" to="1"/>
+			<morph id="Penis Adjust" to="-.20"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Deathclaw_MM_01_S2" frames="300" offset="0,0,0,0:0,23,0,0">
-		<actor gender="M" idleForm="010063b9">
+		<actor gender="M" idleForm="010063b9" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="2.064"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063bd">
 			<morph id="Scale" to="1"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to=".45"/>
+			<morph id="Erection Down" to="1"/>
+			<morph id="Penis Adjust" to="-.20"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Deathclaw_MM_01_S3" frames="300" offset="0,0,0,0:0,23,0,0">
-		<actor gender="M" idleForm="010063ba">
+		<actor gender="M" idleForm="010063ba" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="2.064"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063be">
 			<morph id="Scale" to="1"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to=".45"/>
+			<morph id="Erection Down" to="1"/>
+			<morph id="Penis Adjust" to="-.20"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Deathclaw_MM_01_S4" frames="300" offset="0,0,0,0:0,23,0,0">
-		<actor gender="M" idleForm="010063bb">
+		<actor gender="M" idleForm="010063bb" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="2.064"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063bf">
 			<morph id="Scale" to="1"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to=".45"/>
+			<morph id="Erection Down" to="1"/>
+			<morph id="Penis Adjust" to="-.20"/>
 		</actor>
 	</animation>
+
 
 
 	<!-- Feral Ghoul -->
 
 	<animation id="GUCP_Ghoul_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="0100547c">
+		<actor gender="M" idleForm="0100547c" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005480">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="-0.20"/>
+			<morph id="Penis Adjust" to="-0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="0100547d">
+		<actor gender="M" idleForm="0100547d" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005481">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="-0.20"/>
+			<morph id="Penis Adjust" to="-0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="0100547e">
+		<actor gender="M" idleForm="0100547e" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005482">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="-0.20"/>
+			<morph id="Penis Adjust" to="-0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="0100547f">
+		<actor gender="M" idleForm="0100547f" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005483">
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="-0.20"/>
+			<morph id="Penis Adjust" to="-0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_02_S1" frames="300" offset="0,0,0,0:0,0,2,0">
-		<actor gender="M" idleForm="0100a0a1">
+		<actor gender="M" idleForm="0100a0a1" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a09d">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.50"/>
+			<morph id="Erection Up" to="-0.10"/>
+			<morph id="Erection Down" to="0.85"/>
+			<morph id="Penis Adjust" to="-0.9"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_02_S2" frames="300" offset="0,0,0,0:0,0,2,0">
-		<actor gender="M" idleForm="0100a0a2">
+		<actor gender="M" idleForm="0100a0a2" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a09e">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.50"/>
+			<morph id="Erection Up" to="-0.10"/>
+			<morph id="Erection Down" to="0.85"/>
+			<morph id="Penis Adjust" to="-0.9"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_02_S3" frames="300" offset="0,0,0,0:0,0,2,0">
-		<actor gender="M" idleForm="0100a0a3">
+		<actor gender="M" idleForm="0100a0a3" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a09f">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.50"/>
+			<morph id="Erection Up" to="-0.10"/>
+			<morph id="Erection Down" to="0.85"/>
+			<morph id="Penis Adjust" to="-0.9"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_02_S4" frames="300" offset="0,0,0,0:0,0,2,0">
-		<actor gender="M" idleForm="0100a0a4">
+		<actor gender="M" idleForm="0100a0a4" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<morph id="Anus Spread" to="0.588"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a0a0">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.50"/>
+			<morph id="Erection Up" to="-0.10"/>
+			<morph id="Erection Down" to="0.85"/>
+			<morph id="Penis Adjust" to="-0.9"/>
 		</actor>
 	</animation>
 
@@ -262,7 +381,9 @@
 	<!-- Molerat -->
 
 	<animation id="GUCP_Molerat_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="0100453c">
+		<actor gender="M" idleForm="0100453c" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -272,7 +393,9 @@
 	</animation>
 
 	<animation id="GUCP_Molerat_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="0100453d">
+		<actor gender="M" idleForm="0100453d" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -282,7 +405,9 @@
 	</animation>
 
 	<animation id="GUCP_Molerat_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="0100453e">
+		<actor gender="M" idleForm="0100453e" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -292,7 +417,9 @@
 	</animation>
 
 	<animation id="GUCP_Molerat_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="0100453f">
+		<actor gender="M" idleForm="0100453f" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -305,7 +432,9 @@
 	<!-- Behemoth -->
 
 	<animation id="GUCP_Behemoth_MM_01_S1" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="M" idleForm="01004534">
+		<actor gender="M" idleForm="01004534" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -315,7 +444,9 @@
 	</animation>
 
 	<animation id="GUCP_Behemoth_MM_01_S2" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="M" idleForm="01004535">
+		<actor gender="M" idleForm="01004535" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -325,7 +456,9 @@
 	</animation>
 
 	<animation id="GUCP_Behemoth_MM_01_S3" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="M" idleForm="01004536">
+		<actor gender="M" idleForm="01004536" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -335,7 +468,9 @@
 	</animation>
 
 	<animation id="GUCP_Behemoth_MM_01_S4" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="M" idleForm="01004537">
+		<actor gender="M" idleForm="01004537" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -348,7 +483,9 @@
 	<!-- Alien -->
 
 	<animation id="GUCP_Alien_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="01004538">
+		<actor gender="M" idleForm="01004538" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -358,7 +495,9 @@
 	</animation>
 
 	<animation id="GUCP_Alien_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="01004539">
+		<actor gender="M" idleForm="01004539" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -368,7 +507,9 @@
 	</animation>
 
 	<animation id="GUCP_Alien_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="0100453a">
+		<actor gender="M" idleForm="0100453a" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -378,7 +519,9 @@
 	</animation>
 
 	<animation id="GUCP_Alien_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="0100453b">
+		<actor gender="M" idleForm="0100453b" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -391,7 +534,9 @@
 	<!-- Bloatfly -->
 
 	<animation id="GUCP_Bloatfly_MM_01_S1" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="M" idleForm="00000F99">
+		<actor gender="M" idleForm="00000F99" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -401,7 +546,9 @@
 	</animation>
 
 	<animation id="GUCP_Bloatfly_MM_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="M" idleForm="00000F9A">
+		<actor gender="M" idleForm="00000F9A" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -411,7 +558,9 @@
 	</animation>
 
 	<animation id="GUCP_Bloatfly_MM_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="M" idleForm="00000F9B">
+		<actor gender="M" idleForm="00000F9B" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -421,7 +570,9 @@
 	</animation>
 
 	<animation id="GUCP_Bloatfly_MM_01_S4" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="M" idleForm="00000F9C">
+		<actor gender="M" idleForm="00000F9C" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -433,7 +584,9 @@
 	<!-- Bloodbug -->
 
 	<animation id="GUCP_Bloodbug_MM_01_S1" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="M" idleForm="00000F9D">
+		<actor gender="M" idleForm="00000F9D" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -443,7 +596,9 @@
 	</animation>
 
 	<animation id="GUCP_Bloodbug_MM_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="M" idleForm="00000F9E">
+		<actor gender="M" idleForm="00000F9E" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -453,7 +608,9 @@
 	</animation>
 
 	<animation id="GUCP_Bloodbug_MM_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="M" idleForm="00000F9F">
+		<actor gender="M" idleForm="00000F9F" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -463,7 +620,9 @@
 	</animation>
 
 	<animation id="GUCP_Bloodbug_MM_01_S4" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="M" idleForm="00000FA0">
+		<actor gender="M" idleForm="00000FA0" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -475,7 +634,9 @@
 	<!-- Mirelurk -->
 
 	<animation id="GUCP_Mirelurk_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00000FA1">
+		<actor gender="M" idleForm="00000FA1" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -485,7 +646,9 @@
 	</animation>
 
 	<animation id="GUCP_Mirelurk_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FA2">
+		<actor gender="M" idleForm="00000FA2" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -495,7 +658,9 @@
 	</animation>
 
 	<animation id="GUCP_Mirelurk_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FA3">
+		<actor gender="M" idleForm="00000FA3" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -505,7 +670,9 @@
 	</animation>
 
 	<animation id="GUCP_Mirelurk_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="00000FA4">
+		<actor gender="M" idleForm="00000FA4" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -517,7 +684,9 @@
 	<!-- Mirelurk Hunter -->
 
 	<animation id="GUCP_MirelurkHunter_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00000FA5">
+		<actor gender="M" idleForm="00000FA5" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -527,7 +696,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkHunter_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FA6">
+		<actor gender="M" idleForm="00000FA6" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -537,7 +708,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkHunter_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FA7">
+		<actor gender="M" idleForm="00000FA7" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -547,7 +720,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkHunter_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="00000FA8">
+		<actor gender="M" idleForm="00000FA8" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -559,7 +734,9 @@
 	<!-- Mirelurk King -->
 
 	<animation id="GUCP_MirelurkKing_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00001F0F">
+		<actor gender="M" idleForm="00001F0F" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -569,7 +746,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkKing_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00001F10">
+		<actor gender="M" idleForm="00001F10" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -579,7 +758,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkKing_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00001F11">
+		<actor gender="M" idleForm="00001F11" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -589,7 +770,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkKing_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="00001F12">
+		<actor gender="M" idleForm="00001F12" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -601,7 +784,9 @@
 	<!-- Mirelurk Queen -->
 
 	<animation id="GUCP_MirelurkQueen_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00000FA9">
+		<actor gender="M" idleForm="00000FA9" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -611,7 +796,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkQueen_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FAA">
+		<actor gender="M" idleForm="00000FAA" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -621,7 +808,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkQueen_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FAB">
+		<actor gender="M" idleForm="00000FAB" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -631,7 +820,9 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkQueen_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="00000FAC">
+		<actor gender="M" idleForm="00000FAC" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -643,7 +834,9 @@
 	<!-- Rad Scorpion -->
 
 	<animation id="GUCP_Radscorpion_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00000FAD">
+		<actor gender="M" idleForm="00000FAD" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -653,7 +846,9 @@
 	</animation>
 
 	<animation id="GUCP_Radscorpion_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FAE">
+		<actor gender="M" idleForm="00000FAE" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -663,7 +858,9 @@
 	</animation>
 
 	<animation id="GUCP_Radscorpion_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FAF">
+		<actor gender="M" idleForm="00000FAF" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -673,7 +870,9 @@
 	</animation>
 
 	<animation id="GUCP_Radscorpion_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="00000FB0">
+		<actor gender="M" idleForm="00000FB0" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -685,7 +884,9 @@
 	<!-- Stingwing -->
 
 	<animation id="GUCP_Stingwing_MM_01_S1" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="M" idleForm="00000FB1">
+		<actor gender="M" idleForm="00000FB1" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -695,7 +896,9 @@
 	</animation>
 
 	<animation id="GUCP_Stingwing_MM_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="M" idleForm="00000FB2">
+		<actor gender="M" idleForm="00000FB2" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -705,7 +908,9 @@
 	</animation>
 
 	<animation id="GUCP_Stingwing_MM_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="M" idleForm="00000FB3">
+		<actor gender="M" idleForm="00000FB3" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -715,7 +920,9 @@
 	</animation>
 
 	<animation id="GUCP_Stingwing_MM_01_S4" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="M" idleForm="00000FB4">
+		<actor gender="M" idleForm="00000FB4" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -727,7 +934,9 @@
 	<!-- Yao-Guai -->
 
 	<animation id="GUCP_YaoGuai_MM_01_S1" frames="300">
-		<actor gender="M" idleForm="00001F0B">
+		<actor gender="M" idleForm="00001F0B" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Foreplay Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -737,7 +946,9 @@
 	</animation>
 
 	<animation id="GUCP_YaoGuai_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00001F0C">
+		<actor gender="M" idleForm="00001F0C" conditions="Intermediary-20_49">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -747,7 +958,9 @@
 	</animation>
 
 	<animation id="GUCP_YaoGuai_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00001F0D">
+		<actor gender="M" idleForm="00001F0D" conditions="Intermediary-50_79">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -757,7 +970,9 @@
 	</animation>
 
 	<animation id="GUCP_YaoGuai_MM_01_S4" frames="300">
-		<actor gender="M" idleForm="00001F0E">
+		<actor gender="M" idleForm="00001F0E" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000001"/>
+			<action id="Climax Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

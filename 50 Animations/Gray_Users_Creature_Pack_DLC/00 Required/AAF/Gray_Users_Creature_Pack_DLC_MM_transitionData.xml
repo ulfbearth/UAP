@@ -1,0 +1,30 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults />
+
+
+	<!-- Angler -->
+	<transition from="*" to="GUCP_Angler_MM_01_Staged" animation="Null_Creature"/>
+	<transition from="GUCP_Angler_MM_01_Staged" to="*" animation="Null_Creature"/>
+
+
+
+	<!-- Gulper -->
+	<transition from="*" to="GUCP_Gulper_MM_01_Staged" animation="Null_Creature"/>
+	<transition from="GUCP_Gulper_MM_01_Staged" to="*" animation="Null_Creature"/>
+
+	<transition from="*" to="GUCP_GulperLarge_MM_01_Staged" animation="Null_Creature"/>
+	<transition from="GUCP_GulperLarge_MM_01_Staged" to="*" animation="Null_Creature"/>
+
+
+
+	<!-- Fog Crawler -->
+	<transition from="*" to="GUCP_Fog_MM_01_Staged" animation="Null_Creature"/>
+	<transition from="GUCP_Fog_MM_01_Staged" to="*" animation="Null_Creature"/>
+
+
+
+	<!-- Hermit -->
+	<transition from="*" to="GUCP_Hermit_MM_01_Staged" animation="Null_Creature"/>
+	<transition from="GUCP_Hermit_MM_01_Staged" to="*" animation="Null_Creature"/>
+
+</transitionData>

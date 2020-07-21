@@ -58,13 +58,13 @@
 
 
 <!-- Dog Animations -->
-	<transition from="*" to="Leito_Doggy_MM_2Dog_01_Staged" animation="Null"/>
-	<transition from="Leito_Doggy_MM_2Dog_01_Staged" to="*" animation="Null"/>
+	<transition from="*" to="Leito_Doggy_MM_2Dog_01_Staged" animation="Null_Creature"/>
+	<transition from="Leito_Doggy_MM_2Dog_01_Staged" to="*" animation="Null_Creature"/>
 
-	<transition from="*" to="Leito_Doggy_MM_2Dog_02_Staged" animation="Null"/>
-	<transition from="Leito_Doggy_MM_2Dog_02_Staged" to="*" animation="Null"/>
+	<transition from="*" to="Leito_Doggy_MM_2Dog_02_Staged" animation="Null_Creature"/>
+	<transition from="Leito_Doggy_MM_2Dog_02_Staged" to="*" animation="Null_Creature"/>
 
-	<transition from="*" to="Leito_Missionary_MM_2Dog_01_Staged" animation="Null"/>
-	<transition from="Leito_Missionary_MM_2Dog_01_Staged" to="*" animation="Null"/>
+	<transition from="*" to="Leito_Missionary_MM_2Dog_01_Staged" animation="Null_Creature"/>
+	<transition from="Leito_Missionary_MM_2Dog_01_Staged" to="*" animation="Null_Creature"/>
 
 </transitionData>
