@@ -1,6 +1,0 @@
-<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
-
-    <position id="Vadermania - Gay Cat" animation="VM_Cat_MM_01" tags="Vader,CatM_CatM,NoFurn,Doggy,FromBehind,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <!--position id="Vadermania - Gay Table" animation="VM_Table_MM_01" tags="Vader,M_M,Table,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>-->
-</positionData>

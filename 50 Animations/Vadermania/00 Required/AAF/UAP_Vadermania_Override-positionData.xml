@@ -1,0 +1,9 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180" loadPriority="1"/>
+
+    <animationOffset actor="1" offset="0,0,0"/>
+    <animationOffset actor="2" offset="0,0,0"/>
+
+    <position id="vad_Cat01" animation="vad_Cat01" isHidden="true"/>
+
+</positionData>
