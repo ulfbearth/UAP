@@ -1,0 +1,13 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+
+    <!-- Supermutant Animations -->
+
+    <position id="[UAP] Leito - Gay Carry 1 (Supermutant)" animation="Leito_Carry_MM_2Mutant_01" tags="Leito,M_SMutantM,NoFurn,Carry,FromFront,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Carry 1 (Supermutant, Reversed)" animation="Leito_ReverseCarry_MM_2Mutant_01" tags="Leito,M_SMutantM,NoFurn,Carry,FromBehind,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Supermutant)" animation="Leito_Doggy_MM_2Mutant_01" tags="Leito,M_SMutantM,NoFurn,Doggy,FromBehind,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Supermutant, Standing)" animation="Leito_StandingDoggy_MM_2Mutant_01" tags="Leito,M_SMutantM,NoFurn,Standing,FromBehind,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Powerbomb 1 (Supermutant)" animation="Leito_Powerbomb_MM_2Mutant_01" tags="Leito,M_SMutantM,NoFurn,Powerbomb,FromFront,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Sideways 1 (Supermutant, Standing)" animation="Leito_StandingSideways_MM_2Mutant_01" tags="Leito,M_SMutantM,NoFurn,Standing,FromSide,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+</positionData>
