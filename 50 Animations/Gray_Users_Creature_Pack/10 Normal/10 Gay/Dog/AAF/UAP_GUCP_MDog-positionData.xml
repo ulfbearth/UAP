@@ -1,0 +1,11 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+    <!-- FEVHound -->
+
+    <position id="[UAP] GUCP - Gay FEVHound" animationGroup="GUCP_FEVHound_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay FEVHound (Stage 1)" animation="GUCP_FEVHound_MM_01_S1" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay FEVHound (Stage 2)" animation="GUCP_FEVHound_MM_01_S2" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay FEVHound (Stage 3)" animation="GUCP_FEVHound_MM_01_S3" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay FEVHound (Stage 4)" animation="GUCP_FEVHound_MM_01_S4" isHidden="true" tags="GrayUser,Aggressive,NoFurn"/>
+</positionData>

@@ -1,0 +1,18 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+    <!-- Supermutant -->
+
+    <position id="[UAP] GUCP - Gay Supermutant" animationGroup="GUCP_Supermutant_MM_01_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant (Stage 1)" animation="GUCP_Supermutant_MM_01_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant (Stage 2)" animation="GUCP_Supermutant_MM_01_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant (Stage 3)" animation="GUCP_Supermutant_MM_01_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant (Stage 4)" animation="GUCP_Supermutant_MM_01_S4" tags="GrayUser,Aggressive,NoFurn"/>
+
+
+    <position id="[UAP] GUCP - Gay Supermutant 2" animationGroup="GUCP_Supermutant_MM_02_Staged" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant 2 (Stage 1)" animation="GUCP_Supermutant_MM_02_S1" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant 2 (Stage 2)" animation="GUCP_Supermutant_MM_02_S2" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant 2 (Stage 3)" animation="GUCP_Supermutant_MM_02_S3" tags="GrayUser,Aggressive,NoFurn"/>
+    <position id="[UAP] GUCP - Gay Supermutant 2 (Stage 4)" animation="GUCP_Supermutant_MM_02_S4" tags="GrayUser,Aggressive,NoFurn"/>
+</positionData>

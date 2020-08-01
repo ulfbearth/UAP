@@ -1,5 +1,5 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults idleSource="AAF_CreaturePack02DLC.esp"/>
+	<defaults idleSource="AAF_CreaturePack02DLC.esp" loadPriority="1"/>
 
 	<animation id="Anglerstage01" frames="300" offset="0,3,-36,0:0,0,-36,0">
 		<actor gender="F" idleForm="010081e7">
