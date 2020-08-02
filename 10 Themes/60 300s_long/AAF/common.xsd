@@ -1,0 +1,1012 @@
+<!--
+
+  This file is for validating AAF XML only. It does not need to be included with XML published in release versions of mods.
+
+  Validating XML as you build it can be helpful. To use this, you will need to use tools that apply validation.
+
+  If you use Sublime Text, you can install the "Exalt" package and put this file in the same folder as your XML. Then Sublime Text will highlight problems with your XML as you write it. Note, you will also need to be sure to include the wrapper tags (animationData, positionData, etc.) as shown in the latest wiki XML examples for this to work.
+
+  Another on-line XML validation option is here: https://www.xmlvalidation.com/
+
+  Please report if this validation file causes false positive errors. At this stage it is expected to do that occasionally while the rules are refined to accomodate unexpected XML usage.
+
+-->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element type="actionDataType" name="actionData"/>
+  <xs:element type="commandDataType" name="commandData"/>
+  <xs:element type="conditionDataType" name="conditionData"/>
+  <xs:element type="equipmentLayersDataType" name="equipmentLayersData"/>
+  <xs:element type="customEquipmentDataType" name="customEquipmentData"/>
+  <xs:element type="equipmentRulesDataType" name="equipmentRulesData"/>
+  <xs:element type="equipmentSetDataType" name="equipmentSetData"/>
+  <xs:element type="expressionDataType" name="expressionData"/>
+  <xs:element type="formationDataType" name="formationData"/>
+  <xs:element type="furnitureDataType" name="furnitureData"/>
+  <xs:element type="keywordwatchDataType" name="keywordwatchData"/>
+  <xs:element type="masterDataType" name="masterData"/>
+  <xs:element type="meterDataType" name="meterData"/>
+  <xs:element type="mfgSetDataType" name="mfgSetData"/>
+  <xs:element type="morphSetDataType" name="morphSetData"/>
+  <xs:element type="nameDataType" name="nameData"/>
+  <xs:element type="narrationDataType" name="narrationData"/>
+  <xs:element type="physicsSetDataType" name="physicsSetData"/>
+  <xs:element type="overlayDataType" name="overlayData"/>
+  <xs:element type="positionDataType" name="positionData"/>
+  <xs:element type="positionTreeDataType" name="positionTreeData"/>
+  <xs:element type="protectedEquipmentDataType" name="protectedEquipmentData"/>
+  <xs:element type="raceDataType" name="raceData"/>
+  <xs:element type="reactionDataType" name="reactionData"/>
+  <xs:element type="themeDataType" name="themeData"/>
+  <xs:element type="tagDataType" name="tagData"/>
+  <xs:element type="topicDataType" name="topicData"/>
+  <xs:element type="transitionDataType" name="transitionData"/>
+  <xs:element type="actorStatDataType" name="actorStatData"/>
+  <xs:element type="actorTypeDataType" name="actorTypeData"/>
+  <xs:element type="animationDataType" name="animationData"/>
+  <xs:element type="animationMetaDataType" name="animationMetaData"/>
+  <xs:element type="animationGroupDataType" name="animationGroupData"/>
+  <xs:element type="bannerDataType" name="bannerData"/>
+  <xs:complexType name="statType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="shortForm" use="required"/>
+        <xs:attribute type="xs:float" name="minValue"/>
+        <xs:attribute type="xs:string" name="actorValueFormID"/>
+        <xs:attribute type="xs:string" name="actorValueSource"/>
+        <xs:attribute type="xs:integer" name="priority"/>
+        <xs:attribute type="xs:float" name="decayRate"/>
+        <xs:attribute type="xs:boolean" name="isPersistent"/>
+        <xs:attribute type="xs:string" name="defaultValue"/>
+        <xs:attribute type="xs:float" name="maxValue"/>
+        <xs:attribute type="xs:string" name="gender"/>
+        <xs:attribute type="xs:boolean" name="isHidden"/>
+        <xs:attribute type="xs:boolean" name="showInProfile"/>
+        <xs:attribute type="xs:boolean" name="showInStatMode"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="actionStatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="statID" use="required"/>
+        <xs:attribute type="xs:float" name="add" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="selfType">
+    <xs:sequence>
+      <xs:element type="actionStatType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="meter"/>
+    <xs:attribute type="xs:string" name="tags"/>
+    <xs:attribute type="xs:string" name="mfgSet"/>
+    <xs:attribute type="xs:string" name="topicGroupID"/>
+    <xs:attribute type="xs:string" name="startMorphSet"/>
+    <xs:attribute type="xs:string" name="stopMorphSet"/>
+    <xs:attribute type="xs:string" name="startOverlaySet"/>
+    <xs:attribute type="xs:string" name="stopOverlaySet"/>
+    <xs:attribute type="xs:string" name="startEquipmentSet"/>
+    <xs:attribute type="xs:string" name="stopEquipmentSet"/>
+    <xs:attribute type="xs:string" name="startPhysicsSet"/>
+    <xs:attribute type="xs:string" name="stopPhysicsSet"/>
+    <xs:attribute type="xs:string" name="reactionSet"/>
+  </xs:complexType>
+  <xs:complexType name="targetType">
+    <xs:sequence>
+      <xs:element type="actionStatType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="meter"/>
+    <xs:attribute type="xs:string" name="tags"/>
+    <xs:attribute type="xs:string" name="mfgSet"/>
+    <xs:attribute type="xs:string" name="topicGroupID"/>
+    <xs:attribute type="xs:string" name="startMorphSet"/>
+    <xs:attribute type="xs:string" name="stopMorphSet"/>
+    <xs:attribute type="xs:string" name="startOverlaySet"/>
+    <xs:attribute type="xs:string" name="stopOverlaySet"/>
+    <xs:attribute type="xs:string" name="startEquipmentSet"/>
+    <xs:attribute type="xs:string" name="stopEquipmentSet"/>
+    <xs:attribute type="xs:string" name="startPhysicsSet"/>
+    <xs:attribute type="xs:string" name="stopPhysicsSet"/>
+    <xs:attribute type="xs:string" name="reactionSet"/>
+  </xs:complexType>
+  <xs:complexType name="actionType">
+    <xs:choice maxOccurs="2" minOccurs="1" >
+      <xs:element type="selfType" name="self" maxOccurs="1" minOccurs="0"/>
+      <xs:element type="targetType" name="target" maxOccurs="1" minOccurs="0"/>
+    </xs:choice>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="actionDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="actionType" name="action" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="commandType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="label" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="commandDataType">
+    <xs:sequence>
+      <xs:element type="commandType" name="command" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="defaultsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:integer" name="loadPriority"/>
+        <xs:attribute type="xs:string" name="idleSource"/>
+        <xs:attribute type="xs:string" name="source"/>
+        <xs:attribute type="xs:string" name="swf"/>
+        <xs:attribute type="xs:string" name="startEquipmentSet"/>
+        <xs:attribute type="xs:string" name="stopEquipmentSet"/>
+        <xs:attribute type="xs:string" name="startMorphSet"/>
+        <xs:attribute type="xs:string" name="stopMorphSet"/>
+        <xs:attribute type="xs:string" name="walkOffset"/>
+        <xs:attribute type="xs:string" name="skeleton"/>
+        <xs:attribute type="xs:string" name="maleSWF"/>
+        <xs:attribute type="xs:string" name="femaleSWF"/>
+        <xs:attribute type="xs:string" name="isPersistent"/>
+        <xs:attribute type="xs:string" name="isHidden"/>
+        <xs:attribute type="xs:float" name="defaultValue"/>
+        <xs:attribute type="xs:float" name="minValue"/>
+        <xs:attribute type="xs:float" name="maxValue"/>
+        <xs:attribute type="xs:float" name="decayRate"/>
+        <xs:attribute type="xs:string" name="offset"/>
+        <xs:attribute type="xs:string" name="reactionSet"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="conditionType">
+    <xs:choice maxOccurs="unbounded" minOccurs="0">
+      <xs:element type="unEquipType" name="unEquip" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="reEquipType" name="reEquip" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="addEquipmentType" name="addEquipment" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="removeEquipmentType" name="removeEquipment" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="morphType" name="morph" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="physicsType" name="physics" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="overlayGroupType" name="overlayGroup" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="protectKeywordType" name="protectKeyword" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="doExpressionType" name="doExpression" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="sayTopicType" name="sayTopic" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="doNarrationType" name="doNarration" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="sendEventType" name="sendEvent" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="setStatType" name="setStat" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:choice>
+    <xs:attribute type="xs:string" name="id"/>
+    <xs:attribute type="xs:string" name="statRules"/>
+    <xs:attribute type="xs:boolean" name="isFemale"/>
+    <xs:attribute type="xs:boolean" name="isPlayer"/>
+    <xs:attribute type="xs:boolean" name="isCompanion"/>
+    <xs:attribute type="xs:string" name="name"/>
+    <xs:attribute type="xs:integer" name="formID"/>
+    <xs:attribute type="xs:string" name="skeleton"/>
+    <xs:attribute type="xs:integer" name="raceFormID"/>
+    <xs:attribute type="xs:integer" name="raceFullFormID"/>
+    <xs:attribute type="xs:string" name="raceLabel"/>
+    <xs:attribute type="xs:boolean" name="hasKeyword"/>
+    <xs:attribute type="xs:boolean" name="isOverride"/>
+  </xs:complexType>
+  <xs:complexType name="conditionDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="layerType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="equipmentSet" use="required"/>
+        <xs:attribute type="xs:boolean" name="locked"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="slotType">
+    <xs:sequence>
+      <xs:element type="layerType" name="layer" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:integer" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="equipmentLayersDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="slotType" name="slot" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="stateType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="stateTitle" use="required"/>
+        <xs:attribute type="xs:string" name="tags"/>
+        <xs:attribute type="xs:string" name="source"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="equipmentType">
+    <xs:sequence>
+      <xs:element type="stateType" name="state" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="itemTitle" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="customEquipmentDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="equipmentType" name="equipment" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ruleType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="applyTo" use="required"/>
+        <xs:attribute type="xs:string" name="emptySlot" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="tagType">
+    <xs:sequence>
+      <xs:element type="ruleType" name="rule" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:string" name="position"/>
+    <xs:attribute type="xs:string" name="tags"/>
+    <xs:attribute type="xs:boolean" name="replace"/>
+  </xs:complexType>
+  <xs:complexType name="equipmentRulesDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="tagType" name="tag" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="unEquipType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="bipedSlot" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="equipmentSetType">
+    <xs:sequence>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="reEquipType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:boolean" name="resetAll"/>
+        <xs:attribute type="xs:string" name="bipedSlot"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="addEquipmentType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:boolean" name="locked"/>
+        <xs:attribute type="xs:string" name="source"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="removeEquipmentType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="source"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="equipmentSetDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="equipmentSetType" name="equipmentSet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="keywordType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="id"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="mfgType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="expressionType">
+    <xs:choice maxOccurs="unbounded" minOccurs="1">
+      <xs:element type="keywordType" name="keyword" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="mfgType" name="mfg" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:choice>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:float" name="changeRate"/>
+  </xs:complexType>
+  <xs:complexType name="expressionDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="expressionType" name="expression" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="actorType">
+    <xs:choice maxOccurs="unbounded" minOccurs="1">
+      <xs:element type="animationActionType" name="action" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="animationMorphType" name="morph" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="animationMFGType" name="mfg" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:choice>
+    <xs:attribute type="xs:float" name="x"/>
+    <xs:attribute type="xs:float" name="y"/>
+    <xs:attribute type="xs:float" name="a"/>
+    <xs:attribute type="xs:string" name="gender"/>
+    <xs:attribute type="xs:string" name="startOverlaySet"/>
+    <xs:attribute type="xs:string" name="stopOverlaySet"/>
+    <xs:attribute type="xs:string" name="startEquipmentSet"/>
+    <xs:attribute type="xs:string" name="stopEquipmentSet"/>
+    <xs:attribute type="xs:string" name="startExpression"/>
+    <xs:attribute type="xs:string" name="role"/>
+    <xs:attribute type="xs:string" name="conditions"/>
+    <xs:attribute type="xs:string" name="skeleton"/>
+    <xs:attribute type="xs:string" name="idleForm" use="required"/>
+    <xs:attribute type="xs:string" name="idleSource"/>
+    <xs:attribute type="xs:string" name="exitTo"/>
+  </xs:complexType>
+  <xs:complexType name="formationType">
+    <xs:sequence>
+      <xs:element type="actorType" name="actor" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="formationDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="formationType" name="formation" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="furnitureType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="id"/>
+        <xs:attribute type="xs:string" name="source"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="groupType">
+    <xs:choice maxOccurs="unbounded" minOccurs="0">
+      <xs:element type="furnitureType" name="furniture" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="statType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="comboStatType" name="comboStat" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="actorTypeType" name="actorType" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="relationshipStatType" name="relationshipStat" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:choice>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:boolean" name="showInProfile"/>
+    <xs:attribute type="xs:boolean" name="showInStatMode"/>
+    <xs:attribute type="xs:boolean" name="showInScene"/>
+  </xs:complexType>
+  <xs:complexType name="furnitureDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="groupType" name="group" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="keywordwatchDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="keywordType" name="keyword" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="dataSetType">
+    <xs:choice>
+      <xs:element name="actionData" type="actionDataType"/>
+      <xs:element name="commandData" type="commandDataType"/>
+      <xs:element name="conditionData" type="conditionDataType"/>
+      <xs:element name="equipmentLayersData" type="equipmentLayersDataType"/>
+      <xs:element name="customEquipmentData" type="customEquipmentDataType"/>
+      <xs:element name="equipmentRulesData" type="equipmentRulesDataType"/>
+      <xs:element name="equipmentSetData" type="equipmentSetDataType"/>
+      <xs:element name="expressionData" type="expressionDataType"/>
+      <xs:element name="formationData" type="formationDataType"/>
+      <xs:element name="furnitureData" type="furnitureDataType"/>
+      <xs:element name="keywordwatchData" type="keywordwatchDataType"/>
+      <xs:element name="masterData" type="masterDataType"/>
+      <xs:element name="meterData" type="meterDataType"/>
+      <xs:element name="mfgSetData" type="mfgSetDataType"/>
+      <xs:element name="morphSetData" type="morphSetDataType"/>
+      <xs:element name="nameData" type="nameDataType"/>
+      <xs:element name="narrationData" type="narrationDataType"/>
+      <xs:element name="physicsSetData" type="physicsSetDataType"/>
+      <xs:element name="overlayData" type="overlayDataType"/>
+      <xs:element name="positionData" type="positionDataType"/>
+      <xs:element name="positionTreeData" type="positionTreeDataType"/>
+      <xs:element name="protectedEquipmentData" type="protectedEquipmentDataType"/>
+      <xs:element name="raceData" type="raceDataType"/>
+      <xs:element name="reactionData" type="reactionDataType"/>
+      <xs:element name="themeData" type="themeDataType"/>
+      <xs:element name="tagData" type="tagDataType"/>
+      <xs:element name="topicData" type="topicDataType"/>
+      <xs:element name="transitionData" type="transitionDataType"/>
+      <xs:element name="actorStatData" type="actorStatDataType"/>
+      <xs:element name="actorTypeData" type="actorTypeDataType"/>
+      <xs:element name="animationData" type="animationDataType"/>
+      <xs:element name="animationMetaData" type="animationMetaDataType"/>
+      <xs:element name="animationGroupData" type="animationGroupDataType"/>
+      <xs:element name="bannerData" type="bannerDataType"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="masterDataType">
+    <xs:sequence>
+      <xs:element type="dataSetType" name="dataSet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="meterType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:float" name="x" use="required"/>
+        <xs:attribute type="xs:float" name="y" use="required"/>
+        <xs:attribute type="xs:string" name="swf"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="meterDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="meterType" name="meter" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="settingType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:integer" name="morphID" use="required"/>
+        <xs:attribute type="xs:float" name="intensity" use="required"/>
+        <xs:attribute type="xs:boolean" name="lock"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="mfgSetType">
+    <xs:sequence>
+      <xs:element type="settingType" name="setting" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id"/>
+  </xs:complexType>
+  <xs:complexType name="mfgSetDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="mfgSetType" name="mfgSet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="morphType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value" use="required"/>
+        <xs:attribute type="xs:float" name="to" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="morphSetType">
+    <xs:sequence>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="morphSetDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="morphSetType" name="morphSet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="optionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="pattern" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="renameType">
+    <xs:sequence>
+      <xs:element type="optionType" name="option" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="target" use="required"/>
+    <xs:attribute type="xs:boolean" name="isFemale"/>
+  </xs:complexType>
+  <xs:complexType name="libraryType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="tag" use="required"/>
+        <xs:attribute type="xs:string" name="data" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="nameDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="renameType" name="rename" maxOccurs="unbounded" minOccurs="1"/>
+      <xs:element type="libraryType" name="library" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="narrationType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="phrase" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="narrationGroupType">
+    <xs:sequence>
+      <xs:element type="narrationType" name="narration" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="narrationDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="narrationGroupType" name="narrationGroup" maxOccurs="unbounded" minOccurs="1"/>
+      <xs:element type="libraryType" name="library" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="physicsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:integer" name="value" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="physicsSetType">
+    <xs:sequence>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="physicsSetDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="physicsSetType" name="physicsSet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="overlayType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="template"/>
+        <xs:attribute type="xs:byte" name="alpha"/>
+        <xs:attribute type="xs:string" name="isFemale"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="overlayGroupType">
+    <xs:sequence>
+      <xs:element type="overlayType" name="overlay" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:float" name="duration"/>
+    <xs:attribute type="xs:integer" name="quantity"/>
+  </xs:complexType>
+  <xs:complexType name="overlaySetType">
+    <xs:sequence>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="overlayDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="overlaySetType" name="overlaySet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="animationOffsetType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:integer" name="actor" use="required"/>
+        <xs:attribute type="xs:string" name="offset" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="positionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id"/>
+        <xs:attribute type="xs:string" name="animation"/>
+        <xs:attribute type="xs:string" name="tags"/>
+        <xs:attribute type="xs:string" name="startBanner"/>
+        <xs:attribute type="xs:string" name="location"/>
+        <xs:attribute type="xs:string" name="parent"/>
+        <xs:attribute type="xs:string" name="animationGroup"/>
+        <xs:attribute type="xs:string" name="positionTree"/>
+        <xs:attribute type="xs:boolean" name="isHidden"/>
+        <xs:attribute type="xs:integer" name="loadPriority"/>
+        <xs:attribute type="xs:string" name="startEquipmentSet"/>
+        <xs:attribute type="xs:string" name="stopEquipmentSet"/>
+        <xs:attribute type="xs:string" name="startOverlaySet"/>
+        <xs:attribute type="xs:string" name="stopOverlaySet"/>
+        <xs:attribute type="xs:string" name="startMorphSet"/>
+        <xs:attribute type="xs:string" name="stopMorphSet"/>
+        <xs:attribute type="xs:string" name="walkOffset"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="positionDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="animationOffsetType" name="animationOffset" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="positionType" name="position" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="branchType">
+    <xs:sequence>
+      <xs:element type="branchType" name="branch" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:string" name="positionID" use="required"/>
+    <xs:attribute type="xs:boolean" name="isFlavor"/>
+    <xs:attribute type="xs:boolean" name="isExit"/>
+    <xs:attribute type="xs:float" name="time"/>
+  </xs:complexType>
+  <xs:complexType name="treeType">
+    <xs:sequence>
+      <xs:element type="branchType" name="branch"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:boolean" name="useConditions"/>
+    <xs:attribute type="xs:boolean" name="strictExiting"/>
+  </xs:complexType>
+  <xs:complexType name="positionTreeDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="treeType" name="tree" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="protectKeywordType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="source"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="protectedEquipmentDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="raceType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="skeleton"/>
+        <xs:attribute type="xs:string" name="maleSWF"/>
+        <xs:attribute type="xs:string" name="femaleSWF"/>
+        <xs:attribute type="xs:boolean" name="requiresAnimationReset"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="raceDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="raceType" name="race" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="doExpressionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="stat" use="required"/>
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="expressionID" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="sayTopicType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="stat" use="required"/>
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="groupID" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="doNarrationType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="stat" use="required"/>
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="narrationID" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="sendEventType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="stat" use="required"/>
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="tags"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="setStatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="stat" use="required"/>
+        <xs:attribute type="xs:string" name="range" use="required"/>
+        <xs:attribute type="xs:string" name="targetStat" use="required"/>
+        <xs:attribute type="xs:float" name="setTo"/>
+        <xs:attribute type="xs:float" name="addTo"/>
+        <xs:attribute type="xs:float" name="multiplyTo"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="reactionSetType">
+    <xs:sequence>
+      <xs:element type="conditionType" name="condition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id"/>
+  </xs:complexType>
+  <xs:complexType name="reactionDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="reactionSetType" name="reactionSet" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="themeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="title" use="required"/>
+        <xs:attribute type="xs:float" name="version" use="required"/>
+        <xs:attribute type="xs:string" name="authors" use="required"/>
+        <xs:attribute type="xs:string" name="description" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="themeDataType">
+    <xs:sequence>
+      <xs:element type="themeType" name="theme"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="tagDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="tagType" name="tag" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="topicType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="topicFormID" use="required"/>
+        <xs:attribute type="xs:string" name="keywordFormID"/>
+        <xs:attribute type="xs:string" name="source"/>
+        <xs:attribute type="xs:string" name="id"/>
+        <xs:attribute type="xs:string" name="voiceTypeFormID" use="required"/>
+        <xs:attribute type="xs:string" name="voiceTypeSource"/>
+        <xs:attribute type="xs:string" name="conditions"/>
+        <xs:attribute type="xs:boolean" name="isOverride"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="topicGroupType">
+    <xs:sequence>
+      <xs:element type="topicType" name="topic" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:float" name="tryRate"/>
+    <xs:attribute type="xs:integer" name="chance"/>
+  </xs:complexType>
+  <xs:complexType name="topicDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="topicGroupType" name="topicGroup" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="transitionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="from" use="required"/>
+        <xs:attribute type="xs:string" name="to" use="required"/>
+        <xs:attribute type="xs:string" name="animation" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="transitionDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="transitionType" name="transition" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="comboStatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="subtract"/>
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="shortForm" use="required"/>
+        <xs:attribute type="xs:float" name="minValue"/>
+        <xs:attribute type="xs:string" name="actorValueFormID"/>
+        <xs:attribute type="xs:string" name="actorValueSource"/>
+        <xs:attribute type="xs:integer" name="priority"/>
+        <xs:attribute type="xs:float" name="decayRate"/>
+        <xs:attribute type="xs:boolean" name="isPersistent"/>
+        <xs:attribute type="xs:string" name="defaultValue"/>
+        <xs:attribute type="xs:float" name="maxValue"/>
+        <xs:attribute type="xs:string" name="gender"/>
+        <xs:attribute type="xs:boolean" name="isHidden"/>
+        <xs:attribute type="xs:boolean" name="showInProfile"/>
+        <xs:attribute type="xs:boolean" name="showInStatMode"/>
+        <xs:attribute type="xs:string" name="average"/>
+        <xs:attribute type="xs:string" name="divide"/>
+        <xs:attribute type="xs:string" name="multiply"/>
+        <xs:attribute type="xs:string" name="add"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="relationshipStatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type"/>
+        <xs:attribute type="xs:string" name="range"/>
+        <xs:attribute type="xs:string" name="statID"/>
+        <xs:attribute type="xs:float" name="add"/>
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="shortForm" use="required"/>
+        <xs:attribute type="xs:float" name="minValue"/>
+        <xs:attribute type="xs:string" name="actorValueFormID"/>
+        <xs:attribute type="xs:string" name="actorValueSource"/>
+        <xs:attribute type="xs:integer" name="priority"/>
+        <xs:attribute type="xs:float" name="decayRate"/>
+        <xs:attribute type="xs:boolean" name="isPersistent"/>
+        <xs:attribute type="xs:string" name="defaultValue"/>
+        <xs:attribute type="xs:float" name="maxValue"/>
+        <xs:attribute type="xs:string" name="gender"/>
+        <xs:attribute type="xs:boolean" name="isHidden"/>
+        <xs:attribute type="xs:boolean" name="showInProfile"/>
+        <xs:attribute type="xs:boolean" name="showInStatMode"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="actorStatDataType">
+    <xs:sequence>
+      <xs:sequence>
+        <xs:element type="defaultsType" name="defaults"/>
+      </xs:sequence>
+      <xs:choice maxOccurs="unbounded" minOccurs="1">
+        <xs:element type="statType" name="stat" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element type="groupType" name="group" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element type="relationshipStatType" name="relationshipStat" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="actorTypeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="form" use="required"/>
+        <xs:attribute type="xs:string" name="id"/>
+        <xs:attribute type="xs:string" name="raceList"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="actorTypeDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="groupType" name="group" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="animationActionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:integer" name="target"/>
+        <xs:attribute type="xs:boolean" name="loop"/>
+        <xs:attribute type="xs:float" name="from"/>
+        <xs:attribute type="xs:float" name="to"/>
+        <xs:attribute type="xs:integer" name="steps"/>
+        <xs:attribute type="xs:float" name="frames"/>
+        <xs:attribute type="xs:integer" name="start"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="animationMorphType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id"/>
+        <xs:attribute type="xs:string" name="maleID"/>
+        <xs:attribute type="xs:string" name="femaleID"/>
+        <xs:attribute type="xs:integer" name="target"/>
+        <xs:attribute type="xs:boolean" name="loop"/>
+        <xs:attribute type="xs:float" name="from"/>
+        <xs:attribute type="xs:float" name="to"/>
+        <xs:attribute type="xs:integer" name="steps"/>
+        <xs:attribute type="xs:float" name="frames"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="animationMFGType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:integer" name="target"/>
+        <xs:attribute type="xs:boolean" name="loop"/>
+        <xs:attribute type="xs:float" name="from"/>
+        <xs:attribute type="xs:float" name="to"/>
+        <xs:attribute type="xs:integer" name="steps"/>
+        <xs:attribute type="xs:float" name="frames"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="animationType">
+    <xs:sequence>
+      <xs:element type="actorType" name="actor" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:float" name="frames" use="required"/>
+    <xs:attribute type="xs:string" name="narrationID"/>
+    <xs:attribute type="xs:string" name="ISMForm"/>
+    <xs:attribute type="xs:string" name="ISMSource"/>
+    <xs:attribute type="xs:float" name="ISMStrength"/>
+    <xs:attribute type="xs:string" name="offset"/>
+    <xs:attribute type="xs:string" name="tags"/>
+    <xs:attribute type="xs:string" name="banner"/>
+  </xs:complexType>
+  <xs:complexType name="animationDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="animationType" name="animation" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="animationMetaDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="animationType" name="animation" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="stageType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="animation" use="required"/>
+        <xs:attribute type="xs:string" name="loops"/>
+        <xs:attribute type="xs:float" name="weight"/>
+        <xs:attribute type="xs:string" name="exitActors"/>
+        <xs:attribute type="xs:boolean" name="sendEvent"/>
+        <xs:attribute type="xs:string" name="switchTo"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="animationGroupType">
+    <xs:sequence>
+      <xs:element type="stageType" name="stage" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:boolean" name="sequential"/>
+  </xs:complexType>
+  <xs:complexType name="animationGroupDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="animationGroupType" name="animationGroup" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="bannerType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="required"/>
+        <xs:attribute type="xs:string" name="swf" use="required"/>
+        <xs:attribute type="xs:float" name="duration" use="required"/>
+        <xs:attribute type="xs:string" name="valign" use="required"/>
+        <xs:attribute type="xs:string" name="halign" use="required"/>
+        <xs:attribute type="xs:float" name="vadjust" use="required"/>
+        <xs:attribute type="xs:float" name="hadjust" use="required"/>
+        <xs:attribute type="xs:boolean" name="customColor"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="bannerDataType">
+    <xs:sequence>
+      <xs:element type="defaultsType" name="defaults"/>
+      <xs:element type="bannerType" name="banner" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

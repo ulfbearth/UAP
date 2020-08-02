@@ -19,39 +19,12 @@
         </self>
     </action>
 
-    <action id="Foreplay Action">
-        <self meter="basic">
-            <stat range="0-" statID="WOOF" add=".05"/>
-        </self>
-        <target meter="basic">
-            <stat range="0-" statID="WOOF" add=".05"/>
-        </target>
-    </action>
-    
-    <action id="Intermediary Action">
+    <action id="WOOF Action">
         <self meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".06"/>
+            <stat range="0-" statID="WOOF" add=".0555"/>
         </self>
         <target meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".06"/>
-        </target>
-    </action>
-    
-    <action id="Climax Action">
-        <self meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".05"/>
-        </self>
-        <target meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".05"/>
-        </target>
-    </action>
-    
-    <action id="Full Action">
-        <self meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".06"/>
-        </self>
-        <target meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".06"/>
+            <stat range="0-" statID="WOOF" add=".0555"/>
         </target>
     </action>
 

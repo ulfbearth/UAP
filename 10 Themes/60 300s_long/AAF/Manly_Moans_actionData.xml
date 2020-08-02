@@ -19,12 +19,12 @@
         </self>
     </action>
 
-    <action id="WOOF Action">
+    <action id="Woof Action">
         <self meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".0833"/>
+            <stat range="0-" statID="WOOF" add=".0333"/>
         </self>
         <target meter="basic" reactionSet="WOOF_Reset">
-            <stat range="0-" statID="WOOF" add=".0833"/>
+            <stat range="0-" statID="WOOF" add=".0333"/>
         </target>
     </action>
 

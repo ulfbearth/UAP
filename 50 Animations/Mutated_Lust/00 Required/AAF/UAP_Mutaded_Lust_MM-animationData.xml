@@ -36,7 +36,7 @@
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.813"/>
 			<action id="MaleMoan Action" loop="true"/>
-			<action id="Intermediary Action" target="1" from="0" to="1" frames="30"/>
+			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0100AF47">
