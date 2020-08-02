@@ -5,56 +5,87 @@
 
 	<animation id="Crazy_Doggy_MM_01" offset="0,70,0,0:0,0,0,0" frames="519">
 		<actor gender="M" idleForm="00004C89">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001738">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".542"/>
+			<morph id="Penis Adjust" to="-1.588"/>
+			
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Doggy_MM_02" offset="0,70,0,0:0,0,0,0" frames="519">
 		<actor gender="M" idleForm="00001739">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001738">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".542"/>
+			<morph id="Penis Adjust" to="-1.588"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Pounding_MM_01" offset="0,70,0,0:0,0,0,0" frames="500">
 		<actor gender="M" idleForm="00004C8A">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004C8B">
-			<morph id="Erection Down" to="0.1"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-.222"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Pounding_MM_02" offset="0,70,0,0:0,0,0,0" frames="500">
 		<actor gender="M" idleForm="00004C8A">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004C8C">
-			<morph id="Erection Down" to="0.1"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="1.154"/>
+			<morph id="Erection Up" to="-.409"/>
+			<morph id="Penis Adjust" to="-2.922"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Handjob_MM_01" offset="0,70,0,0:0,0,0,0" frames="84">
 		<actor gender="M" idleForm="00006368">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006369">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -62,49 +93,75 @@
 
 	<animation id="Crazy_Missionary_MM_01" offset="0,70,0,0:0,0,0,0" frames="490">
 		<actor gender="M" idleForm="00004C8D">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Anus Spread" to=".522"/>
 		</actor>
 		<actor gender="M" idleForm="00004C8E">
-			<morph id="Erection Down" to="0.5"/>
-			<morph id="Penis Length" to="-0.6"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-.767"/>
+			<morph id="Erection Up" to="-.5"/>
+			<morph id="Penis Adjust" to="1.085"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Riding_MM_01" offset="0,68,0,0:0,0,0,0" frames="500">
 		<actor gender="M" idleForm="0000173F">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001740">
-			<morph id="Penis Length" to="-0.6"/>
-			<morph id="Erection Up" to="0.3"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".271"/>
+			<morph id="Erection Up" to=".219"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Standing_MM_01" offset="0,70,0,0:0,0,0,0" frames="450">
 		<actor gender="M" idleForm="00001741">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001742">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".176"/>
+			<morph id="Penis Adjust" to="-.722"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_Standing_MM_02" offset="0,70,0,0:0,0,0,0" frames="450">
 		<actor gender="M" idleForm="00001741">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006367">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".176"/>
+			<morph id="Penis Adjust" to="-.722"/>
 		</actor>
 	</animation>
 
@@ -112,71 +169,110 @@
 
 	<animation id="Crazy_DoggyBed_MM_01" offset="0,40,43,0:0,-30,43,0" frames="519">
 		<actor gender="M" idleForm="00004C89">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001738">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".542"/>
+			<morph id="Penis Adjust" to="-1.588"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_DoggyBed_MM_02" offset="0,40,0,0:0,-30,0,0" frames="519">
 		<actor gender="M" idleForm="00004C8F">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004C90">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".542"/>
+			<morph id="Penis Adjust" to="-1.588"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_PoundingBed_MM_01" offset="0,70,0,0:0,0,0,0" frames="500">
 		<actor gender="M" idleForm="00004C92">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004C93">
-			<morph id="Erection Down" to="0.1"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-.222"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_PoundingBed_MM_02" offset="0,70,0,0:0,0,0,0" frames="500">
 		<actor gender="M" idleForm="00004C92">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004C94">
-			<morph id="Erection Down" to="0.1"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="1.154"/>
+			<morph id="Erection Up" to="-.409"/>
+			<morph id="Penis Adjust" to="-2.922"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_MissionaryBed_MM_01" offset="0,60,0,0:0,-10,0,0" frames="490">
 		<actor gender="M" idleForm="00004C95">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to=".522"/>
 		</actor>
 		<actor gender="M" idleForm="00004C96">
-			<morph id="Erection Up" to="0.3"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="-.767"/>
+			<morph id="Erection Up" to="-.5"/>
+			<morph id="Penis Adjust" to="1.085"/>
 		</actor>
 	</animation>
 
 	<animation id="Crazy_RidingBed_MM_01" offset="0,-70,0,180:,0,0,180" frames="500">
 		<actor gender="M" idleForm="0000173D">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000173E">
-			<morph id="Erection Up" to="0.7"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to=".271"/>
+			<morph id="Erection Up" to=".219"/>
 		</actor>
 	</animation>
 
@@ -184,6 +280,8 @@
 
 	<animation id="Crazy_Masturbate_M_01" offset="0,70,0,0" frames="80">
 		<actor gender="M" idleForm="00005433">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
