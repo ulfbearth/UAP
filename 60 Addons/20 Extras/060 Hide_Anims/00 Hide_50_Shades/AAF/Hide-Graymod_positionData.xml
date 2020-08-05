@@ -1,0 +1,194 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="Erected" stopMorphSet="Flaccid" loadPriority="1" isHidden="true"/>
+
+    <animationOffset actor="1" offset="0,0,0"/>
+    <animationOffset actor="2" offset="0,0,0"/>
+
+    <!-- 2 Person M on F Animation Groups -->
+
+    <position id="Gray Missionary 01 Staged (Gagged)" isHidden="true" animationGroup="GrayMissionary01GagStaged" tags="F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+
+    <position id="Gray Missionary 02 Staged (Gagged)" isHidden="true" animationGroup="GrayMissionary02GagStaged" tags="F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+
+    <position id="Gray Doggy 01 Staged (Gagged)" isHidden="true" animationGroup="GrayDoggy01GagStaged" tags="F_M,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+
+    <position id="Gray Doggy 02 Staged (Gagged)" isHidden="true" animationGroup="GrayDoggy02GagStaged" tags="F_M,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+
+    <position id="Gray Spanking 01 Staged" isHidden="true" animationGroup="GraySpanking01Staged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+    <position id="Gray Spanking 01 Staged (Gagged)" isHidden="true" animationGroup="GraySpanking01GagStaged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+
+    <position id="Gray Spanking 02 Staged" isHidden="true" animationGroup="GraySpanking02Staged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+    <position id="Gray Spanking 02 Staged (Gagged)" isHidden="true" animationGroup="GraySpanking02GagStaged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+
+    <!-- Solo Bondage Animation Groups -->
+
+    <position id="Gray Bent Staged" animationGroup="GrayBentStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Bent Staged (Gagged)" isHidden="true" animationGroup="GrayBentGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Bent Mixed" animationGroup="GrayBentMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Bent Mixed (Gagged)" isHidden="true" animationGroup="GrayBentGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray Facedown Staged" animationGroup="GrayFacedownStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Facedown Staged (Gagged)" isHidden="true" animationGroup="GrayFacedownGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Facedown Mixed" animationGroup="GrayFacedownMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Facedown Mixed (Gagged)" isHidden="true" animationGroup="GrayFacedownGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray Hogtie Staged" animationGroup="GrayHogtieStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Hogtie Staged (Gagged)" isHidden="true" animationGroup="GrayHogtieGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Hogtie Mixed" animationGroup="GrayHogtieMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Hogtie Mixed (Gagged)" isHidden="true" animationGroup="GrayHogtieGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray Side Staged" animationGroup="GraySideStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Side Staged (Gagged)" isHidden="true" animationGroup="GraySideGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Side Mixed" animationGroup="GraySideMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray Side Mixed (Gagged)" isHidden="true" animationGroup="GraySideGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <!-- Loose Animations -->
+    
+    <position id="Gray_Missionary01_S1" isHidden="true"/>
+    <position id="Gray_Missionary01_S2" isHidden="true"/>
+    <position id="Gray_Missionary01_S3" isHidden="true"/>
+    <position id="Gray_Missionary01_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary01FF_S1" isHidden="true"/>
+    <position id="Gray_Missionary01FF_S2" isHidden="true"/>
+    <position id="Gray_Missionary01FF_S3" isHidden="true"/>
+    <position id="Gray_Missionary01FF_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary01Gag_S1" isHidden="true"/>
+    <position id="Gray_Missionary01Gag_S2" isHidden="true"/>
+    <position id="Gray_Missionary01Gag_S3" isHidden="true"/>
+    <position id="Gray_Missionary01Gag_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary01FFGag_S1" isHidden="true"/>
+    <position id="Gray_Missionary01FFGag_S2" isHidden="true"/>
+    <position id="Gray_Missionary01FFGag_S3" isHidden="true"/>
+    <position id="Gray_Missionary01FFGag_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary02_S1" isHidden="true"/>
+    <position id="Gray_Missionary02_S2" isHidden="true"/>
+    <position id="Gray_Missionary02_S3" isHidden="true"/>
+    <position id="Gray_Missionary02_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary02FF_S1" isHidden="true"/>
+    <position id="Gray_Missionary02FF_S2" isHidden="true"/>
+    <position id="Gray_Missionary02FF_S3" isHidden="true"/>
+    <position id="Gray_Missionary02FF_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary02Gag_S1" isHidden="true"/>
+    <position id="Gray_Missionary02Gag_S2" isHidden="true"/>
+    <position id="Gray_Missionary02Gag_S3" isHidden="true"/>
+    <position id="Gray_Missionary02Gag_S4" isHidden="true"/>
+
+    <position id="Gray_Missionary02FFGag_S1" isHidden="true"/>
+    <position id="Gray_Missionary02FFGag_S2" isHidden="true"/>
+    <position id="Gray_Missionary02FFGag_S3" isHidden="true"/>
+    <position id="Gray_Missionary02FFGag_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy01_S1" isHidden="true"/>
+    <position id="Gray_Doggy01_S2" isHidden="true"/>
+    <position id="Gray_Doggy01_S3" isHidden="true"/>
+    <position id="Gray_Doggy01_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy01FF_S1" isHidden="true"/>
+    <position id="Gray_Doggy01FF_S2" isHidden="true"/>
+    <position id="Gray_Doggy01FF_S3" isHidden="true"/>
+    <position id="Gray_Doggy01FF_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy01Gag_S1" isHidden="true"/>
+    <position id="Gray_Doggy01Gag_S2" isHidden="true"/>
+    <position id="Gray_Doggy01Gag_S3" isHidden="true"/>
+    <position id="Gray_Doggy01Gag_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy01FFGag_S1" isHidden="true"/>
+    <position id="Gray_Doggy01FFGag_S2" isHidden="true"/>
+    <position id="Gray_Doggy01FFGag_S3" isHidden="true"/>
+    <position id="Gray_Doggy01FFGag_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy02_S1" isHidden="true"/>
+    <position id="Gray_Doggy02_S2" isHidden="true"/>
+    <position id="Gray_Doggy02_S3" isHidden="true"/>
+    <position id="Gray_Doggy02_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy02FF_S1" isHidden="true"/>
+    <position id="Gray_Doggy02FF_S2" isHidden="true"/>
+    <position id="Gray_Doggy02FF_S3" isHidden="true"/>
+    <position id="Gray_Doggy02FF_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy02Gag_S1" isHidden="true"/>
+    <position id="Gray_Doggy02Gag_S2" isHidden="true"/>
+    <position id="Gray_Doggy02Gag_S3" isHidden="true"/>
+    <position id="Gray_Doggy02Gag_S4" isHidden="true"/>
+
+    <position id="Gray_Doggy02FFGag_S1" isHidden="true"/>
+    <position id="Gray_Doggy02FFGag_S2" isHidden="true"/>
+    <position id="Gray_Doggy02FFGag_S3" isHidden="true"/>
+    <position id="Gray_Doggy02FFGag_S4" isHidden="true"/>
+
+    <position id="Gray_Spanking01_S1" isHidden="true"/>
+    <position id="Gray_Spanking01_S2" isHidden="true"/>
+    <position id="Gray_Spanking01_S3" isHidden="true"/>
+    <position id="Gray_Spanking01_S4" isHidden="true"/>
+
+    <position id="Gray_Spanking01Gag_S1" isHidden="true"/>
+    <position id="Gray_Spanking01Gag_S2" isHidden="true"/>
+    <position id="Gray_Spanking01Gag_S3" isHidden="true"/>
+    <position id="Gray_Spanking01Gag_S4" isHidden="true"/>
+
+    <position id="Gray_Spanking02_S1" isHidden="true"/>
+    <position id="Gray_Spanking02_S2" isHidden="true"/>
+    <position id="Gray_Spanking02_S3" isHidden="true"/>
+    <position id="Gray_Spanking02_S4" isHidden="true"/>
+
+    <position id="Gray_Spanking02Gag_S1" isHidden="true"/>
+    <position id="Gray_Spanking02Gag_S2" isHidden="true"/>
+    <position id="Gray_Spanking02Gag_S3" isHidden="true"/>
+    <position id="Gray_Spanking02Gag_S4" isHidden="true"/>
+
+    <position id="Gray_Bent_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Bent_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Bent_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Bent_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Bent_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_BentGag_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_BentGag_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_BentGag_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_BentGag_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_BentGag_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_Facedown_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Facedown_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Facedown_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Facedown_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Facedown_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_FacedownGag_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_FacedownGag_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_FacedownGag_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_FacedownGag_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_FacedownGag_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_Hogtie_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Hogtie_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Hogtie_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Hogtie_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Hogtie_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_HogtieGag_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_HogtieGag_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_HogtieGag_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_HogtieGag_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_HogtieGag_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_Side_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Side_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Side_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Side_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_Side_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+    <position id="Gray_SideGag_S0" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_SideGag_S1" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_SideGag_S2" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_SideGag_S3" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+    <position id="Gray_SideGag_m" isHidden="true" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+</positionData>

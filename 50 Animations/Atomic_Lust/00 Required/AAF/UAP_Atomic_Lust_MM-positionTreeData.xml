@@ -1,0 +1,53 @@
+<positionTreeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<tree id="Atomic_Lust_Gay_Menu">
+
+		
+		<branch id="[UAP] Atomic Lust - Gay Menu" positionID="[UAP] Atomic Lust - Gay Standing">
+
+			<branch id="Standing" positionID="[UAP] Atomic Lust - Gay Standing">
+
+				<branch id="Holding Hands" positionID="[UAP] Atomic Lust - Gay Holding Hands">
+
+					<branch id="Holding Kissing" positionID="[UAP] Atomic Lust - Gay Holding Kissing">
+					</branch>
+
+					<branch id="Holding Jerking" positionID="[UAP] Atomic Lust - Gay Holding Hands to Holding Jerking">
+					</branch>
+
+					<branch id="Exit (Pg UP // Pg Down)" positionID="[UAP] Atomic Lust - Gay Menu"></branch>
+
+				</branch>
+
+				<branch id="Exit (Pg UP // Pg Down)" positionID="[UAP] Atomic Lust - Gay Menu"></branch>
+
+			</branch>
+
+			<branch id="Spanking" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 1)">
+
+				<branch id="Spanking (Stage 2)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 2)">
+
+					<branch id="Spanking (Stage 3)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 3)">
+
+						<branch id="Spanking (Stage 4)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 4)" isFlavor="true">
+						</branch>
+
+						<branch id="Exit (Pg UP // Pg Down)" positionID="[UAP] Atomic Lust - Gay Menu"></branch>
+
+					</branch>
+
+					<branch id="Exit (Pg UP // Pg Down)" positionID="[UAP] Atomic Lust - Gay Menu"></branch>
+
+				</branch>
+
+				<branch id="Exit (Pg UP // Pg Down)" positionID="[UAP] Atomic Lust - Gay Menu"></branch>
+
+			</branch>
+
+			<branch id="Exit (Pg UP // Pg Down)" positionID="[UAP] Atomic Lust - Gay Menu"></branch>
+
+
+		</branch>
+	</tree>
+</positionTreeData>

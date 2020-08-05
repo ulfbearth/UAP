@@ -1,0 +1,41 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="Atomic Lust.esp" loadPriority="1"/>
+
+
+
+
+	<!-- Male/Male Animations -->
+
+
+	<animation id="Atomic Rocket 69 (Gay)" frames="236">
+		<actor gender="M" skeleton="null" idleForm="0202B43D">
+		</actor>
+		<actor gender="M" skeleton="null" idleForm="0202B43E">
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Cowboy" frames="640">
+		<actor gender="M" skeleton="null" idleForm="0204381F">
+		</actor>
+		<actor gender="M" skeleton="null" idleForm="02043820">
+		</actor>
+	</animation>
+
+
+	<!-- Solo Male Animations -->
+
+
+	<animation id="Atomic Jerking" frames="400">
+		<actor gender="M" skeleton="null" idleForm="020428DC">
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Jerking (Orgasm)" frames="400">
+		<actor gender="M" skeleton="null" idleForm="020428DD">
+		</actor>
+	</animation>
+
+</animationData>

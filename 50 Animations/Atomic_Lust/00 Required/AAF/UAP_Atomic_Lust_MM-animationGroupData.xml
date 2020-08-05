@@ -1,12 +1,15 @@
 <animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults/>
 
-	<animationGroup id="AtomicLust_Spanking_MM_01_Staged" sequential="true">
+	<animationGroup id="AtomicLust_Spanking_MM_01_Staged" sequential="false">
 		<stage animation="AtomicLust_Spanking_MM_01_S1"/>
-		<stage animation="AtomicLust_Spanking_MM_01_1TR2"/>
 		<stage animation="AtomicLust_Spanking_MM_01_S2"/>
-		<stage animation="AtomicLust_Spanking_MM_01_2TR3"/>
 		<stage animation="AtomicLust_Spanking_MM_01_S3"/>
 		<stage animation="AtomicLust_Spanking_MM_01_S4"/>
+	</animationGroup>
+
+	<animationGroup id="AtomicLust_Jerking_M_01_Staged" sequential="false">
+		<stage animation="AtomicLust_Jerking_M_01"/>
+		<stage animation="AtomicLust_Jerking_M_Orgasm_01"/>
 	</animationGroup>
 </animationGroupData>

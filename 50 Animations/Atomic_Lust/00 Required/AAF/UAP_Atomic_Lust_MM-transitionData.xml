@@ -1,0 +1,23 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults/>
+
+    <!-- Solo Animations -->
+    <transition from="*" to="AtomicLust_Jerking_M_01_Staged" animation="NullSolo"/>
+    <transition from="AtomicLust_Jerking_M_01_Staged" to="*" animation="NullSolo"/>
+
+    <!-- Spanking Animations -->
+
+    <transition from="AtomicLust_Spanking_MM_01_S1" to="AtomicLust_Spanking_MM_01_S2" animation="AtomicLust_Spanking_MM_01_1TR2"/>
+    <transition from="AtomicLust_Spanking_MM_01_S2" to="AtomicLust_Spanking_MM_01_S3" animation="AtomicLust_Spanking_MM_01_2TR3"/>
+
+
+
+    <!-- Cowgirl Animations-->
+
+    <transition from="AtomicLust_ReverseCowgirlVaultBed_MM_01" to="none" animation="AtomicLust_ReverseCowgirlVaultBed_MM_Orgasm_01"/>
+
+    <!-- positionTree Animations -->
+
+    <transition from="AtomicLust_StandingIdle_MM_01" to="AtomicLust_HoldingHands_MM_01" animation="AtomicLust_StandingIdletoHoldingHands_MM_01"/>
+    <transition from="AtomicLust_HoldingHands_MM_01" to="AtomicLust_HoldingKissing_MM_01" animation="AtomicLust_HoldingHandstoHoldingKissing_MM_01"/>
+</transitionData>

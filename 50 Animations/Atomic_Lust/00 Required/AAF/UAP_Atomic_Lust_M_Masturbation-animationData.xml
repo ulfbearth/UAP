@@ -4,14 +4,18 @@
 	<!-- Solo Male Animations -->
 
 	<animation id="AtomicLust_Jerking_M_01" frames="400">
-		<actor gender="M" idleForm="000428DC">
+		<actor gender="M" idleForm="000428DC" conditions="Foreplay,Intermediary">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Jerking_M_Orgasm_01" frames="400">
-		<actor gender="M" idleForm="000428DD">
+		<actor gender="M" idleForm="000428DD" conditions="Climax">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
 			<action id="MaleOrgasm Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
