@@ -58,7 +58,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S2" frames="240">
-		<actor gender="M" idleForm="1751" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="1751" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -73,7 +73,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S3" frames="240">
-		<actor gender="M" idleForm="1753" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="1753" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -88,7 +88,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S4" frames="240">
-		<actor gender="M" idleForm="1755" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="1755" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -345,7 +345,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S2" frames="780">
-		<actor gender="M" idleForm="0000080C" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="0000080C" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -365,7 +365,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S3" frames="780">
-		<actor gender="M" idleForm="0000080E" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="0000080E" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -385,7 +385,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S4" frames="780">
-		<actor gender="M" idleForm="00000810" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="00000810" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -457,7 +457,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S2" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="103BA" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="103BA" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -487,7 +487,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S3" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="103BC" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="103BC" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -517,7 +517,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S4" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="103BE" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="103BE" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -602,7 +602,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2A" frames="160">
-		<actor gender="M" idleForm="0000BEE9" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="0000BEE9" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -639,7 +639,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3A" frames="240">
-		<actor gender="M" idleForm="0000BEEB" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="0000BEEB" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -676,7 +676,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4A" frames="240">
-		<actor gender="M" idleForm="0000BEED" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="0000BEED" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -750,7 +750,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2B" frames="160">
-		<actor gender="M" idleForm="0000BEF3" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="0000BEF3" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -787,7 +787,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3B" frames="240">
-		<actor gender="M" idleForm="0000BEF5" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="0000BEF5" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -824,7 +824,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4B" frames="240">
-		<actor gender="M" idleForm="0000BEF7" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="0000BEF7" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -898,7 +898,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_startfucking" frames="300">
-		<actor gender="M" idleForm="6B22" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="6B22" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -916,7 +916,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" frames="300">
-		<actor gender="M" idleForm="72BD" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="72BD" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -935,7 +935,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" frames="300">
-		<actor gender="M" idleForm="BF18" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="BF18" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -954,7 +954,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_thrust" frames="320">
-		<actor gender="M" idleForm="FC07" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="FC07" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -974,7 +974,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_thrustfinger" frames="320">
-		<actor gender="M" idleForm="FC09" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="FC09" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1087,7 +1087,7 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S2" frames="240">
-		<actor gender="M" idleForm="17D9D" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="17D9D" conditions="Intermediary-20_54">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1120,7 +1120,7 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S3" frames="240">
-		<actor gender="M" idleForm="17D9E" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="17D9E" conditions="Intermediary-55_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1178,7 +1178,7 @@
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S2" frames="1000">
-		<actor gender="M" idleForm="000098D3" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="000098D3" conditions="Intermediary-20_54">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1197,7 +1197,7 @@
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S3" frames="1000">
-		<actor gender="M" idleForm="000098D5" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="000098D5" conditions="Intermediary-55_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1394,7 +1394,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex01" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="637A" conditions="Intermediary-20_34">
+		<actor gender="M" idleForm="637A" conditions="Intermediary-20_37">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1414,7 +1414,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex02" frames="200" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="637C" conditions="Intermediary-35_49">
+		<actor gender="M" idleForm="637C" conditions="Intermediary-37_54">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1433,7 +1433,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex03" frames="200" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="637E" conditions="Intermediary-50_64">
+		<actor gender="M" idleForm="637E" conditions="Intermediary-55_72">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1452,7 +1452,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex04" frames="1000" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="6380" conditions="Intermediary-65_79">
+		<actor gender="M" idleForm="6380" conditions="Intermediary-72_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -1879,7 +1879,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob03" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="A07F" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="A07F" conditions="Intermediary-20_54">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Mouth_Shut Narration"/>
 			<action id="MaleBlowjob Action" loop="true"/>
@@ -1895,7 +1895,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob04" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="A081" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="A081" conditions="Intermediary-55_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Mouth_Shut Narration"/>
 			<action id="MaleBlowjob Action" loop="true"/>
@@ -1963,7 +1963,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S2" frames="240" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="112FA" conditions="Intermediary-20_39">
+		<actor gender="M" idleForm="112FA" conditions="Intermediary-20_43">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -1983,7 +1983,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S3" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="112FC" conditions="Intermediary-40_59">
+		<actor gender="M" idleForm="112FC" conditions="Intermediary-43_66">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -2003,7 +2003,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S4" frames="240" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" idleForm="112FE" conditions="Intermediary-60_79">
+		<actor gender="M" idleForm="112FE" conditions="Intermediary-66_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="About_To_Cum Narration"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -2061,7 +2061,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyToilet_MM_01_S2" frames="240">
-		<actor gender="M" idleForm="18CDE" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="18CDE" conditions="Intermediary-20_54">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>
@@ -2079,7 +2079,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyToilet_MM_01_S3" frames="240">
-		<actor gender="M" idleForm="18CE1" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="18CE1" conditions="Intermediary-55_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<action id="About_To_Cum Narration"/>

@@ -19,7 +19,7 @@
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="010098fd" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="010098fd" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="1.132"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -34,7 +34,7 @@
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="010098fe" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="010098fe" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="1.132"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -81,7 +81,7 @@
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_02_S2" frames="300">
-		<actor gender="M" idleForm="0100a0a6" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="0100a0a6" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.629"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -96,7 +96,7 @@
 	</animation>
 
 	<animation id="GUCP_Supermutant_MM_02_S3" frames="300">
-		<actor gender="M" idleForm="0100a0a7" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="0100a0a7" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.858"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -144,7 +144,7 @@
 	</animation>
 
 	<animation id="GUCP_FEVHound_MM_01_S2" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
-		<actor gender="M" idleForm="01007a90" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="01007a90" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -156,7 +156,7 @@
 	</animation>
 
 	<animation id="GUCP_FEVHound_MM_01_S3" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
-		<actor gender="M" idleForm="01007a91" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="01007a91" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -199,7 +199,7 @@
 	</animation>
 
 	<animation id="GUCP_Deathclaw_MM_01_S2" frames="300" offset="0,0,0,0:0,23,0,0">
-		<actor gender="M" idleForm="010063b9" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="010063b9" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="2.064"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -215,7 +215,7 @@
 	</animation>
 
 	<animation id="GUCP_Deathclaw_MM_01_S3" frames="300" offset="0,0,0,0:0,23,0,0">
-		<actor gender="M" idleForm="010063ba" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="010063ba" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="2.064"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -267,7 +267,7 @@
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="0100547d" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="0100547d" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -282,7 +282,7 @@
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="0100547e" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="0100547e" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -329,7 +329,7 @@
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_02_S2" frames="300" offset="0,0,0,0:0,0,2,0">
-		<actor gender="M" idleForm="0100a0a2" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="0100a0a2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -345,7 +345,7 @@
 	</animation>
 
 	<animation id="GUCP_Ghoul_MM_02_S3" frames="300" offset="0,0,0,0:0,0,2,0">
-		<actor gender="M" idleForm="0100a0a3" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="0100a0a3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
@@ -393,7 +393,7 @@
 	</animation>
 
 	<animation id="GUCP_Molerat_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="0100453d" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="0100453d" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -405,7 +405,7 @@
 	</animation>
 
 	<animation id="GUCP_Molerat_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="0100453e" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="0100453e" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -444,7 +444,7 @@
 	</animation>
 
 	<animation id="GUCP_Behemoth_MM_01_S2" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="M" idleForm="01004535" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="01004535" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -456,7 +456,7 @@
 	</animation>
 
 	<animation id="GUCP_Behemoth_MM_01_S3" frames="300" offset="0,0,0,0:-174,0,-174,0">
-		<actor gender="M" idleForm="01004536" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="01004536" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -495,7 +495,7 @@
 	</animation>
 
 	<animation id="GUCP_Alien_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="01004539" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="01004539" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -507,7 +507,7 @@
 	</animation>
 
 	<animation id="GUCP_Alien_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="0100453a" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="0100453a" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -546,7 +546,7 @@
 	</animation>
 
 	<animation id="GUCP_Bloatfly_MM_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="M" idleForm="00000F9A" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000F9A" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -558,7 +558,7 @@
 	</animation>
 
 	<animation id="GUCP_Bloatfly_MM_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
-		<actor gender="M" idleForm="00000F9B" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000F9B" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -596,7 +596,7 @@
 	</animation>
 
 	<animation id="GUCP_Bloodbug_MM_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="M" idleForm="00000F9E" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000F9E" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -608,7 +608,7 @@
 	</animation>
 
 	<animation id="GUCP_Bloodbug_MM_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
-		<actor gender="M" idleForm="00000F9F" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000F9F" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -646,7 +646,7 @@
 	</animation>
 
 	<animation id="GUCP_Mirelurk_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FA2" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000FA2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -658,7 +658,7 @@
 	</animation>
 
 	<animation id="GUCP_Mirelurk_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FA3" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000FA3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -696,7 +696,7 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkHunter_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FA6" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000FA6" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -708,7 +708,7 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkHunter_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FA7" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000FA7" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -746,7 +746,7 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkKing_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00001F10" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00001F10" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -758,7 +758,7 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkKing_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00001F11" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00001F11" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -796,7 +796,7 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkQueen_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FAA" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000FAA" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -808,7 +808,7 @@
 	</animation>
 
 	<animation id="GUCP_MirelurkQueen_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FAB" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000FAB" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -846,7 +846,7 @@
 	</animation>
 
 	<animation id="GUCP_Radscorpion_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00000FAE" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000FAE" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -858,7 +858,7 @@
 	</animation>
 
 	<animation id="GUCP_Radscorpion_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00000FAF" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000FAF" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -896,7 +896,7 @@
 	</animation>
 
 	<animation id="GUCP_Stingwing_MM_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="M" idleForm="00000FB2" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00000FB2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -908,7 +908,7 @@
 	</animation>
 
 	<animation id="GUCP_Stingwing_MM_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
-		<actor gender="M" idleForm="00000FB3" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00000FB3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -946,7 +946,7 @@
 	</animation>
 
 	<animation id="GUCP_YaoGuai_MM_01_S2" frames="300">
-		<actor gender="M" idleForm="00001F0C" conditions="Intermediary-20_49">
+		<actor gender="M" idleForm="00001F0C" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -958,7 +958,7 @@
 	</animation>
 
 	<animation id="GUCP_YaoGuai_MM_01_S3" frames="300">
-		<actor gender="M" idleForm="00001F0D" conditions="Intermediary-50_79">
+		<actor gender="M" idleForm="00001F0D" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
