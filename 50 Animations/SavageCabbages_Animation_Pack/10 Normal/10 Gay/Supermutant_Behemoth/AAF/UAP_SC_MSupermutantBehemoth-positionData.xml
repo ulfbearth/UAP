@@ -1,0 +1,30 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+
+
+    <!-- Cowgirl -->
+
+    <position id="[UAP] SavageCabbage's - Gay Cowgirl (Behemoth)" animationGroup="SCAP_Cowgirl_MM_Behemoth_01_Staged" tags="SavageCabbage,M_SMBehemoth,NoFurn,Cowgirl,FromFront,Aggressive,ClimaxM,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Cowgirl (Behemoth, Stage 3)" animation="SCAP_Cowgirl_MM_Behemoth_01_S3" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Cowgirl (Behemoth, Stage 4)" animation="SCAP_Cowgirl_MM_Behemoth_01_S4" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Blowjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] SavageCabbage's - Gay Cowgirl (Behemoth, Stage 5)" animation="SCAP_Cowgirl_MM_Behemoth_01_S5" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Cowgirl (Behemoth, Stage 6)" animation="SCAP_Cowgirl_MM_Behemoth_01_S6" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Cowgirl (Behemoth, Stage 7)" animation="SCAP_Cowgirl_MM_Behemoth_01_S7" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Cowgirl,FromFront,Aggressive,ClimaxM,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>
+
+
+    <!-- Missionary -->
+    <position id="[UAP] SavageCabbage's - Gay Missionary (Behemoth)" animationGroup="SCAP_Missionary_MM_Behemoth_02_Staged" tags="SavageCabbage,M_SMBehemoth,NoFurn,Missionary,FromFront,Aggressive,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Missionary (Behemoth, Stage 3)" animation="SCAP_Missionary_MM_Behemoth_02_S3" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Missionary,FromFront,Aggressive,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Missionary (Behemoth, Stage 4)" animation="SCAP_Missionary_MM_Behemoth_02_S4" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Missionary,FromFront,Aggressive,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Missionary (Behemoth, Stage 5)" animation="SCAP_Missionary_MM_Behemoth_02_S5" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Missionary,FromFront,Aggressive,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SavageCabbage's - Gay Missionary (Behemoth, Stage 6)" animation="SCAP_Missionary_MM_Behemoth_02_S6" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Missionary,FromFront,Aggressive,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToAnus"/>
+
+
+    <!-- Blowjob -->
+    <position id="[UAP] SavageCabbage's - Gay Blowjob (Behemoth)" animationGroup="SCAP_Blowjob_MM_Behemoth_03_Staged" tags="SavageCabbage,M_SMBehemoth,NoFurn,Handjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="[UAP] SavageCabbage's - Gay Blowjob (Behemoth, Stage 3)" animation="SCAP_Blowjob_MM_Behemoth_03_S3" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Handjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="[UAP] SavageCabbage's - Gay Blowjob (Behemoth, Stage 4)" animation="SCAP_Blowjob_MM_Behemoth_03_S4" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Titjo,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToNipples"/>
+    <position id="[UAP] SavageCabbage's - Gay Blowjob (Behemoth, Stage 5)" animation="SCAP_Blowjob_MM_Behemoth_03_S5" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Blowjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] SavageCabbage's - Gay Blowjob (Behemoth, Stage 6)" animation="SCAP_Blowjob_MM_Behemoth_03_S6" isHidden="true" tags="SavageCabbage,M_SMBehemoth,NoFurn,Utility,Blowjob,FromFront,Neutral,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+</positionData>
