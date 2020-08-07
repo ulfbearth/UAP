@@ -71,4 +71,7 @@
     <transition from="FO4SA_MM_couchblowjob_Staged" to="*" animation="Null"/>
     <transition from="*" to="FO4SA_MM_couchblowjob_Staged" animation="Null"/>
 
+    <transition from="FO4SA_Missionary_MM_mistress_01_Staged" to="*" animation="Null"/>
+    <transition from="*" to="FO4SA_Missionary_MM_mistress_01_Staged" animation="Null"/>
+
 </transitionData>

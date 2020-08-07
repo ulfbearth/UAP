@@ -43,7 +43,7 @@
 	<!-- Normal -->
 	<!-- Misc Animations -->
 	<animation id="FO4SA_Missionary_MM_mistress_01_S1" frames="240">
-		<actor gender="M" idleForm="174F" conditions="Foreplay">
+		<actor gender="M" idleForm="174F" conditions="Foreplay-0_6">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -58,7 +58,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S2" frames="240">
-		<actor gender="M" idleForm="1751" conditions="Intermediary-20_43">
+		<actor gender="M" idleForm="1751" conditions="Foreplay-6_13">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -73,7 +73,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S3" frames="240">
-		<actor gender="M" idleForm="1753" conditions="Intermediary-43_66">
+		<actor gender="M" idleForm="1753" conditions="Foreplay-13-19">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -88,7 +88,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S4" frames="240">
-		<actor gender="M" idleForm="1755" conditions="Intermediary-66_89">
+		<actor gender="M" idleForm="1755" conditions="Progress-20_59">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
@@ -106,7 +106,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S5" frames="240">
-		<actor gender="M" idleForm="98DE" conditions="Climax">
+		<actor gender="M" idleForm="98DE" conditions="Progress-60_100">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
