@@ -1,8 +1,0 @@
-<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
-
-
-    <position id="[UAP] Vadermania - Gay Ghoul 2" animation="VM_Ghoul_MM_02" tags="Vader,M_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] Vadermania - Gay Ghoul 3 (Aggressive)" animation="VM_Ghoul_MM_Aggressive_03" tags="Vader,M_FGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] Vadermania - Gay Ghoul 4" animation="VM_Ghoul_MM_04" tags="Vader,M_FGhoulM_FGhoulM,FGhoulM,NoFurn,Aggressive,Held7,Stim5,Love3,Dom-9,NullToSelf,PenisToAnus,PenisToAnus,PenisToMouth"/>
-</positionData>

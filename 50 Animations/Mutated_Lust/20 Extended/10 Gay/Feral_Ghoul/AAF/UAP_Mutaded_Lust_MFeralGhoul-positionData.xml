@@ -1,8 +1,0 @@
-<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-
-    <!-- Feral Ghoul Animations -->
-
-    <!-- <position id="[UAP] Mutated Lust - Gay Cowgirl (Feral Ghoul) " animation="ML_FG_Cowgirl_MM_01" tags="Rufgt,Creature,M_FGhoulM,NoFurn,Cowgirl,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToAnus"/>-->
-</positionData>
