@@ -1,0 +1,31 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
+
+	
+	
+	
+	<position id="[UAP] Leito - Canine Doggy" positionTree="Leito_Canine_Doggy_1_Tree" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy Sequence" animationGroup="Leito_Canine_Doggy_1_Staged" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy (Stage 1)" animation="Leito_Canine_Doggy_1_S1" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy (Stage 2)" animation="Leito_Canine_Doggy_1_S2" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy (Stage 3)" animation="Leito_Canine_Doggy_1_S3" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy (Stage 4)" animation="Leito_Canine_Doggy_1_S4" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	
+	
+	
+	<position id="[UAP] Leito - Canine Doggy 2" positionTree="Leito_Canine_Doggy_2_Tree" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held5,Stim7,Love-3,Dom-5,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy 2 Sequence" animationGroup="Leito_Canine_Doggy_2_Staged" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held5,Stim7,Love-3,Dom-5,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy 2 (Stage 1)" animation="Leito_Canine_Doggy_2_S1" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held5,Stim7,Love-3,Dom-5,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy 2 (Stage 2)" animation="Leito_Canine_Doggy_2_S2" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held5,Stim7,Love-3,Dom-5,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy 2 (Stage 3)" animation="Leito_Canine_Doggy_2_S3" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held5,Stim7,Love-3,Dom-5,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Canine Doggy 2 (Stage 4)" animation="Leito_Canine_Doggy_2_S4" isHidden="true" tags="Leito,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held5,Stim7,Love-3,Dom-5,NullToSelf,PenisToEither"/>
+	
+	
+	
+	<position id="[UAP] Leito - Canine Missionary" positionTree="Leito_Canine_Missionary_1_Tree" tags="Leito,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Canine Missionary Sequence" animationGroup="Leito_Canine_Missionary_1_Staged" isHidden="true" tags="Leito,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Canine Missionary (Stage 1)" animation="Leito_Canine_Missionary_1_S1" isHidden="true" tags="Leito,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Canine Missionary (Stage 2)" animation="Leito_Canine_Missionary_1_S2" isHidden="true" tags="Leito,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Canine Missionary (Stage 3)" animation="Leito_Canine_Missionary_1_S3" isHidden="true" tags="Leito,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Canine Missionary (Stage 4)" animation="Leito_Canine_Missionary_1_S4" isHidden="true" tags="Leito,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToVagina"/>
+</positionData>	

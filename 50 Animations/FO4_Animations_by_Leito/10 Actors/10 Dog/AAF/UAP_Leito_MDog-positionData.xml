@@ -1,0 +1,27 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+
+    <!-- Dog Animations -->
+
+    <position id="[UAP] Leito - Gay Doggy 1 (Dog)" positionTree="Leito_Doggy_MM_2Dog_01_Tree" tags="Leito,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Dog) Sequence" animationGroup="Leito_Doggy_MM_2Dog_01_Staged" isHidden="true" tags="Leito,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Dog, Stage 1)" animation="Leito_Doggy_MM_2Dog_01_S1" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Dog, Stage 2)" animation="Leito_Doggy_MM_2Dog_01_S2" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Dog, Stage 3)" animation="Leito_Doggy_MM_2Dog_01_S3" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 1 (Dog, Stage 4)" animation="Leito_Doggy_MM_2Dog_01_S4" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+
+    <position id="[UAP] Leito - Gay Doggy 2 (Dog)" positionTree="Leito_Doggy_MM_2Dog_02_Tree" tags="Leito,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 2 (Dog) Sequence" animationGroup="Leito_Doggy_MM_2Dog_02_Staged" isHidden="true" tags="Leito,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 2 (Dog, Stage 1)" animation="Leito_Doggy_MM_2Dog_02_S1" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 2 (Dog, Stage 2)" animation="Leito_Doggy_MM_2Dog_02_S2" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 2 (Dog, Stage 3)" animation="Leito_Doggy_MM_2Dog_02_S3" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Doggy 2 (Dog, Stage 4)" animation="Leito_Doggy_MM_2Dog_02_S4" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+
+    <position id="[UAP] Leito - Gay Missionary 1 (Dog)" positionTree="Leito_Missionary_MM_2Dog_01_Tree" tags="Leito,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Missionary 1 (Dog) Sequence" animationGroup="Leito_Missionary_MM_2Dog_01_Staged" isHidden="true" tags="Leito,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Missionary 1 (Dog, Stage 1)" animation="Leito_Missionary_MM_2Dog_01_S1" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Missionary 1 (Dog, Stage 2)" animation="Leito_Missionary_MM_2Dog_01_S2" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Missionary 1 (Dog, Stage 3)" animation="Leito_Missionary_MM_2Dog_01_S3" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Leito - Gay Missionary 1 (Dog, Stage 4)" animation="Leito_Missionary_MM_2Dog_01_S4" isHidden="true" tags="Leito,Hidden,Utility,M_DogM,NoFurn,Missionary,FromFront,Neutral,Held1,Stim7,Love3,Dom-1,NullToSelf,PenisToAnus"/>
+</positionData>

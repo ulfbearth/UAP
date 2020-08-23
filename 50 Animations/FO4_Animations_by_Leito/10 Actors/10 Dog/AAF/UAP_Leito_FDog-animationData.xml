@@ -1,0 +1,230 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="FO4_AnimationsByLeito.esp" loadPriority="1"/>
+
+	<!-- Staged FD -->
+
+    <!-- Doggy 1 -->
+
+	<animation id="Leito_Canine_Doggy_1_S1" frames="480">
+		<actor gender="F" idleForm="4523" conditions="Foreplay">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="4524">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Doggy_1_S2" frames="400">
+		<actor gender="F" idleForm="268B">
+			<action id="About_To_Cum Narration"/>
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="2688">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Doggy_1_S3" frames="400">
+		<actor gender="F" idleForm="268C" conditions="Intermediary-55_89">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="2689">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Doggy_1_S4" frames="320">
+		<actor gender="F" idleForm="268D" conditions="Climax">
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="FemaleOrgasm Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="268A">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+    <!-- Doggy 2 -->
+
+	<animation id="Leito_Canine_Doggy_2_S1" frames="480">
+		<actor gender="F" idleForm="3D80" conditions="Foreplay">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="3D7C">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Doggy_2_S2" frames="400">
+		<actor gender="F" idleForm="3D81">
+			<action id="About_To_Cum Narration"/>
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="3D7D">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Doggy_2_S3" frames="400">
+		<actor gender="F" idleForm="3D82" conditions="Intermediary-55_89">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="3D7E">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Doggy_2_S4" frames="420">
+		<actor gender="F" idleForm="3D83" conditions="Climax">
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="FemaleOrgasm Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="3D7F">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<!-- Missionary -->
+
+	<animation id="Leito_Canine_Missionary_1_S1" frames="256">
+		<actor gender="F" idleForm="1EE4" conditions="Foreplay">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="1EE8">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Missionary_1_S2" frames="400">
+		<actor gender="F" idleForm="1EE5">
+			<action id="About_To_Cum Narration"/>
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="1EE9">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Missionary_1_S3" frames="400">
+		<actor gender="F" idleForm="1EE6" conditions="Intermediary-55_89">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="About_To_Cum Narration"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="1EEA">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Canine_Missionary_1_S4" frames="340">
+		<actor gender="F" idleForm="1EE7" conditions="Climax">
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="FemaleMoan Orgasm" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="1EEB">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<!-- Aggressive FM -->
+
+	<animation id="Leito_Blowjob_Aggressive" frames="308" offset="-0.3,0,1,0:0,0,0,0">
+		<actor gender="F" idleForm="B71E">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="B71F">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="MaleAggMoan Action" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.2"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Carry_Aggressive" frames="312">
+		<actor gender="F" idleForm="6367">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="173C">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="MaleAggMoan Action" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.2"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Cowgirl_Aggressive" frames="300">
+		<actor gender="F" idleForm="B720">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="B721">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="MaleAggMoan Action" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="0.4"/>		
+		</actor>
+	</animation>
+
+	<animation id="Leito_Doggy_Aggressive" frames="312">
+		<actor gender="F" idleForm="B723">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="B722">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="MaleAggMoan Action" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Missionary_Aggressive" frames="228">
+		<actor gender="F" idleForm="B724">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="B725">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="MaleAggMoan Action" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="0.2"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_Powerbomb_Aggressive" frames="300" offset="0,-1,0,0:0,0,0,0">
+		<actor gender="F" idleForm="B726">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="B727">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="MaleAggMoan Action" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Down" to="1.5"/>
+		</actor>
+	</animation>
+</animationData>

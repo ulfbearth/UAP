@@ -1,0 +1,26 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<!-- Dog Animations -->
+
+	<animationGroup id="Leito_Doggy_MM_2Dog_01_Staged" sequential="false">
+		<stage animation="Leito_Doggy_MM_2Dog_01_S1"/>
+		<stage animation="Leito_Doggy_MM_2Dog_01_S2"/>
+		<stage animation="Leito_Doggy_MM_2Dog_01_S3"/>
+		<stage animation="Leito_Doggy_MM_2Dog_01_S4"/>
+	</animationGroup>
+
+	<animationGroup id="Leito_Doggy_MM_2Dog_02_Staged" sequential="false">
+		<stage animation="Leito_Doggy_MM_2Dog_02_S1"/>
+		<stage animation="Leito_Doggy_MM_2Dog_02_S2"/>
+		<stage animation="Leito_Doggy_MM_2Dog_02_S3"/>
+		<stage animation="Leito_Doggy_MM_2Dog_02_S4"/>
+	</animationGroup>
+
+	<animationGroup id="Leito_Missionary_MM_2Dog_01_Staged" sequential="false">
+		<stage animation="Leito_Missionary_MM_2Dog_01_S1"/>
+		<stage animation="Leito_Missionary_MM_2Dog_01_S2"/>
+		<stage animation="Leito_Missionary_MM_2Dog_01_S3"/>
+		<stage animation="Leito_Missionary_MM_2Dog_01_S4"/>
+	</animationGroup>
+</animationGroupData>

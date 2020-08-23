@@ -649,6 +649,7 @@
     <xs:attribute type="xs:boolean" name="isFlavor"/>
     <xs:attribute type="xs:boolean" name="isExit"/>
     <xs:attribute type="xs:float" name="time"/>
+    <xs:attribute type="xs:boolean" name="forceComplete"/>
   </xs:complexType>
   <xs:complexType name="treeType">
     <xs:sequence>

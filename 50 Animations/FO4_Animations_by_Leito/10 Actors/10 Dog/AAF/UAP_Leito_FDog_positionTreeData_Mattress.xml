@@ -1,0 +1,78 @@
+<positionTreeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults loadPriority="1"/>
+
+
+
+
+	<tree id="Leito_Mattress_Canine_Doggy_1_Tree">
+
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Canine Doggy Sequence">
+
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Canine Doggy (Stage 1)" forceComplete="true">
+
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Canine Doggy (Stage 2)" forceComplete="true">
+
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Canine Doggy (Stage 3)" forceComplete="true">
+
+						<branch id="Play Stage 4" positionID="[UAP] Leito - Mattress Canine Doggy (Stage 4)" forceComplete="true"></branch>
+
+					</branch>
+					<branch id="Go to Beginning" positionID="[UAP] Leito - Mattress Canine Doggy"></branch>
+
+				</branch>
+				<branch id="Go to Beginning" positionID="[UAP] Leito - Mattress Canine Doggy"></branch>
+
+			</branch>
+
+		</branch>
+	</tree>
+
+
+	<tree id="Leito_Mattress_Canine_Doggy_2_Tree">
+
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Canine Doggy 2 Sequence">
+
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Canine Doggy 2 (Stage 1)" forceComplete="true">
+
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Canine Doggy 2 (Stage 2)" forceComplete="true">
+
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Canine Doggy 2 (Stage 3)" forceComplete="true">
+
+						<branch id="Play Stage 4" positionID="[UAP] Leito - Mattress Canine Doggy 2 (Stage 4)" forceComplete="true"></branch>
+
+					</branch>
+					<branch id="Go to Beginning" positionID="[UAP] Leito - Mattress Canine Doggy 2"></branch>
+
+				</branch>
+				<branch id="Go to Beginning" positionID="[UAP] Leito - Mattress Canine Doggy 2"></branch>
+
+			</branch>
+
+		</branch>
+	</tree>
+
+
+	<tree id="Leito_Mattress_Canine_Missionary_1_Tree">
+
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Canine Missionary Sequence">
+
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Canine Missionary (Stage 1)" forceComplete="true">
+
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Canine Missionary (Stage 2)" forceComplete="true">
+
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Canine Missionary (Stage 3)" forceComplete="true">
+
+						<branch id="Play Stage 4" positionID="[UAP] Leito - Mattress Canine Missionary (Stage 4)" forceComplete="true"></branch>
+
+					</branch>
+					<branch id="Go to Beginning" positionID="[UAP] Leito - Mattress Canine Missionary"></branch>
+
+				</branch>
+				<branch id="Go to Beginning" positionID="[UAP] Leito - Mattress Canine Missionary"></branch>
+
+			</branch>
+
+		</branch>
+	</tree>
+
+</positionTreeData>

@@ -1,0 +1,70 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<!-- Human Animations -->
+	<transition from="*" to="Leito_Blowjob_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Blowjob_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Carry_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Carry_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Carry_MM_02_Tree" animation="Null"/>
+	<transition from="Leito_Carry_MM_02_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_ReverseCarry_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_ReverseCarry_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Cowgirl_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Cowgirl_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Cowgirl_MM_02_Tree" animation="Null"/>
+	<transition from="Leito_Cowgirl_MM_02_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Cowgirl_MM_03_Tree" animation="Null"/>
+	<transition from="Leito_Cowgirl_MM_03_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Cowgirl_MM_04_Tree" animation="Null"/>
+	<transition from="Leito_Cowgirl_MM_04_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_ReverseCowgirl_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_ReverseCowgirl_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_ReverseCowgirl_MM_02_Tree" animation="Null"/>
+	<transition from="Leito_ReverseCowgirl_MM_02_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Doggy_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Doggy_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Doggy_MM_02_Tree" animation="Null"/>
+	<transition from="Leito_Doggy_MM_02_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_StandingDoggy_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_StandingDoggy_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_StandingDoggy_MM_02_Tree" animation="Null"/>
+	<transition from="Leito_StandingDoggy_MM_02_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Missionary_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Missionary_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Missionary_MM_02_Tree" animation="Null"/>
+	<transition from="Leito_Missionary_MM_02_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Powerbomb_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Powerbomb_MM_01_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Spoon_MM_01_Tree" animation="Null"/>
+	<transition from="Leito_Spoon_MM_01_Tree" to="*" animation="Null"/>
+
+
+	<!-- Dog Animations -->
+	<transition from="*" to="Leito_Doggy_MM_2Dog_01_Tree" animation="Null_Creature"/>
+	<transition from="Leito_Doggy_MM_2Dog_01_Tree" to="*" animation="Null_Creature"/>
+
+	<transition from="*" to="Leito_Doggy_MM_2Dog_02_Tree" animation="Null_Creature"/>
+	<transition from="Leito_Doggy_MM_2Dog_02_Tree" to="*" animation="Null_Creature"/>
+
+	<transition from="*" to="Leito_Missionary_MM_2Dog_01_Tree" animation="Null_Creature"/>
+	<transition from="Leito_Missionary_MM_2Dog_01_Tree" to="*" animation="Null_Creature"/>
+
+</transitionData>

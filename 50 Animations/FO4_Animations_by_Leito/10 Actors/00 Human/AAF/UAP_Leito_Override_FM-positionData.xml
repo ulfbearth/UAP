@@ -1,0 +1,228 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="Erected" stopMorphSet="Flaccid" loadPriority="1" isHidden="true"/>
+
+    <animationOffset actor="1" offset="0,0,43,0"/>
+    <animationOffset actor="2" offset="0,0,43,0"/>
+
+    <position id="LeitoAggressiveBlowjob" animation="LeitoAggressiveBlowjob" tags="aggressive"/>
+    <position id="LeitoAggressiveCarry" animation="LeitoAggressiveCarry" tags="aggressive"/>
+    <position id="LeitoAggressiveCowgirl" animation="LeitoAggressiveCowgirl" tags="aggressive"/>
+    <position id="LeitoAggressiveDoggy" animation="LeitoAggressiveDoggy" tags="aggressive"/>
+    <position id="LeitoAggressiveMissionary" animation="LeitoAggressiveMissionary" tags="aggressive"/>
+    <position id="LeitoAggressivePowerbomb" animation="LeitoAggressivePowerbomb" tags="aggressive"/>
+
+    <position id="Leito_Blowjob_1_S1"/>
+    <position id="Leito_Blowjob_1_S2"/>
+    <position id="Leito_Blowjob_1_S3"/>
+    <position id="Leito_Blowjob_1_S4"/>
+
+    <position id="Leito_Carry_1_S1"/>
+    <position id="Leito_Carry_1_S2"/>
+    <position id="Leito_Carry_1_S3"/>
+    <position id="Leito_Carry_1_S4"/>
+
+    <position id="Leito_Carry_2_S1"/>
+    <position id="Leito_Carry_2_S2"/>
+    <position id="Leito_Carry_2_S3"/>
+    <position id="Leito_Carry_2_S4"/>
+
+    <position id="Leito_Cowgirl_1_S1"/>
+    <position id="Leito_Cowgirl_1_S2"/>
+    <position id="Leito_Cowgirl_1_S3"/>
+    <position id="Leito_Cowgirl_1_S4"/>
+
+    <position id="Leito_Cowgirl_2_S1"/>
+    <position id="Leito_Cowgirl_2_S2"/>
+    <position id="Leito_Cowgirl_2_S3"/>
+    <position id="Leito_Cowgirl_2_S4"/>
+
+    <position id="Leito_Cowgirl_3_S1"/>
+    <position id="Leito_Cowgirl_3_S2"/>
+    <position id="Leito_Cowgirl_3_S3"/>
+    <position id="Leito_Cowgirl_3_S4"/>
+
+    <position id="Leito_Cowgirl_4_S1"/>
+    <position id="Leito_Cowgirl_4_S2"/>
+    <position id="Leito_Cowgirl_4_S3"/>
+    <position id="Leito_Cowgirl_4_S4"/>
+
+    <position id="Leito_Doggy_1_S1"/>
+    <position id="Leito_Doggy_1_S2"/>
+    <position id="Leito_Doggy_1_S3"/>
+    <position id="Leito_Doggy_1_S4"/>
+
+    <position id="Leito_Doggy_2_S1"/>
+    <position id="Leito_Doggy_2_S2"/>
+    <position id="Leito_Doggy_2_S3"/>
+    <position id="Leito_Doggy_2_S4"/>
+
+    <position id="Leito_Missionary_1_S1"/>
+    <position id="Leito_Missionary_1_S2"/>
+    <position id="Leito_Missionary_1_S3"/>
+    <position id="Leito_Missionary_1_S4"/>
+
+    <position id="Leito_Missionary_2_S1"/>
+    <position id="Leito_Missionary_2_S2"/>
+    <position id="Leito_Missionary_2_S3"/>
+    <position id="Leito_Missionary_2_S4"/>
+
+    <position id="Leito_Powerbomb_1_S1"/>
+    <position id="Leito_Powerbomb_1_S2"/>
+    <position id="Leito_Powerbomb_1_S3"/>
+    <position id="Leito_Powerbomb_1_S4"/>
+
+    <position id="Leito_ReverseCarry_1_S1"/>
+    <position id="Leito_ReverseCarry_1_S2"/>
+    <position id="Leito_ReverseCarry_1_S3"/>
+    <position id="Leito_ReverseCarry_1_S4"/>
+
+    <position id="Leito_ReverseCowgirl_1_S1"/>
+    <position id="Leito_ReverseCowgirl_1_S2"/>
+    <position id="Leito_ReverseCowgirl_1_S3"/>
+    <position id="Leito_ReverseCowgirl_1_S4"/>
+
+    <position id="Leito_ReverseCowgirl_2_S1"/>
+    <position id="Leito_ReverseCowgirl_2_S2"/>
+    <position id="Leito_ReverseCowgirl_2_S3"/>
+    <position id="Leito_ReverseCowgirl_2_S4"/>
+
+    <position id="Leito_Spoon_1_S1"/>
+    <position id="Leito_Spoon_1_S2"/>
+    <position id="Leito_Spoon_1_S3"/>
+    <position id="Leito_Spoon_1_S4"/>
+
+    <position id="Leito_StandingDoggy_1_S1"/>
+    <position id="Leito_StandingDoggy_1_S2"/>
+    <position id="Leito_StandingDoggy_1_S3"/>
+    <position id="Leito_StandingDoggy_1_S4"/>
+
+    <position id="Leito_StandingDoggy_2_S1"/>
+    <position id="Leito_StandingDoggy_2_S2"/>
+    <position id="Leito_StandingDoggy_2_S3"/>
+    <position id="Leito_StandingDoggy_2_S4"/>
+
+
+
+
+    <position id="LeitoAggressiveBedCowgirl" location="Single_Bed,Double_Bed" animation="LeitoAggressiveCowgirl" tags="aggressive"/>
+    <position id="LeitoAggressiveBedDoggy" location="Single_Bed,Double_Bed" animation="LeitoAggressiveDoggy" tags="aggressive"/>
+    <position id="LeitoAggressiveBedMissionary" location="Single_Bed,Double_Bed" animation="LeitoAggressiveMissionary" tags="aggressive"/>
+
+    <position id="Leito_Bed_Cowgirl_1_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_1_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_1_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_1_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Cowgirl_2_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_2_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_2_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_2_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Cowgirl_3_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_3_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_3_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_3_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Cowgirl_4_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_4_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_4_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Cowgirl_4_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Doggy_1_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Doggy_1_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Doggy_1_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Doggy_1_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Doggy_2_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Doggy_2_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Doggy_2_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Doggy_2_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Missionary_1_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Missionary_1_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Missionary_1_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Missionary_1_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Missionary_2_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Missionary_2_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Missionary_2_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Missionary_2_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_ReverseCowgirl_1_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_ReverseCowgirl_1_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_ReverseCowgirl_1_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_ReverseCowgirl_1_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_ReverseCowgirl_2_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_ReverseCowgirl_2_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_ReverseCowgirl_2_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_ReverseCowgirl_2_S4" location="Single_Bed,Double_Bed"/>
+
+    <position id="Leito_Bed_Spoon_1_S1" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Spoon_1_S2" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Spoon_1_S3" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Bed_Spoon_1_S4" location="Single_Bed,Double_Bed"/>
+
+
+    <position id="LeitoAggressiveMattressCowgirl" location="Mattress" animation="LeitoAggressiveCowgirl" tags="aggressive"/>
+    <position id="LeitoAggressiveMattressDoggy" location="Mattress" animation="LeitoAggressiveDoggy" tags="aggressive"/>
+    <position id="LeitoAggressiveMattressMissionary" location="Mattress" animation="LeitoAggressiveMissionary" tags="aggressive"/>
+
+    <position id="Leito_Mattress_Cowgirl_1_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_1_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_1_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_1_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Cowgirl_2_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_2_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_2_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_2_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Cowgirl_3_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_3_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_3_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_3_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Cowgirl_4_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_4_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_4_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Cowgirl_4_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Doggy_1_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Doggy_1_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Doggy_1_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Doggy_1_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Doggy_2_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Doggy_2_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Doggy_2_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Doggy_2_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Missionary_1_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Missionary_1_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Missionary_1_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Missionary_1_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Missionary_2_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Missionary_2_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Missionary_2_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Missionary_2_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_ReverseCowgirl_1_S1" location="Mattress"/>
+    <position id="Leito_Mattress_ReverseCowgirl_1_S2" location="Mattress"/>
+    <position id="Leito_Mattress_ReverseCowgirl_1_S3" location="Mattress"/>
+    <position id="Leito_Mattress_ReverseCowgirl_1_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_ReverseCowgirl_2_S1" location="Mattress"/>
+    <position id="Leito_Mattress_ReverseCowgirl_2_S2" location="Mattress"/>
+    <position id="Leito_Mattress_ReverseCowgirl_2_S3" location="Mattress"/>
+    <position id="Leito_Mattress_ReverseCowgirl_2_S4" location="Mattress"/>
+
+    <position id="Leito_Mattress_Spoon_1_S1" location="Mattress"/>
+    <position id="Leito_Mattress_Spoon_1_S2" location="Mattress"/>
+    <position id="Leito_Mattress_Spoon_1_S3" location="Mattress"/>
+    <position id="Leito_Mattress_Spoon_1_S4" location="Mattress"/>
+
+
+
+</positionData>

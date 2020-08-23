@@ -1,0 +1,14 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<!-- Dog Animations -->
+	<transition from="*" to="Leito_Doggy_MM_2Dog_01_Tree" animation="Null_Creature"/>
+	<transition from="Leito_Doggy_MM_2Dog_01_Tree" to="*" animation="Null_Creature"/>
+
+	<transition from="*" to="Leito_Doggy_MM_2Dog_02_Tree" animation="Null_Creature"/>
+	<transition from="Leito_Doggy_MM_2Dog_02_Tree" to="*" animation="Null_Creature"/>
+
+	<transition from="*" to="Leito_Missionary_MM_2Dog_01_Tree" animation="Null_Creature"/>
+	<transition from="Leito_Missionary_MM_2Dog_01_Tree" to="*" animation="Null_Creature"/>
+
+</transitionData>

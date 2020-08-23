@@ -1,0 +1,74 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="FO4_AnimationsByLeito.esp" loadPriority="1"/>
+
+	<!-- FSM -->
+
+	<animation id="Leito_SuperMutant_Carry" frames="306">
+		<actor gender="F" idleForm="1EDC">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1EDD">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection Up" to="0.5"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_SuperMutant_ReverseCarry" frames="304">
+		<actor gender="F" idleForm="4C8F">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="4C8C">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection Up" to="1"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_SuperMutant_Powerbomb" frames="300">
+		<actor gender="F" idleForm="B73D">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="B73E">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection Down" to="1"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_SuperMutant_Doggy" frames="308">
+		<actor gender="F" idleForm="542A">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="542D">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_SuperMutant_StandingDoggy" frames="288">
+		<actor gender="F" idleForm="542B">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="542E">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_SuperMutant_StandingSideways" frames="304">
+		<actor gender="F" idleForm="542C">
+			<action id="FemaleMoan Action" loop="true"/>
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="542F">
+			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+</animationData>

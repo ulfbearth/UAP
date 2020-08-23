@@ -1,0 +1,13 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="Erected" stopMorphSet="Flaccid" loadPriority="1" isHidden="true"/>
+
+    <animationOffset actor="1" offset="0,0,0"/>
+    <animationOffset actor="2" offset="0,0,0"/>
+
+    <position id="Leito SuperMutant Carry" animation="Leito_SuperMutant_Carry"/>
+    <position id="Leito SuperMutant Doggy" animation="Leito_SuperMutant_Doggy"/>
+    <position id="Leito SuperMutant Powerbomb" animation="Leito_SuperMutant_Powerbomb"/>
+    <position id="Leito SuperMutant Reverse Carry" animation="Leito_SuperMutant_ReverseCarry"/>
+    <position id="Leito SuperMutant Standing Doggy" animation="Leito_SuperMutant_StandingDoggy"/>
+    <position id="Leito SuperMutant Standing Sideways" animation="Leito_SuperMutant_StandingSideways"/>
+</positionData>

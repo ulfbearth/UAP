@@ -1,0 +1,167 @@
+<topicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<!-- Regular MOANS -->
+
+	<topicGroup id="MaleMoans Topic" tryRate="7" chance="70">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12900" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12901" conditions="isGeneric"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12902" conditions="isGeneric"/>
+
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="835" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83D" conditions="isPlayer"/>
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="836" isOverride="true" conditions="isDanse2"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+	<topicGroup id="CreatureMoans Topic" tryRate="7" chance="70">
+
+		<!-- Behemoth Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="842" conditions="isBehemoth"/>
+
+		<!-- Dog Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="844" conditions="isDog"/>
+
+		<!-- FeralGhoul Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="845" conditions="isFeralGhoul"/>
+
+		<!-- Gorilla Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="846" conditions="isGorilla"/>
+
+		<!-- MutantHound Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="841" conditions="isMutantHound"/>
+
+		<!-- Supermutant Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="847" conditions="isSupermutant"/>
+
+		<!-- YaoGuai Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="848" conditions="isYaoGuai"/>
+	</topicGroup>
+
+
+
+	<!--=====================================================================================================================================================================================-->
+
+
+
+	<!-- Blowjob MOANS -->
+
+	<topicGroup id="MaleBlowjob Topic" tryRate="7" chance="70">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83B" conditions="isGeneric"/>
+
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="837" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83C" conditions="isPlayer"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+
+	<!--=====================================================================================================================================================================================-->
+
+
+
+	<!-- Orgasm MOANS -->
+
+	<topicGroup id="MaleOrgasm Topic" tryRate="7" chance="85">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12909" conditions="isGeneric"/>
+
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="838" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83E" conditions="isPlayer"/>
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83A" isOverride="true" conditions="isDanse"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84B" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+
+	<!--=====================================================================================================================================================================================-->
+
+
+	<!-- Aggressive MOANS -->
+
+	<topicGroup id="MaleAggMoans Topic" tryRate="7" chance="70">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12910" conditions="isGeneric"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="83F" conditions="isPlayer"/>
+
+
+		<!-- Ulfberth Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="840" conditions="isUlfberth"/>
+
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="839" isOverride="true" conditions="isDanse2"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84A" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+
+	<topicGroup id="CreatureAggMoans Topic" tryRate="7" chance="70">
+
+		<!-- Supermutant Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="849" conditions="isSupermutant"/>
+	</topicGroup>
+
+	<!--=====================================================================================================================================================================================-->
+
+
+	<!-- Aggressive Orgasm MOANS -->
+
+	<topicGroup id="MaleAggOrgasm Topic" tryRate="7" chance="85">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" conditions="isGeneric"/>
+
+
+		<!-- Player VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="12919" conditions="isGeneric"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeFormID="84B" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+</topicData>	
