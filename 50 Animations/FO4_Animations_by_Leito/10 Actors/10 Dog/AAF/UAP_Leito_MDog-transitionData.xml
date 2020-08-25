@@ -2,13 +2,37 @@
 	<defaults/>
 
 	<!-- Dog Animations -->
+
+
+
 	<transition from="*" to="Leito_Doggy_MM_2Dog_01_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Doggy_MM_2Dog_01_Tree" to="*" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_01_Tree" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Doggy_MM_2Dog_01_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_01_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_01_S1" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_01_S2" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_01_S3" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_01_S4" animation="Null_Creature"/>
+
 
 	<transition from="*" to="Leito_Doggy_MM_2Dog_02_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Doggy_MM_2Dog_02_Tree" to="*" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_02_Tree" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Doggy_MM_2Dog_02_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_02_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_02_S1" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_02_S2" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_02_S3" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Doggy_MM_2Dog_02_S4" animation="Null_Creature"/>
+
 
 	<transition from="*" to="Leito_Missionary_MM_2Dog_01_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Missionary_MM_2Dog_01_Tree" to="*" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Missionary_MM_2Dog_01_Tree" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Missionary_MM_2Dog_01_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Missionary_MM_2Dog_01_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Missionary_MM_2Dog_01_S1" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Missionary_MM_2Dog_01_S2" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Missionary_MM_2Dog_01_S3" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Missionary_MM_2Dog_01_S4" animation="Null_Creature"/>
+
 
 </transitionData>

@@ -5,7 +5,6 @@
 
 	<reactionSet id="WOOF_Reset">
 		<condition>
-			<setStat stat="WOOF" range="99-" targetStat="WOOF" setTo="0.0"/>
 		</condition>
 	</reactionSet>
 

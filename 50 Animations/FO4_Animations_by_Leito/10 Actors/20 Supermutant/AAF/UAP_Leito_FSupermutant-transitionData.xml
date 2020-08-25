@@ -1,0 +1,12 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+	
+
+	<transition from="none" to="Leito_SuperMutant_Carry" animation="Null_Creature"/>
+	<transition from="none" to="Leito_SuperMutant_Doggy" animation="Null_Creature"/>
+	<transition from="none" to="Leito_SuperMutant_Powerbomb" animation="Null_Creature"/>
+	<transition from="none" to="Leito_SuperMutant_ReverseCarry" animation="Null_Creature"/>
+	<transition from="none" to="Leito_SuperMutant_StandingDoggy" animation="Null_Creature"/>
+	<transition from="none" to="Leito_SuperMutant_StandingSideways" animation="Null_Creature"/>
+
+</transitionData>

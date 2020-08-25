@@ -2,38 +2,35 @@
 	<defaults loadPriority="1"/>
 
 
-	
-
-    <transition from="*" to="Leito_Canine_Doggy_1_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Canine_Doggy_1_Tree" to="*" animation="Null_Creature"/>	
-
-    <transition from="*" to="Leito_Canine_Doggy_2_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Canine_Doggy_2_Tree" to="*" animation="Null_Creature"/>	
-
-    <transition from="*" to="Leito_Canine_Missionary_1_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Canine_Missionary_1_Tree" to="*" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Canine_Doggy_1_Tree" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_1_Tree" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Canine_Doggy_1_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_1_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_1_S1" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_1_S2" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_1_S3" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_1_S4" animation="Null_Creature"/>
 
 
-	<!-- Bed Anims -->
-
-    <transition from="*" to="Leito_Bed_Canine_Doggy_1_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Bed_Canine_Doggy_1_Tree" to="*" animation="Null_Creature"/>	
-
-    <transition from="*" to="Leito_Bed_Canine_Doggy_2_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Bed_Canine_Doggy_2_Tree" to="*" animation="Null_Creature"/>	
-
-    <transition from="*" to="Leito_Bed_Canine_Missionary_1_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Bed_Canine_Missionary_1_Tree" to="*" animation="Null_Creature"/>	
+	<transition from="*" to="Leito_Canine_Doggy_2_Tree" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_2_Tree" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Canine_Doggy_2_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_2_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_2_S1" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_2_S2" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_2_S3" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Doggy_2_S4" animation="Null_Creature"/>
 
 
-	<!-- Mattress Anims-->
-	
-    <transition from="*" to="Leito_Mattress_Canine_Doggy_1_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Mattress_Canine_Doggy_1_Tree" to="*" animation="Null_Creature"/>	
+	<transition from="*" to="Leito_Canine_Missionary_1_Tree" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Missionary_1_Tree" animation="Null_Creature"/>
+	<transition from="*" to="Leito_Canine_Missionary_1_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Missionary_1_Staged" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Missionary_1_S1" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Missionary_1_S2" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Missionary_1_S3" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Canine_Missionary_1_S4" animation="Null_Creature"/>
 
-    <transition from="*" to="Leito_Mattress_Canine_Doggy_2_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Mattress_Canine_Doggy_2_Tree" to="*" animation="Null_Creature"/>	
 
-    <transition from="*" to="Leito_Mattress_Canine_Missionary_1_Tree" animation="Null_Creature"/>
-	<transition from="Leito_Mattress_Canine_Missionary_1_Tree" to="*" animation="Null_Creature"/>		
+
 </transitionData>

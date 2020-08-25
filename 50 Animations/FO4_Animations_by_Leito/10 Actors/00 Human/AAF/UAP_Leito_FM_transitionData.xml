@@ -1,173 +1,192 @@
 <transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults loadPriority="1"/>
 
-	
+
+	<transition from="none" to="Leito_Blowjob_Aggressive" animation="Null"/>
+	<transition from="none" to="Leito_Carry_Aggressive" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_Aggressive" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_Aggressive" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_Aggressive" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_Aggressive" animation="Null"/>
+
+
 	<transition from="*" to="Leito_Blowjob_1_Tree" animation="Null"/>
-	<transition from="Leito_Blowjob_1_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Blowjob_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Blowjob_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Blowjob_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Blowjob_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Blowjob_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Blowjob_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Blowjob_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Carry_1_Tree" animation="Null"/>
-	<transition from="Leito_Carry_1_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Carry_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Carry_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Carry_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Carry_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Carry_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Carry_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Carry_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Carry_2_Tree" animation="Null"/>
-	<transition from="Leito_Carry_2_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Carry_2_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Carry_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Carry_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Carry_2_S1" animation="Null"/>
+	<transition from="none" to="Leito_Carry_2_S2" animation="Null"/>
+	<transition from="none" to="Leito_Carry_2_S3" animation="Null"/>
+	<transition from="none" to="Leito_Carry_2_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Cowgirl_1_Tree" animation="Null"/>
-	<transition from="Leito_Cowgirl_1_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Cowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Cowgirl_2_Tree" animation="Null"/>
-	<transition from="Leito_Cowgirl_2_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_2_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Cowgirl_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_2_S1" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_2_S2" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_2_S3" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_2_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Cowgirl_3_Tree" animation="Null"/>
-	<transition from="Leito_Cowgirl_3_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_3_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Cowgirl_3_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_3_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_3_S1" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_3_S2" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_3_S3" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_3_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Cowgirl_4_Tree" animation="Null"/>
-	<transition from="Leito_Cowgirl_4_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_4_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Cowgirl_4_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_4_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_4_S1" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_4_S2" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_4_S3" animation="Null"/>
+	<transition from="none" to="Leito_Cowgirl_4_S4" animation="Null"/>
 
-    <transition from="*" to="Leito_Doggy_1_Tree" animation="Null"/>
-	<transition from="Leito_Doggy_1_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Doggy_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Doggy_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Doggy_2_Tree" animation="Null"/>
-	<transition from="Leito_Doggy_2_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_2_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Doggy_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_2_S1" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_2_S2" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_2_S3" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_2_S4" animation="Null"/>
 
-    <transition from="*" to="Leito_Missionary_1_Tree" animation="Null"/>
-	<transition from="Leito_Missionary_1_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Missionary_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Missionary_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_Missionary_2_Tree" animation="Null"/>
-	<transition from="Leito_Missionary_2_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_2_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Missionary_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_2_S1" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_2_S2" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_2_S3" animation="Null"/>
+	<transition from="none" to="Leito_Missionary_2_S4" animation="Null"/>
 
-    <transition from="*" to="Leito_Powerbomb_1_Tree" animation="Null"/>
-	<transition from="Leito_Powerbomb_1_Tree" to="*" animation="Null"/>	
+
+	<transition from="*" to="Leito_Powerbomb_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Powerbomb_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_ReverseCarry_1_Tree" animation="Null"/>
-	<transition from="Leito_ReverseCarry_1_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_ReverseCarry_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_1_S4" animation="Null"/>
 
-    <transition from="*" to="Leito_ReverseCowgirl_1_Tree" animation="Null"/>
-	<transition from="Leito_ReverseCowgirl_1_Tree" to="*" animation="Null"/>	
+
+	<transition from="*" to="Leito_ReverseCowgirl_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_ReverseCowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_ReverseCowgirl_2_Tree" animation="Null"/>
-	<transition from="Leito_ReverseCowgirl_2_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_2_Tree" animation="Null"/>
+	<transition from="*" to="Leito_ReverseCowgirl_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_2_S1" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_2_S2" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_2_S3" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCowgirl_2_S4" animation="Null"/>
 
-    <transition from="*" to="Leito_Spoon_1_Tree" animation="Null"/>
-	<transition from="Leito_Spoon_1_Tree" to="*" animation="Null"/>
+
+	<transition from="*" to="Leito_Spoon_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_Spoon_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_Spoon_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Spoon_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_Spoon_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_Spoon_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_Spoon_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_Spoon_1_S4" animation="Null"/>
+
 
 	<transition from="*" to="Leito_StandingDoggy_1_Tree" animation="Null"/>
-	<transition from="Leito_StandingDoggy_1_Tree" to="*" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_StandingDoggy_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_1_S4" animation="Null"/>
 
-    <transition from="*" to="Leito_StandingDoggy_2_Tree" animation="Null"/>
-	<transition from="Leito_StandingDoggy_2_Tree" to="*" animation="Null"/>
-	
-	
-	<!-- Bed Anims -->
 
-	<transition from="*" to="Leito_Bed_Blowjob_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Blowjob_1_Tree" to="*" animation="Null"/>
+	<transition from="*" to="Leito_StandingDoggy_2_Tree" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_2_Tree" animation="Null"/>
+	<transition from="*" to="Leito_StandingDoggy_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_2_Staged" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_2_S1" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_2_S2" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_2_S3" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_2_S4" animation="Null"/>
 
-	<transition from="*" to="Leito_Bed_Carry_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Carry_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Carry_2_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Carry_2_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Cowgirl_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Cowgirl_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Cowgirl_2_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Cowgirl_2_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Cowgirl_3_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Cowgirl_3_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Cowgirl_4_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Cowgirl_4_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Bed_Doggy_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Doggy_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Doggy_2_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Doggy_2_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Bed_Missionary_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Missionary_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_Missionary_2_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Missionary_2_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Bed_Powerbomb_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Powerbomb_1_Tree" to="*" animation="Null"/>	
-
-	<transition from="*" to="Leito_Bed_ReverseCarry_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_ReverseCarry_1_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Bed_ReverseCowgirl_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_ReverseCowgirl_1_Tree" to="*" animation="Null"/>	
-
-	<transition from="*" to="Leito_Bed_ReverseCowgirl_2_Tree" animation="Null"/>
-	<transition from="Leito_Bed_ReverseCowgirl_2_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Bed_Spoon_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_Spoon_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Bed_StandingDoggy_1_Tree" animation="Null"/>
-	<transition from="Leito_Bed_StandingDoggy_1_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Bed_StandingDoggy_2_Tree" animation="Null"/>
-	<transition from="Leito_Bed_StandingDoggy_2_Tree" to="*" animation="Null"/>	
-	
-	<!-- Matress Anims -->
-
-	<transition from="*" to="Leito_Mattress_Blowjob_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Blowjob_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Carry_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Carry_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Carry_2_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Carry_2_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Cowgirl_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Cowgirl_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Cowgirl_2_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Cowgirl_2_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Cowgirl_3_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Cowgirl_3_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Cowgirl_4_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Cowgirl_4_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Mattress_Doggy_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Doggy_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Doggy_2_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Doggy_2_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Mattress_Missionary_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Missionary_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_Missionary_2_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Missionary_2_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Mattress_Powerbomb_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Powerbomb_1_Tree" to="*" animation="Null"/>	
-
-	<transition from="*" to="Leito_Mattress_ReverseCarry_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_ReverseCarry_1_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Mattress_ReverseCowgirl_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_ReverseCowgirl_1_Tree" to="*" animation="Null"/>	
-
-	<transition from="*" to="Leito_Mattress_ReverseCowgirl_2_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_ReverseCowgirl_2_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Mattress_Spoon_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_Spoon_1_Tree" to="*" animation="Null"/>
-
-	<transition from="*" to="Leito_Mattress_StandingDoggy_1_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_StandingDoggy_1_Tree" to="*" animation="Null"/>
-
-    <transition from="*" to="Leito_Mattress_StandingDoggy_2_Tree" animation="Null"/>
-	<transition from="Leito_Mattress_StandingDoggy_2_Tree" to="*" animation="Null"/>	
-
-	
 </transitionData>
