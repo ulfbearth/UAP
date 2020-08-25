@@ -1,0 +1,230 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="5"/>
+
+    <position id="[UAP] BP70 - Blowjob" animation="rxl_bp70_blowjob" tags="BP70,F_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Cowgirl" animation="rxl_bp70_cowgirl" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Cunnilingus" animation="rxl_bp70_cunnilingus" tags="BP70,F_M,NoFurn,Cunnilingus,FromFront,Loving,Held0,Stim7,Love5,Dom0,NullToSelf,MouthToVagina"/>
+    <position id="[UAP] BP70 - Doggy" animation="rxl_bp70_doggy" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Footjob" animation="rxl_bp70_footjob" tags="BP70,F_M,NoFurn,Footjob,FromFront,Loving,Held1,Stim1,Love5,Dom5,NullToSelf,PenisToFeet"/>
+    <position id="[UAP] BP70 - Footjob (Fast)" animation="rxl_bp70_footjob2" tags="BP70,F_M,NoFurn,Footjob,FromFront,Loving,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToFeet"/>
+    <position id="[UAP] BP70 - Laying Blowjob" animation="rxl_bp70_layingblowjob" tags="BP70,F_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Leg Wrap Cunnilingus" animation="rxl_bp70_legwrapcunni" tags="BP70,F_M,NoFurn,Cunnilingus,FromFront,Loving,Held0,Stim7,Love5,Dom0,NullToSelf,MouthToVagina"/>
+    <position id="[UAP] BP70 - Lotus" animation="rxl_bp70_lotus" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary" animation="rxl_bp70_missionary" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+
+    <position id="[UAP] BP70 - Missionary Sequence" positionTree="BP70_Missionary_Sequence_Tree" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Sequence Staged" animationGroup="BP70_Missionary_Sequence_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Sequence Stage 1" animation="rxl_bp70_missionaryseq_1" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Sequence Stage 2" animation="rxl_bp70_missionaryseq_2" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Sequence Stage 3" animation="rxl_bp70_missionaryseq_3" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Sequence Stage 4" animation="rxl_bp70_missionaryseq_4" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Sequence Stage 5" animation="rxl_bp70_missionaryseq_5" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+
+    <position id="[UAP] BP70 - Missionary Grind" positionTree="rxl_bp70_missionaryswish_1_Tree" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind Staged" animationGroup="rxl_bp70_missionaryswish_1_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind (tease)" animation="rxl_bp70_missionaryswish_1" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 2 (Trans) Staged" animationGroup="rxl_bp70_missionaryswish_trans_2_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 2 (Trans)" animation="rxl_bp70_missionaryswish_trans_2" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 2" animation="rxl_bp70_missionaryswish_2" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 3 (Trans) Staged" animationGroup="rxl_bp70_missionaryswish_trans_3_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 3 (Trans)" animation="rxl_bp70_missionaryswish_trans_3" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 3" animation="rxl_bp70_missionaryswish_3" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 4 (Trans) Staged" animationGroup="rxl_bp70_missionaryswish_trans_4_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 4 (Trans)" animation="rxl_bp70_missionaryswish_trans_4" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 4" animation="rxl_bp70_missionaryswish_4" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 5 (Trans) Staged" animationGroup="rxl_bp70_missionaryswish_trans_5_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind 5 (Trans)" animation="rxl_bp70_missionaryswish_trans_5" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Missionary Grind Orgasm (Loop)" animation="rxl_bp70_missionaryswish_5" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+
+    <position id="[UAP] BP70 - Mistress" positionTree="rxl_bp70_mistress_Tree" tags="BP70,F_M,NoFurn,Footjob,Cowgirl,FromBehind,FromFront,Loving,FemDom,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToHand"/>
+    <position id="[UAP] BP70 - Mistress Staged" animationGroup="rxl_bp70_mistress_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Footjob,Cowgirl,FromBehind,FromFront,Loving,FemDom,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToHand"/>
+    <position id="[UAP] BP70 - Mistress 1" animation="rxl_bp70_mistress01" isHidden="true" tags="BP70,F_M,NoFurn,Footjob,FromFront,Loving,FemDom,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToHand"/>
+    <position id="[UAP] BP70 - Mistress 2" animation="rxl_bp70_mistress02" isHidden="true" tags="BP70,F_M,NoFurn,Footjob,FromFront,Loving,FemDom,Held1,Stim3,Love5,Dom5,VaginaToFace,PenisToHand"/>
+    <position id="[UAP] BP70 - Mistress 3" animation="rxl_bp70_mistress03" isHidden="true" tags="BP70,F_M,NoFurn,Footjob,FromFront,Loving,FemDom,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToFeet"/>
+    <position id="[UAP] BP70 - Mistress 4" animation="rxl_bp70_mistress04" isHidden="true" tags="BP70,F_M,NoFurn,Footjob,FromFront,Loving,FemDom,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Mistress 5" animation="rxl_bp70_mistress05" isHidden="true" tags="BP70,F_M,NoFurn,Cowgirl,FromBehind,Loving,FemDom,Held1,Stim3,Love5,Dom5,NullToSelf,PenisToEither"/>
+
+
+
+
+    <position id="[UAP] BP70 - Prone Bone" positionTree="rxl_bp70_pronebone_Tree" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] BP70 - Prone Bone Staged" animationGroup="rxl_bp70_pronebone_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone 01" animation="rxl_bp70_pronebone_01" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    
+    <position id="[UAP] BP70 - Prone Bone Transition 02" animationGroup="rxl_bp70_pronebone_transition_02" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone Trans 02" animation="rxl_bp70_pronebone_trans_02" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone 02" animation="rxl_bp70_pronebone_02" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone Transition 03" animationGroup="rxl_bp70_pronebone_transition_03" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70 - Prone Bone Trans 03" animation="rxl_bp70_pronebone_trans_03" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70 - Prone Bone 03" animation="rxl_bp70_pronebone_03" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone 04" animation="rxl_bp70_pronebone_04" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    
+    <position id="[UAP] BP70 - Prone Bone Anal Transition 02" animationGroup="rxl_bp70_pronebone_anal_transition_02" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone Anal Trans 02" animation="rxl_bp70_pronebone_anal_trans_02" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone Anal 02" animation="rxl_bp70_pronebone_anal_02" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70 - Prone Bone Anal Transition 03" animationGroup="rxl_bp70_pronebone_anal_transition_03" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone Anal Trans 03" animation="rxl_bp70_pronebone_anal_trans_03" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Prone Bone Anal 03" animation="rxl_bp70_pronebone_anal_03" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70 - Prone Bone Anal 04" animation="rxl_bp70_pronebone_anal_04" isHidden="true" tags="BP70,F_M,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+
+
+
+
+    <position id="[UAP] BP70 - Romantic Cowgirl" animation="rxl_bp70_romanticcowgirl" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Loving,Held1,Stim9,Love7,Dom1,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Romantic Missionary" animation="rxl_bp70_romanticmish" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing 69" animation="rxl_bp70_standing69" tags="BP70,F_M,NoFurn,Standing,69,FromFront,Loving,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToMouth,MouthToVagina"/>
+
+    <position id="[UAP] BP70 - Standing Sequence" positionTree="BP70_Standing_Sequence_Tree" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Staged" animationGroup="BP70_Standing_Sequence_Staged" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 1" animation="rxl_bp70_standingseq1" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 2" animation="rxl_bp70_standingseq2" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 3" animation="rxl_bp70_standingseq3" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 4" animation="rxl_bp70_standingseq4" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+
+
+
+    <!-- Impregnation Animations -->
+
+    <position id="[UAP] BP70 - Impregnate Cowgirl" positionTree="rxl_bp70_impregnate_cow_Tree" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Staged" animationGroup="rxl_bp70_impregnate_cow_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Kiss" animation="rxl_bp70_impregnate_cow_kissing" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,Kissing,FromFront,Neutral,Tease,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Start Fucking" animation="rxl_bp70_impregnate_cow_startfucking" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Start,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    
+    <position id="[UAP] BP70 - Impregnate Cowgirl Staged Normal" animationGroup="rxl_bp70_impregnate_cow_fuckfaster_Staged" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Fuck Faster and Deeper" animation="rxl_bp70_impregnate_cow_fuckfaster" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Thrust Into Her" animation="rxl_bp70_impregnate_cow_thrust" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Orgasm" animation="rxl_bp70_impregnate_cow_orgasm" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,ClimaxM,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    
+    <position id="[UAP] BP70 - Impregnate Cowgirl Staged Finger" animationGroup="rxl_bp70_impregnate_cow_fuckfasterfinger_Staged" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Finger Her Ass" animation="rxl_bp70_impregnate_cow_fuckfasterfinger" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Thrust Into Her and Finger Her" animation="rxl_bp70_impregnate_cow_thrustfinger" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Cowgirl Orgasm and Finger" animation="rxl_bp70_impregnate_cow_orgasmfinger" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Cowgirl,FromFront,Neutral,ClimaxM,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
+
+
+
+    <position id="[UAP] BP70 - Impregnate Missionary" positionTree="rxl_bp70_impregnate_mish_Tree" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Staged" animationGroup="rxl_bp70_impregnate_mish_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Kiss" animation="rxl_bp70_impregnate_mish_kissing" isHidden="true" tags="BP70,F_M,NoFurn,Kissing,Loving,Held1,Stim1,Love9,Dom0,NullToSelf,MouthToMouth"/>
+    
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Transition to Back Grab Staged" animationGroup="rxl_bp70_impregnate_mish_grabbacktrans_Staged" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Transition to Back Grab" animation="rxl_bp70_impregnate_mish_grabbacktrans" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Back" animation="rxl_bp70_impregnate_mish_grabback" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 2" animation="rxl_bp70_impregnate_mishgrabback_headdown" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 3" animation="rxl_bp70_impregnate_mishgrabback_precum" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 4" animation="rxl_bp70_impregnate_mishgrabback_cum" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Transition to Ass Grab" animation="rxl_bp70_impregnate_mish_assgrabtrans" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Transition to Ass Grab Staged" animationGroup="rxl_bp70_impregnate_mish_assgrabtrans_Staged" isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass" animation="rxl_bp70_impregnate_mish_assgrab" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 2" animation="rxl_bp70_impregnate_mishassgrab_headdown" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 3" animation="rxl_bp70_impregnate_mishassgrab_precum" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 4" animation="rxl_bp70_impregnate_mishassgrab_cum" isHidden="true" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    
+
+
+
+
+
+    <!-- MFF Animations -->
+
+    <position id="[UAP] BP70 - MFF Love Triangle" positionTree="rxl_bp70_MFF_lovetriangle_Tree"/>
+    <position id="[UAP] BP70 - MFF Love Triangle Staged" animationGroup="rxl_bp70_MFF_lovetriangle_Staged" isHidden="true"/>
+    <position id="[UAP] BP70 - MFF Love Triangle 1" animation="rxl_bp70_MFF_lovetriangle_1" isHidden="true"/>
+    <position id="[UAP] BP70 - MFF Love Triangle 2" animation="rxl_bp70_MFF_lovetriangle_2" isHidden="true"/>
+    <position id="[UAP] BP70 - MFF Love Triangle 3" animation="rxl_bp70_MFF_lovetriangle_3" isHidden="true"/>
+    <position id="[UAP] BP70 - MFF Love Triangle 4" animation="rxl_bp70_MFF_lovetriangle_4" isHidden="true"/>
+
+
+
+    <!-- Furniture Animations -->
+
+    <position id="[UAP] BP70 - Shaun's Conception" location="Park Bench" positionTree="rxl_bp70_benchshaunconceptionsex_Tree" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Shaun's Conception Staged" location="Park Bench" animationGroup="rxl_bp70_benchshaunconceptionsex_Staged" isHidden="true" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Shaun's Conception 1" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex1" isHidden="true" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Shaun's Conception 2" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex2" isHidden="true" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Shaun's Conception 3" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex3" isHidden="true" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Shaun's Conception 4" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex4" isHidden="true" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Shaun's Conception Orgasm" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex5" isHidden="true" tags="BP70,F_M,Bench,Missionary,FromFront,Neutral,ClimaxM,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] BP70 - Pound in Bed (Missionary)" location="Single Bed" animation="rxl_bp70_bedpoundmish" tags="BP70,F_M,SingleBed,Missionary,FromFront,Pounding,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pound in Double Bed (Missionary)" location="Double Bed" animation="rxl_bp70_bedpoundmish" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Pounding,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pound in Bed (Cowgirl)" location="Single Bed" animation="rxl_bp70_bedpoundcow" tags="BP70,F_M,SingleBed,Cowgirl,FromFront,Pounding,Aggressive,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Pound in Double Bed (Cowgirl)" location="Double Bed" animation="rxl_bp70_bedpoundcow" tags="BP70,F_M,DoubleBed,Cowgirl,FromFront,Pounding,Aggressive,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
+
+    <position id="[UAP] BP70 - Bed Missionary" location="Single Bed" animation="rxl_bp70_bedmissionary" tags="BP70,F_M,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Double Bed Missionary" location="Double Bed" animation="rxl_bp70_bedmissionary" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Bed Cowgirl" location="Single Bed" animation="rxl_bp70_bedcowgirl" tags="BP70,F_M,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Double Bed Cowgirl" location="Double Bed" animation="rxl_bp70_bedcowgirl" tags="BP70,F_M,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Bed Romantic Missionary" location="Single Bed" animation="rxl_bp70_bedromanticmish" tags="BP70,F_M,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Double Bed Romantic Missionary" location="Double Bed" animation="rxl_bp70_bedromanticmish" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Bed Doggy" location="Single Bed" animation="rxl_bp70_beddoggy" tags="BP70,F_M,SingleBed,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Double Bed Doggy" location="Double Bed" animation="rxl_bp70_beddoggy" tags="BP70,F_M,DoubleBed,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+
+    <position id="[UAP] BP70 - Bed Female Body Worship" location="Single Bed" animation="rxl_bp70_femalebodyworship"/>
+
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex" location="Double_Bed_Wood_PreWar" positionTree="rxl_bp70_aftersexbedrelax_Tree" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex Staged" location="Double_Bed_Wood_PreWar" isHidden="true" animationGroup="rxl_bp70_aftersexbedrelax_Staged" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed After Sex Relax" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_aftersexbedrelax" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex 1" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_raunchydoublebedsex01" tags="BP70,F_M,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex 2" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_raunchydoublebedsex02" tags="BP70,F_M,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex 3" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_raunchydoublebedsex03" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex 4" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_raunchydoublebedsex04" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Raunchy Sex Orgasm" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_raunchydoublebedsex05" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] BP70 - Kinky Extractor Chair 1 (Forced Boobjob)" location="Extractor Chair" animation="rxl_bp70_extractorchair_1" tags="BP70,F_M,ExtractorChair,TitJob,FromFront,Aggressive,Held5,Love-7,Stim3,Dom-5,NullToSelf,PenisToNipples"/>
+    <position id="[UAP] BP70 - Kinky Extractor Chair 2 (Cowgirl)" location="Extractor Chair" animation="rxl_bp70_extractorchair_2" tags="BP70,F_M,ExtractorChair,Cowgirl,FromFront,Aggressive,Held1,Stim9,Love3,Dom5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Kinky Extractor Chair 3 (Doggy)" location="Extractor Chair" animation="rxl_bp70_extractorchair_3" tags="BP70,F_M,ExtractorChair,Doggy,FromBehind,Aggressive,Held5,Stim7,Love3,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Kinky Extractor Chair 4 (Missionary)" location="Extractor Chair" animation="rxl_bp70_extractorchair_4" tags="BP70,F_M,ExtractorChair,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Kinky Extractor Chair 5 (Forced Blowjob)" location="Extractor Chair" animation="rxl_bp70_extractorchair_5" tags="BP70,F_M,ExtractorChair,Blowjob,FromFront,Aggressive,Held5,Love-7,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="[UAP] BP70 - Chaise Fuck 1 (Blowjob)" location="Chaise" animation="rxl_bp70_chaisefuck01" tags="BP70,F_M,Chaise,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Chaise Fuck 2 (Spooning)" location="Chaise" animation="rxl_bp70_chaisefuck02" tags="BP70,F_M,Chaise,Spooning,FromBehind,Neutral,Held5,Stim7,Love3,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Chaise Fuck 3 (Missionary)" location="Chaise" animation="rxl_bp70_chaisefuck03" tags="BP70,F_M,Chaise,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Chaise Fuck 4 (Doggy)" location="Chaise" animation="rxl_bp70_chaisefuck04" tags="BP70,F_M,Chaise,Doggy,FromBehind,Neutral,Held5,Stim7,Love3,Dom-5,NullToSelf,PenisToEither"/>
+
+    <position id="[UAP] BP70 - Armchair Missionary" location="Armchair" animation="rxl_bp70_armchairmish"/>
+    <position id="[UAP] BP70 - Armchair Cowgirl" location="Armchair" animation="rxl_bp70_armchaircow"/>
+
+    <position id="[UAP] BP70 - Couch Blowjob" location="Couch" positionTree="rxl_bp70_couchblowjob01_Tree" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Couch Blowjob Staged" location="Couch" animationGroup="rxl_bp70_couchblowjob01_Staged" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Couch Blowjob 1" location="Couch" animation="rxl_bp70_couchblowjob01" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Couch Blowjob 2" location="Couch" animation="rxl_bp70_couchblowjob02" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Couch Blowjob 3" location="Couch" animation="rxl_bp70_couchblowjob03" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Couch Blowjob 4" location="Couch" animation="rxl_bp70_couchblowjob04" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70 - Couch Blowjob Orgasm (Loop)" location="Couch" animation="rxl_bp70_couchblowjob05" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,ClimaxM,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="[UAP] BP70 - Couch Doggy" location="Couch" positionTree="rxl_bp70_couchdoggy_Tree" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
+    <position id="[UAP] BP70 - Couch Doggy Staged" location="Couch" animationGroup="rxl_bp70_couchdoggy_Staged" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
+    <position id="[UAP] BP70 - Couch Doggy Rimjob (F on M)" location="Couch" animation="rxl_bp70_couchrimjobfemaleonmale" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
+    <position id="[UAP] BP70 - Couch Doggy 1" location="Couch" animation="rxl_bp70_couchdoggy01" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 2" location="Couch" animation="rxl_bp70_couchdoggy02" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 3" location="Couch" animation="rxl_bp70_couchdoggy03" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 4" location="Couch" animation="rxl_bp70_couchdoggy04" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 5" location="Couch" animation="rxl_bp70_couchdoggy05" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+
+
+    <position id="[UAP] BP70 - Toilet Doggy" location="Toilet" positionTree="rxl_bp70_toiletdoggy01_Tree" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy Staged" location="Toilet" animationGroup="rxl_bp70_toiletdoggy01_Staged" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 1" location="Toilet" animation="rxl_bp70_toiletdoggy01" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 2" location="Toilet" animation="rxl_bp70_toiletdoggy02" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 3" location="Toilet" animation="rxl_bp70_toiletdoggy03" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 4" location="Toilet" animation="rxl_bp70_toiletdoggy04" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+
+    <position id="[UAP] BP70 - Bar Counter Sex (Perpendicular)" location="Bar Counter" animation="rxl_bp70_bartopsexperpendicular" tags="BP70,F_M,BarCounter,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+
+
+
+    <!-- Masturbation Animations-->
+
+    <position id="[UAP] BP70 - Female Masturbation (Bed)" location="Single Bed" animation="rxl_bp70_female_bedmast" tags="BP70,F,SingleBed,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+    <position id="[UAP] BP70 - Female Masturbation (Double Bed)" location="Double Bed" animation="rxl_bp70_female_bedmast" tags="BP70,F,DoubleBed,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+    <position id="[UAP] BP70 - Female Masturbation (Couch)" location="Couch" animation="rxl_bp70_female_couchmast" tags="BP70,F,Couch,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+    <position id="[UAP] BP70 - Fast Female Masturbation (Couch)" location="Couch" animation="rxl_bp70_female_couchmastfast" tags="BP70,F,Couch,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+    <position id="[UAP] BP70 - Female Masturbation (Toilet)" location="Toilet" animation="rxl_bp70_female_toiletmast" tags="BP70,F,Toilet,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+
+
+</positionData>

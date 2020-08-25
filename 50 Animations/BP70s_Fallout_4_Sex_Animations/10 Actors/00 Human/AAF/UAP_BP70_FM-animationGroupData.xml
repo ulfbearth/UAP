@@ -1,0 +1,185 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults loadPriority="5"/>
+
+	<animationGroup id="BP70_Missionary_Sequence_Staged" sequential="false">
+		<stage animation="rxl_bp70_missionaryseq_1"/>
+		<stage animation="rxl_bp70_missionaryseq_2"/>
+		<stage animation="rxl_bp70_missionaryseq_3"/>
+		<stage animation="rxl_bp70_missionaryseq_4"/>
+		<stage animation="rxl_bp70_missionaryseq_5"/>
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_missionaryswish_1_Staged" sequential="false">
+		<stage animation="rxl_bp70_missionaryswish_1"/>
+		<stage animation="rxl_bp70_missionaryswish_trans_2" switchTo="[UAP] BP70 - Missionary Grind 2 (Trans) Staged"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_missionaryswish_trans_2_Staged" sequential="false">
+		<stage animation="rxl_bp70_missionaryswish_2"/>
+		<stage animation="rxl_bp70_missionaryswish_trans_3" switchTo="[UAP] BP70 - Missionary Grind 3 (Trans) Staged"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_missionaryswish_trans_3_Staged" sequential="false">
+		<stage animation="rxl_bp70_missionaryswish_3"/>
+		<stage animation="rxl_bp70_missionaryswish_trans_4" switchTo="[UAP] BP70 - Missionary Grind 4 (Trans) Staged"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_missionaryswish_trans_4_Staged" sequential="false">
+		<stage animation="rxl_bp70_missionaryswish_4"/>
+		<stage animation="rxl_bp70_missionaryswish_trans_5" switchTo="[UAP] BP70 - Missionary Grind 5 (Trans) Staged"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_missionaryswish_trans_5_Staged" sequential="false">
+		<stage animation="rxl_bp70_missionaryswish_5"/>
+	</animationGroup>
+
+
+
+
+	<animationGroup id="rxl_bp70_mistress_Staged" sequential="false">
+		<stage animation="rxl_bp70_mistress01"/>
+		<stage animation="rxl_bp70_mistress02"/>
+		<stage animation="rxl_bp70_mistress03"/>
+		<stage animation="rxl_bp70_mistress04"/>
+		<stage animation="rxl_bp70_mistress05"/>
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_pronebone_Staged" sequential="false">
+		<stage animation="rxl_bp70_pronebone_01"/>
+		<stage animation="rxl_bp70_pronebone_trans_02" switchTo="[UAP] BP70 - Prone Bone Transition 02"/>
+		<stage animation="rxl_bp70_pronebone_anal_trans_02" switchTo="[UAP] BP70 - Prone Bone Anal Transition 02"/>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_pronebone_transition_02" sequential="false">
+		<stage animation="rxl_bp70_pronebone_02"/>
+		<stage animation="rxl_bp70_pronebone_trans_03" switchTo="[UAP] BP70 - Prone Bone Transition 03"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_pronebone_transition_03" sequential="false">
+		<stage animation="rxl_bp70_pronebone_03"/>
+		<stage animation="rxl_bp70_pronebone_04"/>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_pronebone_anal_transition_02" sequential="false">
+		<stage animation="rxl_bp70_pronebone_anal_02"/>
+		<stage animation="rxl_bp70_pronebone_anal_trans_03" switchTo="[UAP] BP70 - Prone Bone Anal Transition 03"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_pronebone_anal_transition_03" sequential="false">
+		<stage animation="rxl_bp70_pronebone_anal_03"/>
+		<stage animation="rxl_bp70_pronebone_anal_04"/>
+	</animationGroup>
+
+
+	<animationGroup id="BP70_Standing_Sequence_Staged" sequential="false">
+		<stage animation="rxl_bp70_standingseq1"/>
+		<stage animation="rxl_bp70_standingseq2"/>
+		<stage animation="rxl_bp70_standingseq3"/>
+		<stage animation="rxl_bp70_standingseq4"/>
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_impregnate_cow_Staged" sequential="false">
+		<stage animation="rxl_bp70_impregnate_cow_kissing"/>
+		<stage animation="rxl_bp70_impregnate_cow_startfucking"/>
+		<stage animation="rxl_bp70_impregnate_cow_fuckfaster" switchTo="[UAP] BP70 - Impregnate Cowgirl Staged Normal"/>
+		<stage animation="rxl_bp70_impregnate_cow_fuckfasterfinger" switchTo="[UAP] BP70 - Impregnate Cowgirl Staged Finger"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_impregnate_cow_fuckfaster_Staged" sequential="false">
+		<stage animation="rxl_bp70_impregnate_cow_fuckfaster"/>
+		<stage animation="rxl_bp70_impregnate_cow_thrust"/>
+		<stage animation="rxl_bp70_impregnate_cow_orgasm"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_impregnate_cow_fuckfasterfinger_Staged" sequential="false">
+		<stage animation="rxl_bp70_impregnate_cow_fuckfasterfinger"/>
+		<stage animation="rxl_bp70_impregnate_cow_thrustfinger"/>
+		<stage animation="rxl_bp70_impregnate_cow_orgasmfinger"/>
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_impregnate_mish_Staged" sequential="false">
+		<stage animation="rxl_bp70_impregnate_mish_kissing"/>
+		<stage animation="rxl_bp70_impregnate_mish_grabbacktrans" switchTo="[UAP] BP70 - Impregnate Missionary Stage Transition to Back Grab Staged"/>
+		<stage animation="rxl_bp70_impregnate_mish_assgrabtrans" switchTo="[UAP] BP70 - Impregnate Missionary Stage Transition to Ass Grab Staged"/>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_impregnate_mish_grabbacktrans_Staged" sequential="false">
+		<stage animation="rxl_bp70_impregnate_mish_grabback"/>
+		<stage animation="rxl_bp70_impregnate_mishgrabback_headdown"/>
+		<stage animation="rxl_bp70_impregnate_mishgrabback_precum"/>
+		<stage animation="rxl_bp70_impregnate_mishgrabback_cum"/>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_impregnate_mish_assgrabtrans_Staged" sequential="false">
+		<stage animation="rxl_bp70_impregnate_mish_assgrab"/>
+		<stage animation="rxl_bp70_impregnate_mishassgrab_headdown"/>
+		<stage animation="rxl_bp70_impregnate_mishassgrab_precum"/>
+		<stage animation="rxl_bp70_impregnate_mishassgrab_cum"/>
+	</animationGroup>
+
+
+	
+	<animationGroup id="rxl_bp70_MFF_lovetriangle_Staged" sequential="false">
+		<stage animation="rxl_bp70_MFF_lovetriangle_1"/>
+		<stage animation="rxl_bp70_MFF_lovetriangle_2"/>
+		<stage animation="rxl_bp70_MFF_lovetriangle_4"/>
+		<stage animation="rxl_bp70_MFF_lovetriangle_3"/>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_benchshaunconceptionsex_Staged" sequential="false">
+		<stage animation="rxl_bp70_benchshaunconceptionsex1"/>
+		<stage animation="rxl_bp70_benchshaunconceptionsex2"/>
+		<stage animation="rxl_bp70_benchshaunconceptionsex3"/>
+		<stage animation="rxl_bp70_benchshaunconceptionsex4"/>
+		<stage animation="rxl_bp70_benchshaunconceptionsex5"/>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_aftersexbedrelax_Staged" sequential="false">
+		<stage animation="rxl_bp70_aftersexbedrelax"/>
+		<stage animation="rxl_bp70_raunchydoublebedsex01"/>
+		<stage animation="rxl_bp70_raunchydoublebedsex02"/>
+		<stage animation="rxl_bp70_raunchydoublebedsex03"/>
+		<stage animation="rxl_bp70_raunchydoublebedsex04"/>
+		<stage animation="rxl_bp70_raunchydoublebedsex05"/>
+	</animationGroup>
+
+
+	<animationGroup id="rxl_bp70_couchblowjob01_Staged" sequential="false">
+		<stage animation="rxl_bp70_couchblowjob01"/>
+		<stage animation="rxl_bp70_couchblowjob02"/>
+		<stage animation="rxl_bp70_couchblowjob03"/>
+		<stage animation="rxl_bp70_couchblowjob04"/>
+		<stage animation="rxl_bp70_couchblowjob05"/>
+	</animationGroup>
+
+
+	<animationGroup id="rxl_bp70_couchdoggy_Staged" sequential="false">
+		<stage animation="rxl_bp70_couchrimjobfemaleonmale"/>
+		<stage animation="rxl_bp70_couchdoggy01"/>
+		<stage animation="rxl_bp70_couchdoggy02"/>
+		<stage animation="rxl_bp70_couchdoggy03"/>
+		<stage animation="rxl_bp70_couchdoggy04"/>
+		<stage animation="rxl_bp70_couchdoggy05"/>
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_toiletdoggy01_Staged" sequential="false">
+		<stage animation="rxl_bp70_toiletdoggy01"/>
+		<stage animation="rxl_bp70_toiletdoggy02"/>
+		<stage animation="rxl_bp70_toiletdoggy03"/>
+		<stage animation="rxl_bp70_toiletdoggy04"/>
+	</animationGroup>
+
+
+
+
+
+
+
+
+
+
+
+
+</animationGroupData>

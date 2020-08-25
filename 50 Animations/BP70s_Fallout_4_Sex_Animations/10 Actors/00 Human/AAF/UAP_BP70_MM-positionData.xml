@@ -1,9 +1,6 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-    <!-- Position Tree -->
-
-    <position id="[UAP] BP70's - Gay Tree" positionTree="BP70s_Fallout_4_Sex_Animations_Tree" tags="BP70,M_M,NoFurn,Missionary,Cowgirl,Doggy,FromFront,FromBehind,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,MouthToMouth,FingerToAnus,PenisToAnus"/>
 
 
 
@@ -11,7 +8,8 @@
 
     <!-- Misc Animations -->
 
-    <position id="[UAP] BP70's - Gay Mister" animationGroup="FO4SA_Missionary_MM_mistress_01_Staged" tags="BP70,M_M,NoFurn,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToPenis"/>
+    <position id="[UAP] BP70's - Gay Mister" positionTree="FO4SA_Missionary_MM_mistress_01_Tree" tags="BP70,M_M,NoFurn,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToPenis"/>
+    <position id="[UAP] BP70's - Gay Mister Sequence" animationGroup="FO4SA_Missionary_MM_mistress_01_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToPenis"/>
     <position id="[UAP] BP70's - Gay Mister (Stage 1, Armpit)" animation="FO4SA_Missionary_MM_mistress_01_S1" isHidden="true" tags="BP70,M_M,NoFurn,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToPenis"/>
     <position id="[UAP] BP70's - Gay Mister (Stage 2, Footjob)" animation="FO4SA_Missionary_MM_mistress_01_S2" isHidden="true" tags="BP70,M_M,NoFurn,Footjob,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToFeet"/>
     <position id="[UAP] BP70's - Gay Mister (Stage 3, Face Sit)" animation="FO4SA_Missionary_MM_mistress_01_S3" isHidden="true" tags="BP70,M_M,NoFurn,FaceSitting,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,AnusToMouth"/>
@@ -23,7 +21,8 @@
 
 
     <!-- Footjob Animations -->
-    <position id="[UAP] BP70's - Gay Footjob" animationGroup="FO4SA_Missionary_MM_footjob_01_Staged" tags="BP70,M_M,NoFurn,Footjob,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToFeet"/>
+    <position id="[UAP] BP70's - Gay Footjob" positionTree="FO4SA_Missionary_MM_footjob_01_Tree" tags="BP70,M_M,NoFurn,Footjob,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToFeet"/>
+    <position id="[UAP] BP70's - Gay Footjob Sequence" animationGroup="FO4SA_Missionary_MM_footjob_01_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Footjob,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToFeet"/>
     <position id="[UAP] BP70's - Gay Footjob (Stage 1)" animation="FO4SA_Missionary_MM_footjob_01_S1" isHidden="true" tags="BP70,M_M,NoFurn,Footjob,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToFeet"/>
     <position id="[UAP] BP70's - Gay Footjob (Stage 2)" animation="FO4SA_Missionary_MM_footjob_01_S2" isHidden="true" tags="BP70,M_M,NoFurn,Footjob,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToFeet"/>
 
@@ -46,16 +45,17 @@
 
 
 
-    <position id="[UAP] BP70's - Gay Impregnate Cowgirl" animationGroup="FO4SA_Missionary_MM_impregnate_cow_Staged" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Impregnate Cowgirl" positionTree="FO4SA_Missionary_MM_impregnate_cow_Tree" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 1)" animation="FO4SA_Missionary_MM_impregnate_cow_kissing" isHidden="true" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 2)" animation="FO4SA_Missionary_MM_impregnate_cow_startfucking" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Impregnate Cowgirl Sequence" animationGroup="FO4SA_Missionary_MM_impregnate_cow_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
+    
+    <position id="[UAP] BP70's - Gay Impregnate Cowgirl Normal Sequence" animationGroup="FO4SA_Missionary_MM_impregnate_cow_Normal_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 3)" animation="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 4)" animation="FO4SA_Missionary_MM_impregnate_cow_thrust" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 5)" animation="FO4SA_Missionary_MM_impregnate_cow_orgasm" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
 
-    <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger" animationGroup="FO4SA_Missionary_MM_impregnate_cow_finger_Staged" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 1)" animation="FO4SA_Missionary_MM_impregnate_cow_kissing" isHidden="true" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 2)" animation="FO4SA_Missionary_MM_impregnate_cow_startfucking" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger Sequence" animationGroup="FO4SA_Missionary_MM_impregnate_cow_finger_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 3)" animation="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,FingerToAnus,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 4)" animation="FO4SA_Missionary_MM_impregnate_cow_thrustfinger" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,FingerToAnus,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 5)" animation="FO4SA_Missionary_MM_impregnate_cow_orgasmfinger" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,FingerToAnus,PenisToAnus"/>
@@ -69,11 +69,12 @@
 
 
 
-    <position id="[UAP] BP70's - Gay Prone Bone" animationGroup="FO4SA_ProneBone_MM_01_Staged" tags="BP70,M_M,NoFurn,Tease,Doggy,Climax,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Prone Bone" positionTree="FO4SA_ProneBone_MM_01_Tree" tags="BP70,M_M,NoFurn,Tease,Doggy,Climax,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Prone Bone Sequence" animationGroup="FO4SA_ProneBone_MM_01_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Tease,Doggy,Climax,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Prone Bone (Stage 1)" animation="FO4SA_ProneBone_MM_01_S1" isHidden="true" tags="BP70,M_M,NoFurn,Tease,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Prone Bone (Stage 1-2 Trans)" animation="FO4SA_ProneBone_MM_01_S1-2Trans" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
+    <position id="[UAP] BP70's - Gay Prone Bone (Stage 1-2)" animationGroup="FO4SA_ProneBone_MM_01TransitionI" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
     <position id="[UAP] BP70's - Gay Prone Bone (Stage 2)" animation="FO4SA_ProneBone_MM_01_S2" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Prone Bone (Stage 2-3 Trans)" animation="FO4SA_ProneBone_MM_01_S2-3Trans" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
+    <position id="[UAP] BP70's - Gay Prone Bone (Stage 2-3)" animationGroup="FO4SA_ProneBone_MM_01TransitionII" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
     <position id="[UAP] BP70's - Gay Prone Bone (Stage 3)" animation="FO4SA_ProneBone_MM_01_S3" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Prone Bone (Stage 4)" animation="FO4SA_ProneBone_MM_01_S4" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
 
@@ -89,7 +90,8 @@
     
 
 
-    <position id="[UAP] BP70's - Gay Missionary 2" animationGroup="FO4SA_Missionary_MM_02_Staged" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Missionary 2" positionTree="FO4SA_Missionary_MM_02_Tree" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Missionary 2 Sequence" animationGroup="FO4SA_Missionary_MM_02_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Missionary 2 (Stage 1)" animation="FO4SA_Missionary_MM_02_S1" isHidden="true" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Missionary 2 (Stage 2)" animation="FO4SA_Missionary_MM_02_S2" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Missionary 2 (Stage 3)" animation="FO4SA_Missionary_MM_02_S3" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
@@ -98,42 +100,35 @@
 
 
 
-    <position id="[UAP] BP70's - Gay Missionary Grind" animationGroup="FO4SA_Missionaryswish_MM_01_Staged" tags="BP70,M_M,NoFurn,Tease,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Missionary Grind" positionTree="FO4SA_Missionaryswish_MM_01_Tree" tags="BP70,M_M,NoFurn,Tease,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Missionary Grind Sequence" animationGroup="FO4SA_Missionaryswish_MM_01_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Tease,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Missionary Grind (Stage 1)" animation="FO4SA_Missionaryswish_MM_01_S1" isHidden="true" tags="BP70,M_M,NoFurn,Tease,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 1-2 Trans)" animation="FO4SA_Missionaryswish_MM_01_S1-2Trans" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
+    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 1-2)" animationGroup="FO4SA_Missionaryswish_MM_01TransitionI" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
     <position id="[UAP] BP70's - Gay Missionary Grind (Stage 2)" animation="FO4SA_Missionaryswish_MM_01_S2" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 2-3 Trans)" animation="FO4SA_Missionaryswish_MM_01_S2-3Trans" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
+    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 2-3)" animationGroup="FO4SA_Missionaryswish_MM_01TransitionII" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
     <position id="[UAP] BP70's - Gay Missionary Grind (Stage 3)" animation="FO4SA_Missionaryswish_MM_01_S3" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 3-4 Trans)" animation="FO4SA_Missionaryswish_MM_01_S3-4Trans" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
+    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 3-4)" animationGroup="FO4SA_Missionaryswish_MM_01TransitionIII" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
     <position id="[UAP] BP70's - Gay Missionary Grind (Stage 4)" animation="FO4SA_Missionaryswish_MM_01_S4" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 4-5 Trans)" animation="FO4SA_Missionaryswish_MM_01_S4-5Trans" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
+    <position id="[UAP] BP70's - Gay Missionary Grind (Stage 4-5)" animationGroup="FO4SA_Missionaryswish_MM_01TransitionIV" isHidden="true" tags="BP70,M_M,Hidden,Utility"/>
     <position id="[UAP] BP70's - Gay Missionary Grind (Stage 5, Orgasm)" animation="FO4SA_Missionaryswish_MM_01_S5" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,Climax,FromFront,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
 
 
     
 
-    <position id="[UAP] BP70's - Gay Impregnate Missionary" animationGroup="FO4SA_Missionary_MM_Impregnate_01_Staged" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Impregnate Missionary" positionTree="FO4SA_Missionary_MM_Impregnate_01_Tree" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Impregnate Missionary Sequence" animationGroup="FO4SA_Missionary_MM_Impregnate_01_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 1)" animation="FO4SA_Missionary_MM_Impregnate_01_1" isHidden="true" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 1-2Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_1TR2A" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
+    
+    <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 1-2)" animationGroup="FO4SA_Missionary_MM_Impregnate_01_TransitionI" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 2)" animation="FO4SA_Missionary_MM_Impregnate_01_2A" isHidden="true"  tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 2-3Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_2ATR3A" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 3)" animation="FO4SA_Missionary_MM_Impregnate_01_3A" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 3-4Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_3ATR4A" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 4)" animation="FO4SA_Missionary_MM_Impregnate_01_4A" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 4-5Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_4ATR5A" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary (Stage 5)" animation="FO4SA_Missionary_MM_Impregnate_01_5A" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
 
-
-
-    <position id="[UAP] BP70's - Gay Impregnate Missionary II" animationGroup="FO4SA_Missionary_MM_Impregnate_02_Staged" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 1)" animation="FO4SA_Missionary_MM_Impregnate_01_1" isHidden="true" tags="BP70,M_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 1-2Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_1TR2B" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
+    <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 1-2)" animationGroup="FO4SA_Missionary_MM_Impregnate_02TransitionI" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 2)" animation="FO4SA_Missionary_MM_Impregnate_01_2B" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 2-3Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_2BTR3B" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 3)" animation="FO4SA_Missionary_MM_Impregnate_01_3B" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 3-4Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_3BTR4B" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 4)" animation="FO4SA_Missionary_MM_Impregnate_01_4B" isHidden="true"  tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-    <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 4-5Trans)" animation="FO4SA_Missionary_MM_Impregnate_01_4BTR5B" isHidden="true" tags="BP70,M_M,Utility,Hidden"/>
     <position id="[UAP] BP70's - Gay Impregnate Missionary II (Stage 5)" animation="FO4SA_Missionary_MM_Impregnate_01_5B" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
 
 
@@ -141,7 +136,8 @@
 
 
     <!-- Standing/Carry Animations -->
-    <position id="[UAP] BP70's - Gay Standing" animationGroup="FO4SA_Standing_MM_01_Staged" tags="BP70,M_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Standing" positionTree="FO4SA_Standing_MM_01_Tree" tags="BP70,M_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Standing Sequence" animationGroup="FO4SA_Standing_MM_01_Staged" isHidden="true" tags="BP70,M_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Standing (Stage 1)" animation="FO4SA_Standing_MM_01_S1" isHidden="true" tags="BP70,M_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Standing (Stage 2)" animation="FO4SA_Standing_MM_01_S2" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Standing (Stage 3)" animation="FO4SA_Standing_MM_01_S3" isHidden="true" tags="BP70,M_M,NoFurn,Utility,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
@@ -154,7 +150,8 @@
     <!-- ================================================================================================ -->
     <!-- ===================================== N-Some Animations ===================================== -->
 
-    <!--<position id="[UAP] BP70's - Gay Love Triangle" animationGroup="FO4SA_LoveTriangle_MM_01_Staged" tags="BP70,M_M_M,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToAnus"/>-->
+    <position id="[UAP] BP70's - Gay Love Triangle" positionTree="FO4SA_LoveTriangle_MM_01_Tree" tags="BP70,M_M_M,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToAnus"/>
+    <position id="[UAP] BP70's - Gay Love Triangle Sequence" animationGroup="FO4SA_LoveTriangle_MM_01_Staged" isHidden="true" tags="BP70,M_M_M,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToAnus"/>
     <position id="[UAP] BP70's - Gay Love Triangle (Stage 1)" animation="FO4SA_LoveTriangle_MM_01_S1" tags="BP70,M_M_M,NoFurn,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToAnus"/>
     <position id="[UAP] BP70's - Gay Love Triangle (Stage 2)" animation="FO4SA_LoveTriangle_MM_01_S2" tags="BP70,M_M_M,NoFurn,Utility,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToAnus"/>
     <position id="[UAP] BP70's - Gay Love Triangle (Stage 3)" animation="FO4SA_LoveTriangle_MM_01_S3" tags="BP70,M_M_M,NoFurn,Utility,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToAnus"/>
@@ -191,7 +188,8 @@
 
 
     <!-- Double Bed -->
-    <position id="[UAP] BP70's - Gay Raunchy Sex" location="Double_Bed_Wood_PreWar" animationGroup="FO4SA_MM_raunchy_Staged" tags="BP70,M_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Raunchy Sex" location="Double_Bed_Wood_PreWar" positionTree="FO4SA_MM_raunchy_Tree" tags="BP70,M_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Raunchy Sex Sequence" location="Double_Bed_Wood_PreWar" animationGroup="FO4SA_MM_raunchy_Staged" isHidden="true" tags="BP70,M_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Raunchy Sex (Pre-War Bed, Relax)" location="Double_Bed_Wood_PreWar" isHidden="true" animation="FO4SA_MM_aftersexbedrelax" tags="BP70,M_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Raunchy Sex 1 (Pre-War Bed, Cowgirl)" location="Double_Bed_Wood_PreWar" isHidden="true" animation="FO4SA_MM_raunchydoublebedsex01" tags="BP70,M_M,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Raunchy Sex 2 (Pre-War Bed, Cowgirl)" location="Double_Bed_Wood_PreWar" isHidden="true" animation="FO4SA_MM_raunchydoublebedsex02" tags="BP70,M_M,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
@@ -206,7 +204,8 @@
 
 
     <!-- Park Bench -->
-    <position id="[UAP] BP70's - Gay Shaun's Conception" location="Park Bench" animationGroup="FO4SA_MM_benchshaunconception_Staged" tags="BP70,M_M,Bench,Footjob,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,FootToPenis"/>
+    <position id="[UAP] BP70's - Gay Shaun's Conception" location="Park Bench" positionTree="FO4SA_MM_benchshaunconception_Tree" tags="BP70,M_M,Bench,Footjob,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,FootToPenis"/>
+    <position id="[UAP] BP70's - Gay Shaun's Conception Sequence" location="Park Bench" animationGroup="FO4SA_MM_benchshaunconception_Staged" isHidden="true" tags="BP70,M_M,Bench,Footjob,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,FootToPenis"/>
     <position id="[UAP] BP70's - Gay Shaun's Conception 1 (Bench, Footjob)" location="Park Bench" animation="FO4SA_MM_benchshaunconceptionsex1" isHidden="true" tags="BP70,M_M,Bench,Footjob,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,FootToPenis"/>
     <!--<position id="[UAP] BP70's - Gay Shaun's Conception 2 (Bench, Cunnilingus)" location="Park Bench" animation="FO4SA_MM_benchshaunconceptionsex2" tags="BP70,M_M,SingleBed,Cunnilingus,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,TongueToVagina"/>-->
     <!--<position id="[UAP] BP70's - Gay Shaun's Conception 3 (Bench, Fingering Vag)" location="Park Bench" animation="FO4SA_MM_benchshaunconceptionsex3" tags="BP70,M_M,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,FingerToVagina"/>-->
@@ -248,7 +247,8 @@
 
 
 
-    <position id="[UAP] BP70's - Gay Doggy (Couch)" location="Couch" animationGroup="FO4SA_DoggyCouch_MM_01_Staged" tags="BP70,M_M,Couch,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Doggy (Couch)" location="Couch" positionTree="FO4SA_DoggyCouch_MM_01_Tree" tags="BP70,M_M,Couch,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Doggy (Couch) Sequence" location="Couch" animationGroup="FO4SA_DoggyCouch_MM_01_Staged" isHidden="true" tags="BP70,M_M,Couch,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Doggy (Couch, Stage 1)" location="Couch" animation="FO4SA_DoggyCouch_MM_01_S1" isHidden="true" tags="BP70,M_M,Couch,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Doggy (Couch, Stage 2)" location="Couch" animation="FO4SA_DoggyCouch_MM_01_S2" isHidden="true" tags="BP70,M_M,Couch,Utility,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Doggy (Couch, Stage 3)" location="Couch" animation="FO4SA_DoggyCouch_MM_01_S3" isHidden="true" tags="BP70,M_M,Couch,Utility,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
@@ -257,7 +257,8 @@
 
 
     
-    <position id="[UAP] BP70's - Gay Doggy (Toilet)" location="Toilet" animationGroup="FO4SA_DoggyToilet_MM_01_Staged" tags="BP70,M_M,Toilet,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Doggy (Toilet)" location="Toilet" positionTree="FO4SA_DoggyToilet_MM_01_Tree" tags="BP70,M_M,Toilet,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] BP70's - Gay Doggy (Toilet) Sequence" location="Toilet" animationGroup="FO4SA_DoggyToilet_MM_01_Staged" isHidden="true" tags="BP70,M_M,Toilet,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Doggy (Toilet, Stage 1)" location="Toilet" animation="FO4SA_DoggyToilet_MM_01_S1" isHidden="true" tags="BP70,M_M,Toilet,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Doggy (Toilet, Stage 2)" location="Toilet" animation="FO4SA_DoggyToilet_MM_01_S2" isHidden="true" tags="BP70,M_M,Toilet,Utility,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] BP70's - Gay Doggy (Toilet, Stage 3)" location="Toilet" animation="FO4SA_DoggyToilet_MM_01_S3" isHidden="true" tags="BP70,M_M,Toilet,Utility,Doggy,FromBehind,Neutral,Held1,Stim9,Love5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
@@ -279,12 +280,13 @@
     
 
     <!-- Blowjob Animations -->
-    <position id="[UAP] BP70's - Gay Blowjob 1 (Couch)" location="Couch" animationGroup="FO4SA_MM_couchblowjob_Staged" tags="BP70,M_M,Couch,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,EyeToEye"/>
-    <position id="[UAP] BP70's - Gay Blowjob 1 (Couch, Stage 1)" location="Couch" animation="FO4SA_MM_couchblowjob01" isHidden="true" tags="BP70,M_M,Couch,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,EyeToEye"/>
-    <position id="[UAP] BP70's - Gay Blowjob 2 (Couch, Stage 2)" location="Couch" animation="FO4SA_MM_couchblowjob02" isHidden="true" tags="BP70,M_M,Couch,Utility,Handjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,HandToPenis"/>
-    <position id="[UAP] BP70's - Gay Blowjob 3 (Couch, Stage 3)" location="Couch" animation="FO4SA_MM_couchblowjob03" isHidden="true" tags="BP70,M_M,Couch,Utility,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-    <position id="[UAP] BP70's - Gay Blowjob 4 (Couch, Stage 4)" location="Couch" animation="FO4SA_MM_couchblowjob04" isHidden="true" tags="BP70,M_M,Couch,Utility,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-    <position id="[UAP] BP70's - Gay Blowjob 5 (Couch, Stage 5)" location="Couch" animation="FO4SA_MM_couchblowjob05" isHidden="true" tags="BP70,M_M,Couch,Utility,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch)" location="Couch" positionTree="FO4SA_MM_couchblowjob_Tree" tags="BP70,M_M,Couch,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,EyeToEye"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch) Sequence" location="Couch" animationGroup="FO4SA_MM_couchblowjob_Staged" isHidden="true" tags="BP70,M_M,Couch,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,EyeToEye"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch, Stage 1)" location="Couch" animation="FO4SA_MM_couchblowjob01" isHidden="true" tags="BP70,M_M,Couch,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,EyeToEye"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch, Stage 2)" location="Couch" animation="FO4SA_MM_couchblowjob02" isHidden="true" tags="BP70,M_M,Couch,Utility,Handjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,HandToPenis"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch, Stage 3)" location="Couch" animation="FO4SA_MM_couchblowjob03" isHidden="true" tags="BP70,M_M,Couch,Utility,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch, Stage 4)" location="Couch" animation="FO4SA_MM_couchblowjob04" isHidden="true" tags="BP70,M_M,Couch,Utility,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] BP70's - Gay Blowjob (Couch, Stage 5)" location="Couch" animation="FO4SA_MM_couchblowjob05" isHidden="true" tags="BP70,M_M,Couch,Utility,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
 
     <position id="[UAP] BP70's - Gay Bar Counter Sex (Perpendicular, Bar Counter)" location="Bar Counter" animation="FO4SA_MM_bartopsexperpendicular" tags="BP70,M_M,Bar_Counter,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToAnus"/>
 

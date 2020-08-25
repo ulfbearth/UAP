@@ -1,0 +1,192 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1" isHidden="true"/>
+
+    <position id="BP70 Blowjob" animation="rxl_bp70_blowjob"/>
+    <position id="BP70 Cowgirl" animation="rxl_bp70_cowgirl"/>
+    <position id="BP70 Cunnilingus" animation="rxl_bp70_cunnilingus"/>
+    <position id="BP70 Doggy" animation="rxl_bp70_doggy"/>
+    <position id="BP70 Footjob" animation="rxl_bp70_footjob"/>
+    <position id="BP70 Footjob (Fast)" animation="rxl_bp70_footjob2"/>
+    <position id="BP70 Laying Blowjob" animation="rxl_bp70_layingblowjob"/>
+    <position id="BP70 Leg Wrap Cunnilingus" animation="rxl_bp70_legwrapcunni"/>
+    <position id="BP70 Lotus" animation="rxl_bp70_lotus"/>
+    <position id="BP70 Missionary" animation="rxl_bp70_missionary"/>
+    <position id="BP70 Missionary Sequence Stage 1" animation="rxl_bp70_missionaryseq_1"/>
+    <position id="BP70 Missionary Sequence Stage 2" animation="rxl_bp70_missionaryseq_2"/>
+    <position id="BP70 Missionary Sequence Stage 3" animation="rxl_bp70_missionaryseq_3"/>
+    <position id="BP70 Missionary Sequence Stage 4" animation="rxl_bp70_missionaryseq_4"/>
+    <position id="BP70 Missionary Sequence Stage 5" animation="rxl_bp70_missionaryseq_5"/>
+    <position id="BP70 Missionary Sequence Staged" animationGroup="BP70 Missionary Sequence Staged"/>
+    <position id="BP70 Missionary Grind (tease)" animation="rxl_bp70_missionaryswish_1"/>
+    <position id="BP70 Missionary Grind 2 (Trans)" animation="rxl_bp70_missionaryswish_trans_2" isHidden="true"/>
+    <position id="BP70 Missionary Grind 2" animation="rxl_bp70_missionaryswish_2" isHidden="true"/>
+    <position id="BP70 Missionary Grind 3 (Trans)" animation="rxl_bp70_missionaryswish_trans_3" isHidden="true"/>
+    <position id="BP70 Missionary Grind 3" animation="rxl_bp70_missionaryswish_3" isHidden="true"/>
+    <position id="BP70 Missionary Grind 4 (Trans)" animation="rxl_bp70_missionaryswish_trans_4" isHidden="true"/>
+    <position id="BP70 Missionary Grind 4" animation="rxl_bp70_missionaryswish_4" isHidden="true"/>
+    <position id="BP70 Missionary Grind 5 (Trans)" animation="rxl_bp70_missionaryswish_trans_5" isHidden="true"/>
+    <position id="BP70 Missionary Grind Orgasm (Loop)" animation="rxl_bp70_missionaryswish_5" isHidden="true"/>
+    <position id="BP70 Mistress 1" animation="rxl_bp70_mistress01"/>
+    <position id="BP70 Mistress 2" animation="rxl_bp70_mistress02"/>
+    <position id="BP70 Mistress 3" animation="rxl_bp70_mistress03"/>
+    <position id="BP70 Mistress 4" animation="rxl_bp70_mistress04"/>
+    <position id="BP70 Mistress 5" animation="rxl_bp70_mistress05"/>
+    <position id="BP70 Prone Bone 01" animation="rxl_bp70_pronebone_01"/>
+    <position id="BP70 Prone Bone Trans 02" animation="rxl_bp70_pronebone_trans_02" isHidden="true"/>
+    <position id="BP70 Prone Bone 02" animation="rxl_bp70_pronebone_02" isHidden="true"/>
+    <position id="BP70 Prone Bone Trans 03" animation="rxl_bp70_pronebone_anal_trans_03" isHidden="true"/>
+    <position id="BP70 Prone Bone 03" animation="rxl_bp70_pronebone_03" isHidden="true"/>
+    <position id="BP70 Prone Bone 04" animation="rxl_bp70_pronebone_04" isHidden="true"/>
+    <position id="BP70 Prone Bone Anal Trans 02" animation="rxl_bp70_pronebone_anal_trans_02" isHidden="true"/>
+    <position id="BP70 Prone Bone Anal 02" animation="rxl_bp70_pronebone_anal_02" isHidden="true"/>
+    <position id="BP70 Prone Bone Anal Trans 03" animation="rxl_bp70_pronebone_trans_03" isHidden="true"/>
+    <position id="BP70 Prone Bone Anal 03" animation="rxl_bp70_pronebone_anal_03" isHidden="true"/>
+    <position id="BP70 Prone Bone Anal 04" animation="rxl_bp70_pronebone_anal_04" isHidden="true"/>
+    <position id="BP70 Romantic Cowgirl" animation="rxl_bp70_romanticcowgirl"/>
+    <position id="BP70 Romantic Missionary" animation="rxl_bp70_romanticmish"/>
+    <position id="BP70 Standing 69" animation="rxl_bp70_standing69"/>
+    <position id="BP70 Standing Sequence Stage 1" animation="rxl_bp70_standingseq1"/>
+    <position id="BP70 Standing Sequence Stage 2" animation="rxl_bp70_standingseq2"/>
+    <position id="BP70 Standing Sequence Stage 3" animation="rxl_bp70_standingseq3"/>
+    <position id="BP70 Standing Sequence Stage 4" animation="rxl_bp70_standingseq4"/>
+    <position id="BP70 Standing Sequence Staged" animationGroup="BP70 Standing Sequence Staged"/>
+
+
+    <!-- Impregnation Animations -->
+
+    <position id="BP70 Impregnate Cowgirl Kiss" animation="rxl_bp70_impregnate_cow_kissing"/>
+    <position id="BP70 Impregnate Cowgirl Start Fucking" animation="rxl_bp70_impregnate_cow_startfucking" isHidden="true"/>
+    <position id="BP70 Impregnate Cowgirl Fuck Faster and Deeper" animation="rxl_bp70_impregnate_cow_fuckfaster" isHidden="true"/>
+    <position id="BP70 Impregnate Cowgirl Finger Her Ass" animation="rxl_bp70_impregnate_cow_fuckfasterfinger" isHidden="true"/>
+    <position id="BP70 Impregnate Cowgirl Thrust Into Her" animation="rxl_bp70_impregnate_cow_thrust" isHidden="true"/>
+    <position id="BP70 Impregnate Cowgirl Thrust Into Her and Finger Her" animation="rxl_bp70_impregnate_cow_thrustfinger" isHidden="true"/>
+    <position id="BP70 Impregnate Cowgirl Orgasm" animation="rxl_bp70_impregnate_cow_orgasm" isHidden="true"/>
+    <position id="BP70 Impregnate Cowgirl Orgasm and Finger" animation="rxl_bp70_impregnate_cow_orgasmfinger" isHidden="true"/>
+
+    <position id="BP70 Impregnate Missionary Stage Kiss" animation="rxl_bp70_impregnate_mish_kissing"/>
+    <position id="BP70 Impregnate Missionary Stage Transition to Back Grab" animation="rxl_bp70_impregnate_mish_grabbacktrans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Back" animation="rxl_bp70_impregnate_mish_grabback" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Transition to Ass Grab" animation="rxl_bp70_impregnate_mish_assgrabtrans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Ass" animation="rxl_bp70_impregnate_mish_assgrab" isHidden="true"/>
+
+    <position id="BP70 Impregnate Missionary Stage Transition to Back Grab 2" animation="rxl_bp70_impregnate_mishgrabback_headdown_trans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Back 2" animation="rxl_bp70_impregnate_mishgrabback_headdown" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Transition to Ass Grab 2" animation="rxl_bp70_impregnate_mishassgrab_headdown_trans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Ass 2" animation="rxl_bp70_impregnate_mishassgrab_headdown" isHidden="true"/>
+
+    <position id="BP70 Impregnate Missionary Stage Transition to Back Grab 3" animation="rxl_bp70_impregnate_mishgrabback_precum_trans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Back 3" animation="rxl_bp70_impregnate_mishgrabback_precum" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Transition to Ass Grab 3" animation="rxl_bp70_impregnate_mishassgrab_precum_trans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Ass 3" animation="rxl_bp70_impregnate_mishassgrab_precum" isHidden="true"/>
+
+    <position id="BP70 Impregnate Missionary Stage Transition to Back Grab 4" animation="rxl_bp70_impregnate_mishgrabback_cum_trans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Back 4" animation="rxl_bp70_impregnate_mishgrabback_cum" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Transition to Ass Grab 4" animation="rxl_bp70_impregnate_mishassgrab_cum_trans" isHidden="true"/>
+    <position id="BP70 Impregnate Missionary Stage Grab His Ass 4" animation="rxl_bp70_impregnate_mishassgrab_cum" isHidden="true"/>
+
+    <!-- MFF Animations -->
+
+    <position id="BP70 MFF Love Triangle 1" animation="rxl_bp70_MFF_lovetriangle_1"/>
+    <position id="BP70 MFF Love Triangle 2" animation="rxl_bp70_MFF_lovetriangle_2"/>
+    <position id="BP70 MFF Love Triangle 3" animation="rxl_bp70_MFF_lovetriangle_3"/>
+    <position id="BP70 MFF Love Triangle 4" animation="rxl_bp70_MFF_lovetriangle_4"/>
+
+    <!-- Furniture Animations -->
+
+    <position id="BP70 Shaun's Conception 1" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex1"/>
+    <position id="BP70 Shaun's Conception 2" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex2"/>
+    <position id="BP70 Shaun's Conception 3" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex3"/>
+    <position id="BP70 Shaun's Conception 4" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex4"/>
+    <position id="BP70 Shaun's Conception Orgasm" location="Park Bench" animation="rxl_bp70_benchshaunconceptionsex5"/>
+
+    <position id="BP70 Pound in Bed (Missionary)" location="Single Bed" animation="rxl_bp70_bedpoundmish"/>
+    <position id="BP70 Pound in Double Bed (Missionary)" location="Double Bed" animation="rxl_bp70_bedpoundmish"/>
+    <position id="BP70 Pound in Bed (Cowgirl)" location="Single Bed" animation="rxl_bp70_bedpoundcow"/>
+    <position id="BP70 Pound in Double Bed (Cowgirl)" location="Double Bed" animation="rxl_bp70_bedpoundcow"/>
+
+    <position id="BP70 Bed Missionary" location="Single Bed" animation="rxl_bp70_bedmissionary"/>
+    <position id="BP70 Double Bed Missionary" location="Double Bed" animation="rxl_bp70_bedmissionary"/>
+    <position id="BP70 Bed Cowgirl" location="Single Bed" animation="rxl_bp70_bedcowgirl"/>
+    <position id="BP70 Double Bed Cowgirl" location="Double Bed" animation="rxl_bp70_bedcowgirl"/>
+    <position id="BP70 Bed Romantic Missionary" location="Single Bed" animation="rxl_bp70_bedromanticmish"/>
+    <position id="BP70 Double Bed Romantic Missionary" location="Double Bed" animation="rxl_bp70_bedromanticmish"/>
+    <position id="BP70 Bed Doggy" location="Single Bed" animation="rxl_bp70_beddoggy"/>
+    <position id="BP70 Double Bed Doggy" location="Double Bed" animation="rxl_bp70_beddoggy"/>
+
+    <position id="BP70 Bed Female Body Worship" location="Single Bed" animation="rxl_bp70_femalebodyworship"/>
+
+    <position id="BP70 Pre-War Bed After Sex Relax" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_aftersexbedrelax"/>
+    <position id="BP70 Pre-War Bed Raunchy Sex 1" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_raunchydoublebedsex01"/>
+    <position id="BP70 Pre-War Bed Raunchy Sex 2" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_raunchydoublebedsex02"/>
+    <position id="BP70 Pre-War Bed Raunchy Sex 3" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_raunchydoublebedsex03"/>
+    <position id="BP70 Pre-War Bed Raunchy Sex 4" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_raunchydoublebedsex04"/>
+    <position id="BP70 Pre-War Bed Raunchy Sex Orgasm" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_raunchydoublebedsex05"/>
+
+    <position id="BP70 Kinky Extractor Chair 1 (Forced Boobjob)" location="Extractor Chair" animation="rxl_bp70_extractorchair_1"/>
+    <position id="BP70 Kinky Extractor Chair 2 (Cowgirl)" location="Extractor Chair" animation="rxl_bp70_extractorchair_2"/>
+    <position id="BP70 Kinky Extractor Chair 3 (Doggy)" location="Extractor Chair" animation="rxl_bp70_extractorchair_3"/>
+    <position id="BP70 Kinky Extractor Chair 4 (Missionary)" location="Extractor Chair" animation="rxl_bp70_extractorchair_4"/>
+    <position id="BP70 Kinky Extractor Chair 5 (Forced Blowjob)" location="Extractor Chair" animation="rxl_bp70_extractorchair_5"/>
+
+    <position id="BP70 Chaise Fuck 1 (Blowjob)" location="Chaise" animation="rxl_bp70_chaisefuck01"/>
+    <position id="BP70 Chaise Fuck 2 (Spooning)" location="Chaise" animation="rxl_bp70_chaisefuck02"/>
+    <position id="BP70 Chaise Fuck 3 (Missionary)" location="Chaise" animation="rxl_bp70_chaisefuck03"/>
+    <position id="BP70 Chaise Fuck 4 (Doggy)" location="Chaise" animation="rxl_bp70_chaisefuck04"/>
+
+    <position id="BP70 Armchair Missionary" location="Armchair" animation="rxl_bp70_armchairmish"/>
+    <position id="BP70 Armchair Cowgirl" location="Armchair" animation="rxl_bp70_armchaircow"/>
+
+    <position id="BP70 Couch Blowjob 1" location="Couch" animation="rxl_bp70_couchblowjob01"/>
+    <position id="BP70 Couch Blowjob 2" location="Couch" animation="rxl_bp70_couchblowjob02"/>
+    <position id="BP70 Couch Blowjob 3" location="Couch" animation="rxl_bp70_couchblowjob03"/>
+    <position id="BP70 Couch Blowjob 4" location="Couch" animation="rxl_bp70_couchblowjob04"/>
+    <position id="BP70 Couch Blowjob Orgasm (Loop)" location="Couch" animation="rxl_bp70_couchblowjob05"/>
+
+    <position id="BP70 Couch Doggy 1" location="Couch" animation="rxl_bp70_couchdoggy01"/>
+    <position id="BP70 Couch Doggy 2" location="Couch" animation="rxl_bp70_couchdoggy02"/>
+    <position id="BP70 Couch Doggy 3" location="Couch" animation="rxl_bp70_couchdoggy03"/>
+    <position id="BP70 Couch Doggy 4" location="Couch" animation="rxl_bp70_couchdoggy04"/>
+    <position id="BP70 Couch Doggy 5" location="Couch" animation="rxl_bp70_couchdoggy05"/>
+
+    <position id="BP70 Rimjob (F on M)" location="Couch" animation="rxl_bp70_couchrimjobfemaleonmale"/>
+    <position id="BP70 Rimjob (M on F)" location="Couch" animation="rxl_bp70_couchrimjobmaleonfemale"/>
+    <position id="BP70 Rimjob (F on F)" location="Couch" animation="rxl_bp70_couchrimjobfemaleonfemale"/>
+    <position id="BP70 Rimjob (M on M)" location="Couch" animation="rxl_bp70_couchrimjobmaleonmale"/>
+
+    <position id="BP70 Toilet Doggy 1" location="Toilet" animation="rxl_bp70_toiletdoggy01"/>
+    <position id="BP70 Toilet Doggy 2" location="Toilet" animation="rxl_bp70_toiletdoggy02"/>
+    <position id="BP70 Toilet Doggy 3" location="Toilet" animation="rxl_bp70_toiletdoggy03"/>
+    <position id="BP70 Toilet Doggy 4" location="Toilet" animation="rxl_bp70_toiletdoggy04"/>
+
+    <position id="Bar Counter Sex (Perpendicular)" location="Bar Counter" animation="rxl_bp70_bartopsexperpendicular"/>
+
+    <!-- MM Animations -->
+
+    <position id="BP70 Gay Prone Bone 01" animation="rxl_bp70_gaypronebone_01"/>
+    <position id="BP70 Gay Prone Bone Trans 02" animation="rxl_bp70_gaypronebone_trans_02" isHidden="true"/>
+    <position id="BP70 Gay Prone Bone 02" animation="rxl_bp70_gaypronebone_02" isHidden="true"/>
+    <position id="BP70 Gay Prone Bone Trans 03" animation="rxl_bp70_gaypronebone_trans_03" isHidden="true"/>
+    <position id="BP70 Gay Prone Bone 03" animation="rxl_bp70_gaypronebone_03" isHidden="true"/>
+    <position id="BP70 Gay Prone Bone 04" animation="rxl_bp70_gaypronebone_04" isHidden="true"/>
+
+    <!-- Masturbation Animations-->
+
+    <position id="BP70 Female Masturbation (Bed)" location="Single Bed" animation="rxl_bp70_female_bedmast"/>
+    <position id="BP70 Male Masturbation (Bed)" location="Single Bed" animation="rxl_bp70_male_bedmast"/>
+    <position id="BP70 Female Masturbation (Double Bed)" location="Double Bed" animation="rxl_bp70_female_bedmast"/>
+    <position id="BP70 Male Masturbation (Double Bed)" location="Double Bed" animation="rxl_bp70_male_bedmast"/>
+    <position id="BP70 Female Masturbation (Couch)" location="Couch" animation="rxl_bp70_female_couchmast"/>
+    <position id="BP70 Male Masturbation (Couch)" location="Couch" animation="rxl_bp70_male_couchmast"/>
+    <position id="BP70 Fast Female Masturbation (Couch)" location="Couch" animation="rxl_bp70_female_couchmastfast"/>
+    <position id="BP70 Fast Male Masturbation (Couch)" location="Couch" animation="rxl_bp70_male_couchmastfast"/>
+    <position id="BP70 Female Masturbation (Toilet)" location="Toilet" animation="rxl_bp70_female_toiletmast"/>
+    <position id="BP70 Male Masturbation (Toilet)" location="Toilet" animation="rxl_bp70_male_toiletmast"/>
+
+    <!-- Position Trees -->
+
+    <position id="BP70 Impregnation Missionary" positionTree="BP70 Impregnation Missionary"/>
+    <position id="BP70 Impregnation Cowgirl" positionTree="BP70 Impregnation Cowgirl"/>
+    <position id="BP70 Missionary Grind" positionTree="BP70 Missionary Grind"/>
+    <position id="BP70 Prone Bone" positionTree="BP70 Prone Bone"/>
+    <position id="BP70 Gay Prone Bone" positionTree="BP70 Gay Prone Bone"/>
+</positionData>

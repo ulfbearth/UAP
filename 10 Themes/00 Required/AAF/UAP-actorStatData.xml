@@ -9,7 +9,7 @@
     </group>
 
     <group id="statGroup2" showInProfile="true" showInStatMode="true" showInScene="true">
-        <stat id="WOOF" shortForm="WOOF" priority="2"/>
+        <stat id="WOOF" shortForm="WOOF" priority="2" decayRate="20"/>
     </group>
 
 </actorStatData>

@@ -21,36 +21,51 @@
 
 	<animationGroup id="FO4SA_Missionaryswish_MM_01_Staged" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S1"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S1-2Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 1-2)"/>
+	</animationGroup>
+	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionI" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S2"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S2-3Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 2-3)"/>
+	</animationGroup>
+	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionII" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S3"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S3-4Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 3-4)"/>
+	</animationGroup>
+	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionIII" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S4"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S4-5Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 4-5)"/>
+	</animationGroup>
+	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionIV" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S5"/>
-	</animationGroup>	
+	</animationGroup>
 
 
 
 	<animationGroup id="FO4SA_Missionary_MM_Impregnate_01_Staged" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_1"/>
+		<stage animation="FO4SA_Missionary_MM_Impregnate_01_1TR2A" switchTo="[UAP] BP70's - Gay Impregnate Missionary (Stage 1-2)"/>
+		<stage animation="FO4SA_Missionary_MM_Impregnate_01_1TR2B" switchTo="[UAP] BP70's - Gay Impregnate Missionary II (Stage 1-2)"/>
+	</animationGroup>
+
+	<animationGroup id="FO4SA_Missionary_MM_Impregnate_01_TransitionI" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_2A"/>
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_3A"/>
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_4A"/>
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_5A"/>
-	</animationGroup>	
+	</animationGroup>
 
 
-
-<animationGroup id="FO4SA_Missionary_MM_Impregnate_02_Staged" sequential="false">
-		<stage animation="FO4SA_Missionary_MM_Impregnate_01_1"/>
+	<animationGroup id="FO4SA_Missionary_MM_Impregnate_02TransitionI" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_2B"/>
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_3B"/>
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_4B"/>
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_5B"/>
-	</animationGroup>	
+	</animationGroup>
 
 
 
 
-	
+
 	<!-- Standing/Carry Animations-->
 	<animationGroup id="FO4SA_Standing_MM_01_Staged" sequential="false">
 		<stage animation="FO4SA_Standing_MM_01_S1"/>
@@ -66,7 +81,13 @@
 	<!-- Doggy Animations -->
 	<animationGroup id="FO4SA_ProneBone_MM_01_Staged" sequential="false">
 		<stage animation="FO4SA_ProneBone_MM_01_S1"/>
+		<stage animation="FO4SA_ProneBone_MM_01_S1-2Trans" switchTo="[UAP] BP70's - Gay Prone Bone (Stage 1-2)"/>
+	</animationGroup>
+	<animationGroup id="FO4SA_ProneBone_MM_01TransitionI" sequential="false">
 		<stage animation="FO4SA_ProneBone_MM_01_S2"/>
+		<stage animation="FO4SA_ProneBone_MM_01_S2-3Trans" switchTo="[UAP] BP70's - Gay Prone Bone (Stage 2-3)"/>
+	</animationGroup>
+	<animationGroup id="FO4SA_ProneBone_MM_01TransitionII" sequential="false">
 		<stage animation="FO4SA_ProneBone_MM_01_S3"/>
 		<stage animation="FO4SA_ProneBone_MM_01_S4"/>
 	</animationGroup>
@@ -77,18 +98,24 @@
 	<animationGroup id="FO4SA_Missionary_MM_impregnate_cow_Staged" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_kissing"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_startfucking"/>
+		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" switchTo="[UAP] BP70's - Gay Impregnate Cowgirl Normal Sequence"/>
+		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" switchTo="[UAP] BP70's - Gay Impregnate Cowgirl Finger Sequence"/>
+	</animationGroup>
+
+	<animationGroup id="FO4SA_Missionary_MM_impregnate_cow_Normal_Staged" sequential="true">
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfaster"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_thrust"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_orgasm"/>
 	</animationGroup>
 
 	<animationGroup id="FO4SA_Missionary_MM_impregnate_cow_finger_Staged" sequential="false">
-		<stage animation="FO4SA_Missionary_MM_impregnate_cow_kissing"/>
-		<stage animation="FO4SA_Missionary_MM_impregnate_cow_startfucking"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_thrustfinger"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_orgasmfinger"/>
 	</animationGroup>
+
+
+	
 
 	<animationGroup id="FO4SA_Missionary_MM_mistress_01_Staged" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_mistress_01_S1"/>
@@ -98,7 +125,7 @@
 		<stage animation="FO4SA_Missionary_MM_mistress_01_S5"/>
 	</animationGroup>
 
-	
+
 
 
 
@@ -111,11 +138,11 @@
 		<stage animation="FO4SA_LoveTriangle_MM_01_S3"/>
 		<stage animation="FO4SA_LoveTriangle_MM_01_S4"/>
 	</animationGroup>
-	
-	
 
 
-	
+
+
+
 	<!-- ================================================================================================ -->
 	<!-- ===================================== Furniture Animations ===================================== -->
 	<!-- Misc Animations -->
@@ -131,13 +158,13 @@
 	</animationGroup>
 
 	<!-- Park Bench -->
-	
+
 	<animationGroup id="FO4SA_MM_benchshaunconception_Staged" sequential="false">
 		<stage animation="FO4SA_MM_benchshaunconceptionsex1"/>
 		<stage animation="FO4SA_MM_benchshaunconceptionsex4"/>
 		<stage animation="FO4SA_MM_benchshaunconceptionsex5"/>
 	</animationGroup>
-	
+
 	<!-- Non Misc Animations -->
 	<!-- Blowjob Animations -->
 
@@ -162,7 +189,7 @@
 		<stage animation="FO4SA_DoggyCouch_MM_01_S4"/>
 		<stage animation="FO4SA_DoggyCouch_MM_01_S5"/>
 	</animationGroup>
-	
+
 
 
 	<animationGroup id="FO4SA_DoggyToilet_MM_01_Staged" sequential="false">
@@ -171,7 +198,7 @@
 		<stage animation="FO4SA_DoggyToilet_MM_01_S3"/>
 		<stage animation="FO4SA_DoggyToilet_MM_01_S4"/>
 	</animationGroup>
-	
+
 
 
 </animationGroupData>
