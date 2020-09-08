@@ -3,36 +3,34 @@
 
     <!-- Doggy Animations -->
 
-    <tree id="Leito_Doggy_MM_2Dog_01_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Doggy 1 (Dog) Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 1 (Dog)"></branch>
+    <tree id="Leito_Doggy_MM_2Dog_01_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Doggy 1 (Dog) Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Doggy 1 (Dog, Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 1 (Dog)"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 1 (Dog)"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 1 (Dog)"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Doggy_MM_2Dog_02_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Doggy 2 (Dog) Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 2 (Dog)"></branch>
+    <tree id="Leito_Doggy_MM_2Dog_02_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Doggy 2 (Dog) Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Doggy 2 (Dog, Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 2 (Dog)"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 2 (Dog)"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Doggy 2 (Dog)"></branch>
             </branch>
         </branch>
     </tree>
@@ -41,19 +39,18 @@
     
     <!-- Missionary Animations-->
 
-    <tree id="Leito_Missionary_MM_2Dog_01_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Missionary 1 (Dog) Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Missionary 1 (Dog)"></branch>
+    <tree id="Leito_Missionary_MM_2Dog_01_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Missionary 1 (Dog) Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Missionary 1 (Dog, Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Missionary 1 (Dog)"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Missionary 1 (Dog)"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Missionary 1 (Dog)"></branch>
             </branch>
         </branch>
     </tree>

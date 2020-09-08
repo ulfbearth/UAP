@@ -3,55 +3,52 @@
 
     <!-- Blowjob Animations-->
 
-    <tree id="Leito_Blowjob_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Blowjob 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Blowjob 1"></branch>
+    <tree id="Leito_Blowjob_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Blowjob 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Blowjob 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Blowjob 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Blowjob 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Blowjob 1"></branch>
             </branch>
         </branch>
     </tree>
 
     <!-- Carry Animations-->
 
-    <tree id="Leito_Carry_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Carry 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1"></branch>
+    <tree id="Leito_Carry_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Carry 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Carry 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Carry_MM_02_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Carry 2 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 2"></branch>
+    <tree id="Leito_Carry_MM_02_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Carry 2 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Carry 2 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 2"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 2"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 2"></branch>
             </branch>
         </branch>
     </tree>
@@ -60,19 +57,18 @@
 
     <!-- Carry Reverse Animations -->
 
-    <tree id="Leito_ReverseCarry_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed"></branch>
+    <tree id="Leito_ReverseCarry_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Carry 1 Reversed"></branch>
             </branch>
         </branch>
     </tree>
@@ -81,70 +77,66 @@
 
     <!-- Cowgirl Animations -->
 
-    <tree id="Leito_Cowgirl_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1"></branch>
+    <tree id="Leito_Cowgirl_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Cowgirl_MM_02_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2"></branch>
+    <tree id="Leito_Cowgirl_MM_02_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 2 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Cowgirl_MM_03_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 3 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 3"></branch>
+    <tree id="Leito_Cowgirl_MM_03_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 3 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 3 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 3"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 3"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 3"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Cowgirl_MM_04_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 4 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 4"></branch>
+    <tree id="Leito_Cowgirl_MM_04_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 4 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 4 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 4"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 4"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 4"></branch>
             </branch>
         </branch>
     </tree>
@@ -153,36 +145,34 @@
 
     <!-- Cowgirl Reverse Animations -->
 
-    <tree id="Leito_ReverseCowgirl_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed"></branch>
+    <tree id="Leito_ReverseCowgirl_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 1 Reversed"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_ReverseCowgirl_MM_02_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed"></branch>
+    <tree id="Leito_ReverseCowgirl_MM_02_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Cowgirl 2 Reversed"></branch>
             </branch>
         </branch>
     </tree>
@@ -191,36 +181,34 @@
 
     <!-- Doggy Animations -->
 
-    <tree id="Leito_Doggy_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1"></branch>
+    <tree id="Leito_Doggy_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Doggy_MM_02_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 2 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2"></branch>
+    <tree id="Leito_Doggy_MM_02_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 2 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 2 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2"></branch>
             </branch>
         </branch>
     </tree>
@@ -228,36 +216,34 @@
 
     <!-- Doggy Standing Animations -->
 
-    <tree id="Leito_StandingDoggy_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing) Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing)"></branch>
+    <tree id="Leito_StandingDoggy_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing) Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing, Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing)"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing)"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 1 (Standing)"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_StandingDoggy_MM_02_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing) Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing)"></branch>
+    <tree id="Leito_StandingDoggy_MM_02_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing) Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing, Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing)"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing)"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Doggy 2 (Standing)"></branch>
             </branch>
         </branch>
     </tree>
@@ -266,36 +252,34 @@
 
     <!-- Missionary Animations -->
 
-    <tree id="Leito_Missionary_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Missionary 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 1"></branch>
+    <tree id="Leito_Missionary_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Missionary 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Missionary 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 1"></branch>
             </branch>
         </branch>
     </tree>
 
-    <tree id="Leito_Missionary_MM_02_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Missionary 2 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 2"></branch>
+    <tree id="Leito_Missionary_MM_02_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Missionary 2 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Missionary 2 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 2"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 2"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Missionary 2"></branch>
             </branch>
         </branch>
     </tree>
@@ -304,19 +288,18 @@
 
     <!-- Powerbomb Animations -->
 
-    <tree id="Leito_Powerbomb_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Powerbomb 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Powerbomb 1"></branch>
+    <tree id="Leito_Powerbomb_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Powerbomb 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Powerbomb 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Powerbomb 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Powerbomb 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Powerbomb 1"></branch>
             </branch>
         </branch>
     </tree>
@@ -325,19 +308,18 @@
 
     <!-- Spoon Animations -->
 
-    <tree id="Leito_Spoon_MM_01_Bed_Tree" useConditions="true">
-        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Spoon 1 Sequence">
-            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 1)" forceComplete="true">
-                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 2)" forceComplete="true">
-                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 3)" forceComplete="true">
-                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 4)" forceComplete="true">
-                            <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Spoon 1"></branch>
+    <tree id="Leito_Spoon_MM_01_Bed_Tree" useConditions="true" strictExiting="true">
+        <branch id="Playing Sequence" positionID="[UAP] Leito - Gay Bed Spoon 1 Sequence" time="0">
+            <branch id="Stage 1" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 1)" forceComplete="true" time="0">
+                <branch id="Stage 2" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 2)" forceComplete="true" time="0">
+                    <branch id="Stage 3" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 3)" forceComplete="true" time="0">
+                        <branch id="Climax" positionID="[UAP] Leito - Gay Bed Spoon 1 (Stage 4)" forceComplete="true" time="15">
+        
                         </branch>
-                        <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Spoon 1"></branch>
+    
                     </branch>
-                    <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Spoon 1"></branch>
+
                 </branch>
-                <branch id="Go to Beginning" positionID="[UAP] Leito - Gay Bed Spoon 1"></branch>
             </branch>
         </branch>
     </tree>

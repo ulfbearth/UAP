@@ -15,8 +15,12 @@
 
     <!-- Woof Stats Appliers -->
     <action id="Resetall Action">
-        <self reactionSet="Resetall">
+        <self meter="basic">
+            <stat range="0-" statID="WOOF" add="-100"/>
         </self>
+        <target meter="basic">
+            <stat range="0-" statID="WOOF" add="-100"/>
+        </target>
     </action>
 
     <action id="Woof Action">

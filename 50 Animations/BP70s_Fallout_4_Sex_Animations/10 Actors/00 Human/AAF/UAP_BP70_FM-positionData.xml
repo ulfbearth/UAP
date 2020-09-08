@@ -78,11 +78,11 @@
     <position id="[UAP] BP70 - Standing 69" animation="rxl_bp70_standing69" tags="BP70,F_M,NoFurn,Standing,69,FromFront,Loving,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToMouth,MouthToVagina"/>
 
     <position id="[UAP] BP70 - Standing Sequence" positionTree="BP70_Standing_Sequence_Tree" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] BP70 - Standing Sequence Staged" animationGroup="BP70_Standing_Sequence_Staged" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] BP70 - Standing Sequence Stage 1" animation="rxl_bp70_standingseq1" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] BP70 - Standing Sequence Stage 2" animation="rxl_bp70_standingseq2" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] BP70 - Standing Sequence Stage 3" animation="rxl_bp70_standingseq3" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] BP70 - Standing Sequence Stage 4" animation="rxl_bp70_standingseq4" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Staged" animationGroup="BP70_Standing_Sequence_Staged" isHidden="true" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 1" animation="rxl_bp70_standingseq1"  isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 2" animation="rxl_bp70_standingseq2"  isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 3" animation="rxl_bp70_standingseq3"  isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Standing Sequence Stage 4" animation="rxl_bp70_standingseq4"  isHidden="true" tags="BP70,utility,hidden,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
 
 
 
@@ -198,21 +198,21 @@
     <position id="[UAP] BP70 - Couch Blowjob Orgasm (Loop)" location="Couch" animation="rxl_bp70_couchblowjob05" isHidden="true" tags="BP70,F_M,Couch,Blowjob,FromFront,Neutral,ClimaxM,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
 
     <position id="[UAP] BP70 - Couch Doggy" location="Couch" positionTree="rxl_bp70_couchdoggy_Tree" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
-    <position id="[UAP] BP70 - Couch Doggy Staged" location="Couch" animationGroup="rxl_bp70_couchdoggy_Staged" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
-    <position id="[UAP] BP70 - Couch Doggy Rimjob (F on M)" location="Couch" animation="rxl_bp70_couchrimjobfemaleonmale" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
-    <position id="[UAP] BP70 - Couch Doggy 1" location="Couch" animation="rxl_bp70_couchdoggy01" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Couch Doggy 2" location="Couch" animation="rxl_bp70_couchdoggy02" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Couch Doggy 3" location="Couch" animation="rxl_bp70_couchdoggy03" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Couch Doggy 4" location="Couch" animation="rxl_bp70_couchdoggy04" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Couch Doggy 5" location="Couch" animation="rxl_bp70_couchdoggy05" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy Staged" location="Couch" animationGroup="rxl_bp70_couchdoggy_Staged" isHidden="true" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
+    <position id="[UAP] BP70 - Couch Doggy Rimjob (F on M)" location="Couch" animation="rxl_bp70_couchrimjobfemaleonmale" isHidden="true" tags="BP70,F_M,Couch,RimJob,FromBehind,Neutral,Held0,Stim9,Love5,Dom1,NullToSelf,TongueToAnus"/>
+    <position id="[UAP] BP70 - Couch Doggy 1" location="Couch" animation="rxl_bp70_couchdoggy01"  isHidden="true" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 2" location="Couch" animation="rxl_bp70_couchdoggy02"  isHidden="true" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 3" location="Couch" animation="rxl_bp70_couchdoggy03"  isHidden="true" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 4" location="Couch" animation="rxl_bp70_couchdoggy04"  isHidden="true" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Couch Doggy 5" location="Couch" animation="rxl_bp70_couchdoggy05"  isHidden="true" tags="BP70,F_M,Couch,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
 
 
     <position id="[UAP] BP70 - Toilet Doggy" location="Toilet" positionTree="rxl_bp70_toiletdoggy01_Tree" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Toilet Doggy Staged" location="Toilet" animationGroup="rxl_bp70_toiletdoggy01_Staged" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Toilet Doggy 1" location="Toilet" animation="rxl_bp70_toiletdoggy01" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Toilet Doggy 2" location="Toilet" animation="rxl_bp70_toiletdoggy02" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Toilet Doggy 3" location="Toilet" animation="rxl_bp70_toiletdoggy03" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-    <position id="[UAP] BP70 - Toilet Doggy 4" location="Toilet" animation="rxl_bp70_toiletdoggy04" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy Staged" location="Toilet" animationGroup="rxl_bp70_toiletdoggy01_Staged" isHidden="true" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 1" location="Toilet" animation="rxl_bp70_toiletdoggy01" isHidden="true" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 2" location="Toilet" animation="rxl_bp70_toiletdoggy02" isHidden="true" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 3" location="Toilet" animation="rxl_bp70_toiletdoggy03" isHidden="true" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
+    <position id="[UAP] BP70 - Toilet Doggy 4" location="Toilet" animation="rxl_bp70_toiletdoggy04" isHidden="true" tags="BP70,F_M,Toilet,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
 
     <position id="[UAP] BP70 - Bar Counter Sex (Perpendicular)" location="Bar Counter" animation="rxl_bp70_bartopsexperpendicular" tags="BP70,F_M,BarCounter,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
 
