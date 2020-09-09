@@ -48,7 +48,7 @@
 				<branch id="Play Stage 2" positionID="[UAP] BP70 - Mistress 2" forceComplete="true" time="0">
 					<branch id="Play Stage 3" positionID="[UAP] BP70 - Mistress 3" forceComplete="true" time="0">
 						<branch id="Play Stage 4" positionID="[UAP] BP70 - Mistress 4" forceComplete="true" time="0">
-							<branch id="Play Stage 5" positionID="[UAP] BP70 - Mistress 5" forceComplete="true" time="0" isExit="true">
+							<branch id="Play Stage 5" positionID="[UAP] BP70 - Mistress 5" forceComplete="true" time="30" isExit="true">
 		
 							</branch>
 	
@@ -179,7 +179,7 @@
 			<branch id="Play Stage 1" positionID="[UAP] BP70 - MFF Love Triangle 1" forceComplete="true" time="0">
 				<branch id="Play Stage 2" positionID="[UAP] BP70 - MFF Love Triangle 2" forceComplete="true" time="0">
 					<branch id="Play Stage 3" positionID="[UAP] BP70 - MFF Love Triangle 3" forceComplete="true" time="0">
-						<branch id="Play Stage 4" positionID="[UAP] BP70 - MFF Love Triangle 4" forceComplete="true" time="0">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - MFF Love Triangle 4" forceComplete="true" time="30" isExit="true">
 	
 						</branch>
 
