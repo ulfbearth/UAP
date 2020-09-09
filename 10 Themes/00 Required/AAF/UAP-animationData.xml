@@ -4,217 +4,217 @@
 	
 	<animation id="NullSolo" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_3Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_4Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_5Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_6Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_7Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_8Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_9Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_10Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_Creature" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null" skeleton="!Human">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
 	<animation id="Null_Creature_3Way" frames="13">
 		<actor idleForm="Null">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null" skeleton="!Human">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 		<actor idleForm="Null" skeleton="!Human">
-			<action id="Resetall Action" from="0" to="1"/>
+			<action id="Resetall Action" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 

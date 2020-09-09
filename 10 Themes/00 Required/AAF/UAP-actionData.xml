@@ -15,19 +15,19 @@
 
     <!-- Woof Stats Appliers -->
     <action id="Resetall Action">
-        <self meter="basic">
+        <self>
             <stat range="0-" statID="WOOF" add="-100"/>
         </self>
-        <target meter="basic">
+        <target>
             <stat range="0-" statID="WOOF" add="-100"/>
         </target>
     </action>
 
     <action id="WOOF Action">
-        <self meter="basic" >
+        <self>
             <stat range="0-" statID="WOOF" add=".1111"/>
         </self>
-        <target meter="basic" >
+        <target>
             <stat range="0-" statID="WOOF" add=".1111"/>
         </target>
     </action>
