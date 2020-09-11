@@ -1069,7 +1069,7 @@
 
 	<!-- Aggressive FM -->
 
-	<animation id="Leito_Blowjob_Aggressive" frames="308" offset="-0.3,0,1,0:0,0,0,0">
+	<animation id="LeitoAggressiveBlowjob" frames="308" offset="-0.3,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="B71E">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
@@ -1082,7 +1082,7 @@
 		</actor>
 	</animation>
 
-	<animation id="Leito_Carry_Aggressive" frames="312">
+	<animation id="LeitoAggressiveCarry" frames="312">
 		<actor gender="F" idleForm="6367">
 			<action id="FemaleAggMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
@@ -1096,7 +1096,7 @@
 		</actor>
 	</animation>
 
-	<animation id="Leito_Cowgirl_Aggressive" frames="300">
+	<animation id="LeitoAggressiveCowgirl" frames="300">
 		<actor gender="F" idleForm="B720">
 			<action id="FemaleAggMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
@@ -1110,7 +1110,7 @@
 		</actor>
 	</animation>
 
-	<animation id="Leito_Doggy_Aggressive" frames="312">
+	<animation id="LeitoAggressiveDoggy" frames="312">
 		<actor gender="F" idleForm="B723">
 			<action id="FemaleAggMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
@@ -1123,7 +1123,7 @@
 		</actor>
 	</animation>
 
-	<animation id="Leito_Missionary_Aggressive" frames="228">
+	<animation id="LeitoAggressiveMissionary" frames="228">
 		<actor gender="F" idleForm="B724">
 			<action id="FemaleAggMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
@@ -1137,7 +1137,7 @@
 		</actor>
 	</animation>
 
-	<animation id="Leito_Powerbomb_Aggressive" frames="300" offset="0,-1,0,0:0,0,0,0">
+	<animation id="LeitoAggressivePowerbomb" frames="300" offset="0,-1,0,0:0,0,0,0">
 		<actor gender="F" idleForm="B726">
 			<action id="FemaleAggMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>

@@ -24,10 +24,10 @@
     </action>
 
     <action id="WOOF Action">
-        <self meter="basic" >
+        <self>
             <stat range="0-" statID="WOOF" add=".0833"/>
         </self>
-        <target meter="basic" >
+        <target>
             <stat range="0-" statID="WOOF" add=".0833"/>
         </target>
     </action>

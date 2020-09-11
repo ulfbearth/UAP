@@ -4,12 +4,12 @@
     <animationOffset actor="1" offset="0,0,43,0"/>
     <animationOffset actor="2" offset="0,0,43,0"/>
 
-	<position id="[UAP] Leito - Bed Aggressive Blowjob" animation="Leito_Blowjob_Aggressive" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Aggressive Carry" animation="Leito_Carry_Aggressive" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Aggressive Cowgirl" animation="Leito_Cowgirl_Aggressive" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Aggressive Doggy" animation="Leito_Doggy_Aggressive" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Aggressive Missionary" animation="Leito_Missionary_Aggressive" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Aggressive Powerbomb" animation="Leito_Powerbomb_Aggressive" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Bed Aggressive Blowjob" animation="LeitoAggressiveBlowjob" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
+	<position id="[UAP] Leito - Bed Aggressive Carry" animation="LeitoAggressiveCarry" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Bed Aggressive Cowgirl" animation="LeitoAggressiveCowgirl" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Bed Aggressive Doggy" animation="LeitoAggressiveDoggy" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Bed Aggressive Missionary" animation="LeitoAggressiveMissionary" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Bed Aggressive Powerbomb" animation="LeitoAggressivePowerbomb" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
 
 	<position id="[UAP] Leito - Bed Blowjob" positionTree="Leito_Bed_Blowjob_1_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
 	<position id="[UAP] Leito - Bed Blowjob Sequence" animationGroup="Leito_Blowjob_1_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>

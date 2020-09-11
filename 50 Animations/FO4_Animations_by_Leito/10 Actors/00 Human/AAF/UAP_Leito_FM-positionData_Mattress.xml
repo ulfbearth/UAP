@@ -4,12 +4,12 @@
     <animationOffset actor="1" offset="0,0,9,0"/>
     <animationOffset actor="2" offset="0,0,9,0"/>
 
-	<position id="[UAP] Leito - Mattress Aggressive Blowjob" animation="Leito_Blowjob_Aggressive" location="Mattress" tags="Leito,F_M,Mattress,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Mattress Aggressive Carry" animation="Leito_Carry_Aggressive" location="Mattress" tags="Leito,F_M,Mattress,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Mattress Aggressive Cowgirl" animation="Leito_Cowgirl_Aggressive" location="Mattress" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Mattress Aggressive Doggy" animation="Leito_Doggy_Aggressive" location="Mattress" tags="Leito,F_M,Mattress,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Mattress Aggressive Missionary" animation="Leito_Missionary_Aggressive" location="Mattress" tags="Leito,F_M,Mattress,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Mattress Aggressive Powerbomb" animation="Leito_Powerbomb_Aggressive" location="Mattress" tags="Leito,F_M,Mattress,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Mattress Aggressive Blowjob" animation="LeitoAggressiveBlowjob" location="Mattress" tags="Leito,F_M,Mattress,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
+	<position id="[UAP] Leito - Mattress Aggressive Carry" animation="LeitoAggressiveCarry" location="Mattress" tags="Leito,F_M,Mattress,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Mattress Aggressive Cowgirl" animation="LeitoAggressiveCowgirl" location="Mattress" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Mattress Aggressive Doggy" animation="LeitoAggressiveDoggy" location="Mattress" tags="Leito,F_M,Mattress,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Mattress Aggressive Missionary" animation="LeitoAggressiveMissionary" location="Mattress" tags="Leito,F_M,Mattress,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Mattress Aggressive Powerbomb" animation="LeitoAggressivePowerbomb" location="Mattress" tags="Leito,F_M,Mattress,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
 
 	<position id="[UAP] Leito - Mattress Blowjob" positionTree="Leito_Mattress_Blowjob_1_Tree" location="Mattress" tags="Leito,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
 	<position id="[UAP] Leito - Mattress Blowjob Sequence" animationGroup="Leito_Blowjob_1_Staged" isHidden="true" location="Mattress" tags="Leito,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>

@@ -1,12 +1,12 @@
 <positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
-	<position id="[UAP] Leito - Aggressive Blowjob" animation="Leito_Blowjob_Aggressive" tags="Leito,F_M,NoFurn,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Aggressive Carry" animation="Leito_Carry_Aggressive" tags="Leito,F_M,NoFurn,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Aggressive Cowgirl" animation="Leito_Cowgirl_Aggressive" tags="Leito,F_M,NoFurn,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Aggressive Doggy" animation="Leito_Doggy_Aggressive" tags="Leito,F_M,NoFurn,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Aggressive Missionary" animation="Leito_Missionary_Aggressive" tags="Leito,F_M,NoFurn,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Aggressive Powerbomb" animation="Leito_Powerbomb_Aggressive" tags="Leito,F_M,NoFurn,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Aggressive Blowjob" animation="LeitoAggressiveBlowjob" tags="Leito,F_M,NoFurn,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
+	<position id="[UAP] Leito - Aggressive Carry" animation="LeitoAggressiveCarry" tags="Leito,F_M,NoFurn,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Aggressive Cowgirl" animation="LeitoAggressiveCowgirl" tags="Leito,F_M,NoFurn,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Aggressive Doggy" animation="LeitoAggressiveDoggy" tags="Leito,F_M,NoFurn,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Leito - Aggressive Missionary" animation="LeitoAggressiveMissionary" tags="Leito,F_M,NoFurn,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - Aggressive Powerbomb" animation="LeitoAggressivePowerbomb" tags="Leito,F_M,NoFurn,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
 
 	<position id="[UAP] Leito - Blowjob" positionTree="Leito_Blowjob_1_Tree" tags="Leito,F_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
 	<position id="[UAP] Leito - Blowjob Sequence" animationGroup="Leito_Blowjob_1_Staged" isHidden="true" tags="Leito,F_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
