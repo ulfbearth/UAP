@@ -4,51 +4,51 @@
     <animationOffset actor="1" offset="0,0,0"/>
     <animationOffset actor="2" offset="0,0,0"/>
 
-    <position id="Leito_Canine_Doggy_1_S1"/>
-    <position id="Leito_Canine_Doggy_1_S2"/>
-    <position id="Leito_Canine_Doggy_1_S3"/>
-    <position id="Leito_Canine_Doggy_1_S4"/>
+    <position id="Leito_Canine_Doggy_1_S1" animation="Null"/>
+    <position id="Leito_Canine_Doggy_1_S2" animation="Null"/>
+    <position id="Leito_Canine_Doggy_1_S3" animation="Null"/>
+    <position id="Leito_Canine_Doggy_1_S4" animation="Null"/>
 
-    <position id="Leito_Canine_Doggy_2_S1"/>
-    <position id="Leito_Canine_Doggy_2_S2"/>
-    <position id="Leito_Canine_Doggy_2_S3"/>
-    <position id="Leito_Canine_Doggy_2_S4"/>
+    <position id="Leito_Canine_Doggy_2_S1" animation="Null"/>
+    <position id="Leito_Canine_Doggy_2_S2" animation="Null"/>
+    <position id="Leito_Canine_Doggy_2_S3" animation="Null"/>
+    <position id="Leito_Canine_Doggy_2_S4" animation="Null"/>
 
-    <position id="Leito_Canine_Missionary_1_S1"/>
-    <position id="Leito_Canine_Missionary_1_S2"/>
-    <position id="Leito_Canine_Missionary_1_S3"/>
-    <position id="Leito_Canine_Missionary_1_S4"/>
+    <position id="Leito_Canine_Missionary_1_S1" animation="Null"/>
+    <position id="Leito_Canine_Missionary_1_S2" animation="Null"/>
+    <position id="Leito_Canine_Missionary_1_S3" animation="Null"/>
+    <position id="Leito_Canine_Missionary_1_S4" animation="Null"/>
 
-    <position id="Leito_Canine_Bed_Doggy_1_S1" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Doggy_1_S2" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Doggy_1_S3" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Doggy_1_S4" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_1_S1" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_1_S2" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_1_S3" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_1_S4" animation="Null" location="Single_Bed,Double_Bed"/>
 
-    <position id="Leito_Canine_Bed_Doggy_2_S1" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Doggy_2_S2" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Doggy_2_S3" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Doggy_2_S4" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_2_S1" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_2_S2" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_2_S3" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Doggy_2_S4" animation="Null" location="Single_Bed,Double_Bed"/>
 
-    <position id="Leito_Canine_Bed_Missionary_1_S1" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Missionary_1_S2" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Missionary_1_S3" location="Single_Bed,Double_Bed"/>
-    <position id="Leito_Canine_Bed_Missionary_1_S4" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Missionary_1_S1" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Missionary_1_S2" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Missionary_1_S3" animation="Null" location="Single_Bed,Double_Bed"/>
+    <position id="Leito_Canine_Bed_Missionary_1_S4" animation="Null" location="Single_Bed,Double_Bed"/>
 
 
-    <position id="Leito_Canine_Mattress_Doggy_1_S1" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Doggy_1_S2" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Doggy_1_S3" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Doggy_1_S4" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_1_S1" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_1_S2" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_1_S3" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_1_S4" animation="Null" location="Mattress"/>
 
-    <position id="Leito_Canine_Mattress_Doggy_2_S1" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Doggy_2_S2" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Doggy_2_S3" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Doggy_2_S4" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_2_S1" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_2_S2" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_2_S3" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Doggy_2_S4" animation="Null" location="Mattress"/>
 
-    <position id="Leito_Canine_Mattress_Missionary_1_S1" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Missionary_1_S2" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Missionary_1_S3" location="Mattress"/>
-    <position id="Leito_Canine_Mattress_Missionary_1_S4" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Missionary_1_S1" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Missionary_1_S2" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Missionary_1_S3" animation="Null" location="Mattress"/>
+    <position id="Leito_Canine_Mattress_Missionary_1_S4" animation="Null" location="Mattress"/>
 
 
 </positionData>
