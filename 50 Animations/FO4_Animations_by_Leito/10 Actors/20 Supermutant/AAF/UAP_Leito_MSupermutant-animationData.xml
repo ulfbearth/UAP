@@ -36,7 +36,7 @@
 	<animation id="Leito_Blowjob_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00004CB3" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Mouth_Shut Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -51,7 +51,7 @@
 	<animation id="Leito_Blowjob_MM_01_S3" frames="288">
 		<actor gender="M" idleForm="00004CB4" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Mouth_Shut Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleBlowjob Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -120,7 +120,7 @@
 	<animation id="Leito_Carry_MM_01_S2" frames="304">
 		<actor gender="M" idleForm="00004504" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -140,7 +140,7 @@
 	<animation id="Leito_Carry_MM_01_S3" frames="297">
 		<actor gender="M" idleForm="00004505" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -199,7 +199,7 @@
 	<animation id="Leito_Carry_MM_02_S2" frames="288">
 		<actor gender="M" idleForm="0000A892" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -218,7 +218,7 @@
 	<animation id="Leito_Carry_MM_02_S3" frames="330">
 		<actor gender="M" idleForm="0000A893" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -277,7 +277,7 @@
 	<animation id="Leito_ReverseCarry_MM_01_S2" frames="288">
 		<actor gender="M" idleForm="0000A8A2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -296,7 +296,7 @@
 	<animation id="Leito_ReverseCarry_MM_01_S3" frames="290">
 		<actor gender="M" idleForm="0000A8A3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -368,7 +368,7 @@
 	<animation id="Leito_Cowgirl_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00002E27" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -387,7 +387,7 @@
 	<animation id="Leito_Cowgirl_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00002E28" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -443,7 +443,7 @@
 	<animation id="Leito_Cowgirl_MM_02_S2" frames="340">
 		<actor gender="M" idleForm="00005C35" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -460,7 +460,7 @@
 	<animation id="Leito_Cowgirl_MM_02_S3" frames="340">
 		<actor gender="M" idleForm="00005C36" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -513,7 +513,7 @@
 	<animation id="Leito_Cowgirl_MM_03_S2" frames="340">
 		<actor gender="M" idleForm="000063E0" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -531,7 +531,7 @@
 	<animation id="Leito_Cowgirl_MM_03_S3" frames="330">
 		<actor gender="M" idleForm="000063E1" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -583,7 +583,7 @@
 	<animation id="Leito_Cowgirl_MM_04_S2" frames="340">
 		<actor gender="M" idleForm="0000A89A" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -598,7 +598,7 @@
 	<animation id="Leito_Cowgirl_MM_04_S3" frames="330">
 		<actor gender="M" idleForm="0000A89B" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -648,7 +648,7 @@
 	<animation id="Leito_ReverseCowgirl_MM_01_S2" frames="340">
 		<actor gender="M" idleForm="00006B83" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -666,7 +666,7 @@
 	<animation id="Leito_ReverseCowgirl_MM_01_S3" frames="333">
 		<actor gender="M" idleForm="00006B84" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -721,7 +721,7 @@
 	<animation id="Leito_ReverseCowgirl_MM_02_S2" frames="336">
 		<actor gender="M" idleForm="0000732F" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -738,7 +738,7 @@
 	<animation id="Leito_ReverseCowgirl_MM_02_S3" frames="330">
 		<actor gender="M" idleForm="00007330" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -810,7 +810,7 @@
 	<animation id="Leito_Doggy_MM_01_S2" frames="308">
 		<actor gender="M" idleForm="00001EDE" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -829,7 +829,7 @@
 	<animation id="Leito_Doggy_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00001EDF" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -887,7 +887,7 @@
 	<animation id="Leito_Doggy_MM_02_S2" frames="308">
 		<actor gender="M" idleForm="00002E36" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -905,7 +905,7 @@
 	<animation id="Leito_Doggy_MM_02_S3" frames="315">
 		<actor gender="M" idleForm="00002E37" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -960,7 +960,7 @@
 	<animation id="Leito_StandingDoggy_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00007AD2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -978,7 +978,7 @@
 	<animation id="Leito_StandingDoggy_MM_01_S3" frames="290">
 		<actor gender="M" idleForm="00007AD3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1033,7 +1033,7 @@
 	<animation id="Leito_StandingDoggy_MM_02_S2" frames="224">
 		<actor gender="M" idleForm="00007ADA" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1051,7 +1051,7 @@
 	<animation id="Leito_StandingDoggy_MM_02_S3" frames="220">
 		<actor gender="M" idleForm="00007ADB" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1125,7 +1125,7 @@
 	<animation id="Leito_Missionary_MM_01_S2" frames="224">
 		<actor gender="M" idleForm="00002682" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1143,7 +1143,7 @@
 	<animation id="Leito_Missionary_MM_01_S3" frames="308">
 		<actor gender="M" idleForm="00002683" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1199,7 +1199,7 @@
 	<animation id="Leito_Missionary_MM_02_S2" frames="324">
 		<actor gender="M" idleForm="00002E2E" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1216,7 +1216,7 @@
 	<animation id="Leito_Missionary_MM_02_S3" frames="320">
 		<actor gender="M" idleForm="00002E2F" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1290,7 +1290,7 @@
 	<animation id="Leito_Powerbomb_MM_01_S2" frames="300" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" idleForm="0000450C" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -1310,7 +1310,7 @@
 	<animation id="Leito_Powerbomb_MM_01_S3" frames="299" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" idleForm="0000450D" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="MaleMoan Action" loop="true"/>
@@ -1369,7 +1369,7 @@
 	<animation id="Leito_Spoon_MM_01_S2" frames="324">
 		<actor gender="M" idleForm="00004CEC" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
@@ -1387,7 +1387,7 @@
 	<animation id="Leito_Spoon_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00004CED" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
 			<action id="MaleMoan Action" loop="true"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>

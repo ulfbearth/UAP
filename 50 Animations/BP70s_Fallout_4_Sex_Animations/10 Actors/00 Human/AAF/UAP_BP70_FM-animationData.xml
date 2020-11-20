@@ -83,7 +83,7 @@
 		<actor gender="F" idleForm="15F1F" conditions="Intermediary-20_54">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="15F20">
 			<action id="MaleMoan Action" loop="true"/>
@@ -110,7 +110,7 @@
 		<actor gender="F" idleForm="15F21" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="15F22">
 			<action id="MaleMoan Action" loop="true"/>
@@ -151,7 +151,7 @@
 		<actor gender="F" idleForm="17D92" conditions="Intermediary-20_54">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="17D93">
 			<action id="MaleMoan Action" loop="true"/>
@@ -178,7 +178,7 @@
 		<actor gender="F" idleForm="17D94" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="17D95">
 			<action id="MaleMoan Action" loop="true"/>
@@ -500,7 +500,7 @@
 		<actor gender="F" idleForm="E532" conditions="Intermediary-20_54">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="E533">
 			<action id="MaleMoan Action" loop="true"/>
@@ -514,7 +514,7 @@
 		<actor gender="F" idleForm="CE50" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="CE51">
 			<action id="MaleMoan Action" loop="true"/>
@@ -723,7 +723,7 @@
 		<actor gender="F" idleForm="98D3" conditions="Intermediary-20_54">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="98D4">
 			<action id="MaleMoan Action" loop="true"/>
@@ -737,7 +737,7 @@
 		<actor gender="F" idleForm="98D5" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="98D6">
 			<action id="MaleMoan Action" loop="true"/>
@@ -787,7 +787,7 @@
 		<actor gender="F" idleForm="BEE9" conditions="Intermediary-20_43">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="BEEA">
 			<action id="MaleMoan Action" loop="true"/>
@@ -801,7 +801,7 @@
 		<actor gender="F" idleForm="BF03" conditions="Intermediary-20_43">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="BF04">
 			<action id="MaleMoan Action" loop="true"/>
@@ -846,7 +846,7 @@
 		<actor gender="F" idleForm="BEEB" conditions="Intermediary-43_66">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="BEEC">
 			<action id="MaleMoan Action" loop="true"/>
@@ -977,7 +977,7 @@
 		<actor gender="F" idleForm="6B22" conditions="Intermediary-20_43">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="6B23">
 			<action id="MaleMoan Action" loop="true"/>
@@ -991,7 +991,7 @@
 		<actor gender="F" idleForm="72BD" conditions="Intermediary-43_66">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="72BE">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1005,7 +1005,7 @@
 		<actor gender="F" idleForm="BF18" conditions="Intermediary-43_66">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="BF19">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1019,7 +1019,7 @@
 		<actor gender="F" idleForm="FC07" conditions="Intermediary-66_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="FC08">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1033,7 +1033,7 @@
 		<actor gender="F" idleForm="FC09" conditions="Intermediary-66_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="FC0A">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1211,7 +1211,7 @@
 		<actor gender="F" idleForm="637A" conditions="Intermediary-20_37">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="637B">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1225,7 +1225,7 @@
 		<actor gender="F" idleForm="637C" conditions="Intermediary-37_54">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="637D">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1239,7 +1239,7 @@
 		<actor gender="F" idleForm="637E" conditions="Intermediary-55_72">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="637F">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1253,7 +1253,7 @@
 		<actor gender="F" idleForm="6380" conditions="Intermediary-72_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="6381">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1304,7 +1304,7 @@
 	<animation id="rxl_bp70_couchblowjob03" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A07F" conditions="Intermediary-20_54">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Mouth_Shut Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="A080">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1317,7 +1317,7 @@
 	<animation id="rxl_bp70_couchblowjob04" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A081" conditions="Intermediary-55_89">
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Mouth_Shut Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="A082">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1371,7 +1371,7 @@
 		<actor gender="F" idleForm="112FA" conditions="Intermediary-20_43">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="112FB">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1385,7 +1385,7 @@
 		<actor gender="F" idleForm="112FC" conditions="Intermediary-43_66">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="112FD">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1399,7 +1399,7 @@
 		<actor gender="F" idleForm="112FE" conditions="Intermediary-66_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="112FF">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1467,7 +1467,7 @@
 		<actor gender="F" idleForm="11A9F" conditions="Intermediary-20_43">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="11AA0">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1481,7 +1481,7 @@
 		<actor gender="F" idleForm="103BA" conditions="Intermediary-20_43">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="103BB">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1496,7 +1496,7 @@
 		<actor gender="F" idleForm="11AA1" conditions="Intermediary-43_66">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="11AA2">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1510,7 +1510,7 @@
 		<actor gender="F" idleForm="103BC" conditions="Intermediary-43_66">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="103BD">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1524,7 +1524,7 @@
 		<actor gender="F" idleForm="11AA3" conditions="Intermediary-66_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="11AA4">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1538,7 +1538,7 @@
 		<actor gender="F" idleForm="103BE" conditions="Intermediary-66_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="103BF">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1592,7 +1592,7 @@
 		<actor gender="F" idleForm="18CDE" conditions="Intermediary-20_54">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="18CDF">
 			<action id="MaleMoan Action" loop="true"/>
@@ -1606,7 +1606,7 @@
 		<actor gender="F" idleForm="18CE1" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="About_To_Cum Narration"/>
+			
 		</actor>
 		<actor gender="M" idleForm="18CE2">
 			<action id="MaleMoan Action" loop="true"/>

@@ -1,17 +1,6 @@
 <actionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
     <defaults />
 
-    <!-- Narration Appliers-->
-    <action id="About_To_Cum Mouth_Shut Narration">
-        <self reactionSet="About_To_Cum Mouth_Shut RS">
-        </self>
-    </action>
-
-    <action id="About_To_Cum Narration">
-        <self reactionSet="About_To_Cum RS">
-        </self>
-    </action>
-
 
     <!-- Woof Stats Appliers -->
     <action id="Resetall Action">

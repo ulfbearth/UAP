@@ -18,7 +18,7 @@
 
 	<animation id="Leito_Canine_Doggy_1_S2" frames="400">
 		<actor gender="F" idleForm="268B">
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
@@ -31,7 +31,7 @@
 	<animation id="Leito_Canine_Doggy_1_S3" frames="400">
 		<actor gender="F" idleForm="268C" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2689">
@@ -67,7 +67,7 @@
 
 	<animation id="Leito_Canine_Doggy_2_S2" frames="400">
 		<actor gender="F" idleForm="3D81">
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
@@ -80,7 +80,7 @@
 	<animation id="Leito_Canine_Doggy_2_S3" frames="400">
 		<actor gender="F" idleForm="3D82" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="3D7E">
@@ -116,7 +116,7 @@
 
 	<animation id="Leito_Canine_Missionary_1_S2" frames="400">
 		<actor gender="F" idleForm="1EE5">
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="FemaleMoan Action" loop="true"/>
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
@@ -129,7 +129,7 @@
 	<animation id="Leito_Canine_Missionary_1_S3" frames="400">
 		<actor gender="F" idleForm="1EE6" conditions="Intermediary-55_89">
 			<action id="FemaleMoan Action" loop="true"/>
-			<action id="About_To_Cum Narration"/>
+			
 			<action id="WOOF Action" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1EEA">
