@@ -8,18 +8,6 @@
 		</condition>
 	</reactionSet>
 
-	<reactionSet id="About_To_Cum Mouth_Shut RS">
-		<condition>
-			<doNarration stat="WOOF" range="80-90" narrationID="About_to_Cum Mouth_Shut"/>
-		</condition>
-	</reactionSet>
-
-	<reactionSet id="About_To_Cum RS">
-		<condition>
-			<doNarration stat="WOOF" range="80-90" narrationID="About_to_Cum"/>
-		</condition>
-	</reactionSet>
-
 	<reactionSet id="Resetall">
 		<condition>
 			<setStat stat="WOOF" range="0-" targetStat="WOOF" setTo="0.0"/>
