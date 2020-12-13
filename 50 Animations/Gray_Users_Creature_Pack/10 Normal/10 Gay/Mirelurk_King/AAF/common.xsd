@@ -249,19 +249,21 @@
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
-  <xs:complexType name="tagType">
+  <xs:complexType name="ruleTagType">
     <xs:sequence>
       <xs:element type="ruleType" name="rule" maxOccurs="unbounded" minOccurs="1"/>
     </xs:sequence>
     <xs:attribute type="xs:string" name="id" use="required"/>
-    <xs:attribute type="xs:string" name="position"/>
-    <xs:attribute type="xs:string" name="tags"/>
+  </xs:complexType>
+  <xs:complexType name="tagType">
+    <xs:attribute type="xs:string" name="position" use="required"/>
+    <xs:attribute type="xs:string" name="tags" use="required"/>
     <xs:attribute type="xs:boolean" name="replace"/>
   </xs:complexType>
   <xs:complexType name="equipmentRulesDataType">
     <xs:sequence>
       <xs:element type="defaultsType" name="defaults"/>
-      <xs:element type="tagType" name="tag" maxOccurs="unbounded" minOccurs="1"/>
+      <xs:element type="ruleTagType" name="tag" maxOccurs="unbounded" minOccurs="1"/>
     </xs:sequence>
   </xs:complexType>
   <xs:complexType name="unEquipType">
@@ -313,6 +315,7 @@
       <xs:extension base="xs:string">
         <xs:attribute type="xs:string" name="form" use="required"/>
         <xs:attribute type="xs:string" name="id"/>
+        <xs:attribute type="xs:string" name="source"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
@@ -688,6 +691,7 @@
         <xs:attribute type="xs:string" name="maleSWF"/>
         <xs:attribute type="xs:string" name="femaleSWF"/>
         <xs:attribute type="xs:boolean" name="requiresAnimationReset"/>
+        <xs:attribute type="xs:string" name="source"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
@@ -888,6 +892,7 @@
         <xs:attribute type="xs:string" name="form" use="required"/>
         <xs:attribute type="xs:string" name="id"/>
         <xs:attribute type="xs:string" name="raceList"/>
+        <xs:attribute type="xs:string" name="source"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>

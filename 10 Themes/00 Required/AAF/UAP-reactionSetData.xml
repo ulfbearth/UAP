@@ -3,14 +3,14 @@
 	<defaults loadPriority="-1"/>
 
 
-	<reactionSet id="WOOF_Reset">
+	<reactionSet id="Edge_Reset">
 		<condition>
 		</condition>
 	</reactionSet>
 
 	<reactionSet id="Resetall">
 		<condition>
-			<setStat stat="WOOF" range="0-" targetStat="WOOF" setTo="0.0"/>
+			<setStat stat="Edge" range="0-" targetStat="Edge" setTo="0.0"/>
 		</condition>
 	</reactionSet>
 

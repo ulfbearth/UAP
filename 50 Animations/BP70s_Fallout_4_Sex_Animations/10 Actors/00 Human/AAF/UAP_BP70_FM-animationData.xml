@@ -3,12 +3,12 @@
 
 	<animation id="rxl_bp70_cowgirl" frames="320">
 		<actor gender="F" idleForm="800">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="801">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -16,12 +16,12 @@
 
 	<animation id="rxl_bp70_missionary" frames="320" offset="0,0,0,180:0,-5,-40,180">
 		<actor gender="F" idleForm="802">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="803">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -29,12 +29,12 @@
 
 	<animation id="rxl_bp70_doggy" frames="300" offset="0,0,0,90:0,0,0,90">
 		<actor gender="F" idleForm="804">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="805">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -42,12 +42,12 @@
 
 	<animation id="rxl_bp70_lotus" frames="15">
 		<actor gender="F" idleForm="808">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="15"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="15"/>
 		</actor>
 		<actor gender="M" idleForm="809">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="15"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="15"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.1"/>
@@ -56,11 +56,11 @@
 
 	<animation id="rxl_bp70_pronebone_01" frames="240">
 		<actor gender="F" idleForm="15F1D" conditions="Foreplay">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="15F1E">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -68,12 +68,12 @@
 
 	<animation id="rxl_bp70_pronebone_trans_02" frames="240">
 		<actor gender="F" idleForm="166BE" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="166BF">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -81,13 +81,13 @@
 
 	<animation id="rxl_bp70_pronebone_02" frames="240">
 		<actor gender="F" idleForm="15F1F" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="15F20">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -95,12 +95,12 @@
 
 	<animation id="rxl_bp70_pronebone_trans_03" frames="60">
 		<actor gender="F" idleForm="166C0" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="166C1">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -108,13 +108,13 @@
 
 	<animation id="rxl_bp70_pronebone_03" frames="240">
 		<actor gender="F" idleForm="15F21" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="15F22">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -122,13 +122,13 @@
 
 	<animation id="rxl_bp70_pronebone_04" frames="550">
 		<actor gender="F" idleForm="15F23" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="15F24">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -136,12 +136,12 @@
 
 	<animation id="rxl_bp70_pronebone_anal_trans_02" frames="240">
 		<actor gender="F" idleForm="17D98" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="17D99">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -149,13 +149,13 @@
 
 	<animation id="rxl_bp70_pronebone_anal_02" frames="240">
 		<actor gender="F" idleForm="17D92" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="17D93">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -163,12 +163,12 @@
 
 	<animation id="rxl_bp70_pronebone_anal_trans_03" frames="60">
 		<actor gender="F" idleForm="17D9A" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="17D9B">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -176,13 +176,13 @@
 
 	<animation id="rxl_bp70_pronebone_anal_03" frames="240">
 		<actor gender="F" idleForm="17D94" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="17D95">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -190,13 +190,13 @@
 
 	<animation id="rxl_bp70_pronebone_anal_04" frames="550">
 		<actor gender="F" idleForm="17D96" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="17D97">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -205,12 +205,12 @@
 
 	<animation id="rxl_bp70_missionaryseq_1" frames="780">
 		<actor gender="F" idleForm="80a" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="80b">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -218,12 +218,12 @@
 
 	<animation id="rxl_bp70_missionaryseq_2" frames="780">
 		<actor gender="F" idleForm="80c" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="80d">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -231,12 +231,12 @@
 
 	<animation id="rxl_bp70_missionaryseq_3" frames="780">
 		<actor gender="F" idleForm="80e" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="80f">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -244,12 +244,12 @@
 
 	<animation id="rxl_bp70_missionaryseq_4" frames="780">
 		<actor gender="F" idleForm="810" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="811">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -257,12 +257,12 @@
 
 	<animation id="rxl_bp70_missionaryseq_5" frames="780">
 		<actor gender="F" idleForm="812" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="813">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -270,12 +270,12 @@
 
 	<animation id="rxl_bp70_cunnilingus" frames="30">
 		<actor gender="F" idleForm="FB3">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="FB4">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.33"/>
@@ -284,12 +284,12 @@
 
 	<animation id="rxl_bp70_romanticmish" frames="320">
 		<actor gender="F" idleForm="FAF">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="FB0">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -297,12 +297,12 @@
 
 	<animation id="rxl_bp70_romanticcowgirl" frames="120">
 		<actor gender="F" idleForm="FAD">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="FAE">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
@@ -311,16 +311,16 @@
 
 	<animation id="rxl_bp70_MFF_lovetriangle_1" frames="320" offset="0,0,0,180:0,0,0,0:0,0,0,0">
 		<actor gender="F" idleForm="1EF8" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="F" idleForm="1EF9">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1EF7">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -328,16 +328,16 @@
 
 	<animation id="rxl_bp70_MFF_lovetriangle_2" frames="360">
 		<actor gender="F" idleForm="1EFB" conditions="Progress-20_46">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="F" idleForm="1EFC">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1EFA">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -345,16 +345,16 @@
 
 	<animation id="rxl_bp70_MFF_lovetriangle_3" frames="240" offset="0,0,0,180:0,0,0,0:0,0,0,0">
 		<actor gender="F" idleForm="1EFE" conditions="Progress-46_73">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="F" idleForm="1EFF">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1EFD">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -362,16 +362,16 @@
 
 	<animation id="rxl_bp70_MFF_lovetriangle_4" frames="240">
 		<actor gender="F" idleForm="1F01" conditions="Progress-73_100">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="F" idleForm="1F02">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1F00">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -379,12 +379,12 @@
 
 	<animation id="rxl_bp70_extractorchair_1" frames="240">
 		<actor gender="F" idleForm="35E7">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="35E8">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -392,12 +392,12 @@
 
 	<animation id="rxl_bp70_extractorchair_2" frames="240">
 		<actor gender="F" idleForm="35E9">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="35EA">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -405,12 +405,12 @@
 
 	<animation id="rxl_bp70_extractorchair_3" frames="240">
 		<actor gender="F" idleForm="35EB">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="35EC">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -418,12 +418,12 @@
 
 	<animation id="rxl_bp70_extractorchair_4" frames="360">
 		<actor gender="F" idleForm="35ED">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="35EE">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -431,12 +431,12 @@
 
 	<animation id="rxl_bp70_extractorchair_5" frames="240">
 		<actor gender="F" idleForm="5BEE">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="5BEF">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -444,40 +444,40 @@
 
 	<animation id="rxl_bp70_female_bedmast" frames="360">
 		<actor gender="F" idleForm="35E5">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_female_couchmast" frames="240" offset="0,0,0,180">
 		<actor gender="F" idleForm="12241">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_female_couchmastfast" frames="240" offset="0,0,0,180">
 		<actor gender="F" idleForm="12243">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_female_toiletmast" frames="240" offset="0,0,0,180">
 		<actor gender="F" idleForm="12245">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 
 	<animation id="rxl_bp70_benchshaunconceptionsex1" frames="120">
 		<actor gender="F" idleForm="E52E" conditions="Foreplay-0_9">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="E52F">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -485,12 +485,12 @@
 
 	<animation id="rxl_bp70_benchshaunconceptionsex2" frames="96">
 		<actor gender="F" idleForm="E530" conditions="Foreplay-10_19">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="E531">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -498,13 +498,13 @@
 
 	<animation id="rxl_bp70_benchshaunconceptionsex3" frames="320">
 		<actor gender="F" idleForm="E532" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="E533">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -512,13 +512,13 @@
 
 	<animation id="rxl_bp70_benchshaunconceptionsex4" frames="160">
 		<actor gender="F" idleForm="CE50" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="CE51">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -526,13 +526,13 @@
 
 	<animation id="rxl_bp70_benchshaunconceptionsex5" frames="1220">
 		<actor gender="F" idleForm="E534" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="E535">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -540,11 +540,11 @@
 
 	<animation id="rxl_bp70_blowjob" frames="360" offset="0,0,0,180:0,0,0,0">
 		<actor gender="F" idleForm="6389">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="638A">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -552,12 +552,12 @@
 
 	<animation id="rxl_bp70_bedpoundcow" frames="320">
 		<actor gender="F" idleForm="ECB2">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="ECB3">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -565,12 +565,12 @@
 
 	<animation id="rxl_bp70_bedpoundmish" frames="320">
 		<actor gender="F" idleForm="ECB4">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="ECB5">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -578,12 +578,12 @@
 
 	<animation id="rxl_bp70_legwrapcunni" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="638B">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="638C">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -591,12 +591,12 @@
 
 	<animation id="rxl_bp70_bedmissionary" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="72C1">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="72C2">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -604,12 +604,12 @@
 
 	<animation id="rxl_bp70_bedcowgirl" frames="320">
 		<actor gender="F" idleForm="72C3">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="72C4">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -617,12 +617,12 @@
 
 	<animation id="rxl_bp70_bedromanticmish" frames="320">
 		<actor gender="F" idleForm="A072">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A073">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -630,12 +630,12 @@
 
 	<animation id="rxl_bp70_beddoggy" frames="300" offset="0,0,0,90:0,0,0,90">
 		<actor gender="F" idleForm="72C5">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="72C6">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -643,12 +643,12 @@
 
 	<animation id="rxl_bp70_layingblowjob" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="7A63">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7A64">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -656,12 +656,12 @@
 
 	<animation id="rxl_bp70_chaisefuck01" frames="320">
 		<actor gender="F" idleForm="7A65">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7A66">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -669,12 +669,12 @@
 
 	<animation id="rxl_bp70_chaisefuck02" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="7A67">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7A68">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -682,12 +682,12 @@
 
 	<animation id="rxl_bp70_chaisefuck03" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="7A69">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7A6A">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -695,12 +695,12 @@
 
 	<animation id="rxl_bp70_chaisefuck04" frames="240">
 		<actor gender="F" idleForm="7A6B">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7A6C">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -708,12 +708,12 @@
 
 	<animation id="rxl_bp70_standingseq1" frames="960">
 		<actor gender="F" idleForm="98D1" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="98D2">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -721,13 +721,13 @@
 
 	<animation id="rxl_bp70_standingseq2" frames="1080">
 		<actor gender="F" idleForm="98D3" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="98D4">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -735,13 +735,13 @@
 
 	<animation id="rxl_bp70_standingseq3" frames="960">
 		<actor gender="F" idleForm="98D5" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="98D6">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -749,13 +749,13 @@
 
 	<animation id="rxl_bp70_standingseq4" frames="1000">
 		<actor gender="F" idleForm="98D7" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="98D8">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -764,11 +764,11 @@
 
 	<animation id="rxl_bp70_impregnate_mish_kissing" frames="160">
 		<actor gender="F" idleForm="BEE7" conditions="Foreplay">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="BEE8">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -785,13 +785,13 @@
 
 	<animation id="rxl_bp70_impregnate_mish_grabback" frames="160">
 		<actor gender="F" idleForm="BEE9" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="BEEA">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -799,13 +799,13 @@
 
 	<animation id="rxl_bp70_impregnate_mish_assgrabtrans" frames="80">
 		<actor gender="F" idleForm="BF03" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="BF04">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -813,12 +813,12 @@
 
 	<animation id="rxl_bp70_impregnate_mish_assgrab" frames="160">
 		<actor gender="F" idleForm="BEF3" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="BEF4">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -844,13 +844,13 @@
 
 	<animation id="rxl_bp70_impregnate_mishgrabback_headdown" frames="240">
 		<actor gender="F" idleForm="BEEB" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="BEEC">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -858,12 +858,12 @@
 
 	<animation id="rxl_bp70_impregnate_mishassgrab_headdown" frames="240">
 		<actor gender="F" idleForm="BEF5" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="BEF6">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -889,12 +889,12 @@
 
 	<animation id="rxl_bp70_impregnate_mishgrabback_precum" frames="240">
 		<actor gender="F" idleForm="BEED" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="BEEE">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -902,12 +902,12 @@
 
 	<animation id="rxl_bp70_impregnate_mishassgrab_precum" frames="240">
 		<actor gender="F" idleForm="BEF7" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="BEF8">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -933,13 +933,13 @@
 
 	<animation id="rxl_bp70_impregnate_mishgrabback_cum" frames="1400">
 		<actor gender="F" idleForm="BEEF" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="BEF0">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -947,13 +947,13 @@
 
 	<animation id="rxl_bp70_impregnate_mishassgrab_cum" frames="1400">
 		<actor gender="F" idleForm="BEF9" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="BEFA">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -963,11 +963,11 @@
 
 	<animation id="rxl_bp70_impregnate_cow_kissing" frames="320">
 		<actor gender="F" idleForm="3D6D" conditions="Foreplay">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="3D6E">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -975,13 +975,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_startfucking" frames="300">
 		<actor gender="F" idleForm="6B22" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="6B23">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -989,13 +989,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_fuckfaster" frames="300">
 		<actor gender="F" idleForm="72BD" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="72BE">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1003,13 +1003,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_fuckfasterfinger" frames="300">
 		<actor gender="F" idleForm="BF18" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="BF19">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1017,13 +1017,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_thrust" frames="320">
 		<actor gender="F" idleForm="FC07" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="FC08">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1031,13 +1031,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_thrustfinger" frames="320">
 		<actor gender="F" idleForm="FC09" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="FC0A">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1045,13 +1045,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_orgasm" frames="600">
 		<actor gender="F" idleForm="FC0B" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="FC0C">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1059,13 +1059,13 @@
 
 	<animation id="rxl_bp70_impregnate_cow_orgasmfinger" frames="600">
 		<actor gender="F" idleForm="FC0D" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="FC0E">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1073,11 +1073,11 @@
 
 	<animation id="rxl_bp70_standing69" frames="300" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="1038F">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="10390">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1085,11 +1085,11 @@
 
 	<animation id="rxl_bp70_footjob" frames="320">
 		<actor gender="F" idleForm="1038D">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1038E">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1097,11 +1097,11 @@
 
 	<animation id="rxl_bp70_footjob2" frames="320">
 		<actor gender="F" idleForm="35C8">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="35C9">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1109,11 +1109,11 @@
 
 	<animation id="rxl_bp70_mistress01" frames="240">
 		<actor gender="F" idleForm="174F" conditions="Foreplay-0_6">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1750">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1121,11 +1121,11 @@
 
 	<animation id="rxl_bp70_mistress02" frames="240">
 		<actor gender="F" idleForm="1751" conditions="Foreplay-6_13">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1752">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1133,11 +1133,11 @@
 
 	<animation id="rxl_bp70_mistress03" frames="240">
 		<actor gender="F" idleForm="1753" conditions="Foreplay-13-19">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1754">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1145,12 +1145,12 @@
 
 	<animation id="rxl_bp70_mistress04" frames="240">
 		<actor gender="F" idleForm="1755" conditions="Progress-20_59">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1756">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1158,12 +1158,12 @@
 
 	<animation id="rxl_bp70_mistress05" frames="240">
 		<actor gender="F" idleForm="98DE" conditions="Progress-60_100">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="98DF">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1171,12 +1171,12 @@
 
 	<animation id="rxl_bp70_armchairmish" frames="320">
 		<actor gender="F" idleForm="543A">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="543B">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1184,12 +1184,12 @@
 
 	<animation id="rxl_bp70_armchaircow" frames="300">
 		<actor gender="F" idleForm="543C">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="543D">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1197,11 +1197,11 @@
 
 	<animation id="rxl_bp70_aftersexbedrelax" frames="320">
 		<actor gender="F" idleForm="5BDD" conditions="Foreplay">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="5BDE">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1209,13 +1209,13 @@
 
 	<animation id="rxl_bp70_raunchydoublebedsex01" frames="160" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="637A" conditions="Intermediary-20_37">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="637B">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1223,13 +1223,13 @@
 
 	<animation id="rxl_bp70_raunchydoublebedsex02" frames="200" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="637C" conditions="Intermediary-37_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="637D">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1237,13 +1237,13 @@
 
 	<animation id="rxl_bp70_raunchydoublebedsex03" frames="200" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="637E" conditions="Intermediary-55_72">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="637F">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1251,13 +1251,13 @@
 
 	<animation id="rxl_bp70_raunchydoublebedsex04" frames="1000" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="6380" conditions="Intermediary-72_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="6381">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1265,13 +1265,13 @@
 
 	<animation id="rxl_bp70_raunchydoublebedsex05" frames="800" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="6382" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="6383">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1279,11 +1279,11 @@
 
 	<animation id="rxl_bp70_couchblowjob01" frames="300" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A07B" conditions="Foreplay-0_9">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A07C">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1291,11 +1291,11 @@
 
 	<animation id="rxl_bp70_couchblowjob02" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A07D" conditions="Foreplay-10_19">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A07E">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1303,12 +1303,12 @@
 
 	<animation id="rxl_bp70_couchblowjob03" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A07F" conditions="Intermediary-20_54">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="A080">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1316,12 +1316,12 @@
 
 	<animation id="rxl_bp70_couchblowjob04" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A081" conditions="Intermediary-55_89">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="A082">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1329,11 +1329,11 @@
 
 	<animation id="rxl_bp70_couchblowjob05" frames="480" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="A083" conditions="Climax">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A084">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1343,12 +1343,12 @@
 
 	<animation id="rxl_bp70_couchrimjobfemaleonmale" frames="240" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="15780" conditions="Foreplay-0_9">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="15781">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1356,12 +1356,12 @@
 
 	<animation id="rxl_bp70_couchdoggy01" frames="240" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="112F8" conditions="Foreplay-10_19">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="112F9">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1369,13 +1369,13 @@
 
 	<animation id="rxl_bp70_couchdoggy02" frames="240" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="112FA" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="112FB">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1383,13 +1383,13 @@
 
 	<animation id="rxl_bp70_couchdoggy03" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="112FC" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="112FD">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1397,13 +1397,13 @@
 
 	<animation id="rxl_bp70_couchdoggy04" frames="240" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="112FE" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="112FF">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1411,13 +1411,13 @@
 
 	<animation id="rxl_bp70_couchdoggy05" frames="650" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="11300" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="11301">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1426,12 +1426,12 @@
 
 	<animation id="rxl_bp70_femalebodyworship" frames="240" offset="0,12,0,0:0,0,0,0">
 		<actor gender="F" idleForm="DD90">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="DD91">
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1439,12 +1439,12 @@
 
 	<animation id="rxl_bp70_bartopsexperpendicular" frames="240">
 		<actor gender="F" idleForm="ECD3">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="ECD4">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1452,12 +1452,12 @@
 
 	<animation id="rxl_bp70_missionaryswish_1" frames="500" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="103B8" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="103B9">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1465,13 +1465,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_trans_2" frames="160" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="11A9F" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="11AA0">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1479,13 +1479,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_2" frames="500" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="103BA" conditions="Intermediary-20_43">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="103BB">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1494,13 +1494,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_trans_3" frames="160" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="11AA1" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="11AA2">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1508,13 +1508,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_3" frames="500" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="103BC" conditions="Intermediary-43_66">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="103BD">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1522,13 +1522,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_trans_4" frames="160" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="11AA3" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="11AA4">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1536,13 +1536,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_4" frames="500" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="103BE" conditions="Intermediary-66_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="103BF">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1550,12 +1550,12 @@
 
 	<animation id="rxl_bp70_missionaryswish_trans_5" frames="160" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="11AA5" conditions="Climax">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="11AA6">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1563,13 +1563,13 @@
 
 	<animation id="rxl_bp70_missionaryswish_5" frames="500" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="103C0" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="103C1">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1577,12 +1577,12 @@
 
 	<animation id="rxl_bp70_toiletdoggy01" frames="160">
 		<actor gender="F" idleForm="18CDC" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="18CDD">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1590,13 +1590,13 @@
 
 	<animation id="rxl_bp70_toiletdoggy02" frames="240">
 		<actor gender="F" idleForm="18CDE" conditions="Intermediary-20_54">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="18CDF">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1604,13 +1604,13 @@
 
 	<animation id="rxl_bp70_toiletdoggy03" frames="240">
 		<actor gender="F" idleForm="18CE1" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="18CE2">
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1618,13 +1618,13 @@
 
 	<animation id="rxl_bp70_toiletdoggy04" frames="900">
 		<actor gender="F" idleForm="18CE3" conditions="Climax">
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="18CE4">
-			<action id="MaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

@@ -6,8 +6,7 @@
 	<animation id="ML_Blowjob_MM_01" frames="480">
 		<actor gender="M" idleForm="000F9B">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="MaleBlowjob Action" loop="true"/>
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="000F9C">
@@ -19,10 +18,9 @@
 
 	<animation id="ML_PenisLick_MM_01" frames="195">
 		<actor gender="M" idleForm="004C70">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="addTongue"/>
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="004C71">
@@ -32,11 +30,10 @@
 
 	<animation id="ML_Missionary_MM_Forced_01" frames="242">
 		<actor gender="M" idleForm="0100AF46">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.813"/>
-			<action id="MaleMoan Action" loop="true"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0100AF47">
@@ -50,10 +47,9 @@
 
 	<animation id="ML_MissionarPipeRifle_MM_Forced_01" frames="254">
 		<actor gender="M" idleForm="0100B6E2">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.813"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0100B6E3">
@@ -65,10 +61,9 @@
 
 	<animation id="ML_Doggy_MM_01" frames="480">
 		<actor gender="M" idleForm="007A0D">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.858"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="007A0E">
@@ -79,10 +74,9 @@
 
 	<animation id="ML_Cowgirl_MM_01" offset="0,0,0,0:5,2,0,0" frames="480">
 		<actor gender="M" idleForm="0081A9">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.950"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="0081A8">
@@ -96,9 +90,8 @@
 
 	<animation id="ML_FG_Cowgirl_MM_01" frames="480">
 		<actor gender="M" idleForm="000F99">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="000F9A">
@@ -111,9 +104,8 @@
 
 	<animation id="ML_Fleshlight_MM_01" frames="480">
 		<actor gender="M" idleForm="0035A1">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0035A2">
@@ -125,10 +117,9 @@
 
 	<animation id="ML_Tease_MM_01" frames="480">
 		<actor gender="M" idleForm="004C6F">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="004C6E">
@@ -139,10 +130,9 @@
 
 	<animation id="ML_Dumpster_MM_01" frames="480">
 		<actor gender="M" idleForm="00A7AA">
-			<action id="Full Action" target="1" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.493"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="00A7AB">

@@ -1,5 +1,5 @@
 <actorStatData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults isPersistent="false" isHidden="false" defaultValue="0" minValue="0" maxValue="100" decayRate="20" loadPriority="100"/>
+    <defaults isPersistent="false" isHidden="false" defaultValue="0" minValue="0" maxValue="100" decayRate="10000" loadPriority="100"/>
 
 
     <group id="statGroup1" showInProfile="false" showInStatMode="false" showInScene="false">
@@ -9,7 +9,7 @@
     </group>
 
     <group id="statGroup2" showInProfile="true" showInStatMode="true" showInScene="true">
-        <stat id="WOOF" shortForm="WOOF" priority="2" decayRate="20"/>
+        <stat id="Edge" shortForm="Edge" priority="2" decayRate="10000"/>
     </group>
 
 </actorStatData>

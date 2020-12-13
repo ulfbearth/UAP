@@ -7,8 +7,8 @@
 		<actor gender="M" idleForm="010098fb" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="1.132"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098f7">
@@ -22,8 +22,8 @@
 		<actor gender="M" idleForm="010098fd" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="1.132"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098f8">
@@ -37,8 +37,8 @@
 		<actor gender="M" idleForm="010098fe" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="1.132"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098f9">
@@ -53,8 +53,8 @@
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="1.132"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="010098fa">
@@ -68,8 +68,8 @@
 		<actor gender="M" idleForm="0100a0a5" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.388"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a099">
@@ -84,8 +84,8 @@
 		<actor gender="M" idleForm="0100a0a6" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.629"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a09a">
@@ -99,8 +99,8 @@
 		<actor gender="M" idleForm="0100a0a7" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.858"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a09b">
@@ -116,8 +116,8 @@
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.858"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SuperMutant" idleForm="0100a09c">
@@ -134,8 +134,8 @@
 	<animation id="GUCP_FEVHound_MM_01_S1" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 		<actor gender="M" idleForm="01007a8f" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="01007a8b">
@@ -146,8 +146,8 @@
 	<animation id="GUCP_FEVHound_MM_01_S2" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 		<actor gender="M" idleForm="01007a90" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="01007a8c">
@@ -158,8 +158,8 @@
 	<animation id="GUCP_FEVHound_MM_01_S3" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 		<actor gender="M" idleForm="01007a91" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="01007a8d">
@@ -170,8 +170,8 @@
 	<animation id="GUCP_FEVHound_MM_01_S4" frames="300" offset="0,0,-4.5,0:0,0,-3.0,0">
 		<actor gender="M" idleForm="01007a92" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FEVHound" idleForm="01007a8e">
@@ -186,8 +186,8 @@
 		<actor gender="M" idleForm="010063b8" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="2.064"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063bc">
@@ -202,8 +202,8 @@
 		<actor gender="M" idleForm="010063b9" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="2.064"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063bd">
@@ -218,8 +218,8 @@
 		<actor gender="M" idleForm="010063ba" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="2.064"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063be">
@@ -235,8 +235,8 @@
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="2.064"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="010063bf">
@@ -255,8 +255,8 @@
 		<actor gender="M" idleForm="0100547c" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005480">
@@ -270,8 +270,8 @@
 		<actor gender="M" idleForm="0100547d" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005481">
@@ -285,8 +285,8 @@
 		<actor gender="M" idleForm="0100547e" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005482">
@@ -301,8 +301,8 @@
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="01005483">
@@ -316,8 +316,8 @@
 		<actor gender="M" idleForm="0100a0a1" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a09d">
@@ -332,8 +332,8 @@
 		<actor gender="M" idleForm="0100a0a2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a09e">
@@ -348,8 +348,8 @@
 		<actor gender="M" idleForm="0100a0a3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a09f">
@@ -365,8 +365,8 @@
 			<morph id="Foreskin" to="0.000000000001"/>
 			<morph id="Anus Spread" to="0.588"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="FeralGhoul" idleForm="0100a0a0">
@@ -383,8 +383,8 @@
 	<animation id="GUCP_Molerat_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="0100453c" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Molerat" idleForm="01004544">
@@ -395,8 +395,8 @@
 	<animation id="GUCP_Molerat_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="0100453d" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Molerat" idleForm="01004545">
@@ -407,8 +407,8 @@
 	<animation id="GUCP_Molerat_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="0100453e" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Molerat" idleForm="01004546">
@@ -419,8 +419,8 @@
 	<animation id="GUCP_Molerat_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="0100453f" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Molerat" idleForm="01004547">
@@ -434,8 +434,8 @@
 	<animation id="GUCP_Behemoth_MM_01_S1" frames="300" offset="0,0,0,0:-174,0,-174,0">
 		<actor gender="M" idleForm="01004534" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="01004530">
@@ -446,8 +446,8 @@
 	<animation id="GUCP_Behemoth_MM_01_S2" frames="300" offset="0,0,0,0:-174,0,-174,0">
 		<actor gender="M" idleForm="01004535" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="01004531">
@@ -458,8 +458,8 @@
 	<animation id="GUCP_Behemoth_MM_01_S3" frames="300" offset="0,0,0,0:-174,0,-174,0">
 		<actor gender="M" idleForm="01004536" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="01004532">
@@ -470,8 +470,8 @@
 	<animation id="GUCP_Behemoth_MM_01_S4" frames="300" offset="0,0,0,0:-174,0,-174,0">
 		<actor gender="M" idleForm="01004537" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="01004533">
@@ -485,8 +485,8 @@
 	<animation id="GUCP_Alien_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="01004538" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Alien" idleForm="01004540">
@@ -497,8 +497,8 @@
 	<animation id="GUCP_Alien_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="01004539" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Alien" idleForm="01004541">
@@ -509,8 +509,8 @@
 	<animation id="GUCP_Alien_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="0100453a" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Alien" idleForm="01004542">
@@ -521,8 +521,8 @@
 	<animation id="GUCP_Alien_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="0100453b" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Alien" idleForm="01004543">
@@ -536,8 +536,8 @@
 	<animation id="GUCP_Bloatfly_MM_01_S1" frames="300" offset="0,0,0,0:0,3,27,0">
 		<actor gender="M" idleForm="00000F99" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Bloatfly" idleForm="00000FB5">
@@ -548,8 +548,8 @@
 	<animation id="GUCP_Bloatfly_MM_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
 		<actor gender="M" idleForm="00000F9A" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Bloatfly" idleForm="00000FB6">
@@ -560,8 +560,8 @@
 	<animation id="GUCP_Bloatfly_MM_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
 		<actor gender="M" idleForm="00000F9B" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Bloatfly" idleForm="00000FB7">
@@ -572,8 +572,8 @@
 	<animation id="GUCP_Bloatfly_MM_01_S4" frames="300" offset="0,0,0,0:0,3,27,0">
 		<actor gender="M" idleForm="00000F9C" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Bloatfly" idleForm="00000FB8">
@@ -586,8 +586,8 @@
 	<animation id="GUCP_Bloodbug_MM_01_S1" frames="300" offset="0,0,0,0:0,0,60,0">
 		<actor gender="M" idleForm="00000F9D" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mosquito" idleForm="00000FB9">
@@ -598,8 +598,8 @@
 	<animation id="GUCP_Bloodbug_MM_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
 		<actor gender="M" idleForm="00000F9E" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mosquito" idleForm="00000FBA">
@@ -610,8 +610,8 @@
 	<animation id="GUCP_Bloodbug_MM_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
 		<actor gender="M" idleForm="00000F9F" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mosquito" idleForm="00000FBB">
@@ -622,8 +622,8 @@
 	<animation id="GUCP_Bloodbug_MM_01_S4" frames="300" offset="0,0,0,0:0,0,60,0">
 		<actor gender="M" idleForm="00000FA0" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mosquito" idleForm="00000FBC">
@@ -636,8 +636,8 @@
 	<animation id="GUCP_Mirelurk_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00000FA1" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mirelurk" idleForm="00000FBD">
@@ -648,8 +648,8 @@
 	<animation id="GUCP_Mirelurk_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00000FA2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mirelurk" idleForm="00000FBE">
@@ -660,8 +660,8 @@
 	<animation id="GUCP_Mirelurk_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00000FA3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mirelurk" idleForm="00000FBF">
@@ -672,8 +672,8 @@
 	<animation id="GUCP_Mirelurk_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00000FA4" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Mirelurk" idleForm="00000FC0">
@@ -686,8 +686,8 @@
 	<animation id="GUCP_MirelurkHunter_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00000FA5" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkHunter" idleForm="00000FC1">
@@ -698,8 +698,8 @@
 	<animation id="GUCP_MirelurkHunter_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00000FA6" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkHunter" idleForm="00000FC2">
@@ -710,8 +710,8 @@
 	<animation id="GUCP_MirelurkHunter_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00000FA7" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkHunter" idleForm="00000FC3">
@@ -722,8 +722,8 @@
 	<animation id="GUCP_MirelurkHunter_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00000FA8" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkHunter" idleForm="00000FC4">
@@ -736,8 +736,8 @@
 	<animation id="GUCP_MirelurkKing_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00001F0F" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkKing" idleForm="00001F03">
@@ -748,8 +748,8 @@
 	<animation id="GUCP_MirelurkKing_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00001F10" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkKing" idleForm="00001F04">
@@ -760,8 +760,8 @@
 	<animation id="GUCP_MirelurkKing_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00001F11" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkKing" idleForm="00001F05">
@@ -772,8 +772,8 @@
 	<animation id="GUCP_MirelurkKing_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00001F12" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkKing" idleForm="00001F06">
@@ -786,8 +786,8 @@
 	<animation id="GUCP_MirelurkQueen_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00000FA9" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkQueen" idleForm="00000FC5">
@@ -798,8 +798,8 @@
 	<animation id="GUCP_MirelurkQueen_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00000FAA" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkQueen" idleForm="00000FC6">
@@ -810,8 +810,8 @@
 	<animation id="GUCP_MirelurkQueen_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00000FAB" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkQueen" idleForm="00000FC7">
@@ -822,8 +822,8 @@
 	<animation id="GUCP_MirelurkQueen_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00000FAC" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="MirelurkQueen" idleForm="00000FC8">
@@ -836,8 +836,8 @@
 	<animation id="GUCP_Radscorpion_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00000FAD" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="RadScorpion" idleForm="00000FC9">
@@ -848,8 +848,8 @@
 	<animation id="GUCP_Radscorpion_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00000FAE" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="RadScorpion" idleForm="00000FCA">
@@ -860,8 +860,8 @@
 	<animation id="GUCP_Radscorpion_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00000FAF" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="RadScorpion" idleForm="00000FCB">
@@ -872,8 +872,8 @@
 	<animation id="GUCP_Radscorpion_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00000FB0" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="RadScorpion" idleForm="00000FCC">
@@ -886,8 +886,8 @@
 	<animation id="GUCP_Stingwing_MM_01_S1" frames="300" offset="0,0,0,0:0,50,50,0">
 		<actor gender="M" idleForm="00000FB1" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Stingwing" idleForm="00000FCD">
@@ -898,8 +898,8 @@
 	<animation id="GUCP_Stingwing_MM_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
 		<actor gender="M" idleForm="00000FB2" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Stingwing" idleForm="00000FCE">
@@ -910,8 +910,8 @@
 	<animation id="GUCP_Stingwing_MM_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
 		<actor gender="M" idleForm="00000FB3" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Stingwing" idleForm="00000FCF">
@@ -922,8 +922,8 @@
 	<animation id="GUCP_Stingwing_MM_01_S4" frames="300" offset="0,0,0,0:0,50,50,0">
 		<actor gender="M" idleForm="00000FB4" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Stingwing" idleForm="00000FD0">
@@ -936,8 +936,8 @@
 	<animation id="GUCP_YaoGuai_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="00001F0B" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="YaoGuai" idleForm="00001F07">
@@ -948,8 +948,8 @@
 	<animation id="GUCP_YaoGuai_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="00001F0C" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="YaoGuai" idleForm="00001F08">
@@ -960,8 +960,8 @@
 	<animation id="GUCP_YaoGuai_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="00001F0D" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="YaoGuai" idleForm="00001F09">
@@ -972,8 +972,8 @@
 	<animation id="GUCP_YaoGuai_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="00001F0E" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="YaoGuai" idleForm="00001F0A">

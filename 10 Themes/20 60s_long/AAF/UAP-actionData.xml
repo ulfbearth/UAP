@@ -2,89 +2,66 @@
     <defaults />
 
 
-    <!-- Woof Stats Appliers -->
-    <action id="Resetall Action">
+    <!-- Edge Stats Appliers -->
+    <action id="Resetall">
         <self>
-            <stat range="0-" statID="WOOF" add="-100"/>
+            <stat range="0-" statID="Edge" add="-100"/>
         </self>
         <target>
-            <stat range="0-" statID="WOOF" add="-100"/>
+            <stat range="0-" statID="Edge" add="-100"/>
         </target>
     </action>
 
-    <action id="WOOF Action">
+    <action id="Edge">
         <self meter="basic" >
-            <stat range="0-" statID="WOOF" add=".1666"/>
+            <stat range="0-" statID="Edge" add=".1666"/>
         </self>
         <target meter="basic" >
-            <stat range="0-" statID="WOOF" add=".1666"/>
+            <stat range="0-" statID="Edge" add=".1666"/>
         </target>
     </action>
 
 
-    <!-- Female Moans Voicesets -->
-
-    <action id="FemaleMoan Action">
-        <self topicGroupID="FemaleMoans Topic">
-        </self>
-    </action>
-
-    <action id="FemaleOrgasm Action">
-        <self topicGroupID="FemaleOrgasm Topic">
-        </self>
-    </action>
-
-    <action id="FemaleAggMoan Action">
-        <self topicGroupID="FemaleAggMoans Topic">
-        </self>
-    </action>
-
-    <action id="FemaleAggOrgasm Action">
-        <self topicGroupID="FemaleAggOrgasm Topic">
+    <!-- UAP Moans Voicesets -->
+    <action id="UAPMoans">
+        <self topicGroupID="UAPMoans">
         </self>
     </action>
 
 
-    <!-- Manly Moans Voicesets -->
-    <action id="MaleMoan Action">
-        <self topicGroupID="MaleMoans Topic">
+    <action id="CreatureMoan">
+        <self topicGroupID="CreatureMoans">
         </self>
     </action>
 
 
-    <action id="CreatureMoan Action">
-        <self topicGroupID="CreatureMoans Topic">
+    <action id="UAPBlowjob">
+        <self topicGroupID="UAPBlowjob">
+        </self>
+    </action>
+
+    <action id="UAPOrgasm">
+        <self topicGroupID="UAPOrgasm">
         </self>
     </action>
 
 
-    <action id="MaleBlowjob Action">
-        <self topicGroupID="MaleBlowjob Topic">
-        </self>
-    </action>
-
-    <action id="MaleOrgasm Action">
-        <self topicGroupID="MaleOrgasm Topic">
-        </self>
-    </action>
-
-
-    <action id="MaleAggMoan Action">
-        <self topicGroupID="MaleAggMoans Topic">
+    <action id="UAPAggMoans">
+        <self topicGroupID="UAPAggMoans">
         </self>
     </action>
 
 
 
-    <action id="CreatureAggMoan Action">
-        <self topicGroupID="CreatureAggMoans Topic">
+    <action id="CreatureAggMoan">
+        <self topicGroupID="CreatureAggMoans">
         </self>
     </action>
 
 
 
-    <action id="MaleAggOrgasm Action">
-        <self topicGroupID="MaleAggMoans Topic">
+    <action id="UAPAggOrgasm">
+        <self topicGroupID="UAPAggMoans">
         </self>
     </action>
 </actionData>

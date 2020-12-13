@@ -7,11 +7,11 @@
 
 	<animation id="Leito_Blowjob_1_S1" frames="300" offset="-0.3,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CB2" conditions="Foreplay">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CB6">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
@@ -21,11 +21,11 @@
 	<animation id="Leito_Blowjob_1_S2" frames="300" offset="-0.3,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CB3" conditions="Intermediary-20_54">
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CB7">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
@@ -34,12 +34,12 @@
 
 	<animation id="Leito_Blowjob_1_S3" frames="288" offset="-0.3,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CB4" conditions="Intermediary-55_89">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
 		<actor gender="M" idleForm="4CB8">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>		
@@ -48,11 +48,11 @@
 
 	<animation id="Leito_Blowjob_1_S4" frames="320" offset="-0.3,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CB5" conditions="Climax">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CB9">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
@@ -63,12 +63,12 @@
 
 	<animation id="Leito_Carry_1_S1" frames="300" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="4503" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4507">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -78,12 +78,12 @@
 	<animation id="Leito_Carry_1_S2" frames="304" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="4504" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4508">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -92,13 +92,13 @@
 
 	<animation id="Leito_Carry_1_S3" frames="297" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="4505" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4509">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.3"/>
@@ -108,12 +108,12 @@
 	<animation id="Leito_Carry_1_S4" frames="270" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="4506" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="450A">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -124,12 +124,12 @@
 
 	<animation id="Leito_Carry_2_S1" frames="297" offset="0,0,2.5,0:0,0,0,0">
 		<actor gender="F" idleForm="A891" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A895">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -139,12 +139,12 @@
 	<animation id="Leito_Carry_2_S2" frames="288" offset="0,0,2.5,0:0,0,0,0">
 		<actor gender="F" idleForm="A892" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A896">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -153,13 +153,13 @@
 
 	<animation id="Leito_Carry_2_S3" frames="330" offset="0,0,2.5,0:0,0,0,0">
 		<actor gender="F" idleForm="A893" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A897">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.3"/>
@@ -169,12 +169,12 @@
 	<animation id="Leito_Carry_2_S4" frames="280" offset="0,0,2.5,0:0,0,0,0">
 		<actor gender="F" idleForm="A894" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A898">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -185,12 +185,12 @@
 
 	<animation id="Leito_Cowgirl_1_S1" frames="350">
 		<actor gender="F" idleForm="173F" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1740">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -199,12 +199,12 @@
 	<animation id="Leito_Cowgirl_1_S2" frames="300">
 		<actor gender="F" idleForm="2E27" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E2A">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.6"/>
@@ -213,13 +213,13 @@
 
 	<animation id="Leito_Cowgirl_1_S3" frames="300">
 		<actor gender="F" idleForm="2E28" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E2B">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.7"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -228,12 +228,12 @@
 	<animation id="Leito_Cowgirl_1_S4" frames="320">
 		<actor gender="F" idleForm="2E29" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E2C">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.7"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -243,12 +243,12 @@
 
 	<animation id="Leito_Cowgirl_2_S1" frames="350">
 		<actor gender="F" idleForm="5C34" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="5C38">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
@@ -258,12 +258,12 @@
 	<animation id="Leito_Cowgirl_2_S2" frames="340">
 		<actor gender="F" idleForm="5C35" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="5C39">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
@@ -272,13 +272,13 @@
 
 	<animation id="Leito_Cowgirl_2_S3" frames="340">
 		<actor gender="F" idleForm="5C36" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="5C3A">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
@@ -288,12 +288,12 @@
 	<animation id="Leito_Cowgirl_2_S4" frames="200">
 		<actor gender="F" idleForm="5C37" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="5C3B">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
@@ -304,12 +304,12 @@
 
 	<animation id="Leito_Cowgirl_3_S1" frames="350" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="63DF" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="63E3">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.7"/>
@@ -319,12 +319,12 @@
 	<animation id="Leito_Cowgirl_3_S2" frames="340" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="63E0" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="63E4">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.3"/>
@@ -333,13 +333,13 @@
 
 	<animation id="Leito_Cowgirl_3_S3" frames="330" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="63E1" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="63E5">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.6"/>
@@ -349,12 +349,12 @@
 	<animation id="Leito_Cowgirl_3_S4" frames="280" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="63E2" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="63E6">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.7"/>
 			<morph id="Erection Down" to="1"/>
 		</actor>
@@ -364,12 +364,12 @@
 
 	<animation id="Leito_Cowgirl_4_S1" frames="350">
 		<actor gender="F" idleForm="A899" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A89D">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -378,12 +378,12 @@
 	<animation id="Leito_Cowgirl_4_S2" frames="340">
 		<actor gender="F" idleForm="A89A" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A89E">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -391,13 +391,13 @@
 
 	<animation id="Leito_Cowgirl_4_S3" frames="330">
 		<actor gender="F" idleForm="A89B" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A89F">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -406,12 +406,12 @@
 	<animation id="Leito_Cowgirl_4_S4" frames="280">
 		<actor gender="F" idleForm="A89C" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A8A0">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -421,12 +421,12 @@
 
 	<animation id="Leito_Doggy_1_S1" frames="300">
 		<actor gender="F" idleForm="1739" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1738">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -435,12 +435,12 @@
 	<animation id="Leito_Doggy_1_S2" frames="308">
 		<actor gender="F" idleForm="1EDE" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1EE1">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -448,13 +448,13 @@
 
 	<animation id="Leito_Doggy_1_S3" frames="300">
 		<actor gender="F" idleForm="1EDF" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1EE2">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -463,12 +463,12 @@
 	<animation id="Leito_Doggy_1_S4" frames="320">
 		<actor gender="F" idleForm="1EE0" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="1EE3">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -478,12 +478,12 @@
 
 	<animation id="Leito_Doggy_2_S1" frames="300">
 		<actor gender="F" idleForm="2E35" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E39">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -492,12 +492,12 @@
 	<animation id="Leito_Doggy_2_S2" frames="308">
 		<actor gender="F" idleForm="2E36" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E3A">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -505,13 +505,13 @@
 
 	<animation id="Leito_Doggy_2_S3" frames="315">
 		<actor gender="F" idleForm="2E37" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E3B">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -520,12 +520,12 @@
 	<animation id="Leito_Doggy_2_S4" frames="320">
 		<actor gender="F" idleForm="2E38" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E3C">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -535,12 +535,12 @@
 
 	<animation id="Leito_Missionary_1_S1" frames="320" offset="0,-2,1.3,0:0,0,0,0">
 		<actor gender="F" idleForm="4C8D" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4C8E">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
@@ -550,12 +550,12 @@
 	<animation id="Leito_Missionary_1_S2" frames="224" offset="0,-2,1.3,0:0,0,0,0">
 		<actor gender="F" idleForm="2682" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2685">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.4"/>
@@ -564,13 +564,13 @@
 
 	<animation id="Leito_Missionary_1_S3" frames="308" offset="0,-2,1.3,0:0,0,0,0">
 		<actor gender="F" idleForm="2683" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2686">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.6"/>
@@ -580,12 +580,12 @@
 	<animation id="Leito_Missionary_1_S4" frames="240" offset="0,-2,1.3,0:0,0,0,0">
 		<actor gender="F" idleForm="2684" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2687">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
@@ -596,12 +596,12 @@
 
 	<animation id="Leito_Missionary_2_S1" frames="360" offset="0,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="2E2D" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E31">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -610,12 +610,12 @@
 	<animation id="Leito_Missionary_2_S2" frames="324" offset="0,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="2E2E" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E32">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -623,13 +623,13 @@
 
 	<animation id="Leito_Missionary_2_S3" frames="320" offset="0,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="2E2F" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E33">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -638,12 +638,12 @@
 	<animation id="Leito_Missionary_2_S4" frames="350" offset="0,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="2E30" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="2E34">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -653,12 +653,12 @@
 
 	<animation id="Leito_Powerbomb_1_S1" frames="280" offset="0,-1.2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="450B" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="450F">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.5"/>
@@ -668,12 +668,12 @@
 	<animation id="Leito_Powerbomb_1_S2" frames="300" offset="0,-1.2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="450C" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4510">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.5"/>
@@ -682,13 +682,13 @@
 
 	<animation id="Leito_Powerbomb_1_S3" frames="299" offset="0,-1.2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="450D" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4511">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.6"/>
@@ -698,12 +698,12 @@
 	<animation id="Leito_Powerbomb_1_S4" frames="320" offset="0,-1.2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="450E" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4512">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.9"/>
 			<morph id="Erection Down" to="1.5"/>
 		</actor>
@@ -713,12 +713,12 @@
 
 	<animation id="Leito_ReverseCarry_1_S1" frames="320" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="A8A1" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A8A5">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
 			<morph id="Erection Up" to="1.4"/>
 		</actor>
@@ -727,12 +727,12 @@
 	<animation id="Leito_ReverseCarry_1_S2" frames="288" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="A8A2" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A8A6">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
 			<morph id="Erection Up" to="1.4"/>
 		</actor>
@@ -740,13 +740,13 @@
 
 	<animation id="Leito_ReverseCarry_1_S3" frames="290" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="A8A3" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A8A7">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
 			<morph id="Erection Up" to="1.4"/>
 		</actor>
@@ -755,12 +755,12 @@
 	<animation id="Leito_ReverseCarry_1_S4" frames="280" offset="0,0,2,0:0,0,0,0">
 		<actor gender="F" idleForm="A8A4" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="A8A8">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.8"/>
 			<morph id="Erection Up" to="1.4"/>
 		</actor>
@@ -770,12 +770,12 @@
 
 	<animation id="Leito_ReverseCowgirl_1_S1" frames="322" offset="0,-3,2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="6B82" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="6B86">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
@@ -785,12 +785,12 @@
 	<animation id="Leito_ReverseCowgirl_1_S2" frames="340" offset="0,-3,2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="6B83" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="6B87">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
@@ -799,13 +799,13 @@
 
 	<animation id="Leito_ReverseCowgirl_1_S3" frames="333" offset="0,-3,2,0:0,0,0,0">
 		<actor gender="F" idleForm="6B84" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="6B88">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
@@ -815,12 +815,12 @@
 	<animation id="Leito_ReverseCowgirl_1_S4" frames="350" offset="0,-3,2,0:0,0,0,0">
 		<actor gender="F" idleForm="6B85" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="6B89">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
@@ -831,12 +831,12 @@
 
 	<animation id="Leito_ReverseCowgirl_2_S1" frames="338" offset="0,1,2,0,0:0,0,0,0">
 		<actor gender="F" idleForm="732E" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7332">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.75"/>
 			<morph id="Erection Up" to="2"/>
 		</actor>
@@ -845,12 +845,12 @@
 	<animation id="Leito_ReverseCowgirl_2_S2" frames="336" offset="0,1,2,0:0,0,0,0">
 		<actor gender="F" idleForm="732F" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7333">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.9"/>
 			<morph id="Erection Up" to="1.5"/>
 		</actor>
@@ -858,13 +858,13 @@
 
 	<animation id="Leito_ReverseCowgirl_2_S3" frames="330" offset="0,1,2,0:0,0,0,0">
 		<actor gender="F" idleForm="7330" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7334">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
 			<morph id="Erection Up" to="2.7"/>
 		</actor>
@@ -873,12 +873,12 @@
 	<animation id="Leito_ReverseCowgirl_2_S4" frames="280" offset="0,1,2,0:0,0,0,0">
 		<actor gender="F" idleForm="7331" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7335">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.8"/>
 			<morph id="Erection Up" to="2.7"/>
 		</actor>
@@ -888,12 +888,12 @@
 
 	<animation id="Leito_Spoon_1_S1" frames="350" offset="1,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CEB" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CEF">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
@@ -903,12 +903,12 @@
 	<animation id="Leito_Spoon_1_S2" frames="324" offset="1,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CEC" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CF0">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
@@ -917,13 +917,13 @@
 
 	<animation id="Leito_Spoon_1_S3" frames="300" offset="1,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CED" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CF1">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
@@ -933,12 +933,12 @@
 	<animation id="Leito_Spoon_1_S4" frames="200" offset="1,0,0.5,0:0,0,0,0">
 		<actor gender="F" idleForm="4CEE" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="4CF2">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
@@ -949,12 +949,12 @@
 
 	<animation id="Leito_StandingDoggy_1_S1" frames="300">
 		<actor gender="F" idleForm="7AD1" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7AD5">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
@@ -964,12 +964,12 @@
 	<animation id="Leito_StandingDoggy_1_S2" frames="300">
 		<actor gender="F" idleForm="7AD2" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7AD6">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
@@ -978,13 +978,13 @@
 
 	<animation id="Leito_StandingDoggy_1_S3" frames="290">
 		<actor gender="F" idleForm="7AD3" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7AD7">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
@@ -994,12 +994,12 @@
 	<animation id="Leito_StandingDoggy_1_S4" frames="280">
 		<actor gender="F" idleForm="7AD4" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7AD8">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
@@ -1010,12 +1010,12 @@
 
 	<animation id="Leito_StandingDoggy_2_S1" frames="200" offset="0,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="7AD9" conditions="Foreplay">
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7ADD">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
@@ -1025,12 +1025,12 @@
 	<animation id="Leito_StandingDoggy_2_S2" frames="224" offset="0,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="7ADA" conditions="Intermediary-20_54">
 			
-			<action id="FemaleMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7ADE">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
@@ -1039,13 +1039,13 @@
 
 	<animation id="Leito_StandingDoggy_2_S3" frames="220" offset="0,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="7ADB" conditions="Intermediary-55_89">
-			<action id="FemaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7ADF">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
@@ -1055,12 +1055,12 @@
 	<animation id="Leito_StandingDoggy_2_S4" frames="210" offset="0,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="7ADC" conditions="Climax">
 			<action id="Play-Pussy-CumLeak" loop="true"/>
-			<action id="FemaleOrgasm Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="7AE0">
-			<action id="MaleOrgasm Action" from="0" to="1" frames="30"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
@@ -1071,11 +1071,11 @@
 
 	<animation id="LeitoAggressiveBlowjob" frames="308" offset="-0.3,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="B71E">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B71F">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleAggMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
@@ -1084,12 +1084,12 @@
 
 	<animation id="LeitoAggressiveCarry" frames="312">
 		<actor gender="F" idleForm="6367">
-			<action id="FemaleAggMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="173C">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleAggMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
@@ -1098,12 +1098,12 @@
 
 	<animation id="LeitoAggressiveCowgirl" frames="300">
 		<actor gender="F" idleForm="B720">
-			<action id="FemaleAggMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B721">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleAggMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.4"/>		
@@ -1112,12 +1112,12 @@
 
 	<animation id="LeitoAggressiveDoggy" frames="312">
 		<actor gender="F" idleForm="B723">
-			<action id="FemaleAggMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B722">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleAggMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -1125,12 +1125,12 @@
 
 	<animation id="LeitoAggressiveMissionary" frames="228">
 		<actor gender="F" idleForm="B724">
-			<action id="FemaleAggMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B725">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleAggMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.2"/>
@@ -1139,12 +1139,12 @@
 
 	<animation id="LeitoAggressivePowerbomb" frames="300" offset="0,-1,0,0:0,0,0,0">
 		<actor gender="F" idleForm="B726">
-			<action id="FemaleAggMoan Action" loop="true"/>
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B727">
-			<action id="WOOF Action" from="0" to="1" frames="30"/>
-			<action id="MaleAggMoan Action" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.5"/>

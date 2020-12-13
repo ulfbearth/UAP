@@ -4,40 +4,10 @@
     <animationOffset actor="1" offset="0,0,43,0"/>
     <animationOffset actor="2" offset="0,0,43,0"/>
 
-	<position id="[UAP] Leito - Bed Aggressive Blowjob" animation="LeitoAggressiveBlowjob" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Aggressive Carry" animation="LeitoAggressiveCarry" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
 	<position id="[UAP] Leito - Bed Aggressive Cowgirl" animation="LeitoAggressiveCowgirl" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
 	<position id="[UAP] Leito - Bed Aggressive Doggy" animation="LeitoAggressiveDoggy" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither"/>
 	<position id="[UAP] Leito - Bed Aggressive Missionary" animation="LeitoAggressiveMissionary" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
 	<position id="[UAP] Leito - Bed Aggressive Powerbomb" animation="LeitoAggressivePowerbomb" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-
-	<position id="[UAP] Leito - Bed Blowjob" positionTree="Leito_Bed_Blowjob_1_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Blowjob Sequence" animationGroup="Leito_Blowjob_1_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Blowjob (Stage 1)" animation="Leito_Blowjob_1_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Blowjob (Stage 2)" animation="Leito_Blowjob_1_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Blowjob (Stage 3)" animation="Leito_Blowjob_1_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-	<position id="[UAP] Leito - Bed Blowjob (Stage 4)" animation="Leito_Blowjob_1_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
-
-
-
-
-	<position id="[UAP] Leito - Bed Carry" positionTree="Leito_Bed_Carry_1_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry Sequence" animationGroup="Leito_Carry_1_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry (Stage 1)" animation="Leito_Carry_1_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry (Stage 2)" animation="Leito_Carry_1_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry (Stage 3)" animation="Leito_Carry_1_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry (Stage 4)" animation="Leito_Carry_1_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-
-
-
-
-	<position id="[UAP] Leito - Bed Carry 2" positionTree="Leito_Bed_Carry_2_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry 2 Sequence" animationGroup="Leito_Carry_2_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry 2 (Stage 1)" animation="Leito_Carry_2_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry 2 (Stage 2)" animation="Leito_Carry_2_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry 2 (Stage 3)" animation="Leito_Carry_2_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-	<position id="[UAP] Leito - Bed Carry 2 (Stage 4)" animation="Leito_Carry_2_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
-
 
 
 
@@ -130,17 +100,6 @@
 
 
 
-
-	<position id="[UAP] Leito - Bed Reverse Carry" positionTree="Leito_Bed_ReverseCarry_1_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Reverse Carry Sequence" animationGroup="Leito_ReverseCarry_1_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Reverse Carry (Stage 1)" animation="Leito_ReverseCarry_1_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Reverse Carry (Stage 2)" animation="Leito_ReverseCarry_1_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Reverse Carry (Stage 3)" animation="Leito_ReverseCarry_1_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Reverse Carry (Stage 4)" animation="Leito_ReverseCarry_1_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,PenisToAnus"/>
-
-
-
-
 	<position id="[UAP] Leito - Bed Reverse Cowgirl" positionTree="Leito_Bed_ReverseCowgirl_1_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
 	<position id="[UAP] Leito - Bed Reverse Cowgirl Sequence" animationGroup="Leito_ReverseCowgirl_1_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
 	<position id="[UAP] Leito - Bed Reverse Cowgirl (Stage 1)" animation="Leito_ReverseCowgirl_1_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
@@ -167,27 +126,6 @@
 	<position id="[UAP] Leito - Bed Spoon (Stage 2)" animation="Leito_Spoon_1_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,PenisToVagina"/>
 	<position id="[UAP] Leito - Bed Spoon (Stage 3)" animation="Leito_Spoon_1_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,PenisToVagina"/>
 	<position id="[UAP] Leito - Bed Spoon (Stage 4)" animation="Leito_Spoon_1_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,PenisToVagina"/>
-
-
-
-
-	<position id="[UAP] Leito - Bed Standing Doggy" positionTree="Leito_Bed_StandingDoggy_1_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Standing Doggy Sequence" animationGroup="Leito_StandingDoggy_1_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Standing Doggy (Stage 1)" animation="Leito_StandingDoggy_1_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Standing Doggy (Stage 2)" animation="Leito_StandingDoggy_1_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Standing Doggy (Stage 3)" animation="Leito_StandingDoggy_1_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-	<position id="[UAP] Leito - Bed Standing Doggy (Stage 4)" animation="Leito_StandingDoggy_1_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-
-
-
-
-	<position id="[UAP] Leito - Bed Standing Doggy 2" positionTree="Leito_Bed_StandingDoggy_2_Tree" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Standing Doggy 2 Sequence" animationGroup="Leito_StandingDoggy_2_Staged" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Standing Doggy 2 (Stage 1)" animation="Leito_StandingDoggy_2_S1" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Standing Doggy 2 (Stage 2)" animation="Leito_StandingDoggy_2_S2" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Standing Doggy 2 (Stage 3)" animation="Leito_StandingDoggy_2_S3" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-	<position id="[UAP] Leito - Bed Standing Doggy 2 (Stage 4)" animation="Leito_StandingDoggy_2_S4" isHidden="true" location="Single_Bed,Double_Bed" tags="Leito,F_M,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-
 
 
 

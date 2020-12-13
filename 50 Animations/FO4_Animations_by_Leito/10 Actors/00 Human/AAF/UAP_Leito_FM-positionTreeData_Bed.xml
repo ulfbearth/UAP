@@ -2,75 +2,7 @@
 	<defaults loadPriority="1"/>
 
 
-	<tree id="Leito_Bed_Blowjob_1_Tree" useConditions="true" strictExiting="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Blowjob Sequence" time="0">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Bed Blowjob (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Bed Blowjob (Stage 2)" forceComplete="true" time="0">
-
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Blowjob (Stage 3)" forceComplete="true" time="0">
-
-						<branch id="Climax" positionID="[UAP] Leito - Bed Blowjob (Stage 4)" forceComplete="true" time="15" isExit="true">
-		
-						</branch>
-	
-
-					</branch>
-
-
-				</branch>
-				
-			</branch>
-		</branch>
-	</tree>
-
-
-
-	<tree id="Leito_Bed_Carry_1_Tree" useConditions="true" strictExiting="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Carry Sequence" time="0">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Bed Carry (Stage 1)" forceComplete="true" time="0">
-
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Bed Carry (Stage 2)" forceComplete="true" time="0">
-
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Carry (Stage 3)" forceComplete="true" time="0">
-
-						<branch id="Climax" positionID="[UAP] Leito - Bed Carry (Stage 4)" forceComplete="true" time="15" isExit="true">
-		
-						</branch>
-	
-
-					</branch>
-
-
-				</branch>
-				
-			</branch>
-		</branch>
-	</tree>
-
-
-
-	<tree id="Leito_Bed_Carry_2_Tree" useConditions="true" strictExiting="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Carry 2 Sequence" time="0">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Bed Carry 2 (Stage 1)" forceComplete="true" time="0">
-
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Bed Carry 2 (Stage 2)" forceComplete="true" time="0">
-
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Carry 2 (Stage 3)" forceComplete="true" time="0">
-
-						<branch id="Climax" positionID="[UAP] Leito - Bed Carry 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
-		
-						</branch>
-	
-
-					</branch>
-
-
-				</branch>
-				
-			</branch>
-		</branch>
-	</tree>
 
 
 
@@ -290,29 +222,6 @@
 
 
 
-	<tree id="Leito_Bed_ReverseCarry_1_Tree" useConditions="true" strictExiting="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Reverse Carry Sequence" time="0">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Bed Reverse Carry (Stage 1)" forceComplete="true" time="0">
-
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Bed Reverse Carry (Stage 2)" forceComplete="true" time="0">
-
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Reverse Carry (Stage 3)" forceComplete="true" time="0">
-
-						<branch id="Climax" positionID="[UAP] Leito - Bed Reverse Carry (Stage 4)" forceComplete="true" time="15" isExit="true">
-		
-						</branch>
-	
-
-					</branch>
-
-
-				</branch>
-				
-			</branch>
-		</branch>
-	</tree>
-
-
 
 	<tree id="Leito_Bed_ReverseCowgirl_1_Tree" useConditions="true" strictExiting="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Reverse Cowgirl Sequence" time="0">
@@ -384,53 +293,6 @@
 		</branch>
 	</tree>
 
-
-
-	<tree id="Leito_Bed_StandingDoggy_1_Tree" useConditions="true" strictExiting="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Standing Doggy Sequence" time="0">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Bed Standing Doggy (Stage 1)" forceComplete="true" time="0">
-
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Bed Standing Doggy (Stage 2)" forceComplete="true" time="0">
-
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Standing Doggy (Stage 3)" forceComplete="true" time="0">
-
-						<branch id="Climax" positionID="[UAP] Leito - Bed Standing Doggy (Stage 4)" forceComplete="true" time="15" isExit="true">
-		
-						</branch>
-	
-
-					</branch>
-
-
-				</branch>
-				
-			</branch>
-		</branch>
-	</tree>
-
-
-
-	<tree id="Leito_Bed_StandingDoggy_2_Tree" useConditions="true" strictExiting="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Bed Standing Doggy 2 Sequence" time="0">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Bed Standing Doggy 2 (Stage 1)" forceComplete="true" time="0">
-
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Bed Standing Doggy 2 (Stage 2)" forceComplete="true" time="0">
-
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Standing Doggy 2 (Stage 3)" forceComplete="true" time="0">
-
-						<branch id="Climax" positionID="[UAP] Leito - Bed Standing Doggy 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
-		
-						</branch>
-	
-
-					</branch>
-
-
-				</branch>
-				
-			</branch>
-		</branch>
-	</tree>
 
 
 

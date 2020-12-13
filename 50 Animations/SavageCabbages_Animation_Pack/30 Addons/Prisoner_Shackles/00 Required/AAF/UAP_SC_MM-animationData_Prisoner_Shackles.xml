@@ -8,33 +8,33 @@
 	<animation id="SCAP_HeldShackles_MM_2Human_01_S1" frames="500">
 		<actor gender="M" idleForm="00001816">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="00001817">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_HeldShackles_MM_2Human_01_S2" frames="500">
 		<actor gender="M" idleForm="00001016">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="00001017">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_HeldShackles_MM_2Human_01_S3" frames="500">
 		<actor gender="M" idleForm="00027329">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0002732A">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 
@@ -47,16 +47,16 @@
 	<animation id="SCAP_HeldShackles_MM_3Human_01" frames="500">
 		<actor gender="M" idleForm="00001049">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0000104A">
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="0000104B">
 			<morph id="Erection Down" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 </animationData>

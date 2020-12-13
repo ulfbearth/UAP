@@ -6,8 +6,8 @@
 	<animation id="Leito_Doggy_MM_2Dog_01_S1" frames="480">
 		<actor gender="M" idleForm="00004523" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00004524">
@@ -20,8 +20,8 @@
 		<actor gender="M" idleForm="0000268B" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00002688">
@@ -34,8 +34,8 @@
 		<actor gender="M" idleForm="0000268C" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00002689">
@@ -47,8 +47,8 @@
 		<actor gender="M" idleForm="0000268D" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 
 			<morph id="Erection" to="1.0000000000001"/>
@@ -64,8 +64,8 @@
 	<animation id="Leito_Doggy_MM_2Dog_02_S1" frames="480">
 		<actor gender="M" idleForm="00003D80" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7C">
@@ -77,8 +77,8 @@
 		<actor gender="M" idleForm="00003D81" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7D">
@@ -91,8 +91,8 @@
 		<actor gender="M" idleForm="00003D82" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00003D7E">
@@ -105,8 +105,8 @@
 		<actor gender="M" idleForm="00003D83" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 
 			<morph id="Erection" to="1.0000000000001"/>
@@ -122,8 +122,8 @@
 	<animation id="Leito_Missionary_MM_2Dog_01_S1" frames="256" offset="0,-2,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00001EE4" conditions="Foreplay">
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EE8">
@@ -136,8 +136,8 @@
 		<actor gender="M" idleForm="00001EE5" conditions="Intermediary-20_54">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.765"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EE9">
@@ -151,8 +151,8 @@
 		<actor gender="M" idleForm="00001EE6" conditions="Intermediary-55_89">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.765"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="00001EEA">
@@ -166,8 +166,8 @@
 		<actor gender="M" idleForm="00001EE7" conditions="Climax">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="0.679"/>
-			<action id="WOOF Action" target="1" from="0" to="1" frames="30"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="Edge" target="1" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

@@ -5,47 +5,47 @@
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S1" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00004504">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004503">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S2" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="000035C6">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000035C5">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S3" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="000035C8">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000035C7">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S4" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="000035CA">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000035C9">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -54,22 +54,22 @@
 
 	<animation id="ZaZOut4_Blowjob_MM_01_4TR5" frames="180" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00003D85">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00003D84">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S5" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00003D66">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00003D65">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -78,45 +78,45 @@
 
 	<animation id="ZaZOut4_Blowjob_MM_01_5TR6" frames="300" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00004529">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004528">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S6" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00004502">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004501">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S7" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00004506">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004505">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Blowjob_MM_01_S8" frames="500" offset="0,0.5,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="0000452B">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000452A">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -125,88 +125,88 @@
 
 	<animation id="ZaZOut4_Pussy_MM_01_00" frames="80" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00002698">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002697">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S1" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00001EE4">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE3">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S2" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00001EE5">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE6">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S3" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00001EEB">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EEA">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S4" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00002691">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002690">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S5" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00002694">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002693">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S6" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="00002696">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002695">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S7" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="0000269A">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002699">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -215,22 +215,22 @@
 
 	<animation id="ZaZOut4_Pussy_MM_01_7TR8" frames="400" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="000026A3">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000026A2">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S8" frames="300" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="000026A5">
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000026A4">
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -239,22 +239,22 @@
 
 	<animation id="ZaZOut4_Pussy_MM_01_8TR9" frames="90" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="000026A7">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000026A6">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_Pussy_MM_01_S9" frames="500" offset="0,0,0,0:0,0,0,0">
 		<actor gender="M" idleForm="000026A9">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000026A8">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -263,124 +263,124 @@
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S1" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00001EE4">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE3">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004503">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S2" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00001EE5">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EE6">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000035C5">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S3" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00001EEB">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00001EEA">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000035C7">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S4" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00002691">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002690">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000035C9">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S5" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00002694">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002693">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00003D65">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S6" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="00002696">
-			<action id="MaleBlowjob Action" loop="true"/>
+			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002695">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004501">
 			<morph id="Erection Up" to="1.0"/>
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S7" frames="500" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="0000269A">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00002699">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00004505">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ZaZOut4_DoubleP_MM_01_S8" frames="300" offset="0,0,0,0:0,0,0,0:0,-1,0,180">
 		<actor gender="M" idleForm="000026A5">
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="000026A4">
-			<action id="MaleOrgasm Action" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000452A">
-			<action id="MaleMoan Action" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>

@@ -1,0 +1,179 @@
+<topicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<!-- Regular MOANS -->
+
+	<topicGroup id="UAPMoans" tryRate="0" chance="0">
+
+		<!-- Generic VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12900" conditions="isGenericMale"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12901" conditions="isGenericMale"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12902" conditions="isGenericMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84C" conditions="isGenericFemale"/>
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="835" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="83D" conditions="isPlayerMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="853" conditions="isPlayerFemale"/>
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="836" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="836" isOverride="true" conditions="isDanse2"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84A" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+	<topicGroup id="CreatureMoans" tryRate="0" chance="0">
+
+		<!-- Behemoth Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="842" conditions="isBehemoth"/>
+
+		<!-- Dog Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="844" conditions="isDog"/>
+
+		<!-- FeralGhoul Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="845" conditions="isFeralGhoul"/>
+
+		<!-- Gorilla Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="846" conditions="isGorilla"/>
+
+		<!-- MutantHound Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="841" conditions="isMutantHound"/>
+
+		<!-- Supermutant Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="847" conditions="isSupermutant"/>
+
+		<!-- YaoGuai Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="848" conditions="isYaoGuai"/>
+	</topicGroup>
+
+
+
+	<!--=====================================================================================================================================================================================-->
+
+
+
+	<!-- Blowjob MOANS -->
+
+	<topicGroup id="UAPBlowjob" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="83B" conditions="isGenericMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84D" conditions="isGenericFemale"/>
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="837" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="83C" conditions="isPlayerMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="855" conditions="isPlayerFemale"/>
+
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84A" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+
+	<!--=====================================================================================================================================================================================-->
+
+
+
+	<!-- Orgasm MOANS -->
+
+	<topicGroup id="UAPOrgasm" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12909" conditions="isGenericMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84E" conditions="isGenericFemale"/>
+
+		<!-- Ulfberth VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="838" isOverride="true" conditions="isUlfberth"/>
+
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="83E" conditions="isPlayerMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="854" conditions="isPlayerFemale"/>
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="83A" isOverride="true" conditions="isDanse"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84B" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+
+	<!--=====================================================================================================================================================================================-->
+
+
+	<!-- Aggressive MOANS -->
+
+	<topicGroup id="UAPAggMoans" tryRate="0" chance="0">
+
+		<!-- Generic VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12910" conditions="isGenericMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84F" conditions="isGenericFemale"/>
+
+		<!-- Player Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="83F" conditions="isPlayerMale"/>
+
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="856" conditions="isPlayerFemale"/>
+
+
+		<!-- Ulfberth Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="840" conditions="isUlfberth"/>
+
+
+
+		<!-- Unique NPCS -->
+		<!-- Dance VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="839" isOverride="true" conditions="isDanse"/>
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="839" isOverride="true" conditions="isDanse2"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84A" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+
+
+
+	<topicGroup id="CreatureAggMoans" tryRate="0" chance="0">
+
+		<!-- Supermutant Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="849" conditions="isSupermutant"/>
+	</topicGroup>
+
+	<!--=====================================================================================================================================================================================-->
+
+
+	<!-- Aggressive Orgasm MOANS -->
+
+	<topicGroup id="UAPAggOrgasm" tryRate="0" chance="0">
+
+		<!-- Generic Male VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12919" conditions="isGenericMale"/>
+
+
+		<!-- Player VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="12919" conditions="isGenericMale"/>
+
+		<!-- Pyramid Head VoiceSet-->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="Fallout4.esm" voiceTypeFormID="84B" isOverride="true" conditions="isPyramid"/>
+	</topicGroup>
+</topicData>	
