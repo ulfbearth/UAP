@@ -18,7 +18,6 @@
 
 	<animation id="Leito_Canine_Doggy_1_S2" frames="400">
 		<actor gender="F" idleForm="268B">
-			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -29,7 +28,7 @@
 	</animation>
 
 	<animation id="Leito_Canine_Doggy_1_S3" frames="400">
-		<actor gender="F" idleForm="268C" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="268C" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -78,7 +77,7 @@
 	</animation>
 
 	<animation id="Leito_Canine_Doggy_2_S3" frames="400">
-		<actor gender="F" idleForm="3D82" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="3D82" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -127,7 +126,7 @@
 	</animation>
 
 	<animation id="Leito_Canine_Missionary_1_S3" frames="400">
-		<actor gender="F" idleForm="1EE6" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="1EE6" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -150,81 +149,4 @@
 		</actor>
 	</animation>
 
-	<!-- Aggressive FM -->
-
-	<animation id="Leito_Blowjob_Aggressive" frames="308" offset="-0.3,0,1,0:0,0,0,0">
-		<actor gender="F" idleForm="B71E">
-			<action id="Edge" from="0" to="1" frames="30"/>
-		</actor>
-		<actor gender="M" idleForm="B71F">
-			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Erection Down" to="0.2"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Carry_Aggressive" frames="312">
-		<actor gender="F" idleForm="6367">
-			<action id="UAPMoans" loop="true"/>
-			<action id="Edge" from="0" to="1" frames="30"/>
-		</actor>
-		<actor gender="M" idleForm="173C">
-			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Erection Up" to="1.2"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Cowgirl_Aggressive" frames="300">
-		<actor gender="F" idleForm="B720">
-			<action id="UAPMoans" loop="true"/>
-			<action id="Edge" from="0" to="1" frames="30"/>
-		</actor>
-		<actor gender="M" idleForm="B721">
-			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Erection Down" to="0.4"/>		
-		</actor>
-	</animation>
-
-	<animation id="Leito_Doggy_Aggressive" frames="312">
-		<actor gender="F" idleForm="B723">
-			<action id="UAPMoans" loop="true"/>
-			<action id="Edge" from="0" to="1" frames="30"/>
-		</actor>
-		<actor gender="M" idleForm="B722">
-			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Erection" to="1.0000000000001"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Missionary_Aggressive" frames="228">
-		<actor gender="F" idleForm="B724">
-			<action id="UAPMoans" loop="true"/>
-			<action id="Edge" from="0" to="1" frames="30"/>
-		</actor>
-		<actor gender="M" idleForm="B725">
-			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Erection Up" to="0.2"/>
-		</actor>
-	</animation>
-
-	<animation id="Leito_Powerbomb_Aggressive" frames="300" offset="0,-1,0,0:0,0,0,0">
-		<actor gender="F" idleForm="B726">
-			<action id="UAPMoans" loop="true"/>
-			<action id="Edge" from="0" to="1" frames="30"/>
-		</actor>
-		<actor gender="M" idleForm="B727">
-			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Erection Down" to="1.5"/>
-		</actor>
-	</animation>
 </animationData>

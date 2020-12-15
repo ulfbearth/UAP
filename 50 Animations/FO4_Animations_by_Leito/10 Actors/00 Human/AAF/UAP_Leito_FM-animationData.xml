@@ -19,7 +19,7 @@
 	</animation>
 
 	<animation id="Leito_Blowjob_1_S2" frames="300" offset="-0.3,0,0.5,0:0,0,0,0">
-		<actor gender="F" idleForm="4CB3" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="4CB3" conditions="Intermediary-20_59">
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -33,7 +33,7 @@
 	</animation>
 
 	<animation id="Leito_Blowjob_1_S3" frames="288" offset="-0.3,0,0.5,0:0,0,0,0">
-		<actor gender="F" idleForm="4CB4" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="4CB4" conditions="Intermediary-60_99">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			
 		</actor>
@@ -76,7 +76,7 @@
 	</animation>
 
 	<animation id="Leito_Carry_1_S2" frames="304" offset="0,0,2,0:0,0,0,0">
-		<actor gender="F" idleForm="4504" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="4504" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -91,7 +91,7 @@
 	</animation>
 
 	<animation id="Leito_Carry_1_S3" frames="297" offset="0,0,2,0:0,0,0,0">
-		<actor gender="F" idleForm="4505" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="4505" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -137,7 +137,7 @@
 	</animation>
 
 	<animation id="Leito_Carry_2_S2" frames="288" offset="0,0,2.5,0:0,0,0,0">
-		<actor gender="F" idleForm="A892" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="A892" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -152,7 +152,7 @@
 	</animation>
 
 	<animation id="Leito_Carry_2_S3" frames="330" offset="0,0,2.5,0:0,0,0,0">
-		<actor gender="F" idleForm="A893" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="A893" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -197,7 +197,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_1_S2" frames="300">
-		<actor gender="F" idleForm="2E27" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="2E27" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -212,7 +212,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_1_S3" frames="300">
-		<actor gender="F" idleForm="2E28" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="2E28" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -256,7 +256,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_2_S2" frames="340">
-		<actor gender="F" idleForm="5C35" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="5C35" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -271,7 +271,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_2_S3" frames="340">
-		<actor gender="F" idleForm="5C36" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="5C36" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -317,7 +317,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_3_S2" frames="340" offset="0,0,2,0:0,0,0,0">
-		<actor gender="F" idleForm="63E0" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="63E0" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -332,7 +332,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_3_S3" frames="330" offset="0,0,2,0:0,0,0,0">
-		<actor gender="F" idleForm="63E1" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="63E1" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -376,7 +376,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_4_S2" frames="340">
-		<actor gender="F" idleForm="A89A" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="A89A" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -390,7 +390,7 @@
 	</animation>
 
 	<animation id="Leito_Cowgirl_4_S3" frames="330">
-		<actor gender="F" idleForm="A89B" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="A89B" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -433,7 +433,7 @@
 	</animation>
 
 	<animation id="Leito_Doggy_1_S2" frames="308">
-		<actor gender="F" idleForm="1EDE" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="1EDE" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -447,7 +447,7 @@
 	</animation>
 
 	<animation id="Leito_Doggy_1_S3" frames="300">
-		<actor gender="F" idleForm="1EDF" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="1EDF" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -490,7 +490,7 @@
 	</animation>
 
 	<animation id="Leito_Doggy_2_S2" frames="308">
-		<actor gender="F" idleForm="2E36" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="2E36" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -504,7 +504,7 @@
 	</animation>
 
 	<animation id="Leito_Doggy_2_S3" frames="315">
-		<actor gender="F" idleForm="2E37" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="2E37" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -548,7 +548,7 @@
 	</animation>
 
 	<animation id="Leito_Missionary_1_S2" frames="224" offset="0,-2,1.3,0:0,0,0,0">
-		<actor gender="F" idleForm="2682" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="2682" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -563,7 +563,7 @@
 	</animation>
 
 	<animation id="Leito_Missionary_1_S3" frames="308" offset="0,-2,1.3,0:0,0,0,0">
-		<actor gender="F" idleForm="2683" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="2683" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -608,7 +608,7 @@
 	</animation>
 
 	<animation id="Leito_Missionary_2_S2" frames="324" offset="0,0,0.5,0:0,0,0,0">
-		<actor gender="F" idleForm="2E2E" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="2E2E" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -622,7 +622,7 @@
 	</animation>
 
 	<animation id="Leito_Missionary_2_S3" frames="320" offset="0,0,0.5,0:0,0,0,0">
-		<actor gender="F" idleForm="2E2F" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="2E2F" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -666,7 +666,7 @@
 	</animation>
 
 	<animation id="Leito_Powerbomb_1_S2" frames="300" offset="0,-1.2,0,0:0,0,0,0">
-		<actor gender="F" idleForm="450C" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="450C" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -681,7 +681,7 @@
 	</animation>
 
 	<animation id="Leito_Powerbomb_1_S3" frames="299" offset="0,-1.2,0,0:0,0,0,0">
-		<actor gender="F" idleForm="450D" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="450D" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -725,7 +725,7 @@
 	</animation>
 
 	<animation id="Leito_ReverseCarry_1_S2" frames="288" offset="0,0,2,0:0,0,0,0">
-		<actor gender="F" idleForm="A8A2" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="A8A2" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -739,7 +739,7 @@
 	</animation>
 
 	<animation id="Leito_ReverseCarry_1_S3" frames="290" offset="0,0,2,0:0,0,0,0">
-		<actor gender="F" idleForm="A8A3" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="A8A3" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -783,7 +783,7 @@
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_1_S2" frames="340" offset="0,-3,2,0,0:0,0,0,0">
-		<actor gender="F" idleForm="6B83" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="6B83" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -798,7 +798,7 @@
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_1_S3" frames="333" offset="0,-3,2,0:0,0,0,0">
-		<actor gender="F" idleForm="6B84" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="6B84" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -843,7 +843,7 @@
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_2_S2" frames="336" offset="0,1,2,0:0,0,0,0">
-		<actor gender="F" idleForm="732F" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="732F" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -857,7 +857,7 @@
 	</animation>
 
 	<animation id="Leito_ReverseCowgirl_2_S3" frames="330" offset="0,1,2,0:0,0,0,0">
-		<actor gender="F" idleForm="7330" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="7330" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -901,7 +901,7 @@
 	</animation>
 
 	<animation id="Leito_Spoon_1_S2" frames="324" offset="1,0,0.5,0:0,0,0,0">
-		<actor gender="F" idleForm="4CEC" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="4CEC" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -916,7 +916,7 @@
 	</animation>
 
 	<animation id="Leito_Spoon_1_S3" frames="300" offset="1,0,0.5,0:0,0,0,0">
-		<actor gender="F" idleForm="4CED" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="4CED" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -962,7 +962,7 @@
 	</animation>
 
 	<animation id="Leito_StandingDoggy_1_S2" frames="300">
-		<actor gender="F" idleForm="7AD2" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="7AD2" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -977,7 +977,7 @@
 	</animation>
 
 	<animation id="Leito_StandingDoggy_1_S3" frames="290">
-		<actor gender="F" idleForm="7AD3" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="7AD3" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -1023,7 +1023,7 @@
 	</animation>
 
 	<animation id="Leito_StandingDoggy_2_S2" frames="224" offset="0,0,1,0:0,0,0,0">
-		<actor gender="F" idleForm="7ADA" conditions="Intermediary-20_54">
+		<actor gender="F" idleForm="7ADA" conditions="Intermediary-20_59">
 			
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -1038,7 +1038,7 @@
 	</animation>
 
 	<animation id="Leito_StandingDoggy_2_S3" frames="220" offset="0,0,1,0:0,0,0,0">
-		<actor gender="F" idleForm="7ADB" conditions="Intermediary-55_89">
+		<actor gender="F" idleForm="7ADB" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
@@ -1071,10 +1071,8 @@
 
 	<animation id="LeitoAggressiveBlowjob" frames="308" offset="-0.3,0,1,0:0,0,0,0">
 		<actor gender="F" idleForm="B71E">
-			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B71F">
-			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1088,7 +1086,6 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="173C">
-			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1102,7 +1099,6 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B721">
-			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1116,7 +1112,6 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B722">
-			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1129,7 +1124,6 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B725">
-			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1143,7 +1137,6 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 		<actor gender="M" idleForm="B727">
-			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>

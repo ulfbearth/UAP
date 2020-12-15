@@ -61,21 +61,21 @@
         <!-- -->
 
         <!-- For 4 staged sequences anims -->
-    <condition id="Intermediary-20_54" statRules="Edge)20,Edge(59.9999"/>
-    <condition id="Intermediary-55_89" statRules="Edge)60,Edge(99.9999"/>
+    <condition id="Intermediary-20_59" statRules="Edge)20,Edge(59.9999"/>
+    <condition id="Intermediary-60_99" statRules="Edge)60,Edge(99.9999"/>
         <!-- -->
 
         <!-- For 5 staged sequences anims -->
-    <condition id="Intermediary-20_43" statRules="Edge)20,Edge(46.6665"/>
-    <condition id="Intermediary-43_66" statRules="Edge)46.6666,Edge(73.3331"/>
-    <condition id="Intermediary-66_89" statRules="Edge)73.3332,Edge(99.9999"/>
+    <condition id="Intermediary-20_46" statRules="Edge)20,Edge(46.6665"/>
+    <condition id="Intermediary-46_73" statRules="Edge)46.6666,Edge(73.3331"/>
+    <condition id="Intermediary-73_99" statRules="Edge)73.3332,Edge(99.9999"/>
         <!-- -->
 
         <!-- For 6 staged sequences anims -->
-    <condition id="Intermediary-20_37" statRules="Edge)20,Edge(39.9999"/>
-    <condition id="Intermediary-37_54" statRules="Edge)40,Edge(59.9999"/>
-    <condition id="Intermediary-55_72" statRules="Edge)60,Edge(79.4999"/>
-    <condition id="Intermediary-72_89" statRules="Edge)80,Edge(99.9999"/>
+    <condition id="Intermediary-20_39" statRules="Edge)20,Edge(39.9999"/>
+    <condition id="Intermediary-40_59" statRules="Edge)40,Edge(59.9999"/>
+    <condition id="Intermediary-60_79" statRules="Edge)60,Edge(79.4999"/>
+    <condition id="Intermediary-80_99" statRules="Edge)80,Edge(99.9999"/>
         <!-- -->
 
     <!--                       -->
