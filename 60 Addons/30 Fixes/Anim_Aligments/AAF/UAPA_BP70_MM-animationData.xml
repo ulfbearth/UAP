@@ -1,0 +1,47 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="UAP_Alignment.esp" loadPriority="101"/>
+
+
+	<!-- Masturbation Animations -->
+	
+
+
+	<!-- Normal -->
+	<!-- Misc Animations -->
+
+
+
+
+	<!-- Footjob Animations -->
+
+
+
+	<!-- Blowjob Animations -->
+
+
+
+
+	<!-- Cowgirl Animations -->
+
+
+
+
+
+	<!-- Missionary Animations -->
+
+	<animation id="FO4SA_Missionary_MM_02_S1" frames="780">
+		<actor gender="M" idleForm="00000800" conditions="Foreplay">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="00000801">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+</animationData>

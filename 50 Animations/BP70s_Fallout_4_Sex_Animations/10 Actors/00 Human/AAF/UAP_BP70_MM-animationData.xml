@@ -1,5 +1,5 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults idleSource="rxl_bp70_animations.esp"/>
+	<defaults idleSource="rxl_bp70_animations.esp" loadPriority="100"/>
 
 
 	<!-- Masturbation Animations -->

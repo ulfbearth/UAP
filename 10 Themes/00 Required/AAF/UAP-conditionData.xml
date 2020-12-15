@@ -11,7 +11,7 @@
     
     <condition id="isPlayerFemale" isPlayer="true" isFemale="true"/>
 
-    <condition id="isUlfberth" name="Ulfberth"/>
+    <condition id="isUlfberto" name="Ulfberto"/>
 
     <condition id="isDanse" name="Paladin Danse"/>
     <condition id="isDanse2" name="Danse"/>

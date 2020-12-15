@@ -12,8 +12,8 @@
 
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="84C" conditions="isGenericFemale"/>
 
-		<!-- Ulfberth VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="835" isOverride="true" conditions="isUlfberth"/>
+		<!-- Ulfberto VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="835" isOverride="true" conditions="isUlfberto"/>
 
 
 		<!-- Player Voiceset -->
@@ -70,8 +70,8 @@
 
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="84D" conditions="isGenericFemale"/>
 
-		<!-- Ulfberth VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="837" isOverride="true" conditions="isUlfberth"/>
+		<!-- Ulfberto VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="837" isOverride="true" conditions="isUlfberto"/>
 
 
 		<!-- Player Voiceset -->
@@ -99,8 +99,8 @@
 
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="84E" conditions="isGenericFemale"/>
 
-		<!-- Ulfberth VoiceSet -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="838" isOverride="true" conditions="isUlfberth"/>
+		<!-- Ulfberto VoiceSet -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="838" isOverride="true" conditions="isUlfberto"/>
 
 
 		<!-- Player Voiceset -->
@@ -137,8 +137,8 @@
 		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="856" conditions="isPlayerFemale"/>
 
 
-		<!-- Ulfberth Voiceset -->
-		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="840" conditions="isUlfberth"/>
+		<!-- Ulfberto Voiceset -->
+		<topic topicFormID="12811" keywordFormID="12800" voiceTypeSource="UAP Moans.esp" voiceTypeFormID="840" conditions="isUlfberto"/>
 
 
 
