@@ -4,7 +4,7 @@
 
 
 
-	<tree id="Leito_Canine_Doggy_1_Tree" useConditions="true" disableConditionsWhenPCControlled="true" strictExiting="true">
+	<tree id="Leito_Canine_Doggy_1_Tree" useConditions="true" strictExiting="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Canine Doggy Sequence" time="0">
 
@@ -29,7 +29,7 @@
 	</tree>
 
 
-	<tree id="Leito_Canine_Doggy_2_Tree" useConditions="true" disableConditionsWhenPCControlled="true" strictExiting="true">
+	<tree id="Leito_Canine_Doggy_2_Tree" useConditions="true" strictExiting="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Canine Doggy 2 Sequence" time="0">
 
@@ -54,7 +54,7 @@
 	</tree>
 
 
-	<tree id="Leito_Canine_Missionary_1_Tree" useConditions="true" disableConditionsWhenPCControlled="true" strictExiting="true">
+	<tree id="Leito_Canine_Missionary_1_Tree" useConditions="true" strictExiting="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Canine Missionary Sequence" time="0">
 
