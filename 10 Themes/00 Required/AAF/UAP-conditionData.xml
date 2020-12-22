@@ -51,6 +51,13 @@
     <condition id="Foreplay-13-19" statRules="Edge)13.3332,Edge(19.9999"/>
         <!--                     -->
 
+        <!-- For 4 foreplay anims -->
+    <condition id="Foreplay-0_4" statRules="Edge)0,Edge(4.9999"/>
+    <condition id="Foreplay-5_9" statRules="Edge)5,Edge(9.9999"/>
+    <condition id="Foreplay-10-14" statRules="Edge)10,Edge(14.9999"/>
+    <condition id="Foreplay-15-20" statRules="Edge)15,Edge(19.9999"/>
+        <!--                     -->
+
     <!--                   -->
     
     
@@ -76,6 +83,22 @@
     <condition id="Intermediary-40_59" statRules="Edge)40,Edge(59.9999"/>
     <condition id="Intermediary-60_79" statRules="Edge)60,Edge(79.4999"/>
     <condition id="Intermediary-80_99" statRules="Edge)80,Edge(99.9999"/>
+        <!-- -->
+
+        <!-- For 7 staged sequences anims -->
+    <condition id="Intermediary-20_35" statRules="Edge)20,Edge(35.9999"/>
+    <condition id="Intermediary-36_51" statRules="Edge)36,Edge(51.9999"/>
+    <condition id="Intermediary-52_67" statRules="Edge)52,Edge(67.4999"/>
+    <condition id="Intermediary-68_83" statRules="Edge)68,Edge(83.9999"/>
+    <condition id="Intermediary-84_99" statRules="Edge)84,Edge(99.9999"/>
+
+        <!-- For 8 staged sequences anims -->
+    <condition id="Intermediary-20_33" statRules="Edge)20,Edge(33.3332"/>
+    <condition id="Intermediary-33_46" statRules="Edge)33.3333,Edge(46.6665"/>
+    <condition id="Intermediary-46_59" statRules="Edge)46.6666,Edge(59.9998"/>
+    <condition id="Intermediary-59_73" statRules="Edge)59.9999,Edge(73.3331"/>
+    <condition id="Intermediary-73_86" statRules="Edge)73.3332,Edge(86.6664"/>
+    <condition id="Intermediary-86_99" statRules="Edge)86.6665,Edge(99.9999"/>
         <!-- -->
 
     <!--                       -->

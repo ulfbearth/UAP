@@ -2,7 +2,6 @@
     <defaults/>
 
     <!-- Missionary Animations-->
-    <transition from="FO4SA_Missionary_MM_Impregnate_01_1" to="FO4SA_Missionary_MM_Impregnate_01_2A" animation="FO4SA_Missionary_MM_Impregnate_01_1TR2A"/>
 
 
 
@@ -283,8 +282,16 @@
     <transition from="none" to="FO4SA_CowgirlBed_MM_01" animation="Null"/>
     <transition from="none" to="FO4SA_CowgirlBed_MM_Pound_01" animation="Null"/>
 
+
     <transition from="none" to="FO4SA_MM_armchaircow" animation="Null"/>
 
+
+    <transition from="*" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk01" animation="Null"/>
+    <transition from="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk01" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk02" animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_01"/>
+    <transition from="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk02" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk03" animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_02"/>
+    <transition from="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk03" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk04" animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_03"/>
 
 
 
@@ -326,8 +333,22 @@
 
     <transition from="none" to="FO4SA_MM_armchairmish" animation="Null"/>
 
+    <transition from="*" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk01" animation="Null"/>
+    <transition from="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk01" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk02" animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_01"/>
+    <transition from="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk02" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk03" animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_02"/>
+    <transition from="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk03" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk04" animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_03"/>
 
 
+    <transition from="*" to="rxl_bp70_mm_deskanal_Tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_deskanal_Tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_deskanal01" animation="Null"/>
+    
+
+    <transition from="*" to="rxl_bp70_mm_toiletmissionary_Tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_toiletmissionary_Tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_toiletmissionary01" animation="Null"/>
     
 
     <!-- Blowjob Animations -->
@@ -341,6 +362,12 @@
     <transition from="none" to="FO4SA_MM_couchblowjob04" animation="Null"/>
     <transition from="none" to="FO4SA_MM_couchblowjob05" animation="Null"/>
 
+
     <transition from="none" to="FO4SA_MM_bartopsexperpendicular" animation="Null"/>
+
+    
+    <transition from="*" to="rxl_bp70_mm_toiletblowjob_Tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_toiletblowjob_Tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_toiletblowjob01" animation="Null"/>
 
 </transitionData>
