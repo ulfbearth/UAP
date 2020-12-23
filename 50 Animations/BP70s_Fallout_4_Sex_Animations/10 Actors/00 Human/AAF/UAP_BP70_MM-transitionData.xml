@@ -343,7 +343,6 @@
 
     <transition from="*" to="rxl_bp70_mm_deskanal_Tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_mm_deskanal_Tree" animation="Null"/>
-    <transition from="*" to="rxl_bp70_mm_deskanal01" animation="Null"/>
     
 
     <transition from="*" to="rxl_bp70_mm_toiletmissionary_Tree" animation="Null"/>
