@@ -21,7 +21,65 @@
         </target>
     </action>
 
+    <action id="Edge90s">
+        <self>
+            <stat range="0-" statID="Edge" add=".1111"/>
+        </self>
+        <target>
+            <stat range="0-" statID="Edge" add=".1111"/>
+        </target>
+    </action>
 
+    <action id="Edge120s">
+        <self>
+            <stat range="0-" statID="Edge" add=".0833"/>
+        </self>
+        <target>
+            <stat range="0-" statID="Edge" add=".0833"/>
+        </target>
+    </action>
+
+    <action id="Edge180s">
+        <self>
+            <stat range="0-" statID="Edge" add=".0555"/>
+        </self>
+        <target meter="basic" >
+            <stat range="0-" statID="Edge" add=".0555"/>
+        </target>
+    </action>
+
+    <action id="Edge210s">
+        <self>
+            <stat range="0-" statID="Edge" add=".0555"/>
+        </self>
+        <target meter="basic" >
+            <stat range="0-" statID="Edge" add=".0555"/>
+        </target>
+    </action>
+
+    <action id="Edge240s">
+        <self>
+            <stat range="0-" statID="Edge" add=".0416"/>
+        </self>
+        <target meter="basic" >
+            <stat range="0-" statID="Edge" add=".0416"/>
+        </target>
+    </action>
+
+    
+    <action id="Edge300">
+        <self>
+            <stat range="0-" statID="Edge" add=".0333"/>
+        </self>
+        <target meter="basic" >
+            <stat range="0-" statID="Edge" add=".0333"/>
+        </target>
+    </action>
+
+
+    
+
+    
     <!-- UAP Moans Voicesets -->
     <action id="UAPMoans">
         <self topicGroupID="UAPMoans">
