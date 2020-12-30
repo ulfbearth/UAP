@@ -334,7 +334,6 @@
 
     <transition from="*" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_tree" animation="Null"/>
-    <transition from="*" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk01" animation="Null"/>
     <transition from="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk01" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk02" animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_01"/>
     <transition from="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk02" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk03" animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_02"/>
     <transition from="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk03" to="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk04" animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_03"/>
