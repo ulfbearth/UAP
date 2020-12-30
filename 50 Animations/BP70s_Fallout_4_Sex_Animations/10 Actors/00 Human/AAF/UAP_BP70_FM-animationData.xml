@@ -716,7 +716,7 @@
 		</actor>
 	</animation>
 
-	<animation id="rxl_bp70_impregnate_mish_grabbacktrans" frames="1">
+	<animation id="rxl_bp70_impregnate_mish_grabbacktrans" frames="80">
 		<actor gender="F" idleForm="BEFB" conditions="Intermediary-20_46">
 			<action id="UAPMoans" loop="true"/>
 		</actor>

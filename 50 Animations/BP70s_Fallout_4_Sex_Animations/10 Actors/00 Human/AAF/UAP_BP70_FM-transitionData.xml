@@ -100,6 +100,7 @@
     <transition from="none" to="rxl_bp70_romanticcowgirl" animation="Null"/>
     <transition from="none" to="rxl_bp70_romanticmish" animation="Null"/>
     <transition from="none" to="rxl_bp70_standing69" animation="Null"/>
+    <transition from="none" to="BP70_Standing_Sequence_Tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_standingseq1" animation="Null"/>
     <transition from="none" to="rxl_bp70_standingseq2" animation="Null"/>
     <transition from="none" to="rxl_bp70_standingseq3" animation="Null"/>

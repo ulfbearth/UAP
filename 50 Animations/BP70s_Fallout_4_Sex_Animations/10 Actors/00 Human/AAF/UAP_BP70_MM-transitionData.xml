@@ -288,7 +288,6 @@
 
     <transition from="*" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_tree" animation="Null"/>
-    <transition from="*" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk01" animation="Null"/>
     <transition from="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk01" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk02" animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_01"/>
     <transition from="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk02" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk03" animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_02"/>
     <transition from="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk03" to="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk04" animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_03"/>
@@ -347,7 +346,6 @@
 
     <transition from="*" to="rxl_bp70_mm_toiletmissionary_Tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_mm_toiletmissionary_Tree" animation="Null"/>
-    <transition from="*" to="rxl_bp70_mm_toiletmissionary01" animation="Null"/>
     
 
     <!-- Blowjob Animations -->
@@ -367,6 +365,5 @@
     
     <transition from="*" to="rxl_bp70_mm_toiletblowjob_Tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_mm_toiletblowjob_Tree" animation="Null"/>
-    <transition from="*" to="rxl_bp70_mm_toiletblowjob01" animation="Null"/>
 
 </transitionData>
