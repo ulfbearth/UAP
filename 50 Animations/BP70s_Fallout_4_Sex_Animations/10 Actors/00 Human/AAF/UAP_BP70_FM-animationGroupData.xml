@@ -99,8 +99,8 @@
 
 	<animationGroup id="rxl_bp70_impregnate_mish_Staged" sequential="false">
 		<stage animation="rxl_bp70_impregnate_mish_kissing"/>
-		<stage animation="rxl_bp70_impregnate_mish_grabbacktrans" switchTo="[UAP] BP70 - Impregnate Missionary Stage Transition to Back Grab Staged"/>
-		<stage animation="rxl_bp70_impregnate_mish_assgrabtrans" switchTo="[UAP] BP70 - Impregnate Missionary Stage Transition to Ass Grab Staged"/>
+		<stage animation="rxl_bp70_impregnate_mish_grabback" switchTo="[UAP] BP70 - Impregnate Missionary Stage Transition to Back Grab Staged"/>
+		<stage animation="rxl_bp70_impregnate_mish_assgrab" switchTo="[UAP] BP70 - Impregnate Missionary Stage Transition to Ass Grab Staged"/>
 	</animationGroup>
 
 	<animationGroup id="rxl_bp70_impregnate_mish_grabbacktrans_Staged" sequential="false">
@@ -172,9 +172,70 @@
 	</animationGroup>
 
 
+	<animationGroup id="rxl_bp70_toiletblowjob_Staged" sequential="false">
+		<stage animation="rxl_bp70_toiletblowjob01"/>
+		<stage animation="rxl_bp70_toiletblowjob02"/>
+		<stage animation="rxl_bp70_toiletblowjob03"/>
+		<stage animation="rxl_bp70_toiletblowjob04"/>
+		<stage animation="rxl_bp70_toiletblowjob05"/>
+	</animationGroup>
 
 
 
+	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk01"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_01" switchTo="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 1-2 (Staged)"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_01-02_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk02"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_02" switchTo="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 2-3 (Staged)"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_02-03_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk03"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_03" switchTo="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 3-4 (Staged)"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_03-04_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk04"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk05"/>
+	</animationGroup>
+
+
+	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk01"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_01" switchTo="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 1-2 (Staged)"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_01-02_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk02"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_02" switchTo="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 2-3 (Staged)"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_02-03_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk03"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_03" switchTo="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 3-4 (Staged)"/>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_03-04_Staged" sequential="false">
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk04"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk05"/>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_deskanal_Staged" sequential="false">
+		<stage animation="rxl_bp70_deskanal01"/>
+		<stage animation="rxl_bp70_deskanal02"/>
+		<stage animation="rxl_bp70_deskanal03"/>
+		<stage animation="rxl_bp70_deskanal04"/>
+		<stage animation="rxl_bp70_deskanal05"/>
+		<stage animation="rxl_bp70_deskanal06"/>
+		<stage animation="rxl_bp70_deskanal07"/>
+		<stage animation="rxl_bp70_deskanal08"/>
+	</animationGroup>
+
+
+	<animationGroup id="rxl_bp70_toiletmissionary_Staged" sequential="false">
+		<stage animation="rxl_bp70_toiletmissionary01"/>
+		<stage animation="rxl_bp70_toiletmissionary02"/>
+		<stage animation="rxl_bp70_toiletmissionary03"/>
+		<stage animation="rxl_bp70_toiletmissionary04"/>
+		<stage animation="rxl_bp70_toiletmissionary05"/>
+	</animationGroup>
 
 
 

@@ -661,6 +661,7 @@
     <xs:attribute type="xs:string" name="id" use="required"/>
     <xs:attribute type="xs:boolean" name="useConditions"/>
     <xs:attribute type="xs:boolean" name="strictExiting"/>
+    <xs:attribute type="xs:boolean" name="disableConditionsWhenPCControlled"/>
   </xs:complexType>
   <xs:complexType name="positionTreeDataType">
     <xs:sequence>
@@ -928,6 +929,7 @@
         <xs:attribute type="xs:float" name="to"/>
         <xs:attribute type="xs:integer" name="steps"/>
         <xs:attribute type="xs:float" name="frames"/>
+        <xs:attribute type="xs:integer" name="start"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
