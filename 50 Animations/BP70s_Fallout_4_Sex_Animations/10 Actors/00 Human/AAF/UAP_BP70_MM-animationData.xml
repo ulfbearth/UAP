@@ -263,7 +263,7 @@
 
 
 	<!-- Missionary Animations -->
-	<animation id="FO4SA_Missionary_MM_01" frames="320" offset="0,0,0,180:0,-5,-40,180">
+	<animation id="FO4SA_Missionary_MM_01" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="M" idleForm="00000802">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0"/>

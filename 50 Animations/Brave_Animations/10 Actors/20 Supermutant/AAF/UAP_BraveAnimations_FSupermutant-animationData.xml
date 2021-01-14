@@ -1,0 +1,83 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="BraveAnims.esp"/>
+
+	<animation id="Brave_FM_SupermutantKissing" frames="190">
+		<actor gender="F" idleForm="01001ECC" conditions="Foreplay">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01001732">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_FM_SupermutantKissToMissionary" frames="170">
+		<actor gender="F" idleForm="010044cd" conditions="Intermediary-20_59">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="010044d3">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_FM_SupermutantMissionary1" frames="460">
+		<actor gender="F" idleForm="010044ce" conditions="Intermediary-20_59">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="010044d4">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_FM_SupermutantMissionary2" frames="220">
+		<actor gender="F" idleForm="010044cf" conditions="Intermediary-60_99">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="010044d5">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_FM_SupermutantMissionary3" frames="200">
+		<actor gender="F" idleForm="010044d0" conditions="Climax">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="010044d6">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_FM_SupermutantMissionary4" frames="200">
+		<actor gender="F" idleForm="010044d1" conditions="Climax">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="010044d7">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_FM_SupermutantMissionary5" frames="500">
+		<actor gender="F" idleForm="010044d2" conditions="Climax">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="010044d8">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+</animationData>

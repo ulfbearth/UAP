@@ -1,0 +1,24 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults />
+
+	<animationGroup id="Brave_MM_SupermutantMissionaryStaged" sequential="false">
+		<stage animation="Brave_MM_SupermutantKissing"/>
+		<stage animation="Brave_MM_SupermutantKissToMissionary" switchTo="[UAP] Brave - Gay Supermutant Kiss To Missionary"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_SupermutantKissToMissionary_Staged" sequential="false">
+		<stage animation="Brave_MM_SupermutantMissionary1"/>
+		<stage animation="Brave_MM_SupermutantMissionary2"/>
+		<stage animation="Brave_MM_SupermutantMissionary3" switchTo="[UAP] Brave - Gay Supermutant Missionary 3"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_SupermutantMissionary3_Staged" sequential="true">
+		<stage animation="Brave_MM_SupermutantMissionary4"/>
+		<stage animation="Brave_MM_SupermutantMissionary5" loops="10000"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_SupermutantMissionary5_Staged" sequential="true">
+		<stage animation="Brave_MM_SupermutantMissionary5"/>
+	</animationGroup>
+	
+</animationGroupData>

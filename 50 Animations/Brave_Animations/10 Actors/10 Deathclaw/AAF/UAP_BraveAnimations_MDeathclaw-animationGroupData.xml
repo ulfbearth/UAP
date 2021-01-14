@@ -1,0 +1,48 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults loadPriority="100"/>
+
+
+	<animationGroup id="Brave_MM_DeathclawSittingStaged" sequential="false">
+		<stage animation="Brave_MM_DeathclawSitting1"/>
+		<stage animation="Brave_MM_DeathclawSitting1"/>
+		<stage animation="Brave_MM_DeathclawSitting1"/>
+		<stage animation="Brave_MM_DeathclawSitting1"/>
+		<stage animation="Brave_MM_DeathclawSitting2" switchTo="[UAP] Brave - Gay Deathclaw Sitting 2 Transition Staged"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSitting2_Staged" sequential="false">
+		<stage animation="Brave_MM_DeathclawSitting3"/>
+		<stage animation="Brave_MM_DeathclawSitting3"/>
+		<stage animation="Brave_MM_DeathclawSitting3"/>
+		<stage animation="Brave_MM_DeathclawSitting3"/>
+		<stage animation="Brave_MM_DeathclawSitting4"/>
+		<stage animation="Brave_MM_DeathclawSitting4"/>
+		<stage animation="Brave_MM_DeathclawSitting4"/>
+		<stage animation="Brave_MM_DeathclawSitting4"/>
+		<stage animation="Brave_MM_DeathclawSitting5" switchTo="[UAP] Brave - Gay Deathclaw Sitting 5 Transition Staged"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSitting5_Staged" sequential="false">
+		<stage animation="Brave_MM_DeathclawSitting6"/>
+		<stage animation="Brave_MM_DeathclawSitting6"/>
+		<stage animation="Brave_MM_DeathclawSitting6"/>
+		<stage animation="Brave_MM_DeathclawSitting6"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSitting1_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSitting1"/>
+	</animationGroup>
+	
+	<animationGroup id="Brave_MM_DeathclawSitting3_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSitting3"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSitting4_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSitting4"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSitting6_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSitting6"/>
+	</animationGroup>
+
+</animationGroupData>

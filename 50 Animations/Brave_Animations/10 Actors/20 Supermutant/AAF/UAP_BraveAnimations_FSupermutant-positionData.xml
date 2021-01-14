@@ -1,0 +1,20 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+    <!-- ==============================SuperMutant================================== -->
+    <position id="[UAP] Brave - Supermutant Missionary" positionTree="Brave_FM_SupermutantMissionary_Tree" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Supermutant Missionary Staged" animationGroup="Brave_FM_SupermutantMissionaryStaged" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Supermutant Kissing" animation="Brave_FM_SupermutantKissing" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim1,Love3,Dom-3,NullToSelf"/>
+    <position id="Brave_FM_SupermutantKissToMissionary" isHidden="true"/>
+    <position id="[UAP] Brave - Supermutant Kiss To Missionary" animationGroup="Brave_FM_SupermutantKissToMissionary_Staged" isHidden="true"/>
+    <position id="[UAP] Brave - Supermutant Missionary 1" animation="Brave_FM_SupermutantMissionary1" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim5,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Supermutant Missionary 2" animation="Brave_FM_SupermutantMissionary2" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Supermutant Missionary 3" animationGroup="Brave_FM_SupermutantMissionary3_Staged" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="Brave_FM_SupermutantMissionary3" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Supermutant Missionary 4" animation="Brave_FM_SupermutantMissionary4" isHidden="true"/>
+    <position id="Brave_FM_SupermutantMissionary5" isHidden="true"/>
+    <position id="[UAP] Brave - Supermutant Missionary 5" animationGroup="Brave_FM_SupermutantMissionary5_Staged" isHidden="true"/>
+
+    
+
+</positionData>

@@ -1,0 +1,39 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" isHidden="true" loadPriority="1"/>
+
+    <!-- ==============================Loose Animations================================== -->
+
+    <!-- ==============================SuperMutant================================== -->
+    <position id="Supermutant Kissing" animation="Null" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim1,Love3,Dom-3,NullToSelf" />
+    <position id="Supermutant Kiss To Missionary" animation="Null" isHidden="true" />
+    <position id="Supermutant Missionary 1" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim5,Love3,Dom-3,NullToSelf,PenisToEither" />
+    <position id="Supermutant Missionary 2" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither" />
+    <position id="Supermutant Missionary 3" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
+    <position id="Supermutant Missionary 4" animation="Null" isHidden="true" />
+    <position id="Supermutant Missionary 5" animation="Null" />
+
+    <!-- ==============================Deathclaw================================== -->
+    <position id="Deathclaw Sitting 1" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 2" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 3" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 4" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 5" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 6" animation="Null" isHidden="true" />
+
+    <position id="Deathclaw Sitting 1 Long" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 2 Long" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 3 Long" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting 4 Long" animation="Null" isHidden="true" />
+
+    <!-- ================================Staged Animations====================================== -->
+
+    <position id="Supermutant Missionary Staged" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
+    <position id="Deathclaw Sitting Staged" animation="Null" isHidden="true" />
+    <position id="Deathclaw Sitting Staged Normal" animation="Null" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
+    <position id="Deathclaw Sitting Staged Long" animation="Null" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
+
+    <!--
+<position id="Deathclaw test" animation="Null"/>
+-->
+
+</positionData>
