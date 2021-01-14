@@ -1,0 +1,9 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<transition from="*" to="Brave_DeathclawSitting_Tree" animation="Null_Creature"/>
+	<transition from="None" to="Brave_DeathclawSitting_Tree" animation="Null_Creature"/>
+	<transition from="Brave_DeathclawSitting1_Block" to="Brave_DeathclawSitting3_Block" animation="Brave_DeathclawSitting2"/>
+	<transition from="Brave_DeathclawSitting4_Block" to="Brave_DeathclawSitting6_Block" animation="Brave_DeathclawSitting5"/>
+
+</transitionData>

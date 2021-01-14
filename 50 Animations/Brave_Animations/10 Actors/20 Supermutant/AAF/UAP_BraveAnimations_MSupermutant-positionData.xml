@@ -1,0 +1,20 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+    <!-- ==============================SuperMutant================================== -->
+    <position id="[UAP] Brave - Gay Supermutant Missionary" positionTree="Brave_MM_SupermutantMissionary_Tree" tags="Brave,M_SMutantM,NoFurn,Missionary,FromFront,Neutral,Loving,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Supermutant Missionary Staged" animationGroup="Brave_MM_SupermutantMissionaryStaged" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Supermutant Kissing" animation="Brave_MM_SupermutantKissing" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim1,Love3,Dom-3,NullToSelf"/>
+    <position id="Brave_MM_SupermutantKissToMissionary" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Supermutant Kiss To Missionary" animationGroup="Brave_MM_SupermutantKissToMissionary_Staged" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Supermutant Missionary 1" animation="Brave_MM_SupermutantMissionary1" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim5,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Supermutant Missionary 2" animation="Brave_MM_SupermutantMissionary2" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Supermutant Missionary 3" animationGroup="Brave_MM_SupermutantMissionary3_Staged" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="Brave_MM_SupermutantMissionary3" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Supermutant Missionary 4" animation="Brave_MM_SupermutantMissionary4" isHidden="true"/>
+    <position id="Brave_MM_SupermutantMissionary5" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Supermutant Missionary 5" animationGroup="Brave_MM_SupermutantMissionary5_Staged" isHidden="true"/>
+
+    
+
+</positionData>

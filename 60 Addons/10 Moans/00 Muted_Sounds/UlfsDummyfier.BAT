@@ -6,11 +6,11 @@ if Not "%1"=="" Set Fle=%1
 if Exist "%CD%\%Fle%.DMY" Set Dmy=%Fle%.DMY
 
 :Mnu
-	Title Ulfbertho's %Fle% Zero'er  [Menu]
+	Title Ulfbertho's %Fle% Dummy'fier  [Menu]
 	ClS
 	Echo.
-	Echo   [1;33m[34mUlfbertho's %Fle% Zero'er[0m
-	Echo   [1;33m[34m=======================[0m
+	Echo   [1;33m[34mUlfbertho's %Fle% Dummy'fier[0m
+	Echo   [1;33m[34m==========================[0m
 	Echo.
 	Echo   [1;33m[31mNOTE:[0m
 	Echo   [1;33m[31mThis program affects all[0m [1;33m[29m%Fle%[0m [1;33m[31mfiles in[0m
@@ -53,9 +53,10 @@ if Exist "%CD%\%Fle%.DMY" Set Dmy=%Fle%.DMY
 	Del /F "%CD%\%Fle%Files.LST">NUL
 	Echo.
 	Echo   [1;33m[32mDone.[0m
+	Title Ulfbertho's %Fle% Zero'er   [Done]
 	GoTo Key_End
 :Rpl
-	Title Ulfbertho's %Fle% Zero'er   [Working...]
+	Title Ulfbertho's %Fle% Replacer   [Working...]
 	ClS
     Echo.
 	Echo   [1;33m[34mUlfbertho's %Fle% Replacer - Working...[0m
@@ -74,8 +75,10 @@ if Exist "%CD%\%Fle%.DMY" Set Dmy=%Fle%.DMY
 	Del /F "%CD%\%Fle%Files.LST">NUL
 	Echo.
 	Echo   [1;33m[32mDone.[0m
+	Title Ulfbertho's %Fle% Replacer   [Done]
 	GoTo Key_End
 :Del_Err
+	Title Ulfbertho's %Fle% Replacer   [ERROR]
 	CLS
 	Echo.
 	Echo   [1;33m[31mERROR[0m
@@ -84,7 +87,8 @@ if Exist "%CD%\%Fle%.DMY" Set Dmy=%Fle%.DMY
 	Echo   [1;33m[36m!input![0m
 	Echo   [1;33m[31mbefore replacing.[0m
 	GoTo Key_End
-:Del_Err
+:Cpy_Err
+	Title Ulfbertho's %Fle% Replacer   [ERROR]
 	CLS
 	Echo.
 	Echo   [1;33m[31mERROR[0m
@@ -96,7 +100,6 @@ if Exist "%CD%\%Fle%.DMY" Set Dmy=%Fle%.DMY
 	Echo.
 	Echo.
 	Echo   Press any key to exit this program.
-	Title Ulfbertho's %Fle% Zero'er   [Done]
 	Pause>NUL
 :End
 	ClS

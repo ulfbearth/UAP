@@ -1,0 +1,13 @@
+<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="ArmorKeywords.esm"/>
+
+
+	<group id="Power Armor Station">
+		<furniture form="06001F2C" id="WorkbenchPowerArmor02_Standard01_Lit"/>
+	</group>
+
+
+	<group id="Alternative PA Station">
+		<furniture form="06000F28" id="WorkbenchPowerArmor01_Small01_Lit"/>
+	</group>
+</furnitureData>

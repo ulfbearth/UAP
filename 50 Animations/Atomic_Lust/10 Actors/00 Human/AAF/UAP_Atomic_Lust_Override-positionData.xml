@@ -1,0 +1,120 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="1" startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="Erect" stopMorphSet="Flaccid" offset="0,50,180" isHidden="true"/>
+
+    <!-- Male/Female Animations -->
+
+    <position id="Atomic Spork" animation="Null"/>
+
+    <position id="Atomic Spork II" animation="Null"/>
+
+    <position id="Atomic Cowgirl" animation="Null"/>
+
+    <position id="Atomic Cowgirl 2" animation="Null"/>
+
+    <position id="Atomic Cowgirl 2 Alt 1" animation="Null"/>
+
+    <position id="Atomic Embrace" animation="Null"/>
+
+    <position id="Atomic Kissing" animation="Null"/>
+
+    <position id="Atomic Spanking S1" animation="Null"/>
+
+    <position id="Atomic Spanking S1 Tran" animation="Null"/>
+
+    <position id="Atomic Spanking S2" animation="Null"/>
+
+    <position id="Atomic Spanking S2 Tran" animation="Null"/>
+
+    <position id="Atomic Spanking S3" animation="Null"/>
+
+    <position id="Atomic Spanking S3 Spank" animation="Null"/>
+
+    <position id="Atomic Threesome Handjob" animation="Null"/>
+
+    <position id="Atomic Threesome 2" animation="Null"/>
+
+
+    <position id="Standing Idle" animation="Null"/>
+
+    <position id="Standing Idle to Holding Hands" animation="Null"/>
+
+    <position id="Holding Hands" animation="Null"/>
+
+    <position id="Holding Hands to Holding Jerking" animation="Null"/>
+
+    <position id="Holding Hands to Holding Kissing" animation="Null"/>
+
+    <position id="Holding Kissing" animation="Null"/>
+
+
+    <!-- Female/Female Animations -->
+
+    <position id="Atomic Scissor" animation="Null"/>
+
+    <!-- Male/Male Animations -->
+
+    <position id="Atomic Rocket 69 (Gay)" animation="Null"/>
+
+    <position id="Atomic Cowboy" animation="Null"/>
+
+    <!-- Furniture Animations -->
+
+    <position id="Atomic Reversed Cowgirl (Vault Bed)" animation="Null"/>
+
+    <position id="Atomic Reversed Cowgirl (Vault Bed) Orgasm" animation="Null"/>
+
+    <position id="Atomic Cryo Pod" location="Cryo Pod" animation="Null"/>
+
+    <position id="Atomic Blowjob (Player House Chair)" location="Player House Chair" animation="Null"/>
+
+    <position id="Atomic Cunnilingus PA" location="Power Armor Station" animation="Null"/>
+
+    <position id="Atomic Cunnilingus Alt PA" location="Alternative PA Station" animation="Null"/>
+
+
+    <position id="Atomic Cunnilingus PA AWKCR" location="AWKCR Power Armor Station" animation="Null"/>
+
+    <position id="Atomic Cunnilingus Alt PA AWKCR" location="AWKCR Compact PA Station" animation="Null"/>
+
+    <position id="Atomic Bed Cuddle" location="Double Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Double Bed)" location="Double Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Pre-War Bed)" location="Pre-War Double Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Vault Bed)" location="Single Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Bunk Bed Top)" location="Bunk Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Bunk Bed Bottom)" location="Bunk Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Institute Single Bed)" location="Institute Single Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Institute Double Bed)" location="Institute Double Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Institute Wallmounted Bed)" location="Institute Wallmounted Bed" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Institute Med Bay)" location="Institute Med Bay" animation="Null"/>
+
+    <position id="Atomic Cowgirl (Institute Med Bay Inclined)" location="Institute Med Bay Inclined" animation="Null"/>
+
+    <!-- Solo Male Animations -->
+
+    <position id="Atomic Jerking" animation="Null"/>
+
+    <position id="Atomic Jerking (Orgasm)" animation="Null"/>
+
+    <!-- Solo Female Animations -->
+
+    <position id="Atomic Fingering (Laying)" animation="Null"/>
+
+    <position id="Atomic Fingering (Sitting)" animation="Null"/>
+
+    <position id="Atomic Fingering 2 (Sitting)" animation="Null"/>
+
+    <!-- Position Trees -->
+
+    <position id="Atomic Spanking" animation="Null"/>
+
+    <position id="Atomic Lust" animation="Null"/>
+</positionData>

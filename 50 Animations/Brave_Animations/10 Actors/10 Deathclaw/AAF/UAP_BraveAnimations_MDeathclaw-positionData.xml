@@ -1,0 +1,19 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+    <position id="[UAP] Brave - Gay Deathclaw Sitting" positionTree="Brave_MM_DeathclawSitting_Tree" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting Sequence" animationGroup="Brave_MM_DeathclawSittingStaged" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 1 Block" animationGroup="Brave_MM_DeathclawSitting1_Block" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 1" animation="Brave_MM_DeathclawSitting1" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 2" animation="Brave_MM_DeathclawSitting2" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 2 Transition Staged" animationGroup="Brave_MM_DeathclawSitting2_Staged" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 3 Block" animationGroup="Brave_MM_DeathclawSitting3_Block" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 3" animation="Brave_MM_DeathclawSitting3" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 4 Block" animationGroup="Brave_MM_DeathclawSitting4_Block" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 4" animation="Brave_MM_DeathclawSitting4" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 5" animation="Brave_MM_DeathclawSitting5" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 5 Transition Staged" animationGroup="Brave_MM_DeathclawSitting5_Staged" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 6 Block" animationGroup="Brave_MM_DeathclawSitting6_Block" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Sitting 6" animation="Brave_MM_DeathclawSitting6" isHidden="true"/>
+
+</positionData>

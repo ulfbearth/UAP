@@ -12,7 +12,7 @@
 		</actor>
 	</animation>
 
-	<animation id="rxl_bp70_missionary" frames="320" offset="0,0,0,180:0,-5,-40,180">
+	<animation id="rxl_bp70_missionary" frames="320" offset="0,0,0,180:0,0,0,180">
 		<actor gender="F" idleForm="802">
 			<action id="UAPMoans" loop="true"/>
 		</actor>

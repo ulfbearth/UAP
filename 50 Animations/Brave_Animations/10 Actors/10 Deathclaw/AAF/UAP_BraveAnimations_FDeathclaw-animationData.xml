@@ -1,0 +1,70 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="BraveAnims.esp" loadPriority="100"/>
+
+
+	<animation id="Brave_DeathclawSitting1" frames="200">
+		<actor gender="F" idleForm="01007276" conditions="Foreplay">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor skeleton="Deathclaw" idleForm="01007279">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawSitting2" frames="170">
+		<actor gender="F" idleForm="01007277" conditions="Intermediary-20_59">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor skeleton="Deathclaw" idleForm="0100727a">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawSitting3" frames="350">
+		<actor gender="F" idleForm="01007278" conditions="Intermediary-20_59">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor skeleton="Deathclaw" idleForm="0100727b">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawSitting4" frames="201">
+		<actor gender="F" idleForm="01007a15" conditions="Intermediary-60_99">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor skeleton="Deathclaw" idleForm="01007a18">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawSitting5" frames="230">
+		<actor gender="F" idleForm="01007a16" conditions="Climax">
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor skeleton="Deathclaw" idleForm="01007a19">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawSitting6" frames="500">
+		<actor gender="F" idleForm="01007a17" conditions="Climax">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor skeleton="Deathclaw" idleForm="01007a1a">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+
+</animationData>
