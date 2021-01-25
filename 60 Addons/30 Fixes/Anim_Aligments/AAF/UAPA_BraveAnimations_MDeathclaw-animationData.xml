@@ -34,4 +34,64 @@
 		</actor>
 	</animation>
 
+
+
+
+	<animation id="Brave_MM_DeathclawSpooning2" frames="320">
+		<actor gender="M" idleForm="861" conditions="Intermediary-20_59">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001" start="280" frames="50"/>
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="85e">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_MM_DeathclawSpooning3" frames="416">
+		<actor gender="M" idleForm="862" conditions="Intermediary-20_59">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="85f">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_MM_DeathclawSpooning4" frames="282">
+		<actor gender="M" idleForm="863" conditions="Intermediary-60_99">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="860">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Brave_MM_DeathclawSpooning5" frames="300">
+		<actor gender="M" idleForm="864" conditions="Climax">
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection Up" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Anus Spread" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="865">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 </animationData>

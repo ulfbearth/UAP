@@ -2,7 +2,7 @@
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" />
 
 
-    <tree id="Brave_FM_SupermutantMissionary_Tree" useConditions="true" strictExiting="true">
+    <tree id="Brave_FM_SupermutantMissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
         <branch id="Playing Staged Sequence" positionID="[UAP] Brave - Supermutant Missionary Staged" time="1">
             <branch id="Play Stage 1" positionID="[UAP] Brave - Supermutant Kissing" forceComplete="true">
                 <branch id="Play Stage 2" positionID="[UAP] Brave - Supermutant Missionary 1" forceComplete="true">

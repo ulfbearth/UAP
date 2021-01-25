@@ -2,11 +2,11 @@
 	<defaults/>
 	
 
-	<transition from="none" to="Leito_Carry_MM_2Mutant_01" animation="Null_Creature"/>
-	<transition from="none" to="Leito_ReverseCarry_MM_2Mutant_01" animation="Null_Creature"/>
-	<transition from="none" to="Leito_Doggy_MM_2Mutant_01" animation="Null_Creature"/>
-	<transition from="none" to="Leito_StandingDoggy_MM_2Mutant_01" animation="Null_Creature"/>
-	<transition from="none" to="Leito_Powerbomb_MM_2Mutant_01" animation="Null_Creature"/>
-	<transition from="none" to="Leito_StandingSideways_MM_2Mutant_01" animation="Null_Creature"/>
+	<transition from="none" to="Leito_Carry_MM_2Mutant_01" animation="Null"/>
+	<transition from="none" to="Leito_ReverseCarry_MM_2Mutant_01" animation="Null"/>
+	<transition from="none" to="Leito_Doggy_MM_2Mutant_01" animation="Null"/>
+	<transition from="none" to="Leito_StandingDoggy_MM_2Mutant_01" animation="Null"/>
+	<transition from="none" to="Leito_Powerbomb_MM_2Mutant_01" animation="Null"/>
+	<transition from="none" to="Leito_StandingSideways_MM_2Mutant_01" animation="Null"/>
 
 </transitionData>

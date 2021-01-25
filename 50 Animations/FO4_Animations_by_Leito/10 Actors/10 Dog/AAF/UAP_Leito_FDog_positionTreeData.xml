@@ -4,15 +4,15 @@
 
 
 
-	<tree id="Leito_Canine_Doggy_1_Tree" useConditions="true" strictExiting="true">
+	<tree id="Leito_Canine_Doggy_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Canine Doggy Sequence" time="1">
 
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Canine Doggy (Stage 1)" forceComplete="true" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Canine Doggy (Stage 1)" forceComplete="true" >
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Canine Doggy (Stage 2)" forceComplete="true" time="0">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Canine Doggy (Stage 2)" forceComplete="true" >
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Canine Doggy (Stage 3)" forceComplete="true" time="0">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Canine Doggy (Stage 3)" forceComplete="true" >
 
 						<branch id="Climax" positionID="[UAP] Leito - Canine Doggy (Stage 4)" forceComplete="true" time="15">
 		
@@ -29,15 +29,15 @@
 	</tree>
 
 
-	<tree id="Leito_Canine_Doggy_2_Tree" useConditions="true" strictExiting="true">
+	<tree id="Leito_Canine_Doggy_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Canine Doggy 2 Sequence" time="1">
 
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Canine Doggy 2 (Stage 1)" forceComplete="true" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Canine Doggy 2 (Stage 1)" forceComplete="true" >
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Canine Doggy 2 (Stage 2)" forceComplete="true" time="0">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Canine Doggy 2 (Stage 2)" forceComplete="true" >
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Canine Doggy 2 (Stage 3)" forceComplete="true" time="0">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Canine Doggy 2 (Stage 3)" forceComplete="true" >
 
 						<branch id="Climax" positionID="[UAP] Leito - Canine Doggy 2 (Stage 4)" forceComplete="true" time="15">
 		
@@ -54,15 +54,15 @@
 	</tree>
 
 
-	<tree id="Leito_Canine_Missionary_1_Tree" useConditions="true" strictExiting="true">
+	<tree id="Leito_Canine_Missionary_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Canine Missionary Sequence" time="1">
 
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Canine Missionary (Stage 1)" forceComplete="true" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Canine Missionary (Stage 1)" forceComplete="true" >
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Canine Missionary (Stage 2)" forceComplete="true" time="0">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Canine Missionary (Stage 2)" forceComplete="true" >
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Canine Missionary (Stage 3)" forceComplete="true" time="0">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Canine Missionary (Stage 3)" forceComplete="true" >
 
 						<branch id="Climax" positionID="[UAP] Leito - Canine Missionary (Stage 4)" forceComplete="true" time="15">
 		
