@@ -2,8 +2,8 @@
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 
-    <transition from="None" to="Brave_FM_SupermutantMissionary_Tree" animation="Null_Creature"/>
-    <transition from="*" to="Brave_FM_SupermutantMissionary_Tree" animation="Null_Creature"/>
+    <transition from="None" to="Brave_FM_SupermutantMissionary_Tree" animation="Null"/>
+    <transition from="*" to="Brave_FM_SupermutantMissionary_Tree" animation="Null"/>
     <transition from="Brave_FM_SupermutantKissing" to="Brave_FM_SupermutantMissionary1" animation="Brave_FM_SupermutantKissToMissionary"/>
 
     

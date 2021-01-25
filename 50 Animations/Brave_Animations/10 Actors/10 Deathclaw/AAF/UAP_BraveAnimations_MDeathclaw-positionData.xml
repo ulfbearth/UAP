@@ -16,4 +16,20 @@
     <position id="[UAP] Brave - Gay Deathclaw Sitting 6 Block" animationGroup="Brave_MM_DeathclawSitting6_Block" isHidden="true"/>
     <position id="[UAP] Brave - Gay Deathclaw Sitting 6" animation="Brave_MM_DeathclawSitting6" isHidden="true"/>
 
+
+    <position id="[UAP] Brave - Gay Deathclaw Spooning" positionTree="Brave_MM_DeathclawSpooning_Tree" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Brave - Gay Deathclaw Spooning Sequence" animationGroup="Brave_MM_DeathclawSpooningStaged" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Spooning 1 Block" animationGroup="Brave_MM_DeathclawSpooning1_Block" isHidden="true"/>
+    <position id="[UAP] Brave - Gay Deathclaw Spooning 1" animation="Brave_MM_DeathclawSpooning1" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 2" animation="Brave_MM_DeathclawSpooning2" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 2 Transition Staged" animationGroup="Brave_MM_DeathclawSpooning2_Staged" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 3 Block" animationGroup="Brave_MM_DeathclawSpooning3_Block" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 3" animation="Brave_MM_DeathclawSpooning3" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 4 Block" animationGroup="Brave_MM_DeathclawSpooning4_Block" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 4" animation="Brave_MM_DeathclawSpooning4" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 5" animation="Brave_MM_DeathclawSpooning5" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 5 Transition Staged" animationGroup="Brave_MM_DeathclawSpooning5_Staged" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 6 Block" animationGroup="Brave_MM_DeathclawSpooning6_Block" isHidden="true"/>
+	<position id="[UAP] Brave - Gay Deathclaw Spooning 6" animation="Brave_MM_DeathclawSpooning6" isHidden="true"/>
+
 </positionData>

@@ -25,12 +25,29 @@
     <position id="Deathclaw Sitting 3 Long" animation="Null" isHidden="true" />
     <position id="Deathclaw Sitting 4 Long" animation="Null" isHidden="true" />
 
+
+    <position id="Deathclaw Spooning 1" animation="DeathclawSpooning1" isHidden="true"/>
+	<position id="Deathclaw Spooning 2" animation="DeathclawSpooning2" isHidden="true"/>
+	<position id="Deathclaw Spooning 3" animation="DeathclawSpooning3" isHidden="true"/>
+	<position id="Deathclaw Spooning 4" animation="DeathclawSpooning4" isHidden="true"/>
+	<position id="Deathclaw Spooning 5" animation="DeathclawSpooning5" isHidden="true"/>
+    <position id="Deathclaw Spooning 6" animation="DeathclawSpooning6" isHidden="true"/>
+    
+	<position id="Deathclaw Spooning 1 Long" animation="DeathclawSpooning1Long" isHidden="true"/>
+	<position id="Deathclaw Spooning 2 Long" animation="DeathclawSpooning2Long" isHidden="true"/>
+	<position id="Deathclaw Spooning 3 Long" animation="DeathclawSpooning3Long" isHidden="true"/>
+	<position id="Deathclaw Spooning 4 Long" animation="DeathclawSpooning4Long" isHidden="true"/>
+
     <!-- ================================Staged Animations====================================== -->
 
     <position id="Supermutant Missionary Staged" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
     <position id="Deathclaw Sitting Staged" animation="Null" isHidden="true" />
     <position id="Deathclaw Sitting Staged Normal" animation="Null" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
     <position id="Deathclaw Sitting Staged Long" animation="Null" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
+    <position id="Deathclaw Spooning Staged" animationGroup="DeathclawSpooningStaged" isHidden="true"/>
+    <position id="Deathclaw Spooning Staged Normal" animationGroup="DeathclawSpooningStagedNormal" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="Deathclaw Spooning Staged Long" animationGroup="DeathclawSpooningStagedLong" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+
 
     <!--
 <position id="Deathclaw test" animation="Null"/>

@@ -45,4 +45,48 @@
 		<stage animation="Brave_MM_DeathclawSitting6"/>
 	</animationGroup>
 
+
+	<animationGroup id="Brave_MM_DeathclawSpooningStaged" sequential="false">
+		<stage animation="Brave_MM_DeathclawSpooning1"/>
+		<stage animation="Brave_MM_DeathclawSpooning1"/>
+		<stage animation="Brave_MM_DeathclawSpooning1"/>
+		<stage animation="Brave_MM_DeathclawSpooning1"/>
+		<stage animation="Brave_MM_DeathclawSpooning2" switchTo="[UAP] Brave - Gay Deathclaw Spooning 2 Transition Staged"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSpooning2_Staged" sequential="false">
+		<stage animation="Brave_MM_DeathclawSpooning3"/>
+		<stage animation="Brave_MM_DeathclawSpooning3"/>
+		<stage animation="Brave_MM_DeathclawSpooning3"/>
+		<stage animation="Brave_MM_DeathclawSpooning3"/>
+		<stage animation="Brave_MM_DeathclawSpooning4"/>
+		<stage animation="Brave_MM_DeathclawSpooning4"/>
+		<stage animation="Brave_MM_DeathclawSpooning4"/>
+		<stage animation="Brave_MM_DeathclawSpooning4"/>
+		<stage animation="Brave_MM_DeathclawSpooning5" switchTo="[UAP] Brave - Gay Deathclaw Spooning 5 Transition Staged"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSpooning5_Staged" sequential="false">
+		<stage animation="Brave_MM_DeathclawSpooning6"/>
+		<stage animation="Brave_MM_DeathclawSpooning6"/>
+		<stage animation="Brave_MM_DeathclawSpooning6"/>
+		<stage animation="Brave_MM_DeathclawSpooning6"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSpooning1_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSpooning1"/>
+	</animationGroup>
+	
+	<animationGroup id="Brave_MM_DeathclawSpooning3_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSpooning3"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSpooning4_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSpooning4"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_MM_DeathclawSpooning6_Block" sequential="true">
+		<stage animation="Brave_MM_DeathclawSpooning6"/>
+	</animationGroup>
+
 </animationGroupData>

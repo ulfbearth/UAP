@@ -45,4 +45,51 @@
 		<stage animation="Brave_DeathclawSitting6"/>
 	</animationGroup>
 
+
+
+
+
+	<animationGroup id="Brave_DeathclawSpooningStaged" sequential="false">
+		<stage animation="Brave_DeathclawSpooning1"/>
+		<stage animation="Brave_DeathclawSpooning1"/>
+		<stage animation="Brave_DeathclawSpooning1"/>
+		<stage animation="Brave_DeathclawSpooning1"/>
+		<stage animation="Brave_DeathclawSpooning2" switchTo="[UAP] Brave - Deathclaw Spooning 2 Transition Staged"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_DeathclawSpooning2_Staged" sequential="false">
+		<stage animation="Brave_DeathclawSpooning3"/>
+		<stage animation="Brave_DeathclawSpooning3"/>
+		<stage animation="Brave_DeathclawSpooning3"/>
+		<stage animation="Brave_DeathclawSpooning3"/>
+		<stage animation="Brave_DeathclawSpooning4"/>
+		<stage animation="Brave_DeathclawSpooning4"/>
+		<stage animation="Brave_DeathclawSpooning4"/>
+		<stage animation="Brave_DeathclawSpooning4"/>
+		<stage animation="Brave_DeathclawSpooning5" switchTo="[UAP] Brave - Deathclaw Spooning 5 Transition Staged"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_DeathclawSpooning5_Staged" sequential="false">
+		<stage animation="Brave_DeathclawSpooning6"/>
+		<stage animation="Brave_DeathclawSpooning6"/>
+		<stage animation="Brave_DeathclawSpooning6"/>
+		<stage animation="Brave_DeathclawSpooning6"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_DeathclawSpooning1_Block" sequential="true">
+		<stage animation="Brave_DeathclawSpooning1"/>
+	</animationGroup>
+	
+	<animationGroup id="Brave_DeathclawSpooning3_Block" sequential="true">
+		<stage animation="Brave_DeathclawSpooning3"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_DeathclawSpooning4_Block" sequential="true">
+		<stage animation="Brave_DeathclawSpooning4"/>
+	</animationGroup>
+
+	<animationGroup id="Brave_DeathclawSpooning6_Block" sequential="true">
+		<stage animation="Brave_DeathclawSpooning6"/>
+	</animationGroup>
+
 </animationGroupData>
