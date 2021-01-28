@@ -1,0 +1,10 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="1"/>
+
+
+    <animationGroup id="Atomic Reversed Cowgirl (Vault Bed) Staged" sequential="false">
+        <stage animation="Atomic Reversed Cowgirl (Vault Bed)"/>
+        <stage animation="Atomic Reversed Cowgirl (Vault Bed) Orgasm"/>
+    </animationGroup>
+
+</animationGroupData>

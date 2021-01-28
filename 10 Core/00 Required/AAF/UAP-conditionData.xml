@@ -111,14 +111,16 @@
 
     <!-- For Other Sequences -->
 
-    <condition id="Progress-20_100" statRules="Edge)20"/>
+    <condition id="Progress-0_100" statRules="Edge)0,Edge(99.9999"/>
+
+    <condition id="Progress-20_100" statRules="Edge)20,Edge(99.9999"/>
 
     <condition id="Progress-20_59" statRules="Edge)20,Edge(59.9999"/>
-    <condition id="Progress-60_100" statRules="Edge)60"/>
+    <condition id="Progress-60_100" statRules="Edge)60,Edge(99.9999"/>
 
     <condition id="Progress-20_46" statRules="Edge)20,Edge(46.6665"/>
     <condition id="Progress-46_73" statRules="Edge)46.6666,Edge(73.3331"/>
-    <condition id="Progress-73_100" statRules="Edge)73.3332"/>
+    <condition id="Progress-73_100" statRules="Edge)73.3332,Edge(99.9999"/>
 
 
     <condition id="Progress-0_9" statRules="Edge)0,Edge(9.9999"/>

@@ -1,10 +1,10 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults idleSource="Atomic Lust.esp"/>
+	<defaults idleSource="Atomic Lust.esp" loadPriority="1"/>
 
 	<!-- Solo Male Animations -->
 
 	<animation id="AtomicLust_Jerking_M_01" frames="400">
-		<actor gender="M" idleForm="000428DC" conditions="Foreplay,Intermediary">
+		<actor gender="M" idleForm="000428DC" conditions="Progress-0_100">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Foreskin" to="0.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>

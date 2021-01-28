@@ -1,9 +1,0 @@
-<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-    <!-- Solo Male Animations -->
-
-    <position id="[UAP] Atomic Lust - Male Jerking Off" animationGroup="AtomicLust_Jerking_M_01_Staged" tags="Rufgt,M,NoFurn,Masturbation,Neutral,Held0,Stim7,Love-1,Dom0,HandToPenis"/>
-    <position id="[UAP] Atomic Lust - Male Jerking Off (Stage 1)" isHidden="true" animation="AtomicLust_Jerking_M_01" tags="Rufgt,M,NoFurn,Masturbation,Neutral,Held0,Stim7,Love-1,Dom0,HandToPenis"/>
-    <position id="[UAP] Atomic Lust - Male Jerking Off (Orgasm)" isHidden="true" animation="AtomicLust_Jerking_M_Orgasm_01" tags="Rufgt,M,NoFurn,Masturbation,Neutral,Held0,Stim7,Love-1,Dom0,HandToPenis"/>
-</positionData>

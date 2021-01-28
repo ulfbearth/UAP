@@ -1,0 +1,21 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="1"/>
+
+
+    <!-- Atomic Spanking -->
+
+    <transition from="Atomic Spanking S1" to="Atomic Spanking S2" animation="Atomic Spanking S1 Tran" />
+    <transition from="Atomic Spanking S2" to="Atomic Spanking S3" animation="Atomic Spanking S2 Tran" />
+
+
+    <!-- Atomic Lust -->
+
+    <transition from="Standing Idle" to="Holding Hands" animation="Standing Idle to Holding Hands" />
+    <transition from="Holding Hands" to="Holding Kissing" animation="Holding Hands to Holding Kissing" />
+    <transition from="Holding Hands" to="Holding Hands to Holding Jerking" animation="Holding Hands to Holding Jerking" />
+
+
+    <transition from="*" to="Atomic Reversed Cowgirl (Vault Bed) Tree" animation="Null"/>
+    <transition from="None" to="Atomic Reversed Cowgirl (Vault Bed) Tree" animation="Null"/>
+
+</transitionData>

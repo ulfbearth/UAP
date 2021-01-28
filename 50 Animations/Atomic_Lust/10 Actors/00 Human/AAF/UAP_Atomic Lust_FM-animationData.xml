@@ -1,0 +1,511 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="Atomic Lust.esp" loadPriority="1"/>
+
+
+
+	<!-- Male/Female Animations -->
+
+
+	<animation id="Atomic Spork" frames="304">
+		<actor gender="F" idleForm="0204D0BA">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204D0BB">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spork II" frames="304">
+		<actor gender="F" idleForm="0204D0BC">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204D0BD">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl" frames="400">
+		<actor gender="F" idleForm="0204C91B">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204C91C">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl 2" frames="400">
+		<actor gender="F" idleForm="0204C91D">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204C91E">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl 2 Alt 1" frames="400">
+		<actor gender="F" idleForm="0204C91F">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204C920">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Embrace" frames="400">
+		<actor gender="F" idleForm="020044D7">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="020044D8">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Kissing" frames="360">
+		<actor gender="F" idleForm="0200540D">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0200540E">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spanking S1" frames="300">
+		<actor gender="F" idleForm="0201C0F4">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201C0F5">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spanking S1 Tran" frames="96">
+		<actor gender="F" idleForm="0201C88F">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201C890">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spanking S2" frames="300">
+		<actor gender="F" idleForm="0201D7C5">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201D02B">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spanking S2 Tran" frames="51">
+		<actor gender="F" idleForm="0201DF5F">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201DF60">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spanking S3" frames="300">
+		<actor gender="F" idleForm="0201EE93">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201EE94">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Spanking S3 Spank" frames="80">
+		<actor gender="F" idleForm="0201F62E">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201F62F">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Threesome Handjob" frames="640">
+		<actor gender="F" idleForm="02005BAE">
+			<action id="UAPBlowjob " loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02005BB0">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+			<morph id="Erection Down" to="0.2"/>
+		</actor>
+		<actor gender="M" idleForm="02005BAF">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+			<morph id="Erection Down" to="0.2"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Threesome 2" frames="640">
+		<actor gender="F" idleForm="02043FBC">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="02043FBD">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02043FBE">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Standing Idle" frames="60">
+		<actor gender="F" idleForm="02043082">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02043083">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Standing Idle to Holding Hands" frames="140">
+		<actor gender="F" idleForm="02043084">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02043085">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Holding Hands" frames="60">
+		<actor gender="F" idleForm="0204307A">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204307B">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Holding Hands to Holding Jerking" frames="136">
+		<actor gender="F" idleForm="0204307E">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204307F">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Holding Hands to Holding Kissing" frames="65">
+		<actor gender="F" idleForm="0204307C">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204307D">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Holding Kissing" frames="60">
+		<actor gender="F" idleForm="02043080">
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02043081">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<!-- Furniture Animations -->
+
+
+	<animation id="Atomic Reversed Cowgirl (Vault Bed)" frames="400">
+		<actor gender="F" idleForm="0204C917" conditions="Progress-0_100">
+			<action id="UAPMoans" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="0204C918">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Reversed Cowgirl (Vault Bed) Orgasm" frames="400">
+		<actor gender="F" idleForm="0204C919" conditions="Climax">
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+		<actor gender="M" idleForm="0204C91A">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Cryo Pod" frames="400">
+		<actor gender="F" idleForm="0200A7BA">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0200A7BB">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Blowjob (Player House Chair)" frames="400">
+		<actor gender="F" idleForm="02043FBA">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02043FBB">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Cunnilingus PA" frames="400">
+		<actor gender="F" idleForm="0201A288">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201A289">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Cunnilingus Alt PA" frames="400">
+		<actor gender="F" idleForm="0201B1BE">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201B1BF">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="Atomic Bed Cuddle" frames="400">
+		<actor gender="F" idleForm="0201B959">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0201B95A">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+			<morph id="Erection Down" to="0"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Double Bed)" frames="400">
+		<actor gender="F" idleForm="0203D530">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0203D531">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Pre-War Bed)" frames="400">
+		<actor gender="F" idleForm="0203DCD1">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0203DCD2">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Bunk Bed Top)" frames="400">
+		<actor gender="F" idleForm="0203DCCB">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0203DCCC">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Bunk Bed Bottom)" frames="400">
+		<actor gender="F" idleForm="0203DCCD">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0203DCCE">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Vault Bed)" frames="400">
+		<actor gender="F" idleForm="0203DCCF">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0203DCD0">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Institute Single Bed)" frames="400">
+		<actor gender="F" idleForm="02041207">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02041208">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Institute Double Bed)" frames="400">
+		<actor gender="F" idleForm="02041203">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02041204">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Institute Wallmounted Bed)" frames="400">
+		<actor gender="F" idleForm="02041205">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02041206">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Institute Med Bay)" frames="400">
+		<actor gender="F" idleForm="02041209">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204120A">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Cowgirl (Institute Med Bay Inclined)" frames="400">
+		<actor gender="F" idleForm="0204120B">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0204120C">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.000000001"/>
+			<morph id="Foreskin" to="0.000000001"/>
+		</actor>
+	</animation>
+
+</animationData>
