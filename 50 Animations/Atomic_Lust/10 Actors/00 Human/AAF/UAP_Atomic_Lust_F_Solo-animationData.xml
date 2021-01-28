@@ -1,0 +1,26 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="Atomic Lust.esp" loadPriority="1"/>
+
+
+	<animation id="Atomic Fingering (Laying)" frames="400">
+		<actor gender="F" idleForm="020428DE">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Fingering (Sitting)" frames="400">
+		<actor gender="F" idleForm="020428DF">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+
+
+	<animation id="Atomic Fingering 2 (Sitting)" frames="400">
+		<actor gender="F" idleForm="020428E0">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+</animationData>
