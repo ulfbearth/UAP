@@ -3,7 +3,6 @@
 
 	<morphSet id="ready">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="1"/>
 			<morph value="Erection" to="1"/>
 			<morph value="Erection Up" to="0"/>
@@ -15,7 +14,6 @@
 	
 	<morphSet id="Ready">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="1"/>
 			<morph value="Erection" to="1"/>
 			<morph value="Erection Up" to="0"/>
@@ -34,7 +32,6 @@
 	
 	<morphSet id="readyCR">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="1"/>
 			<morph value="Erection" to="1"/>
 			<morph value="Erection Up" to="0"/>
@@ -60,7 +57,6 @@
 	
 	<morphSet id="Erect">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="1"/>
 			<morph value="Erection" to="1"/>
 			<morph value="Erection Up" to="0"/>
@@ -72,7 +68,6 @@
 	
 	<morphSet id="Erected">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="1"/>
 			<morph value="Erection" to="1"/>
 			<morph value="Erection Up" to="0"/>
@@ -91,7 +86,6 @@
 	
 	<morphSet id="SCReady">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="1"/>
 			<morph value="Erection" to="1"/>
 			<morph value="Erection Up" to="0"/>
@@ -103,7 +97,6 @@
 	
 	<morphSet id="SCunReady">
 		<condition isFemale="false">
-			<morph value="Foreskin" to="0"/>
 			<morph value="CErection" to="0"/>
 			<morph value="Erection" to="0"/>
 		</condition>

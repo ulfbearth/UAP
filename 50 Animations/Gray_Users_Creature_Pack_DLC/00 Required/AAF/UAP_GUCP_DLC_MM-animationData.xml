@@ -6,7 +6,7 @@
 	<animation id="GUCP_Angler_MM_01_S1" frames="300" offset="0,3,-36,0:0,0,-36,0">
 		<actor gender="M" idleForm="010081e7" conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -18,7 +18,7 @@
 	<animation id="GUCP_Angler_MM_01_S2" frames="300" offset="0,3,-36,0:0,0,-36,0">
 		<actor gender="M" idleForm="010081e8" conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -30,7 +30,7 @@
 	<animation id="GUCP_Angler_MM_01_S3" frames="300" offset="0,3,-36,0:0,0,-36,0">
 		<actor gender="M" idleForm="010081e9" conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -42,7 +42,7 @@
 	<animation id="GUCP_Angler_MM_01_S4" frames="300" offset="0,3,-36,0:0,0,-36,0">
 		<actor gender="M" idleForm="010081ea" conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -60,7 +60,7 @@
 	<animation id="GUCP_Fog_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="010081ef" conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -72,7 +72,7 @@
 	<animation id="GUCP_Fog_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="010081f0" conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -84,7 +84,7 @@
 	<animation id="GUCP_Fog_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="010081f1" conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -96,7 +96,7 @@
 	<animation id="GUCP_Fog_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="010081f2" conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -113,7 +113,7 @@
 	<animation id="GUCP_Gulper_MM_01_S1" frames="300" offset="0,-32,0,0:0,0,0,0">
 		<actor gender="M" idleForm="010081f3" conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -125,7 +125,7 @@
 	<animation id="GUCP_Gulper_MM_01_S2" frames="300" offset="0,-32,0,0:0,0,0,0">
 		<actor gender="M" idleForm="010081f4" conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -137,7 +137,7 @@
 	<animation id="GUCP_Gulper_MM_01_S3" frames="300" offset="0,-32,0,0:0,0,0,0">
 		<actor gender="M" idleForm="010081f5" conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -149,7 +149,7 @@
 	<animation id="GUCP_Gulper_MM_01_S4" frames="300" offset="0,-32,0,0:0,0,0,0">
 		<actor gender="M" idleForm="010081f6" conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -161,7 +161,7 @@
 	<animation id="GUCP_GulperLarge_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="01026047" conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -173,7 +173,7 @@
 	<animation id="GUCP_GulperLarge_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="01026048" conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -185,7 +185,7 @@
 	<animation id="GUCP_GulperLarge_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="01026049" conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -197,7 +197,7 @@
 	<animation id="GUCP_GulperLarge_MM_01_S4" frames="300">
 		<actor gender="M" idleForm="0102604a" conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -215,7 +215,7 @@
 	<animation id="GUCP_Hermit_MM_01_S1" frames="300" offset="0,5.5,1,0:0,0,0,0">		<!-- In Animation offset is 156.365-->
 		<actor gender="M" idleForm="010081f7" conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -227,7 +227,7 @@
 	<animation id="GUCP_Hermit_MM_01_S2" frames="300" offset="0,5.5,1,0:0,0,0,0">
 		<actor gender="M" idleForm="010081f8" conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -239,7 +239,7 @@
 	<animation id="GUCP_Hermit_MM_01_S3" frames="300" offset="0,5.5,1,0:0,0,0,0">
 		<actor gender="M" idleForm="010081f9" conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -251,7 +251,7 @@
 	<animation id="GUCP_Hermit_MM_01_S4" frames="300" offset="0,5.5,1,0:0,0,0,0">
 		<actor gender="M" idleForm="010081fa" conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

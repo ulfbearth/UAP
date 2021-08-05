@@ -4,12 +4,12 @@
 	<animation id="Farelle_Blowjob_MM_Forced_01_S1" frames="47">
 		<actor gender="M" idleForm="0000359D">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000359C">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -18,12 +18,12 @@
 	<animation id="Farelle_Blowjob_MM_Forced_01_S2" frames="63">
 		<actor gender="M" idleForm="00003D38">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00003D37">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPAggMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -32,12 +32,12 @@
 	<animation id="Farelle_Feetjob_MM_01" frames="60">
 		<actor gender="M" idleForm="00006ADB">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00006ADC">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -46,7 +46,7 @@
 	<animation id="Farelle_Blowjob_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="00005BA3">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -61,7 +61,7 @@
 	<animation id="Farelle_Gangbang_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="0000633F">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -76,7 +76,7 @@
 	<animation id="Farelle_Handjob_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="00004C6B">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -91,7 +91,7 @@
 	<animation id="Farelle_Teasing_MM_Threesome_01" frames="60">
 		<actor gender="M" idleForm="00005409">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
