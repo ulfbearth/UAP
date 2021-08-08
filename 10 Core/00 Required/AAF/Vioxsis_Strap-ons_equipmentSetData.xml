@@ -1,0 +1,15 @@
+<equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults source="Vioxsis_Strap-Ons.esp"/>
+
+    <equipmentSet id="addEquipmentStrapon"> 
+        <condition isFemale="true">
+            <addEquipment form="173B"/>
+        </condition>
+    </equipmentSet>
+
+    <equipmentSet id="removeEquipmentStrapon">
+        <condition isFemale="true">
+            <removeEquipment form="173B"/>
+        </condition>
+    </equipmentSet>
+</equipmentSetData>

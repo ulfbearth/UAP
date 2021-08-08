@@ -1,0 +1,57 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+
+	<animation id="Desk Doggy Lez" frames="500" offset="0,0,0,0:0,0,1,0">
+		<actor gender="F" idleForm="1FC9">
+		</actor>
+		<actor gender="F" idleForm="1FCA">
+			<action id="FF_activity"/>
+		</actor>
+	</animation>
+
+	<animation id="Fed Couch R Cowgirl Lez" frames="500">
+		<actor gender="F" idleForm="2B0B7">
+		</actor>
+		<actor gender="F" idleForm="2B0B8">
+			<action id="FF_activity"/>
+			<morph id="Erection Up" to="0.15"/>
+		</actor>
+	</animation>
+
+	<animation id="Pool Table Missionary 1 Lez" frames="500" offset="0,0,0,0:0,0,1,0">
+		<actor gender="F" idleForm="180A">
+		</actor>
+		<actor gender="F" idleForm="180B">
+			<action id="FF_activity"/>
+			<morph id="Erection Up" to="1.5"/>
+		</actor>
+	</animation>	
+
+	<animation id="Pool Table Missionary 2 Lez" frames="500" offset="0,0,0,0:0,0,1,0">
+		<actor gender="F" idleForm="6C10">
+		</actor>
+		<actor gender="F" idleForm="6C11">
+			<action id="FF_activity"/>
+			<morph id="Erection Up" to="1.5"/>
+		</actor>
+	</animation>	
+
+	<animation id="Pool Table Missionary 3 Lez" frames="500" offset="0,0,0,0:0,0,1,0">
+		<actor gender="F" idleForm="C7A6">
+		</actor>
+		<actor gender="F" idleForm="C7A7">
+			<action id="FF_activity"/>
+			<morph id="Erection Up" to="1.5"/>
+		</actor>
+	</animation>	
+
+	<animation id="Table Missionary Lez" frames="500" offset="0,0,0,0:0,0,1,0">
+		<actor gender="F" idleForm="45CF">
+		</actor>
+		<actor gender="F" idleForm="45D0">
+			<action id="FF_activity"/>
+		</actor>
+	</animation>	
+</animationData>
+

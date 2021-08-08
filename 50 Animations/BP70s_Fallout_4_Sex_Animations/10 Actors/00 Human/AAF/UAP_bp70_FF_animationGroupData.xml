@@ -1,0 +1,33 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults />
+
+	<animationGroup id="BP70 Prone Bone Lez" sequential="false">
+		<stage animation="BP70 Prone Bone Lez 1"/>
+		<stage animation="BP70 Prone Bone Lez 2"/>
+	</animationGroup>
+
+	<animationGroup id="BP70 Prone Bone Lez Anal" sequential="false">
+		<stage animation="BP70 Prone Bone Lez Anal 1"/>
+		<stage animation="BP70 Prone Bone Lez Anal 2"/>
+	</animationGroup>
+
+	<animationGroup id="BP70 Prone Bone Lez Bed" sequential="false">
+		<stage animation="BP70 Prone Bone Lez Bed 1"/>
+		<stage animation="BP70 Prone Bone Lez Bed 2"/>
+	</animationGroup>
+
+	<animationGroup id="BP70 Prone Bone Lez Anal Bed" sequential="false">
+		<stage animation="BP70 Prone Bone Lez Anal Bed 1"/>
+		<stage animation="BP70 Prone Bone Lez Anal Bed 2"/>
+	</animationGroup>
+	
+	<animationGroup id="BP70 Prone Bone Lez Matt" sequential="false">
+		<stage animation="BP70 Prone Bone Lez Matt 1"/>
+		<stage animation="BP70 Prone Bone Lez Matt 2"/>
+	</animationGroup>
+
+	<animationGroup id="BP70 Prone Bone Lez Anal Matt" sequential="false">
+		<stage animation="BP70 Prone Bone Lez Anal Matt 1"/>
+		<stage animation="BP70 Prone Bone Lez Anal Matt 2"/>
+	</animationGroup>	
+</animationGroupData>
