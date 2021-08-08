@@ -5,7 +5,7 @@
 
 	<animation id="ML_Blowjob_MM_01" frames="480">
 		<actor gender="M" idleForm="000F9B">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
@@ -18,7 +18,7 @@
 
 	<animation id="ML_PenisLick_MM_01" frames="195">
 		<actor gender="M" idleForm="004C70">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="addTongue"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1"/>
@@ -30,7 +30,7 @@
 
 	<animation id="ML_Missionary_MM_Forced_01" frames="242">
 		<actor gender="M" idleForm="0100AF46">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Anus Spread" to="0.813"/>
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
@@ -47,7 +47,7 @@
 
 	<animation id="ML_MissionarPipeRifle_MM_Forced_01" frames="254">
 		<actor gender="M" idleForm="0100B6E2">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Anus Spread" to="0.813"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
@@ -61,7 +61,7 @@
 
 	<animation id="ML_Doggy_MM_01" frames="480">
 		<actor gender="M" idleForm="007A0D">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Anus Spread" to="0.858"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
@@ -74,7 +74,7 @@
 
 	<animation id="ML_Cowgirl_MM_01" offset="0,0,0,0:5,2,0,0" frames="480">
 		<actor gender="M" idleForm="0081A9">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Anus Spread" to="0.950"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
@@ -90,7 +90,7 @@
 
 	<animation id="ML_FG_Cowgirl_MM_01" frames="480">
 		<actor gender="M" idleForm="000F99">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
@@ -104,7 +104,7 @@
 
 	<animation id="ML_Fleshlight_MM_01" frames="480">
 		<actor gender="M" idleForm="0035A1">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
@@ -117,7 +117,7 @@
 
 	<animation id="ML_Tease_MM_01" frames="480">
 		<actor gender="M" idleForm="004C6F">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
@@ -130,7 +130,7 @@
 
 	<animation id="ML_Dumpster_MM_01" frames="480">
 		<actor gender="M" idleForm="00A7AA">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Anus Spread" to="1.493"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>

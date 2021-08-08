@@ -1,0 +1,21 @@
+<mfgSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults loadPriority="-1"/>
+
+	<mfgSet id="_T_openjaw">
+	    <setting morphID="2" intensity="100" lock="true"/>
+	</mfgSet>
+
+	<mfgSet id="_T_openjaw2">
+	    <setting morphID="2" intensity="80" lock="true"/>
+	</mfgSet>
+
+	<mfgSet id="_T_Upset">
+	    <setting morphID="2" intensity="25"/>
+	    <setting morphID="5" intensity="100" lock="true"/>
+	    <setting morphID="14" intensity="100" lock="true"/>
+	    <setting morphID="16" intensity="100" lock="true"/>
+	    <setting morphID="28" intensity="75" lock="true"/>
+	    <setting morphID="37" intensity="75" lock="true"/>
+	    <setting morphID="39" intensity="75" lock="true"/>
+	</mfgSet>
+</mfgSetData>	

@@ -1,0 +1,18 @@
+<actionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<action id="_T_OpenJaw_Action">
+		<self mfgSet="_T_openjaw">
+		</self>
+	</action>
+
+	<action id="_T_OpenJaw2_Action">
+		<self mfgSet="_T_openjaw2">
+		</self>
+	</action>
+
+	<action id="_T_Upset_Action">
+		<self mfgSet="_T_Upset">
+		</self>
+	</action>
+</actionData>

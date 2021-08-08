@@ -4,10 +4,10 @@
 
 	<tree id="BP70_Missionary_Sequence_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Missionary Sequence Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Missionary Sequence Stage 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Missionary Sequence Stage 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Missionary Sequence Stage 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70 - Missionary Sequence Stage 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Missionary Sequence Stage 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Missionary Sequence Stage 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Missionary Sequence Stage 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Missionary Sequence Stage 4" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Missionary Sequence Stage 5" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -24,10 +24,10 @@
 
 	<tree id="rxl_bp70_missionaryswish_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Missionary Grind Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Missionary Grind (tease)" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Missionary Grind 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Missionary Grind 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70 - Missionary Grind 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Missionary Grind (tease)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Missionary Grind 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Missionary Grind 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Missionary Grind 4" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Missionary Grind Orgasm (Loop)" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -44,10 +44,10 @@
 
 	<tree id="rxl_bp70_mistress_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Mistress Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Mistress 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Mistress 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Mistress 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70 - Mistress 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Mistress 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Mistress 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Mistress 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Mistress 4" forceComplete="true" time="1">
 							<branch id="Play Stage 5" positionID="[UAP] BP70 - Mistress 5" forceComplete="true" time="30" isExit="true">
 		
 							</branch>
@@ -64,9 +64,9 @@
 
 	<tree id="rxl_bp70_pronebone_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Prone Bone Staged" time="1">
-			<branch id="Foreplay" positionID="[UAP] BP70 - Prone Bone 01" forceComplete="true" >
-				<branch id="Get in" positionID="[UAP] BP70 - Prone Bone 02" forceComplete="true" >
-					<branch id="Harder" positionID="[UAP] BP70 - Prone Bone 03" forceComplete="true" >
+			<branch id="Foreplay" positionID="[UAP] BP70 - Prone Bone 01" forceComplete="true" time="1">
+				<branch id="Get in" positionID="[UAP] BP70 - Prone Bone 02" forceComplete="true" time="1">
+					<branch id="Harder" positionID="[UAP] BP70 - Prone Bone 03" forceComplete="true" time="1">
 						<branch id="Orgasm" positionID="[UAP] BP70 - Prone Bone 04" forceComplete="true"  isExit="true">
 	
 						</branch>
@@ -75,8 +75,8 @@
 				</branch>
 
 
-				<branch id="Get in (Anal)" positionID="[UAP] BP70 - Prone Bone Anal 02" forceComplete="true" >
-					<branch id="Harder" positionID="[UAP] BP70 - Prone Bone Anal 03" forceComplete="true" >
+				<branch id="Get in (Anal)" positionID="[UAP] BP70 - Prone Bone Anal 02" forceComplete="true" time="1">
+					<branch id="Harder" positionID="[UAP] BP70 - Prone Bone Anal 03" forceComplete="true" time="1">
 						<branch id="Orgasm" positionID="[UAP] BP70 - Prone Bone Anal 04" forceComplete="true"  isExit="true">
 	
 						</branch>
@@ -91,9 +91,9 @@
 
 	<tree id="BP70_Standing_Sequence_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Standing Sequence Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Standing Sequence Stage 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Standing Sequence Stage 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Standing Sequence Stage 3" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Standing Sequence Stage 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Standing Sequence Stage 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Standing Sequence Stage 3" forceComplete="true" time="1">
 						<branch id="Orgasm" positionID="[UAP] BP70 - Standing Sequence Stage 4" forceComplete="true"  isExit="true">
 	
 						</branch>
@@ -109,10 +109,10 @@
 	<tree id="rxl_bp70_impregnate_cow_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Impregnate Cowgirl Staged" time="1">
-			<branch id="Kiss" positionID="[UAP] BP70 - Impregnate Cowgirl Kiss" forceComplete="true" >
-				<branch id="Start Fucking" positionID="[UAP] BP70 - Impregnate Cowgirl Start Fucking" forceComplete="true" >
-					<branch id="Faster and Deeper" positionID="[UAP] BP70 - Impregnate Cowgirl Fuck Faster and Deeper" forceComplete="true" >
-						<branch id="Thrust" positionID="[UAP] BP70 - Impregnate Cowgirl Thrust Into Her" forceComplete="true" >
+			<branch id="Kiss" positionID="[UAP] BP70 - Impregnate Cowgirl Kiss" forceComplete="true" time="1">
+				<branch id="Start Fucking" positionID="[UAP] BP70 - Impregnate Cowgirl Start Fucking" forceComplete="true" time="1">
+					<branch id="Faster and Deeper" positionID="[UAP] BP70 - Impregnate Cowgirl Fuck Faster and Deeper" forceComplete="true" time="1">
+						<branch id="Thrust" positionID="[UAP] BP70 - Impregnate Cowgirl Thrust Into Her" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Impregnate Cowgirl Orgasm" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -122,8 +122,8 @@
 					</branch>
 
 
-					<branch id="Faster and Deeper (Fingering)" positionID="[UAP] BP70 - Impregnate Cowgirl Finger Her Ass" forceComplete="true" >
-						<branch id="Thrust" positionID="[UAP] BP70 - Impregnate Cowgirl Thrust Into Her and Finger Her" forceComplete="true" >
+					<branch id="Faster and Deeper (Fingering)" positionID="[UAP] BP70 - Impregnate Cowgirl Finger Her Ass" forceComplete="true" time="1">
+						<branch id="Thrust" positionID="[UAP] BP70 - Impregnate Cowgirl Thrust Into Her and Finger Her" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Impregnate Cowgirl Orgasm and Finger" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -142,10 +142,10 @@
 	<tree id="rxl_bp70_impregnate_mish_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Impregnate Missionary Staged" time="1">
 
-			<branch id="Kiss" positionID="[UAP] BP70 - Impregnate Missionary Stage Kiss" forceComplete="true" >
-				<branch id="Grab His Back and Start Fucking" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back" forceComplete="true" >
-					<branch id="Lower His Head" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 2" forceComplete="true" >
-						<branch id="Wrap Her Legs Around Him" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 3" forceComplete="true" >
+			<branch id="Kiss" positionID="[UAP] BP70 - Impregnate Missionary Stage Kiss" forceComplete="true" time="1">
+				<branch id="Grab His Back and Start Fucking" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back" forceComplete="true" time="1">
+					<branch id="Lower His Head" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 2" forceComplete="true" time="1">
+						<branch id="Wrap Her Legs Around Him" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 3" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Back 4" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -156,9 +156,9 @@
 				</branch>
 
 
-				<branch id="Grab His Ass and Start Fucking" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass" forceComplete="true" >
-					<branch id="Lower His Head" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 2" forceComplete="true" >
-						<branch id="Get Deeper In Her Tight Pussy" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 3" forceComplete="true" >
+				<branch id="Grab His Ass and Start Fucking" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass" forceComplete="true" time="1">
+					<branch id="Lower His Head" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 2" forceComplete="true" time="1">
+						<branch id="Get Deeper In Her Tight Pussy" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 3" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Impregnate Missionary Stage Grab His Ass 4" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -176,9 +176,9 @@
 
 	<tree id="rxl_bp70_MFF_lovetriangle_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - MFF Love Triangle Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - MFF Love Triangle 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - MFF Love Triangle 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - MFF Love Triangle 3" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - MFF Love Triangle 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - MFF Love Triangle 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - MFF Love Triangle 3" forceComplete="true" time="1">
 						<branch id="Play Stage 4" positionID="[UAP] BP70 - MFF Love Triangle 4" forceComplete="true" time="30" isExit="true">
 	
 						</branch>
@@ -191,10 +191,10 @@
 
 	<tree id="rxl_bp70_benchshaunconceptionsex_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Shaun's Conception Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Shaun's Conception 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Shaun's Conception 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Shaun's Conception 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70 - Shaun's Conception 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Shaun's Conception 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Shaun's Conception 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Shaun's Conception 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Shaun's Conception 4" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Shaun's Conception Orgasm" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -209,11 +209,11 @@
 
 	<tree id="rxl_bp70_aftersexbedrelax_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex Staged" time="1">
-			<branch id="Relax" positionID="[UAP] BP70 - Pre-War Bed After Sex Relax" forceComplete="true" >
-				<branch id="Cowgirl Stage 1" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 1" forceComplete="true" >
-					<branch id="Cowgirl Stage 2" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 2" forceComplete="true" >
-						<branch id="Missionary Stage 1" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 3" forceComplete="true" >
-							<branch id="Missionary Stage 2" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 4" forceComplete="true" >
+			<branch id="Relax" positionID="[UAP] BP70 - Pre-War Bed After Sex Relax" forceComplete="true" time="1">
+				<branch id="Cowgirl Stage 1" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 1" forceComplete="true" time="1">
+					<branch id="Cowgirl Stage 2" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 2" forceComplete="true" time="1">
+						<branch id="Missionary Stage 1" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 3" forceComplete="true" time="1">
+							<branch id="Missionary Stage 2" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex 4" forceComplete="true" time="1">
 								<branch id="Orgasm" positionID="[UAP] BP70 - Pre-War Bed Raunchy Sex Orgasm" forceComplete="true"  isExit="true">
 			
 								</branch>
@@ -232,10 +232,10 @@
 
 	<tree id="rxl_bp70_couchblowjob01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Couch Blowjob Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Couch Blowjob 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Couch Blowjob 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Couch Blowjob 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70 - Couch Blowjob 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Couch Blowjob 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Couch Blowjob 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Couch Blowjob 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Couch Blowjob 4" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70 - Couch Blowjob Orgasm (Loop)" forceComplete="true"  isExit="true">
 		
 							</branch>
@@ -250,11 +250,11 @@
 
 	<tree id="rxl_bp70_couchdoggy_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Couch Doggy Staged" time="1">
-			<branch id="Rimjob" positionID="[UAP] BP70 - Couch Doggy Rimjob (F on M)" forceComplete="true" >
-				<branch id="Doggy Stage 1" positionID="[UAP] BP70 - Couch Doggy 1" forceComplete="true" >
-					<branch id="Doggy Stage 2" positionID="[UAP] BP70 - Couch Doggy 2" forceComplete="true" >
-						<branch id="Doggy Stage 3" positionID="[UAP] BP70 - Couch Doggy 3" forceComplete="true" >
-							<branch id="Doggy Stage 4" positionID="[UAP] BP70 - Couch Doggy 4" forceComplete="true" >
+			<branch id="Rimjob" positionID="[UAP] BP70 - Couch Doggy Rimjob (F on M)" forceComplete="true" time="1">
+				<branch id="Doggy Stage 1" positionID="[UAP] BP70 - Couch Doggy 1" forceComplete="true" time="1">
+					<branch id="Doggy Stage 2" positionID="[UAP] BP70 - Couch Doggy 2" forceComplete="true" time="1">
+						<branch id="Doggy Stage 3" positionID="[UAP] BP70 - Couch Doggy 3" forceComplete="true" time="1">
+							<branch id="Doggy Stage 4" positionID="[UAP] BP70 - Couch Doggy 4" forceComplete="true" time="1">
 								<branch id="Orgasm" positionID="[UAP] BP70 - Couch Doggy 5" forceComplete="true"  isExit="true">
 			
 								</branch>
@@ -273,9 +273,9 @@
 
 	<tree id="rxl_bp70_toiletdoggy01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Toilet Doggy Staged" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70 - Toilet Doggy 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70 - Toilet Doggy 2" forceComplete="true" >
-					<branch id="Play Stage 3" positionID="[UAP] BP70 - Toilet Doggy 3" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Toilet Doggy 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Toilet Doggy 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Toilet Doggy 3" forceComplete="true" time="1">
 						<branch id="Orgasm" positionID="[UAP] BP70 - Toilet Doggy 4" forceComplete="true"  isExit="true">
 	
 						</branch>
@@ -288,10 +288,10 @@
 
 	<tree id="rxl_bp70_toiletblowjob_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Toilet Blowjob (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Toilet Blowjob 1"  forceComplete="true">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Toilet Blowjob 2"  forceComplete="true">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Toilet Blowjob 3"  forceComplete="true">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Toilet Blowjob 4"  forceComplete="true">
+			<branch id="Play Stage 1" positionID="[UAP] BP70's - Toilet Blowjob 1"  forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70's - Toilet Blowjob 2"  forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70's - Toilet Blowjob 3"  forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70's - Toilet Blowjob 4"  forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70's - Toilet Blowjob 5"  forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
@@ -302,10 +302,10 @@
 
 	<tree id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 2" forceComplete="true" >
-					<branch id="Player Stage 3" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 2" forceComplete="true" time="1">
+					<branch id="Player Stage 3" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 4" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 5 (Orgasm)" forceComplete="true"  isExit="true"></branch>
 						</branch>
 					</branch>
@@ -316,10 +316,10 @@
 
 	<tree id="rxl_bp70_prewarbed_missionaryimpregnationrisk_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 1" forceComplete="true" >
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 2" forceComplete="true" >
-					<branch id="Player Stage 3" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 3" forceComplete="true" >
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 4" forceComplete="true" >
+			<branch id="Play Stage 1" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 2" forceComplete="true" time="1">
+					<branch id="Player Stage 3" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 4" forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 5 (Orgasm)" forceComplete="true"  isExit="true"></branch>
 						</branch>
 					</branch>
@@ -330,13 +330,13 @@
 
 	<tree id="rxl_bp70_deskanal_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Desk Sex 1 (Anal, Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Desk Sex 1 (Anal)"  forceComplete="true">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Desk Sex 2 (Anal)"  forceComplete="true">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Desk Sex 3 (Anal)"  forceComplete="true">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Desk Sex 4 (Anal)"  forceComplete="true">
-							<branch id="Play Stage 5" positionID="[UAP] BP70's - Desk Sex 5 (Anal)"  forceComplete="true">
-								<branch id="Play Stage 6" positionID="[UAP] BP70's - Desk Sex 6 (Anal)"  forceComplete="true">
-									<branch id="Play Stage 7" positionID="[UAP] BP70's - Desk Sex 7 (Anal)"  forceComplete="true">
+			<branch id="Play Stage 1" positionID="[UAP] BP70's - Desk Sex 1 (Anal)"  forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70's - Desk Sex 2 (Anal)"  forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70's - Desk Sex 3 (Anal)"  forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70's - Desk Sex 4 (Anal)"  forceComplete="true" time="1">
+							<branch id="Play Stage 5" positionID="[UAP] BP70's - Desk Sex 5 (Anal)"  forceComplete="true" time="1">
+								<branch id="Play Stage 6" positionID="[UAP] BP70's - Desk Sex 6 (Anal)"  forceComplete="true" time="1">
+									<branch id="Play Stage 7" positionID="[UAP] BP70's - Desk Sex 7 (Anal)"  forceComplete="true" time="1">
 										<branch id="Orgasm" positionID="[UAP] BP70's - Desk Sex 8 (Anal, Orgasm)"  forceComplete="true" isExit="true"></branch>
 									</branch>
 								</branch>
@@ -352,10 +352,10 @@
 
 	<tree id="rxl_bp70_toiletmissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
 		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Toilet Missionary (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Toilet Missionary 1"  forceComplete="true">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Toilet Missionary 2"  forceComplete="true">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Toilet Missionary 3"  forceComplete="true">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Toilet Missionary 4"  forceComplete="true">
+			<branch id="Play Stage 1" positionID="[UAP] BP70's - Toilet Missionary 1"  forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70's - Toilet Missionary 2"  forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70's - Toilet Missionary 3"  forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70's - Toilet Missionary 4"  forceComplete="true" time="1">
 							<branch id="Orgasm" positionID="[UAP] BP70's - Toilet Missionary 5"  forceComplete="true" isExit="true">
 							</branch>
 						</branch>

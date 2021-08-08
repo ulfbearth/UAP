@@ -6,12 +6,12 @@
 	<animation id="AtomicLust_Spork_MM_01" frames="304">
 		<actor gender="M" idleForm="0004D0BA">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004D0BB">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -19,12 +19,12 @@
 	<animation id="AtomicLust_Spork_MM_02" frames="304">
 		<actor gender="M" idleForm="0004D0BC">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004D0BD">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -32,13 +32,13 @@
 	<animation id="AtomicLust_Cowgirl_MM_01" frames="400">
 		<actor gender="M" idleForm="0004C91B">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C91C">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="1.404"/>
 		</actor>
@@ -47,13 +47,13 @@
 	<animation id="AtomicLust_Cowgirl_MM_02" frames="400">
 		<actor gender="M" idleForm="0004C91D">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".825"/>
 		</actor>
 		<actor gender="M" idleForm="0004C91E">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="1.404"/>
 		</actor>
@@ -62,13 +62,13 @@
 	<animation id="AtomicLust_Cowgirl_MM_03" frames="400">
 		<actor gender="M" idleForm="0004C91F">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".825"/>
 		</actor>
 		<actor gender="M" idleForm="0004C920">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="1.404"/>
 		</actor>
@@ -100,13 +100,13 @@
 
 	<animation id="AtomicLust_BlowjobChair_MM_01" frames="400">
 		<actor gender="M" idleForm="00043FBA">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043FBB">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.200"/>
 		</actor>
@@ -115,13 +115,13 @@
 	<animation id="AtomicLust_CowgirlBunkBed_MM_Bottom_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCCD">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCCE">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -130,13 +130,13 @@
 	<animation id="AtomicLust_CowgirlBunkBed_MM_Top_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCCB">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCCC">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -145,13 +145,13 @@
 	<animation id="AtomicLust_CowgirlDoubleBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003D530">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003D531">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -160,13 +160,13 @@
 	<animation id="AtomicLust_CowgirlDoubleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041203">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00041204">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -175,13 +175,13 @@
 	<animation id="AtomicLust_CowgirlMedBay_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041209">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004120A">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -190,13 +190,13 @@
 	<animation id="AtomicLust_CowgirlMedBay_MM_InstituteInclined_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0004120B">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004120C">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -205,13 +205,13 @@
 	<animation id="AtomicLust_CowgirlSingleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041207">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00041208">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -220,13 +220,13 @@
 	<animation id="AtomicLust_CowgirlWallmountBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="00041205">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00041206">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -235,13 +235,13 @@
 	<animation id="AtomicLust_CowgirlPreWarBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCD1">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCD2">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -250,13 +250,13 @@
 	<animation id="AtomicLust_CowgirlVaultBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 		<actor gender="M" idleForm="0003DCCF">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0003DCD0">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.042"/>
 		</actor>
@@ -265,13 +265,13 @@
 	<animation id="AtomicLust_ReverseCowgirlVaultBed_MM_01" frames="400">
 		<actor gender="M" idleForm="0004C917">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C918">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to=".608"/>
 			<morph id="Erection Up" to="-.839"/>
@@ -281,14 +281,14 @@
 
 	<animation id="AtomicLust_ReverseCowgirlVaultBed_MM_Orgasm_01" frames="400">
 		<actor gender="M" idleForm="0004C919">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004C91A">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to=".608"/>
@@ -299,12 +299,12 @@
 
 	<animation id="AtomicLust_CuddleBed_MM_01" frames="400">
 		<actor gender="M" idleForm="0001B959">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001B95A">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -313,12 +313,12 @@
 	<animation id="AtomicLust_CryoPod_MM_01" frames="400">
 		<actor gender="M" idleForm="0000A7BA">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0000A7BB">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -328,12 +328,12 @@
 	<animation id="AtomicLust_Spanking_MM_01_S1" frames="300">
 		<actor gender="M" idleForm="0001C0F4">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001C0F5">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -341,12 +341,12 @@
 	<animation id="AtomicLust_Spanking_MM_01_1TR2" frames="96">
 		<actor gender="M" idleForm="0001C88F">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001C890">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -354,12 +354,12 @@
 	<animation id="AtomicLust_Spanking_MM_01_S2" frames="300">
 		<actor gender="M" idleForm="0001D7C5">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001D02B">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -367,12 +367,12 @@
 	<animation id="AtomicLust_Spanking_MM_01_2TR3" frames="51">
 		<actor gender="M" idleForm="0001DF5F">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001DF60">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -380,12 +380,12 @@
 	<animation id="AtomicLust_Spanking_MM_01_S3" frames="300">
 		<actor gender="M" idleForm="0001EE93">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001EE94">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -393,12 +393,12 @@
 	<animation id="AtomicLust_Spanking_MM_01_S4" frames="80">
 		<actor gender="M" idleForm="0001F62E">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0001F62F">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -418,12 +418,12 @@
 
 	<animation id="AtomicLust_HoldingHandstoHoldingJerking_MM_01" frames="136">
 		<actor gender="M" idleForm="0004307E">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="0004307F">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -446,7 +446,7 @@
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 		<actor gender="M" idleForm="00043081">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
@@ -477,18 +477,18 @@
 
 	<animation id="AtomicLust_Threesome_MM_01" frames="640">
 		<actor gender="M" idleForm="00005BAE">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00005BB0">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00005BAF">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -496,18 +496,18 @@
 	<animation id="AtomicLust_Threesome_MM_02" frames="640">
 		<actor gender="M" idleForm="00043FBC">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043FBD">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043FBE">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to="-.655"/>
 		</actor>
@@ -518,25 +518,25 @@
 	<animation id="AtomicLust_Cowboy_MM_01" frames="640">
 		<actor gender="M" idleForm="0004381F">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="00043820">
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Rocket69_MM_01" frames="236">
 		<actor gender="M" idleForm="0002B43D">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to=".826"/>
 		</actor>
 		<actor gender="M" idleForm="0002B43E">
-			<morph id="Foreskin" to="0.0000000000001"/>
+			<morph id="Foreskin" to="1.000000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to=".161"/>

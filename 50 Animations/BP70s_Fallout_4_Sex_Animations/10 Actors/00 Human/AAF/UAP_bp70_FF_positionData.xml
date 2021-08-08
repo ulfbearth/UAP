@@ -1,0 +1,11 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+	<position id="[UAP] BP70 Prone Bone Lez" animationGroup="BP70 Prone Bone Lez" tags="BP70,F_F,NoFurn,Doggy,FromBehind,Neutral,Vaginal,Held3,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] BP70 Prone Bone Lez Anal" animationGroup="BP70 Prone Bone Lez Anal" tags="BP70,F_F,NoFurn,Doggy,FromBehind,Neutral,Anal,Held3,Stim7,Love5,Dom-5,NullToSelf,TenAggroAnal,StrapOnToAnus"/>
+	<position id="[UAP] BP70 Prone Bone Lez Bed" location="Single Bed,Double Bed" animationGroup="BP70 Prone Bone Lez Bed" tags="BP70,F_F,SingleBed,DoubleBed,Bed,Doggy,FromBehind,Neutral,Vaginal,Held3,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] BP70 Prone Bone Lez Anal Bed" location="Single Bed,Double Bed" animationGroup="BP70 Prone Bone Lez Anal Bed" tags="BP70,F_F,SingleBed,DoubleBed,Bed,Doggy,FromBehind,Neutral,Anal,Held3,Stim7,Love5,Dom-5,NullToSelf,TenAggroAnal,StrapOnToAnus"/>
+	<position id="[UAP] BP70 Prone Bone Lez Mattress" location="Mattress" animationGroup="BP70 Prone Bone Lez Matt" tags="BP70,F_F,Mattress,Doggy,FromBehind,Neutral,Vaginal,Held3,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] BP70 Prone Bone Lez Anal Mattress" location="Mattress" animationGroup="BP70 Prone Bone Lez Anal Matt" tags="BP70,F_F,Mattress,Doggy,FromBehind,Neutral,Anal,Held3,Stim7,Love5,Dom-5,NullToSelf,TenAggroAnal,StrapOnToAnus"/>
+	<position id="[UAP] BP70 Chaise Dog Lez" location="Chaise" animation="BP70 Chaise Dog Lez" tags="BP70,F_F,Chaise,Doggy,FromBehind,Neutral,Vaginal,Held5,Stim7,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+</positionData>

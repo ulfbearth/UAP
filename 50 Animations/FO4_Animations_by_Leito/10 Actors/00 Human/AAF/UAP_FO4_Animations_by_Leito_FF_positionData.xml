@@ -1,0 +1,29 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+	<position id="[UAP] Leito FF Aggressive Blowjob" animation="Leito_FF_Blowjob_Aggressive" tags="Leito,F_F,NoFurn,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,StrapOnToMouth"/>
+	<position id="[UAP] Leito FF Aggressive Carry" animation="Leito_FF_Carry_Aggressive" tags="Leito,F_F,NoFurn,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Aggressive Cowgirl" animation="Leito_FF_Cowgirl_Aggressive" tags="Leito,F_F,NoFurn,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Aggressive Doggy" animation="Leito_FF_Doggy_Aggressive" tags="Leito,F_F,NoFurn,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Aggressive Missionary" animation="Leito_FF_Missionary_Aggressive" tags="Leito,F_F,NoFurn,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Aggressive Powerbomb" animation="Leito_FF_Powerbomb_Aggressive" tags="Leito,F_F,NoFurn,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+
+	<position id="[UAP] Leito FF Blowjob" animationGroup="Leito_FF_Blowjob_1_Staged" tags="Leito,F_F,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+	<position id="[UAP] Leito FF Carry" animationGroup="Leito_FF_Carry_1_Staged" tags="Leito,F_F,NoFurn,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Carry 2" animationGroup="Leito_FF_Carry_2_Staged" tags="Leito,F_F,NoFurn,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Cowgirl" animationGroup="Leito_FF_Cowgirl_1_Staged" tags="Leito,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Cowgirl 2" animationGroup="Leito_FF_Cowgirl_2_Staged" tags="Leito,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Cowgirl 3" animationGroup="Leito_FF_Cowgirl_3_Staged" tags="Leito,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Cowgirl 4" animationGroup="Leito_FF_Cowgirl_4_Staged" tags="Leito,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Doggy" animationGroup="Leito_FF_Doggy_1_Staged" tags="Leito,F_F,NoFurn,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/> 
+	<position id="[UAP] Leito FF Doggy 2" animationGroup="Leito_FF_Doggy_2_Staged" tags="Leito,F_F,NoFurn,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Missionary" animationGroup="Leito_FF_Missionary_1_Staged" tags="Leito,F_F,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Missionary 2" animationGroup="Leito_FF_Missionary_2_Staged" tags="Leito,F_F,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Powerbomb" animationGroup="Leito_FF_Powerbomb_1_Staged" tags="Leito,F_F,NoFurn,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Reverse Carry" animationGroup="Leito_FF_ReverseCarry_1_Staged" tags="Leito,F_F,NoFurn,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
+	<position id="[UAP] Leito FF Reverse Cowgirl" animationGroup="Leito_FF_ReverseCowgirl_1_Staged" tags="Leito,F_F,NoFurn,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Reverse Cowgirl 2" animationGroup="Leito_FF_ReverseCowgirl_2_Staged" tags="Leito,F_F,NoFurn,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Spoon" animationGroup="Leito_FF_Spoon_1_Staged" tags="Leito,F_F,NoFurn,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Standing Doggy" animationGroup="Leito_FF_StandingDoggy_1_Staged" tags="Leito,F_F,NoFurn,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+	<position id="[UAP] Leito FF Standing Doggy 2" animationGroup="Leito_FF_StandingDoggy_2_Staged" tags="Leito,F_F,NoFurn,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+</positionData>

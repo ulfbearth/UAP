@@ -1,0 +1,32 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+	<animationOffset actor="1" offset="0,0,43,0"/>
+	<animationOffset actor="2" offset="0,0,43,0"/>
+
+	<position id="[UAP] Leito FF Aggressive Bed Blowjob" location="Single_Bed,Double_Bed" animation="Leito_FF_Blowjob_Aggressive" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Blowjob,Aggressive,Cuffed,Held5,Stim1,Love-7,Dom-7,NullToSelf,StrapOnToMouth"/>
+	<position id="[UAP] Leito FF Aggressive Bed Carry" location="Single_Bed,Double_Bed" animation="Leito_FF_Carry_Aggressive" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Carry,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Aggressive Bed Cowgirl" location="Single_Bed,Double_Bed" animation="Leito_FF_Cowgirl_Aggressive" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Aggressive Bed Doggy" location="Single_Bed,Double_Bed" animation="Leito_FF_Doggy_Aggressive" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Kneeling,Doggy,FromBehind,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Aggressive Bed Missionary" location="Single_Bed,Double_Bed" animation="Leito_FF_Missionary_Aggressive" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Aggressive Bed Powerbomb" location="Single_Bed,Double_Bed" animation="Leito_FF_Powerbomb_Aggressive" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Powerbomb,Aggressive,Cuffed,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+
+	<position id="[UAP] Leito FF Bed Blowjob" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Blowjob_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+	<position id="[UAP] Leito FF Bed Carry" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Carry_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Bed Carry 2" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Carry_2_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Bed Cowgirl" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Cowgirl_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Cowgirl 2" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Cowgirl_2_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Cowgirl 3" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Cowgirl_3_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Cowgirl 4" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Cowgirl_4_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Doggy" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Doggy_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/> 
+	<position id="[UAP] Leito FF Bed Doggy 2" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Doggy_2_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Missionary" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Missionary_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Bed Missionary 2" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Missionary_2_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Bed Powerbomb" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Powerbomb_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Bed Reverse Carry" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_ReverseCarry_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
+	<position id="[UAP] Leito FF Bed Reverse Cowgirl" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_ReverseCowgirl_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Reverse Cowgirl 2" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_ReverseCowgirl_2_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+	<position id="[UAP] Leito FF Bed Spoon" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_Spoon_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToVagina"/>
+	<position id="[UAP] Leito FF Bed Standing Doggy" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_StandingDoggy_1_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+	<position id="[UAP] Leito FF Bed Standing Doggy 2" location="Single_Bed,Double_Bed" animationGroup="Leito_FF_StandingDoggy_2_Staged" tags="Leito,F_F,SingleBed,DoubleBed,Bed,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+</positionData>

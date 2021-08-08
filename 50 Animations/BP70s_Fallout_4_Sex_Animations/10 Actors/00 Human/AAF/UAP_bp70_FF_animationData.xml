@@ -1,0 +1,122 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="rxl_bp70_animations.esp"/>
+
+    <!-- Prone Bone -->
+	<animation id="BP70 Prone Bone Lez 1" frames="240" offset="0,-1.15,0,0:0,0,0,0">
+		<actor gender="F" idleForm="15F21">
+		</actor>
+		<actor gender="F" idleForm="15F22">
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.73"/>	
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez 2" frames="120" offset="0,-1.15,0,0:0,0,0,0">
+		<actor gender="F" idleForm="15F23">
+		</actor>
+		<actor gender="F" idleForm="15F24">
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.73"/>	
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Anal 1" frames="240">
+		<actor gender="F" idleForm="17D94">
+		</actor>
+		<actor gender="F" idleForm="17D95">
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.6"/>
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Anal 2" frames="120">
+		<actor gender="F" idleForm="17D96">
+		</actor>
+		<actor gender="M" idleForm="17D97">
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.6"/>
+		</actor>
+	</animation>
+	<!-- Prone Bone Bed -->
+	<animation id="BP70 Prone Bone Lez Bed 1" frames="240" offset="0,-1.15,45,0:0,0,45,0">
+		<actor gender="F" idleForm="15F21">			 
+		</actor>
+		<actor gender="F" idleForm="15F22">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.73"/>	
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Bed 2" frames="120" offset="0,-1.15,45,0:0,0,45,0">
+		<actor gender="F" idleForm="15F23">			 
+		</actor>
+		<actor gender="F" idleForm="15F24">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.73"/>	
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Anal Bed 1" frames="240" offset="0,0,45,0:0,0,45,0">
+		<actor gender="F" idleForm="17D94">			 
+		</actor>
+		<actor gender="F" idleForm="17D95">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.6"/>
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Anal Bed 2" frames="120" offset="0,0,45,0:0,0,45,0">
+		<actor gender="F" idleForm="17D96">			 
+		</actor>
+		<actor gender="M" idleForm="17D97">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.6"/>
+		</actor>
+	</animation>
+
+	<!-- Prone Bone Mattress -->
+	<animation id="BP70 Prone Bone Lez Matt 1" frames="240" offset="0,-1.15,9,0:0,0,9,0">
+		<actor gender="F" idleForm="15F21">			 
+		</actor>
+		<actor gender="F" idleForm="15F22">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.73"/>	
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Matt 2" frames="120" offset="0,-1.15,9,0:0,0,9,0">
+		<actor gender="F" idleForm="15F23">			 
+		</actor>
+		<actor gender="F" idleForm="15F24">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.73"/>	
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Anal Matt 1" frames="240" offset="0,0,9,0:0,0,9,0">
+		<actor gender="F" idleForm="17D94">			 
+		</actor>
+		<actor gender="F" idleForm="17D95">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.6"/>
+		</actor>
+	</animation>
+
+	<animation id="BP70 Prone Bone Lez Anal Matt 2" frames="120" offset="0,0,9,0:0,0,9,0">
+		<actor gender="F" idleForm="17D96">			 
+		</actor>
+		<actor gender="M" idleForm="17D97">			 
+		    <action id="FF_activity"/>	
+		    <morph id="Erection Up" to="0.6"/>
+		</actor>
+	</animation>	
+	
+	<!-- chaise -->
+	<animation id="BP70 Chaise Dog Lez" frames="240">
+		<actor gender="F" idleForm="7A6B">			
+		</actor>
+		<actor gender="F" idleForm="7A6C">			
+			<action id="FF_activity"/>
+		</actor>
+	</animation>
+</animationData>	
