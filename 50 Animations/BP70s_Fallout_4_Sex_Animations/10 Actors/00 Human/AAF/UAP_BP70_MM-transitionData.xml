@@ -3,7 +3,8 @@
 
     <!-- Missionary Animations-->
 
-
+    <transition from="*" to="rxl_bp70_mm_romanticmissionary_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_romanticmissionary_Tree" animation="Null"></transition>
 
 
     <transition from="FO4SA_Missionaryswish_MM_01_S1" to="FO4SA_Missionaryswish_MM_01_S2" animation="FO4SA_Missionaryswish_MM_01_S1-2Trans"/>
@@ -83,6 +84,10 @@
 
 
     <!-- Doggy Animations -->
+
+    <transition from="*" to="rxl_bp70_mm_pitdoggy_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_pitdoggy_Tree" animation="Null"></transition>
+
     <transition from="none" to="FO4SA_Doggy_MM_01" animation="Null"/>
 
 
@@ -103,11 +108,6 @@
 
 
     <!-- Missionary Animations -->
-    <transition from="none" to="FO4SA_Missionary_MM_01" animation="Null"/>
-    
-
-    <transition from="none" to="FO4SA_Missionary_MM_Romantic_01" animation="Null"/>
-    
 
 
     <transition from="*" to="FO4SA_Missionary_MM_02_Tree" animation="Null"/>
@@ -184,8 +184,9 @@
     <transition from="none" to="FO4SA_Standing_MM_01_S4" animation="Null"/>
 
 
-
-
+    <!-- Spoon Animations -->
+    <transition from="*" to="rxl_bp70_mm_floorspoon_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_floorspoon_Tree" animation="Null"></transition>
 
     <!-- ================================================================================================ -->
     <!-- ===================================== N-Some Animations ===================================== -->
@@ -272,6 +273,10 @@
     
     
     <!-- Alt Animations -->
+
+    <transition from="*" to="rxl_bp70_mm_chairspankbase_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_chairspankbase_Tree" animation="Null"></transition>
+
     <transition from="none" to="FO4SA_MM_malebodyworship" animation="Null"/>
 
 
@@ -279,6 +284,14 @@
 
 
     <!-- Cowgirl Animations -->
+
+    <transition from="*" to="rxl_bp70_mm_couchreversecowgirl_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_couchreversecowgirl_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_mm_couchcowgirl_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_couchcowgirl_Tree" animation="Null"></transition>
+
+
     <transition from="none" to="FO4SA_CowgirlBed_MM_01" animation="Null"/>
     <transition from="none" to="FO4SA_CowgirlBed_MM_Pound_01" animation="Null"/>
 
@@ -326,9 +339,16 @@
 
 
     <!-- Missionary Animations -->
+
+    <transition from="*" to="rxl_bp70_mm_couchmissionary_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_couchmissionary_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_bed_mm_romanticmissionary_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_bed_mm_romanticmissionary_Tree" animation="Null"></transition>
+
+
     <transition from="none" to="FO4SA_MissionaryBed_MM_01" animation="Null"/>
     <transition from="none" to="FO4SA_MissionaryBed_MM_Pound_01" animation="Null"/>
-    <transition from="none" to="FO4SA_MissionaryBed_MM_Romantic_01" animation="Null"/>
 
     <transition from="none" to="FO4SA_MM_armchairmish" animation="Null"/>
 
@@ -364,5 +384,11 @@
     
     <transition from="*" to="rxl_bp70_mm_toiletblowjob_Tree" animation="Null"/>
     <transition from="none" to="rxl_bp70_mm_toiletblowjob_Tree" animation="Null"/>
+
+
+    <!-- Standing/Carry Animations -->
+
+    <transition from="*" to="rxl_bp70_mm_lockersex_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_mm_lockersex_Tree" animation="Null"></transition>
 
 </transitionData>

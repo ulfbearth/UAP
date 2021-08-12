@@ -5,12 +5,12 @@
 	<!-- Misc Animations -->
 
 	<tree id="FO4SA_Missionary_MM_mistress_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Mister Sequence" time="1">
-			<branch id="Armpit" positionID="[UAP] BP70's - Gay Mister (Stage 1, Armpit)" forceComplete="true" time="1">
-				<branch id="Footjob" positionID="[UAP] BP70's - Gay Mister (Stage 2, Footjob)" forceComplete="true" time="1">
-					<branch id="Face Sit" positionID="[UAP] BP70's - Gay Mister (Stage 3, Face Sit)" forceComplete="true" time="1">
-						<branch id="Cowgirl" positionID="[UAP] BP70's - Gay Mister (Stage 4, Cowgirl)" forceComplete="true" time="1">
-							<branch id="Reverse Cowgirl" positionID="[UAP] BP70's - Gay Mister (Stage 5, RevCowgirl)" forceComplete="true" time="30" isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Mister Sequence" time="1">
+			<branch id="Armpit" positionID="[UAP] BP70 - Gay Mister (Stage 1, Armpit)" forceComplete="true" time="1">
+				<branch id="Footjob" positionID="[UAP] BP70 - Gay Mister (Stage 2, Footjob)" forceComplete="true" time="1">
+					<branch id="Face Sit" positionID="[UAP] BP70 - Gay Mister (Stage 3, Face Sit)" forceComplete="true" time="1">
+						<branch id="Cowgirl" positionID="[UAP] BP70 - Gay Mister (Stage 4, Cowgirl)" forceComplete="true" time="1">
+							<branch id="Reverse Cowgirl" positionID="[UAP] BP70 - Gay Mister (Stage 5, RevCowgirl)" forceComplete="true" time="30" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -21,9 +21,9 @@
 
 	<!-- Footjob Animations -->
 	<tree id="FO4SA_Missionary_MM_footjob_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Footjob Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Footjob (Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Footjob (Stage 2)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Footjob Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Footjob (Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Footjob (Stage 2)" forceComplete="true" isExit="true"></branch>
 			</branch>
 		</branch>
 	</tree>
@@ -31,17 +31,17 @@
 
 	<!-- Cowgirl Animations -->
 	<tree id="FO4SA_Missionary_MM_impregnate_cow_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Impregnate Cowgirl Sequence" time="1">
-			<branch id="Kissing" positionID="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 1)" forceComplete="true" time="1">
-				<branch id="Start Fucking" positionID="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 2)" forceComplete="true" time="1">
-					<branch id="Fuck Faster" positionID="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 3)" forceComplete="true" time="1">
-						<branch id="Thrust" positionID="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Impregnate Cowgirl (Stage 5)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Impregnate Cowgirl Sequence" time="1">
+			<branch id="Kissing" positionID="[UAP] BP70 - Gay Impregnate Cowgirl (Stage 1)" forceComplete="true" time="1">
+				<branch id="Start Fucking" positionID="[UAP] BP70 - Gay Impregnate Cowgirl (Stage 2)" forceComplete="true" time="1">
+					<branch id="Fuck Faster" positionID="[UAP] BP70 - Gay Impregnate Cowgirl (Stage 3)" forceComplete="true" time="1">
+						<branch id="Thrust" positionID="[UAP] BP70 - Gay Impregnate Cowgirl (Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Impregnate Cowgirl (Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
-					<branch id="Fuck Faster and Finger Him" positionID="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 3)" forceComplete="true" time="1">
-						<branch id="Thrust" positionID="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Impregnate Cowgirl Finger (Stage 5)" forceComplete="true"  isExit="true"></branch>
+					<branch id="Fuck Faster and Finger Him" positionID="[UAP] BP70 - Gay Impregnate Cowgirl Finger (Stage 3)" forceComplete="true" time="1">
+						<branch id="Thrust" positionID="[UAP] BP70 - Gay Impregnate Cowgirl Finger (Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Impregnate Cowgirl Finger (Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -51,12 +51,31 @@
 
 	<!-- Doggy Animations -->
 
+	<tree id="rxl_bp70_mm_pitdoggy_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Pit Doggy Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Pit Doggy 01" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Pit Doggy 02" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Pit Doggy 03" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Pit Doggy 04" forceComplete="true" time="1">
+							<branch id="Play Stage 5" positionID="[UAP] BP70 - Gay Pit Doggy 05" forceComplete="true" time="1">
+								<branch id="Play Stage 6" positionID="[UAP] BP70 - Gay Pit Doggy 06" forceComplete="true" time="1">
+									<branch id="Climax" positionID="[UAP] BP70 - Gay Pit Doggy Orgasm" forceComplete="true" isExit="true"></branch>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
 	<tree id="FO4SA_ProneBone_MM_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Prone Bone Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Prone Bone (Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Prone Bone (Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Prone Bone (Stage 3)" forceComplete="true" time="1">
-						<branch id="Orgasm" positionID="[UAP] BP70's - Gay Prone Bone (Stage 4)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Prone Bone Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Prone Bone (Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Prone Bone (Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Prone Bone (Stage 3)" forceComplete="true" time="1">
+						<branch id="Orgasm" positionID="[UAP] BP70 - Gay Prone Bone (Stage 4)" forceComplete="true" isExit="true"></branch>
 					</branch>
 				</branch>
 			</branch>
@@ -64,13 +83,28 @@
 	</tree>
 
 	<!-- Missionary Animations-->
+	<tree id="rxl_bp70_mm_romanticmissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Stageed Sequence" positionID="[UAP] BP70 - Gay Romantic Missionary Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Romantic Missionary 01" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Romantic Missionary 02" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Romantic Missionary 03" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Romantic Missionary 04" forceComplete="true" time="1">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Romantic Missionary 05" time="1" forceComplete="true" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
 	<tree id="FO4SA_Missionary_MM_02_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Missionary 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Missionary 2 (Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Missionary 2 (Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Missionary 2 (Stage 3)" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Missionary 2 (Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Missionary 2 (Stage 5)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Missionary 2 Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Missionary 2 (Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Missionary 2 (Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Missionary 2 (Stage 3)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Missionary 2 (Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Missionary 2 (Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -79,12 +113,12 @@
 	</tree>
 
 	<tree id="FO4SA_Missionaryswish_MM_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Missionary Grind Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Missionary Grind (Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Missionary Grind (Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Missionary Grind (Stage 3)" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Missionary Grind (Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Missionary Grind (Stage 5, Orgasm)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Missionary Grind Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Missionary Grind (Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Missionary Grind (Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Missionary Grind (Stage 3)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Missionary Grind (Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Missionary Grind (Stage 5, Orgasm)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -94,21 +128,21 @@
 
 
 	<tree id="FO4SA_Missionary_MM_Impregnate_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Impregnate Missionary Sequence" time="1">
-			<branch id="Kiss" positionID="[UAP] BP70's - Gay Impregnate Missionary (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Impregnate Missionary Sequence" time="1">
+			<branch id="Kiss" positionID="[UAP] BP70 - Gay Impregnate Missionary (Stage 1)" forceComplete="true" time="1">
 
-				<branch id="Grab His Back and Start Fucking" positionID="[UAP] BP70's - Gay Impregnate Missionary (Stage 2)" forceComplete="true" time="1">
-					<branch id="Lower His Head" positionID="[UAP] BP70's - Gay Impregnate Missionary (Stage 3)" forceComplete="true" time="1">
-						<branch id="Wrap His Legs Around Him" positionID="[UAP] BP70's - Gay Impregnate Missionary (Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Impregnate Missionary (Stage 5)" forceComplete="true"  isExit="true"></branch>
+				<branch id="Grab His Back and Start Fucking" positionID="[UAP] BP70 - Gay Impregnate Missionary (Stage 2)" forceComplete="true" time="1">
+					<branch id="Lower His Head" positionID="[UAP] BP70 - Gay Impregnate Missionary (Stage 3)" forceComplete="true" time="1">
+						<branch id="Wrap His Legs Around Him" positionID="[UAP] BP70 - Gay Impregnate Missionary (Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Impregnate Missionary (Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
 
-				<branch id="Grab His Ass and Start Fucking" positionID="[UAP] BP70's - Gay Impregnate Missionary II (Stage 2)" forceComplete="true" time="1">
-					<branch id="Lower His Head" positionID="[UAP] BP70's - Gay Impregnate Missionary II (Stage 3)" forceComplete="true" time="1">
-						<branch id="Get Deeper in His Ass" positionID="[UAP] BP70's - Gay Impregnate Missionary II (Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Impregnate Missionary II (Stage 5)" forceComplete="true"  isExit="true"></branch>
+				<branch id="Grab His Ass and Start Fucking" positionID="[UAP] BP70 - Gay Impregnate Missionary II (Stage 2)" forceComplete="true" time="1">
+					<branch id="Lower His Head" positionID="[UAP] BP70 - Gay Impregnate Missionary II (Stage 3)" forceComplete="true" time="1">
+						<branch id="Get Deeper in His Ass" positionID="[UAP] BP70 - Gay Impregnate Missionary II (Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Impregnate Missionary II (Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -119,11 +153,27 @@
 
 	<!-- Standing/Carry Animations -->
 	<tree id="FO4SA_Standing_MM_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Standing Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Standing (Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Standing (Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Standing (Stage 3)" forceComplete="true" time="1">
-						<branch id="Orgasm" positionID="[UAP] BP70's - Gay Standing (Stage 4)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Standing Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Standing (Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Standing (Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Standing (Stage 3)" forceComplete="true" time="1">
+						<branch id="Orgasm" positionID="[UAP] BP70 - Gay Standing (Stage 4)" forceComplete="true" isExit="true"></branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
+	<!-- Spoon Animations -->
+	<tree id="rxl_bp70_mm_floorspoon_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Spooning Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Spooning 01" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Spooning 02" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Spooning 03" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Spooning 04" forceComplete="true" time="1">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Spooning Orgasm (loop)" forceComplete="true" time="1" isExit="true"></branch>
+						</branch>
 					</branch>
 				</branch>
 			</branch>
@@ -133,11 +183,11 @@
 
 	<!-- N-Some Animations-->
 	<tree id="FO4SA_LoveTriangle_MM_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Love Triangle Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Love Triangle (Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Love Triangle (Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Love Triangle (Stage 3)" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Love Triangle (Stage 4)" forceComplete="true" time="30" isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Love Triangle Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Love Triangle (Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Love Triangle (Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Love Triangle (Stage 3)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Love Triangle (Stage 4)" forceComplete="true" time="30" isExit="true"></branch>
 					</branch>
 				</branch>
 			</branch>
@@ -149,13 +199,13 @@
 	<!-- ===================================== Furniture Animations ===================================== -->
 	<!-- Double Bed -->
 	<tree id="FO4SA_MM_raunchy_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Raunchy Sex Sequence" time="1">
-			<branch id="Relax" positionID="[UAP] BP70's - Gay Raunchy Sex (Pre-War Bed, Relax)" forceComplete="true" time="1">
-				<branch id="Cowgirl Stage 1" positionID="[UAP] BP70's - Gay Raunchy Sex 1 (Pre-War Bed, Cowgirl)" forceComplete="true" time="1">
-					<branch id="Cowgirl Stage 2" positionID="[UAP] BP70's - Gay Raunchy Sex 2 (Pre-War Bed, Cowgirl)" forceComplete="true" time="1">
-						<branch id="Missionary Stage 1" positionID="[UAP] BP70's - Gay Raunchy Sex 3 (Pre-War Bed, Missionary)" forceComplete="true" time="1">
-							<branch id="Missionary Stage 2" positionID="[UAP] BP70's - Gay Raunchy Sex 4 (Pre-War Bed, Missionary)" forceComplete="true" time="1">
-								<branch id="Orgasm" positionID="[UAP] BP70's - Gay Raunchy Sex 5 (Pre-War Bed, Missionary, Orgasm)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Raunchy Sex Sequence" time="1">
+			<branch id="Relax" positionID="[UAP] BP70 - Gay Raunchy Sex (Pre-War Bed, Relax)" forceComplete="true" time="1">
+				<branch id="Cowgirl Stage 1" positionID="[UAP] BP70 - Gay Raunchy Sex 1 (Pre-War Bed, Cowgirl)" forceComplete="true" time="1">
+					<branch id="Cowgirl Stage 2" positionID="[UAP] BP70 - Gay Raunchy Sex 2 (Pre-War Bed, Cowgirl)" forceComplete="true" time="1">
+						<branch id="Missionary Stage 1" positionID="[UAP] BP70 - Gay Raunchy Sex 3 (Pre-War Bed, Missionary)" forceComplete="true" time="1">
+							<branch id="Missionary Stage 2" positionID="[UAP] BP70 - Gay Raunchy Sex 4 (Pre-War Bed, Missionary)" forceComplete="true" time="1">
+								<branch id="Orgasm" positionID="[UAP] BP70 - Gay Raunchy Sex 5 (Pre-War Bed, Missionary, Orgasm)" forceComplete="true" isExit="true"></branch>
 							</branch>
 						</branch>
 					</branch>
@@ -167,10 +217,10 @@
 
 	<!-- Park Bench -->
 	<tree id="FO4SA_MM_benchshaunconception_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Shaun's Conception Sequence" time="1">
-			<branch id="Footjob" positionID="[UAP] BP70's - Gay Shaun's Conception 1 (Bench, Footjob)" forceComplete="true" time="1">
-				<branch id="Missionary" positionID="[UAP] BP70's - Gay Shaun's Conception 4 (Bench, Missionary)" forceComplete="true" time="1">
-					<branch id="Orgasm" positionID="[UAP] BP70's - Gay Shaun's Conception Orgasm (Bench, Missionary)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Shaun's Conception Sequence" time="1">
+			<branch id="Footjob" positionID="[UAP] BP70 - Gay Shaun's Conception 1 (Bench, Footjob)" forceComplete="true" time="1">
+				<branch id="Missionary" positionID="[UAP] BP70 - Gay Shaun's Conception 4 (Bench, Missionary)" forceComplete="true" time="1">
+					<branch id="Orgasm" positionID="[UAP] BP70 - Gay Shaun's Conception Orgasm (Bench, Missionary)" forceComplete="true" isExit="true"></branch>
 				</branch>
 			</branch>
 		</branch>
@@ -179,12 +229,12 @@
 	<!-- ===================================== Non-Misc Animations ===================================== -->
 	<!-- Doggy Animations -->
 	<tree id="FO4SA_DoggyCouch_MM_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Doggy (Couch) Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Doggy (Couch, Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Doggy (Couch, Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Doggy (Couch, Stage 3)" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Doggy (Couch, Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Doggy (Couch, Stage 5)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Doggy (Couch) Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Doggy (Couch, Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Doggy (Couch, Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Doggy (Couch, Stage 3)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Doggy (Couch, Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Doggy (Couch, Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -193,11 +243,11 @@
 	</tree>
 
 	<tree id="FO4SA_DoggyToilet_MM_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Doggy (Toilet) Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Doggy (Toilet, Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Doggy (Toilet, Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Doggy (Toilet, Stage 3)" forceComplete="true" time="1">
-						<branch id="Orgasm" positionID="[UAP] BP70's - Gay Doggy (Toilet, Stage 4)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Doggy (Toilet) Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Doggy (Toilet, Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Doggy (Toilet, Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Doggy (Toilet, Stage 3)" forceComplete="true" time="1">
+						<branch id="Orgasm" positionID="[UAP] BP70 - Gay Doggy (Toilet, Stage 4)" forceComplete="true" isExit="true"></branch>
 					</branch>
 				</branch>
 			</branch>
@@ -206,12 +256,12 @@
 
 	<!-- Blowjob Animations -->
 	<tree id="FO4SA_MM_couchblowjob_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Blowjob (Couch) Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Blowjob (Couch, Stage 1)" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Blowjob (Couch, Stage 2)" forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Blowjob (Couch, Stage 3)" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Blowjob (Couch, Stage 4)" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Blowjob (Couch, Stage 5)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Blowjob (Couch) Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Blowjob (Couch, Stage 1)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Blowjob (Couch, Stage 2)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Blowjob (Couch, Stage 3)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Blowjob (Couch, Stage 4)" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Blowjob (Couch, Stage 5)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -220,12 +270,12 @@
 	</tree>
 
 	<tree id="rxl_bp70_mm_toiletblowjob_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Toilet Blowjob (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Toilet Blowjob 1"  forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Toilet Blowjob 2"  forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Toilet Blowjob 3"  forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Toilet Blowjob 4"  forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Toilet Blowjob 5"  forceComplete="true" isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Toilet Blowjob (Staged)" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Toilet Blowjob 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Toilet Blowjob 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Toilet Blowjob 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Toilet Blowjob 4" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Toilet Blowjob 5" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -234,13 +284,42 @@
 	</tree>
 
 	<!-- Cowgirl Animations -->
+
+	<tree id="rxl_bp70_mm_couchcowgirl_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Couch Cowgirl Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Couch Cowgirl 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Couch Cowgirl 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Couch Cowgirl 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Couch Cowgirl 4" forceComplete="true" time="1">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Couch Cowgirl 5" forceComplete="true" time="1" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+	<tree id="rxl_bp70_mm_couchreversecowgirl_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Reverse Cowgirl Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Reverse Cowgirl 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Reverse Cowgirl 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Reverse Cowgirl 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Reverse Cowgirl 4" forceComplete="true" time="1">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Reverse Cowgirl 5" forceComplete="true" time="1" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
 	<tree id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 1" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 2" forceComplete="true" time="1">
-					<branch id="Player Stage 3" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 3" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 4" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 5 (Orgasm)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex (Staged)" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 2" forceComplete="true" time="1">
+					<branch id="Player Stage 3" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 4" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 5 (Orgasm)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -250,13 +329,44 @@
 
 
 	<!-- Misionary Animations -->
+
+	<tree id="rxl_bp70_bed_mm_romanticmissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Bed Romantic Missionary Sequence (Single Bed)" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Bed Romantic Missionary 1 (Single Bed)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Bed Romantic Missionary 2 (Single Bed)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Bed Romantic Missionary 3 (Single Bed)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Bed Romantic Missionary 4 (Single Bed)" forceComplete="true" time="1">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Bed Romantic Missionary 5 (Single Bed)" forceComplete="true" time="1" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
+	<tree id="rxl_bp70_mm_couchmissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Couch Missionary Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Couch Missionary 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Couch Missionary 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Couch Missionary 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Couch Missionary 4" forceComplete="true" time="1">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Couch Missionary 5" forceComplete="true" time="1" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
 	<tree id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 1" forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 2" forceComplete="true" time="1">
-					<branch id="Player Stage 3" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 3" forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 4" forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 5 (Orgasm)" forceComplete="true"  isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex (Staged)" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 2" forceComplete="true" time="1">
+					<branch id="Player Stage 3" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 4" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 5 (Orgasm)" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -265,15 +375,15 @@
 	</tree>
 
 	<tree id="rxl_bp70_mm_deskanal_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Desk Sex 1 (Anal, Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Desk Sex 1 (Anal)"  forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Desk Sex 2 (Anal)"  forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Desk Sex 3 (Anal)"  forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Desk Sex 4 (Anal)"  forceComplete="true" time="1">
-							<branch id="Play Stage 5" positionID="[UAP] BP70's - Gay Desk Sex 5 (Anal)"  forceComplete="true" time="1">
-								<branch id="Play Stage 6" positionID="[UAP] BP70's - Gay Desk Sex 6 (Anal)"  forceComplete="true" time="1">
-									<branch id="Play Stage 7" positionID="[UAP] BP70's - Gay Desk Sex 7 (Anal)"  forceComplete="true" time="1">
-										<branch id="Orgasm" positionID="[UAP] BP70's - Gay Desk Sex 8 (Anal, Orgasm)"  forceComplete="true" isExit="true"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Desk Sex 1 (Anal, Staged)" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Desk Sex 1 (Anal)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Desk Sex 2 (Anal)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Desk Sex 3 (Anal)" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Desk Sex 4 (Anal)" forceComplete="true" time="1">
+							<branch id="Play Stage 5" positionID="[UAP] BP70 - Gay Desk Sex 5 (Anal)" forceComplete="true" time="1">
+								<branch id="Play Stage 6" positionID="[UAP] BP70 - Gay Desk Sex 6 (Anal)" forceComplete="true" time="1">
+									<branch id="Play Stage 7" positionID="[UAP] BP70 - Gay Desk Sex 7 (Anal)" forceComplete="true" time="1">
+										<branch id="Orgasm" positionID="[UAP] BP70 - Gay Desk Sex 8 (Anal, Orgasm)" forceComplete="true" isExit="true"></branch>
 									</branch>
 								</branch>
 							</branch>
@@ -287,18 +397,53 @@
 
 
 	<tree id="rxl_bp70_mm_toiletmissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] BP70's - Gay Toilet Missionary (Staged)" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] BP70's - Gay Toilet Missionary 1"  forceComplete="true" time="1">
-				<branch id="Play Stage 2" positionID="[UAP] BP70's - Gay Toilet Missionary 2"  forceComplete="true" time="1">
-					<branch id="Play Stage 3" positionID="[UAP] BP70's - Gay Toilet Missionary 3"  forceComplete="true" time="1">
-						<branch id="Play Stage 4" positionID="[UAP] BP70's - Gay Toilet Missionary 4"  forceComplete="true" time="1">
-							<branch id="Orgasm" positionID="[UAP] BP70's - Gay Toilet Missionary 5"  forceComplete="true" isExit="true">
-							</branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Toilet Missionary (Staged)" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Toilet Missionary 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Toilet Missionary 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Toilet Missionary 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Toilet Missionary 4" forceComplete="true" time="1">
+							<branch id="Orgasm" positionID="[UAP] BP70 - Gay Toilet Missionary 5" forceComplete="true" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
 			</branch>
 		</branch>
+	</tree>
+
+	<!-- Standing/Carry Animations -->
+	<tree id="rxl_bp70_mm_lockersex_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Locker Sex Sequence" time="1">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Locker Sex 1" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Locker Sex 2" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Locker Sex 3" forceComplete="true" time="1">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Locker Sex 4" forceComplete="true" time="1">
+							<branch id="Finish" positionID="Filler2P" forceComplete="true" time="1" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
+	<!-- Alt Animations -->
+
+	<tree id="rxl_bp70_mm_chairspankbase_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Playing Staged Sequence" positionID="[UAP] BP70 - Gay Chair Spank Sequence" time="1">
+			<branch id="Teasing" positionID="[UAP] BP70 - Gay Chair Spank Base" forceComplete="true" time="1">
+				<branch id="Spank" positionID="[UAP] BP70 - Gay Chair Spank 1" forceComplete="true" time="1">
+					<branch id="Spank Roughly" positionID="[UAP] BP70 - Gay Chair Spank 2" forceComplete="true" time="1">
+						<branch id="Finish" positionID="Filler2P" isExit="true"></branch>
+					</branch>
+				</branch>
+				<branch id="Spank and Finger" positionID="[UAP] BP70 - Gay Chair Spank Finger 1" forceComplete="true" time="1">
+					<branch id="Spank and Finger Roughly" positionID="[UAP] BP70 - Gay Chair Spank Finger 2" forceComplete="true" time="1">
+						<branch id="Finish" positionID="Filler2P" isExit="true"></branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+
 	</tree>
 
 

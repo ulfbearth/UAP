@@ -2,6 +2,33 @@
     <defaults loadPriority="5"/>
 
 
+    <transition from="*" to="rxl_bp70_romanticmissionary_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_romanticmissionary_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_pitdoggy_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_pitdoggy_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_floorspoon_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_floorspoon_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_chairspankbase_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_chairspankbase_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_couchreversecowgirl_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_couchreversecowgirl_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_couchcowgirl_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_couchcowgirl_Tree" animation="Null"></transition>
+
+
+    <transition from="*" to="rxl_bp70_couchmissionary_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_couchmissionary_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_bed_romanticmissionary_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_bed_romanticmissionary_Tree" animation="Null"></transition>
+
+    <transition from="*" to="rxl_bp70_lockersex_Tree" animation="Null"></transition>
+    <transition from="none" to="rxl_bp70_lockersex_Tree" animation="Null"></transition>
 
     <!-- Missionary Grind-->
 

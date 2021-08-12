@@ -1,7 +1,15 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults idleSource="Fallout4.esm"/>
 
-	
+	<!-- Filler Animations -->
+	<animation id="Filler2P" frames="13">
+		<actor idleForm="Null" skeleton="" conditions="Climax"></actor>
+		<actor idleForm="Null" skeleton=""></actor>
+	</animation>
+
+
+	<!-- Edge Reseters -->
+
 	<animation id="NullSolo" frames="13">
 		<actor skeleton="" idleForm="Null">
 			<action id="Resetall" from="0" to="1" loop="false"/>
