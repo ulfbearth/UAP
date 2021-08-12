@@ -9,6 +9,15 @@
 	</animationGroup>
 
 	<!-- Missionary Animations -->
+
+	<animationGroup id="rxl_bp70_mm_romanticmissionary_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_romanticmissionary01"></stage>
+		<stage animation="rxl_bp70_mm_romanticmissionary02"></stage>
+		<stage animation="rxl_bp70_mm_romanticmissionary03"></stage>
+		<stage animation="rxl_bp70_mm_romanticmissionary04"></stage>
+		<stage animation="rxl_bp70_mm_romanticmissionary05"></stage>
+	</animationGroup>
+
 	<animationGroup id="FO4SA_Missionary_MM_02_Staged" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_02_S1"/>
 		<stage animation="FO4SA_Missionary_MM_02_S2"/>
@@ -20,19 +29,19 @@
 
 	<animationGroup id="FO4SA_Missionaryswish_MM_01_Staged" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S1"/>
-		<stage animation="FO4SA_Missionaryswish_MM_01_S1-2Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 1-2)"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S1-2Trans" switchTo="[UAP] BP70 - Gay Missionary Grind (Stage 1-2)"/>
 	</animationGroup>
 	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionI" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S2"/>
-		<stage animation="FO4SA_Missionaryswish_MM_01_S2-3Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 2-3)"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S2-3Trans" switchTo="[UAP] BP70 - Gay Missionary Grind (Stage 2-3)"/>
 	</animationGroup>
 	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionII" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S3"/>
-		<stage animation="FO4SA_Missionaryswish_MM_01_S3-4Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 3-4)"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S3-4Trans" switchTo="[UAP] BP70 - Gay Missionary Grind (Stage 3-4)"/>
 	</animationGroup>
 	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionIII" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S4"/>
-		<stage animation="FO4SA_Missionaryswish_MM_01_S4-5Trans" switchTo="[UAP] BP70's - Gay Missionary Grind (Stage 4-5)"/>
+		<stage animation="FO4SA_Missionaryswish_MM_01_S4-5Trans" switchTo="[UAP] BP70 - Gay Missionary Grind (Stage 4-5)"/>
 	</animationGroup>
 	<animationGroup id="FO4SA_Missionaryswish_MM_01TransitionIV" sequential="false">
 		<stage animation="FO4SA_Missionaryswish_MM_01_S5"/>
@@ -41,8 +50,8 @@
 
 	<animationGroup id="FO4SA_Missionary_MM_Impregnate_01_Staged" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_Impregnate_01_1"/>
-		<stage animation="FO4SA_Missionary_MM_Impregnate_01_2A" switchTo="[UAP] BP70's - Gay Impregnate Missionary (Stage 1-2)"/>
-		<stage animation="FO4SA_Missionary_MM_Impregnate_01_2B" switchTo="[UAP] BP70's - Gay Impregnate Missionary II (Stage 1-2)"/>
+		<stage animation="FO4SA_Missionary_MM_Impregnate_01_2A" switchTo="[UAP] BP70 - Gay Impregnate Missionary (Stage 1-2)"/>
+		<stage animation="FO4SA_Missionary_MM_Impregnate_01_2B" switchTo="[UAP] BP70 - Gay Impregnate Missionary II (Stage 1-2)"/>
 	</animationGroup>
 
 	<animationGroup id="FO4SA_Missionary_MM_Impregnate_01_TransitionI" sequential="false">
@@ -71,13 +80,26 @@
 
 
 	<!-- Doggy Animations -->
+	<animationGroup id="rxl_bp70_mm_pitdoggy_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_pitdoggy_1"></stage>
+		<stage animation="rxl_bp70_mm_pitdoggy_2"></stage>
+		<stage animation="rxl_bp70_mm_pitdoggy_3"></stage>
+		<stage animation="rxl_bp70_mm_pitdoggy_4"></stage>
+		<stage animation="rxl_bp70_mm_pitdoggy_5"></stage>
+		<stage animation="rxl_bp70_mm_pitdoggy_6"></stage>
+		<stage animation="rxl_bp70_mm_pitdoggy_7"></stage>
+
+
+	</animationGroup>
+
+
 	<animationGroup id="FO4SA_ProneBone_MM_01_Staged" sequential="false">
 		<stage animation="FO4SA_ProneBone_MM_01_S1"/>
-		<stage animation="FO4SA_ProneBone_MM_01_S1-2Trans" switchTo="[UAP] BP70's - Gay Prone Bone (Stage 1-2)"/>
+		<stage animation="FO4SA_ProneBone_MM_01_S1-2Trans" switchTo="[UAP] BP70 - Gay Prone Bone (Stage 1-2)"/>
 	</animationGroup>
 	<animationGroup id="FO4SA_ProneBone_MM_01TransitionI" sequential="false">
 		<stage animation="FO4SA_ProneBone_MM_01_S2"/>
-		<stage animation="FO4SA_ProneBone_MM_01_S2-3Trans" switchTo="[UAP] BP70's - Gay Prone Bone (Stage 2-3)"/>
+		<stage animation="FO4SA_ProneBone_MM_01_S2-3Trans" switchTo="[UAP] BP70 - Gay Prone Bone (Stage 2-3)"/>
 	</animationGroup>
 	<animationGroup id="FO4SA_ProneBone_MM_01TransitionII" sequential="false">
 		<stage animation="FO4SA_ProneBone_MM_01_S3"/>
@@ -89,8 +111,8 @@
 	<animationGroup id="FO4SA_Missionary_MM_impregnate_cow_Staged" sequential="false">
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_kissing"/>
 		<stage animation="FO4SA_Missionary_MM_impregnate_cow_startfucking"/>
-		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" switchTo="[UAP] BP70's - Gay Impregnate Cowgirl Normal Sequence"/>
-		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" switchTo="[UAP] BP70's - Gay Impregnate Cowgirl Finger Sequence"/>
+		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" switchTo="[UAP] BP70 - Gay Impregnate Cowgirl Normal Sequence"/>
+		<stage animation="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" switchTo="[UAP] BP70 - Gay Impregnate Cowgirl Finger Sequence"/>
 	</animationGroup>
 
 	<animationGroup id="FO4SA_Missionary_MM_impregnate_cow_Normal_Staged" sequential="true">
@@ -113,6 +135,19 @@
 		<stage animation="FO4SA_Missionary_MM_mistress_01_S4"/>
 		<stage animation="FO4SA_Missionary_MM_mistress_01_S5"/>
 	</animationGroup>
+
+
+
+	<!-- Spoon Animations -->
+	<animationGroup id="rxl_bp70_mm_floorspoon_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_floorspoon01"></stage>
+		<stage animation="rxl_bp70_mm_floorspoon02"></stage>
+		<stage animation="rxl_bp70_mm_floorspoon03"></stage>
+		<stage animation="rxl_bp70_mm_floorspoon04"></stage>
+		<stage animation="rxl_bp70_mm_floorspoon05"></stage>
+	</animationGroup>
+	
+	
 
 
 	<!-- ================================================================================================ -->
@@ -186,17 +221,37 @@
 
 	<!-- Cowgirl Animations -->
 
+
+	<animationGroup id="rxl_bp70_mm_couchcowgirl_Staged" sequential="false">
+			<stage animation="rxl_bp70_mm_couchcowgirl01"></stage>
+			<stage animation="rxl_bp70_mm_couchcowgirl02"></stage>
+			<stage animation="rxl_bp70_mm_couchcowgirl03"></stage>
+			<stage animation="rxl_bp70_mm_couchcowgirl04"></stage>
+			<stage animation="rxl_bp70_mm_couchcowgirl05"></stage>			
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_mm_couchreversecowgirl_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_couchreversecowgirl01"></stage>
+		<stage animation="rxl_bp70_mm_couchreversecowgirl02"></stage>
+		<stage animation="rxl_bp70_mm_couchreversecowgirl03"></stage>
+		<stage animation="rxl_bp70_mm_couchreversecowgirl04"></stage>
+		<stage animation="rxl_bp70_mm_couchreversecowgirl05"></stage>
+	</animationGroup>
+
+
 	<animationGroup id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk01"/>
-		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_01" switchTo="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 1-2 (Staged)"/>
+		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_01" switchTo="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 1-2 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_01-02_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk02"/>
-		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_02" switchTo="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 2-3 (Staged)"/>
+		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_02" switchTo="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 2-3 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_02-03_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk03"/>
-		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_03" switchTo="[UAP] BP70's - Gay Pre-War Bed Risky Cowgirl Sex 3-4 (Staged)"/>
+		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_03" switchTo="[UAP] BP70 - Gay Pre-War Bed Risky Cowgirl Sex 3-4 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_03-04_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk04"/>
@@ -205,17 +260,35 @@
 
 	<!-- Missionary Animations -->
 
+	<animationGroup id="rxl_bp70_bed_mm_romanticmissionary_Staged" sequential="false">
+		<stage animation="rxl_bp70_bed_mm_romanticmissionary01"></stage>
+		<stage animation="rxl_bp70_bed_mm_romanticmissionary02"></stage>
+		<stage animation="rxl_bp70_bed_mm_romanticmissionary03"></stage>
+		<stage animation="rxl_bp70_bed_mm_romanticmissionary04"></stage>
+		<stage animation="rxl_bp70_bed_mm_romanticmissionary05"></stage>
+	</animationGroup>
+
+
+
+	<animationGroup id="rxl_bp70_mm_couchmissionary_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_couchmissionary01"></stage>
+		<stage animation="rxl_bp70_mm_couchmissionary02"></stage>
+		<stage animation="rxl_bp70_mm_couchmissionary03"></stage>
+		<stage animation="rxl_bp70_mm_couchmissionary04"></stage>
+		<stage animation="rxl_bp70_mm_couchmissionary05"></stage>
+	</animationGroup>
+
 	<animationGroup id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk01"/>
-		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_01" switchTo="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 1-2 (Staged)"/>
+		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_01" switchTo="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 1-2 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_01-02_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk02"/>
-		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_02" switchTo="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 2-3 (Staged)"/>
+		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_02" switchTo="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 2-3 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_02-03_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk03"/>
-		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_03" switchTo="[UAP] BP70's - Gay Pre-War Bed Risky Missionary Sex 3-4 (Staged)"/>
+		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_03" switchTo="[UAP] BP70 - Gay Pre-War Bed Risky Missionary Sex 3-4 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_03-04_Staged" sequential="false">
 		<stage animation="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk04"/>
@@ -240,6 +313,32 @@
 		<stage animation="rxl_bp70_mm_toiletmissionary03"/>
 		<stage animation="rxl_bp70_mm_toiletmissionary04"/>
 		<stage animation="rxl_bp70_mm_toiletmissionary05"/>
+	</animationGroup>
+
+	<!-- Alt Animation -->
+	<animationGroup id="rxl_bp70_mm_chairspankbase_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_chairspankbase"></stage>
+		<stage animation="rxl_bp70_mm_chairspank1" switchTo="[UAP] BP70 - Gay Chair Spank Plain Sequence"></stage>
+		<stage animation="rxl_bp70_mm_chairspankfinger1" switchTo="[UAP] BP70 - Gay Chair Spank Finger Sequence"></stage>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_mm_chairspankbase_Plain_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_chairspank1"></stage>
+		<stage animation="rxl_bp70_mm_chairspank2"></stage>
+	</animationGroup>
+
+	<animationGroup id="rxl_bp70_mm_chairspankfinger_Finger_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_chairspankfinger1"></stage>
+		<stage animation="rxl_bp70_mm_chairspankfinger2"></stage>
+	</animationGroup>
+
+
+	<!-- Standing/Carry Animations -->
+	<animationGroup id="rxl_bp70_mm_lockersex_Staged" sequential="false">
+		<stage animation="rxl_bp70_mm_lockersex01"></stage>
+		<stage animation="rxl_bp70_mm_lockersex02"></stage>
+		<stage animation="rxl_bp70_mm_lockersex03"></stage>
+		<stage animation="rxl_bp70_mm_lockersex04"></stage>
 	</animationGroup>
 
 </animationGroupData>

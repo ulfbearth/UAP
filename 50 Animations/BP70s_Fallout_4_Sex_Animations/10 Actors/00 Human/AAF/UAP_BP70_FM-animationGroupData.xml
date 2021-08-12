@@ -1,6 +1,94 @@
 <animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults loadPriority="5"/>
 
+	<animationGroup id="rxl_bp70_romanticmissionary_Staged" sequential="false">
+        <stage animation="rxl_bp70_romanticmissionary01"></stage>
+        <stage animation="rxl_bp70_romanticmissionary02"></stage>
+        <stage animation="rxl_bp70_romanticmissionary03"></stage>
+        <stage animation="rxl_bp70_romanticmissionary04"></stage>
+        <stage animation="rxl_bp70_romanticmissionary05"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_pitdoggy_Staged" sequential="false">
+        <stage animation="rxl_bp70_pitdoggy_1"></stage>
+        <stage animation="rxl_bp70_pitdoggy_2"></stage>
+        <stage animation="rxl_bp70_pitdoggy_3"></stage>
+        <stage animation="rxl_bp70_pitdoggy_4"></stage>
+        <stage animation="rxl_bp70_pitdoggy_5"></stage>
+        <stage animation="rxl_bp70_pitdoggy_6"></stage>
+        <stage animation="rxl_bp70_pitdoggy_7"></stage>
+
+
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_floorspoon_Staged" sequential="false">
+        <stage animation="rxl_bp70_floorspoon01"></stage>
+        <stage animation="rxl_bp70_floorspoon02"></stage>
+        <stage animation="rxl_bp70_floorspoon03"></stage>
+        <stage animation="rxl_bp70_floorspoon04"></stage>
+        <stage animation="rxl_bp70_floorspoon05"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_couchcowgirl_Staged" sequential="false">
+        <stage animation="rxl_bp70_couchcowgirl01"></stage>
+        <stage animation="rxl_bp70_couchcowgirl02"></stage>
+        <stage animation="rxl_bp70_couchcowgirl03"></stage>
+        <stage animation="rxl_bp70_couchcowgirl04"></stage>
+        <stage animation="rxl_bp70_couchcowgirl05"></stage>
+    </animationGroup>
+
+
+    <animationGroup id="rxl_bp70_couchreversecowgirl_Staged" sequential="false">
+        <stage animation="rxl_bp70_couchreversecowgirl01"></stage>
+        <stage animation="rxl_bp70_couchreversecowgirl02"></stage>
+        <stage animation="rxl_bp70_couchreversecowgirl03"></stage>
+        <stage animation="rxl_bp70_couchreversecowgirl04"></stage>
+        <stage animation="rxl_bp70_couchreversecowgirl05"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_bed_romanticmissionary_Staged" sequential="false">
+        <stage animation="rxl_bp70_bed_romanticmissionary01"></stage>
+        <stage animation="rxl_bp70_bed_romanticmissionary02"></stage>
+        <stage animation="rxl_bp70_bed_romanticmissionary03"></stage>
+        <stage animation="rxl_bp70_bed_romanticmissionary04"></stage>
+        <stage animation="rxl_bp70_bed_romanticmissionary05"></stage>
+    </animationGroup>
+
+
+    <animationGroup id="rxl_bp70_couchmissionary_Staged" sequential="false">
+        <stage animation="rxl_bp70_couchmissionary01"></stage>
+        <stage animation="rxl_bp70_couchmissionary02"></stage>
+        <stage animation="rxl_bp70_couchmissionary03"></stage>
+        <stage animation="rxl_bp70_couchmissionary04"></stage>
+        <stage animation="rxl_bp70_couchmissionary05"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_chairspankbase_Staged" sequential="false">
+        <stage animation="rxl_bp70_chairspankbase"></stage>
+        <stage animation="rxl_bp70_chairspank1" switchTo="[UAP] BP70 - Chair Spank Plain Sequence"></stage>
+        <stage animation="rxl_bp70_chairspankfinger1" switchTo="[UAP] BP70 - Chair Spank Finger Sequence"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_chairspankbase_Plain_Staged" sequential="false">
+        <stage animation="rxl_bp70_chairspank1"></stage>
+        <stage animation="rxl_bp70_chairspank2"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_chairspankfinger_Finger_Staged" sequential="false">
+        <stage animation="rxl_bp70_chairspankfinger1"></stage>
+        <stage animation="rxl_bp70_chairspankfinger2"></stage>
+    </animationGroup>
+
+    <animationGroup id="rxl_bp70_lockersex_Staged" sequential="false">
+        <stage animation="rxl_bp70_lockersex01"></stage>
+        <stage animation="rxl_bp70_lockersex02"></stage>
+        <stage animation="rxl_bp70_lockersex03"></stage>
+        <stage animation="rxl_bp70_lockersex04"></stage>
+    </animationGroup>
+
+
+
+
 	<animationGroup id="BP70_Missionary_Sequence_Staged" sequential="false">
 		<stage animation="rxl_bp70_missionaryseq_1"/>
 		<stage animation="rxl_bp70_missionaryseq_2"/>
@@ -184,15 +272,15 @@
 
 	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk01"/>
-		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_01" switchTo="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 1-2 (Staged)"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_01" switchTo="[UAP] BP70 - Pre-War Bed Risky Cowgirl Sex 1-2 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_01-02_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk02"/>
-		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_02" switchTo="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 2-3 (Staged)"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_02" switchTo="[UAP] BP70 - Pre-War Bed Risky Cowgirl Sex 2-3 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_02-03_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk03"/>
-		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_03" switchTo="[UAP] BP70's - Pre-War Bed Risky Cowgirl Sex 3-4 (Staged)"/>
+		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk_trans_03" switchTo="[UAP] BP70 - Pre-War Bed Risky Cowgirl Sex 3-4 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_prewarbed_cowgirlimpregnationrisk_03-04_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_cowgirlimpregnationrisk04"/>
@@ -202,15 +290,15 @@
 
 	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk01"/>
-		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_01" switchTo="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 1-2 (Staged)"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_01" switchTo="[UAP] BP70 - Pre-War Bed Risky Missionary Sex 1-2 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_01-02_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk02"/>
-		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_02" switchTo="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 2-3 (Staged)"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_02" switchTo="[UAP] BP70 - Pre-War Bed Risky Missionary Sex 2-3 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_02-03_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk03"/>
-		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_03" switchTo="[UAP] BP70's - Pre-War Bed Risky Missionary Sex 3-4 (Staged)"/>
+		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk_trans_03" switchTo="[UAP] BP70 - Pre-War Bed Risky Missionary Sex 3-4 (Staged)"/>
 	</animationGroup>
 	<animationGroup id="rxl_bp70_prewarbed_missionaryimpregnationrisk_03-04_Staged" sequential="false">
 		<stage animation="rxl_bp70_prewarbed_missionaryimpregnationrisk04"/>

@@ -7,6 +7,7 @@
     <position id="BP70 Doggy" animation="Null"/>
     <position id="BP70 Footjob" animation="Null"/>
     <position id="BP70 Footjob (Fast)" animation="Null"/>
+    <position id="BP70 Kissing" animation="Null"/>
     <position id="BP70 Laying Blowjob" animation="Null"/>
     <position id="BP70 Leg Wrap Cunnilingus" animation="Null"/>
     <position id="BP70 Lotus" animation="Null"/>
@@ -16,7 +17,7 @@
     <position id="BP70 Missionary Sequence Stage 3" animation="Null"/>
     <position id="BP70 Missionary Sequence Stage 4" animation="Null"/>
     <position id="BP70 Missionary Sequence Stage 5" animation="Null"/>
-    <position id="BP70 Missionary Sequence Staged" animationGroup="BP70 Missionary Sequence Staged"/>
+    <position id="BP70 Missionary Sequence Staged" animation="Null"/>
     <position id="BP70 Missionary Grind (tease)" animation="Null"/>
     <position id="BP70 Missionary Grind 2 (Trans)" animation="Null"/>
     <position id="BP70 Missionary Grind 2" animation="Null"/>
@@ -31,6 +32,13 @@
     <position id="BP70 Mistress 3" animation="Null"/>
     <position id="BP70 Mistress 4" animation="Null"/>
     <position id="BP70 Mistress 5" animation="Null"/>
+    <position id="BP70 Pit Doggy 01" animation="Null"/>
+	<position id="BP70 Pit Doggy 02" animation="Null"/>
+	<position id="BP70 Pit Doggy 03" animation="Null"/>
+	<position id="BP70 Pit Doggy 04" animation="Null"/>
+	<position id="BP70 Pit Doggy 05" animation="Null"/>
+	<position id="BP70 Pit Doggy 06" animation="Null"/>
+	<position id="BP70 Pit Doggy Orgasm (Loop)" animation="Null"/>
     <position id="BP70 Prone Bone 01" animation="Null"/>
     <position id="BP70 Prone Bone Trans 02" animation="Null"/>
     <position id="BP70 Prone Bone 02" animation="Null"/>
@@ -43,13 +51,22 @@
     <position id="BP70 Prone Bone Anal 03" animation="Null"/>
     <position id="BP70 Prone Bone Anal 04" animation="Null"/>
     <position id="BP70 Romantic Cowgirl" animation="Null"/>
-    <position id="BP70 Romantic Missionary" animation="Null"/>
+    <position id="BP70 Romantic Missionary 01" animation="Null"/>
+	<position id="BP70 Romantic Missionary 02" animation="Null"/>
+	<position id="BP70 Romantic Missionary 03" animation="Null"/>
+	<position id="BP70 Romantic Missionary 04" animation="Null"/>
+	<position id="BP70 Romantic Missionary 05" animation="Null"/>
+    <position id="BP70 Spooning 01" animation="Null"/>
+	<position id="BP70 Spooning 02" animation="Null"/>
+	<position id="BP70 Spooning 03" animation="Null"/>
+	<position id="BP70 Spooning 04" animation="Null"/>
+	<position id="BP70 Spooning Orgasm (loop)" animation="Null"/>
     <position id="BP70 Standing 69" animation="Null"/>
     <position id="BP70 Standing Sequence Stage 1" animation="Null"/>
     <position id="BP70 Standing Sequence Stage 2" animation="Null"/>
     <position id="BP70 Standing Sequence Stage 3" animation="Null"/>
     <position id="BP70 Standing Sequence Stage 4" animation="Null"/>
-    <position id="BP70 Standing Sequence Staged" animationGroup="BP70 Standing Sequence Staged"/>
+    <position id="BP70 Standing Sequence Staged" animation="Null"/>
 
 
     <!-- Impregnation Animations -->
@@ -109,6 +126,16 @@
     <position id="BP70 Bed Cowgirl" location="Single Bed" animation="Null"/>
     <position id="BP70 Double Bed Cowgirl" location="Double Bed" animation="Null"/>
     <position id="BP70 Bed Romantic Missionary" location="Single Bed" animation="Null"/>
+    <position id="BP70 Bed Romantic Missionary 1 (Single Bed)" location="Single Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 2 (Single Bed)" location="Single Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 3 (Single Bed)" location="Single Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 4 (Single Bed)" location="Single Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 5 (Single Bed)" location="Single Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 1 (Double Bed)" location="Double Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 2 (Double Bed)" location="Double Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 3 (Double Bed)" location="Double Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 4 (Double Bed)" location="Double Bed" animation="Null"/>
+	<position id="BP70 Bed Romantic Missionary 5 (Double Bed)" location="Double Bed" animation="Null"/>
     <position id="BP70 Double Bed Romantic Missionary" location="Double Bed" animation="Null"/>
     <position id="BP70 Bed Doggy" location="Single Bed" animation="Null"/>
     <position id="BP70 Double Bed Doggy" location="Double Bed" animation="Null"/>
@@ -161,11 +188,43 @@
     <position id="BP70 Couch Blowjob 4" location="Couch" animation="Null"/>
     <position id="BP70 Couch Blowjob Orgasm (Loop)" location="Couch" animation="Null"/>
 
+    <position id="BP70 Chair Spank Base" location="Chair" animation="Null"/>
+	<position id="BP70 Chair Spank 1" location="Chair" animation="Null" isHidden="true"/>
+	<position id="BP70 Chair Spank 2" location="Chair" animation="Null" isHidden="true"/>
+	<position id="BP70 Chair Spank Finger 1" location="Chair" animation="Null" isHidden="true"/>
+	<position id="BP70 Chair Spank Finger 2" location="Chair" animation="Null" isHidden="true"/>
+	
+
+    <position id="BP70 Couch Cowgirl 1" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Cowgirl 2" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Cowgirl 3" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Cowgirl 4" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Cowgirl 5" location="Couch" animation="Null"/>
+	
+
     <position id="BP70 Couch Doggy 1" location="Couch" animation="Null"/>
     <position id="BP70 Couch Doggy 2" location="Couch" animation="Null"/>
     <position id="BP70 Couch Doggy 3" location="Couch" animation="Null"/>
     <position id="BP70 Couch Doggy 4" location="Couch" animation="Null"/>
     <position id="BP70 Couch Doggy 5" location="Couch" animation="Null"/>
+
+    <position id="BP70 Couch Missionary 1" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Missionary 2" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Missionary 3" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Missionary 4" location="Couch" animation="Null"/>
+	<position id="BP70 Couch Missionary 5" location="Couch" animation="Null"/>
+	
+	<position id="BP70 Reverse Cowgirl 1" location="Couch" animation="Null"/>
+	<position id="BP70 Reverse Cowgirl 2" location="Couch" animation="Null"/>
+	<position id="BP70 Reverse Cowgirl 3" location="Couch" animation="Null"/>
+	<position id="BP70 Reverse Cowgirl 4" location="Couch" animation="Null"/>
+	<position id="BP70 Reverse Cowgirl 5" location="Couch" animation="Null"/>
+	
+	<position id="BP70 Locker Sex 1" location="Locker" animation="Null"/>
+	<position id="BP70 Locker Sex 2" location="Locker" animation="Null"/>
+	<position id="BP70 Locker Sex 3" location="Locker" animation="Null"/>
+	<position id="BP70 Locker Sex 4" location="Locker" animation="Null"/>
+	
 
     <position id="BP70 Desk Sex 1 (Anal)" location="Office Desk" animation="Null"/>
     <position id="BP70 Desk Sex 2 (Anal)" location="Office Desk" animation="Null"/>
@@ -225,6 +284,7 @@
     <!-- Position Trees -->
 
     <position id="BP70 Impregnation Missionary" animation="Null"/>
+    <position id="BP70 Chair Spank" location="Chair" animation="Null"/>
     <position id="BP70 Impregnation Cowgirl" animation="Null"/>
     <position id="BP70 Missionary Grind" animation="Null"/>
     <position id="BP70 Prone Bone" animation="Null"/>
