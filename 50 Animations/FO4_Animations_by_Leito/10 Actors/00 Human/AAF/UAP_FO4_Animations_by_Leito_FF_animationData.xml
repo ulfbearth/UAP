@@ -10,7 +10,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CB6">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.2"/>
+			<morph id="Erection Down" to="0.2"/>
 			<morph id="Erection Down" to="0.2"/>
 		</actor>
 	</animation>
@@ -20,7 +20,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CB7">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.2"/>
+			<morph id="Erection Down" to="0.2"/>
 			<morph id="Erection Down" to="0.2"/>
 		</actor>
 	</animation>
@@ -30,7 +30,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CB8">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.2"/>
+			<morph id="Erection Down" to="0.2"/>
 			<morph id="Erection Down" to="0.2"/>
 		</actor>
 	</animation>
@@ -40,7 +40,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CB9">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.25"/>
+			<morph id="Erection Up" to="0.25"/>
 			<morph id="Erection Up" to="0.15"/>
 			</actor>
 	</animation>
@@ -52,7 +52,7 @@
 		</actor>
 		<actor gender="F" idleForm="4507">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -62,7 +62,7 @@
 		</actor>
 		<actor gender="F" idleForm="4508">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -72,7 +72,7 @@
 		</actor>
 		<actor gender="F" idleForm="4509">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -82,7 +82,7 @@
 		</actor>
 		<actor gender="F" idleForm="450A">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -94,7 +94,7 @@
 		</actor>
 		<actor gender="F" idleForm="A895">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -104,7 +104,7 @@
 		</actor>
 		<actor gender="F" idleForm="A896">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -114,7 +114,7 @@
 		</actor>
 		<actor gender="F" idleForm="A897">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -124,7 +124,7 @@
 		</actor>
 		<actor gender="F" idleForm="A898">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
             <morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -144,7 +144,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E2A">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.6"/>
+			<morph id="Erection Up" to="0.6"/>
 			<morph id="Erection Up" to="0.6"/>
 		</actor>
 	</animation>
@@ -154,7 +154,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E2B">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -164,7 +164,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E2C">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -176,7 +176,7 @@
 		</actor>
 		<actor gender="F" idleForm="5C38">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.5"/>
+			<morph id="Erection Down" to="0.5"/>
 			<morph id="Erection Down" to="0.5"/>
 		</actor>
 	</animation>
@@ -186,7 +186,7 @@
 		</actor>
 		<actor gender="F" idleForm="5C39">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.5"/>
+			<morph id="Erection Down" to="0.5"/>
 			<morph id="Erection Down" to="0.5"/>
 		</actor>
 	</animation>
@@ -196,7 +196,7 @@
 		</actor>
 		<actor gender="F" idleForm="5C3A">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.5"/>
+			<morph id="Erection Down" to="0.5"/>
 			<morph id="Erection Down" to="0.5"/>
 		</actor>
 	</animation>
@@ -206,7 +206,7 @@
 		</actor>
 		<actor gender="F" idleForm="5C3B">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.5"/>
+			<morph id="Erection Down" to="0.5"/>
 			<morph id="Erection Down" to="0.5"/>
 		</actor>
 	</animation>
@@ -218,7 +218,7 @@
 		</actor>
 		<actor gender="F" idleForm="63E3">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.5"/>
+			<morph id="Erection Down" to="0.5"/>
 			<morph id="Erection Down" to="0.5"/>
 		</actor>
 	</animation>
@@ -228,7 +228,7 @@
 		</actor>
 		<actor gender="F" idleForm="63E4">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.8"/>
+			<morph id="Erection Down" to="0.8"/>
 			<morph id="Erection Down" to="0.8"/>
 		</actor>
 	</animation>
@@ -238,7 +238,7 @@
 		</actor>
 		<actor gender="F" idleForm="63E5">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.8"/>
+			<morph id="Erection Down" to="0.8"/>
 			<morph id="Erection Down" to="0.8"/>
 		</actor>
 	</animation>
@@ -248,7 +248,7 @@
 		</actor>
 		<actor gender="F" idleForm="63E6">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.8"/>
+			<morph id="Erection Down" to="0.8"/>
 			<morph id="Erection Down" to="0.8"/>
 		</actor>
 	</animation>
@@ -294,7 +294,7 @@
 		</actor>
 		<actor gender="F" idleForm="1738">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -304,7 +304,7 @@
 		</actor>
 		<actor gender="F" idleForm="1EE1">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -314,7 +314,7 @@
 		</actor>
 		<actor gender="F" idleForm="1EE2">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -324,7 +324,7 @@
 		</actor>
 		<actor gender="F" idleForm="1EE3">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -336,7 +336,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E39">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -346,7 +346,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E3A">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -356,7 +356,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E3B">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -366,7 +366,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E3C">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -378,7 +378,7 @@
 		</actor>
 		<actor gender="F" idleForm="4C8E">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -388,7 +388,7 @@
 		</actor>
 		<actor gender="F" idleForm="2685">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.4"/>
+			<morph id="Erection Up" to="1.4"/>
 			<morph id="Erection Up" to="1.4"/>
 		</actor>
 	</animation>
@@ -398,7 +398,7 @@
 		</actor>
 		<actor gender="F" idleForm="2686">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.6"/>
+			<morph id="Erection Up" to="1.6"/>
 			<morph id="Erection Up" to="1.6"/>
 		</actor>
 	</animation>
@@ -408,7 +408,7 @@
 		</actor>
 		<actor gender="F" idleForm="2687">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -420,7 +420,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E31">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.3"/>
+			<morph id="Erection Down" to="0.3"/>
 			<morph id="Erection Down" to="0.3"/>
 		</actor>
 	</animation>
@@ -430,7 +430,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E32">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.3"/>
+			<morph id="Erection Down" to="0.3"/>
 			<morph id="Erection Down" to="0.3"/>
 		</actor>
 	</animation>
@@ -440,7 +440,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E33">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.3"/>
+			<morph id="Erection Down" to="0.3"/>
 			<morph id="Erection Down" to="0.3"/>
 		</actor>
 	</animation>
@@ -450,7 +450,7 @@
 		</actor>
 		<actor gender="F" idleForm="2E34">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.3"/>
+			<morph id="Erection Down" to="0.3"/>
 			<morph id="Erection Down" to="0.3"/>
 		</actor>
 	</animation>
@@ -462,7 +462,7 @@
 		</actor>
 		<actor gender="F" idleForm="450F">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.65"/>
+			<morph id="Erection Down" to="0.65"/>
 			<morph id="Erection Down" to="0.65"/>
 		</actor>
 	</animation>
@@ -472,7 +472,7 @@
 		</actor>
 		<actor gender="F" idleForm="4510">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.65"/>
+			<morph id="Erection Down" to="0.65"/>
 			<morph id="Erection Down" to="0.65"/>
 		</actor>
 	</animation>
@@ -482,7 +482,7 @@
 		</actor>
 		<actor gender="F" idleForm="4511">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.8"/>
+			<morph id="Erection Down" to="0.8"/>
 			<morph id="Erection Down" to="0.8"/>
 		</actor>
 	</animation>
@@ -492,7 +492,7 @@
 		</actor>
 		<actor gender="F" idleForm="4512">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.8"/>
+			<morph id="Erection Down" to="0.8"/>
 			<morph id="Erection Down" to="0.8"/>
 		</actor>
 	</animation>
@@ -504,7 +504,7 @@
 		</actor>
 		<actor gender="F" idleForm="A8A5">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.3"/>
+			<morph id="Erection Up" to="1.3"/>
 			<morph id="Erection Up" to="1.3"/>
 		</actor>
 	</animation>
@@ -514,7 +514,7 @@
 		</actor>
 		<actor gender="F" idleForm="A8A6">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.3"/>
+			<morph id="Erection Up" to="1.3"/>
 			<morph id="Erection Up" to="1.3"/>
 		</actor>
 	</animation>
@@ -524,7 +524,7 @@
 		</actor>
 		<actor gender="F" idleForm="A8A7">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.3"/>
+			<morph id="Erection Up" to="1.3"/>
 			<morph id="Erection Up" to="1.3"/>
 		</actor>
 	</animation>
@@ -534,7 +534,7 @@
 		</actor>
 		<actor gender="F" idleForm="A8A8">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.3"/>
+			<morph id="Erection Up" to="1.3"/>
 			<morph id="Erection Up" to="1.3"/>
 		</actor>
 	</animation>
@@ -546,7 +546,7 @@
 		</actor>
 		<actor gender="F" idleForm="6B86">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.65"/>
+			<morph id="Erection Up" to="0.65"/>
 			<morph id="Erection Up" to="0.65"/>
 		</actor>
 	</animation>
@@ -556,7 +556,7 @@
 		</actor>
 		<actor gender="F" idleForm="6B87">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -566,7 +566,7 @@
 		</actor>
 		<actor gender="F" idleForm="6B88">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.2"/>
+			<morph id="Erection Up" to="0.2"/>
 			<morph id="Erection Up" to="0.2"/>
 		</actor>
 	</animation>
@@ -576,7 +576,7 @@
 		</actor>
 		<actor gender="F" idleForm="6B89">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.3"/>
+			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection Up" to="0.3"/>
 		</actor>
 	</animation>
@@ -588,7 +588,7 @@
 		</actor>
 		<actor gender="F" idleForm="7332">
 			<action id="FF_activity"/>
-			<morph id="Up" to="2"/>
+			<morph id="Erection Up" to="2"/>
 			<morph id="Erection Up" to="2"/>
 		</actor>
 	</animation>
@@ -598,7 +598,7 @@
 		</actor>
 		<actor gender="F" idleForm="7333">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.8"/>
+			<morph id="Erection Up" to="1.8"/>
 			<morph id="Erection Up" to="1.8"/>
 		</actor>
 	</animation>
@@ -608,7 +608,7 @@
 		</actor>
 		<actor gender="F" idleForm="7334">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.8"/>
+			<morph id="Erection Up" to="1.8"/>
 			<morph id="Erection Up" to="1.8"/>
 		</actor>
 	</animation>
@@ -618,7 +618,7 @@
 		</actor>
 		<actor gender="F" idleForm="7335">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1.8"/>
+			<morph id="Erection Up" to="1.8"/>
 			<morph id="Erection Up" to="1.8"/>
 		</actor>
 	</animation>
@@ -630,7 +630,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CEF">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -640,7 +640,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CF0">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -650,7 +650,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CF1">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -660,7 +660,7 @@
 		</actor>
 		<actor gender="F" idleForm="4CF2">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -672,7 +672,7 @@
 		</actor>
 		<actor gender="F" idleForm="7AD5">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -682,7 +682,7 @@
 		</actor>
 		<actor gender="F" idleForm="7AD6">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -692,7 +692,7 @@
 		</actor>
 		<actor gender="F" idleForm="7AD7">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -702,7 +702,7 @@
 		</actor>
 		<actor gender="F" idleForm="7AD8">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -714,7 +714,7 @@
 		</actor>
 		<actor gender="F" idleForm="7ADD">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -724,7 +724,7 @@
 		</actor>
 		<actor gender="F" idleForm="7ADE">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -734,7 +734,7 @@
 		</actor>
 		<actor gender="F" idleForm="7ADF">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -744,7 +744,7 @@
 		</actor>
 		<actor gender="F" idleForm="7AE0">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -757,7 +757,7 @@
 		</actor>
 		<actor gender="F" idleForm="B71F">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.27"/>
+			<morph id="Erection Up" to="0.27"/>
 			<morph id="Erection Up" to="0.27"/>
 		</actor>
 	</animation>
@@ -767,7 +767,7 @@
 		</actor>
 		<actor gender="F" idleForm="173C">
 			<action id="FF_activity"/>
-			<morph id="Up" to="1"/>
+			<morph id="Erection Up" to="1"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -777,7 +777,7 @@
 		</actor>
 		<actor gender="F" idleForm="B721">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.4"/>	
+			<morph id="Erection Down" to="0.4"/>	
 			<morph id="Erection Down" to="0.4"/>			
 		</actor>
 	</animation>
@@ -787,7 +787,7 @@
 		</actor>
 		<actor gender="F" idleForm="B722">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -797,7 +797,7 @@
 		</actor>
 		<actor gender="F" idleForm="B725">
 			<action id="FF_activity"/>
-			<morph id="Up" to="0.5"/>
+			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
 	</animation>
@@ -807,7 +807,7 @@
 		</actor>
 		<actor gender="F" idleForm="B727">
 			<action id="FF_activity"/>
-			<morph id="Down" to="0.65"/>
+			<morph id="Erection Down" to="0.65"/>
 			<morph id="Erection Down" to="0.65"/>
 		</actor>
 	</animation>	
