@@ -3,10 +3,10 @@
 
 
     <tree id="Brave_MM_SupermutantMissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-        <branch id="Playing Staged Sequence" positionID="[UAP] Brave - Gay Supermutant Missionary Staged" time="1">
-            <branch id="Play Stage 1" positionID="[UAP] Brave - Gay Supermutant Kissing" forceComplete="true" time="1">
-                <branch id="Play Stage 2" positionID="[UAP] Brave - Gay Supermutant Missionary 1" forceComplete="true" time="1">
-                    <branch id="Play Stage 3" positionID="[UAP] Brave - Gay Supermutant Missionary 2" forceComplete="true" time="1">
+        <branch id="Playing Staged Sequence" positionID="[UAP] Brave - Gay Supermutant Missionary Staged" time="0">
+            <branch id="Play Stage 1" positionID="[UAP] Brave - Gay Supermutant Kissing" forceComplete="true" time="0">
+                <branch id="Play Stage 2" positionID="[UAP] Brave - Gay Supermutant Missionary 1" forceComplete="true" time="0">
+                    <branch id="Play Stage 3" positionID="[UAP] Brave - Gay Supermutant Missionary 2" forceComplete="true" time="0">
                         <branch id="Orgasm" positionID="[UAP] Brave - Gay Supermutant Missionary 3" forceComplete="true" time="30" isExit="true">
                         </branch>
                     </branch>

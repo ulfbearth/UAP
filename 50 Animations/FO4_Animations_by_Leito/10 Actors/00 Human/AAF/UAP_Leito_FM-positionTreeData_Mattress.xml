@@ -3,12 +3,12 @@
 
 
 	<tree id="Leito_Mattress_Blowjob_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Blowjob Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Blowjob (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Blowjob Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Blowjob (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Blowjob (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Blowjob (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Blowjob (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Blowjob (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Blowjob (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -27,12 +27,12 @@
 
 
 	<tree id="Leito_Mattress_Carry_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Carry Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Carry (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Carry Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Carry (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Carry (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Carry (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Carry (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Carry (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Carry (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -51,12 +51,12 @@
 
 
 	<tree id="Leito_Mattress_Carry_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Carry 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Carry 2 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Carry 2 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Carry 2 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Carry 2 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Carry 2 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Carry 2 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Carry 2 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Carry 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -75,12 +75,12 @@
 
 
 	<tree id="Leito_Mattress_Cowgirl_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Cowgirl (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -99,12 +99,12 @@
 
 
 	<tree id="Leito_Mattress_Cowgirl_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl 2 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Cowgirl 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -123,12 +123,12 @@
 
 
 	<tree id="Leito_Mattress_Cowgirl_3_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl 3 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl 3 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Cowgirl 3 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -147,12 +147,12 @@
 
 
 	<tree id="Leito_Mattress_Cowgirl_4_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl 4 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Cowgirl 4 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Cowgirl 4 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -171,12 +171,12 @@
 
 
 	<tree id="Leito_Mattress_Doggy_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Doggy Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Doggy (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Doggy Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Doggy (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Doggy (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Doggy (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Doggy (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Doggy (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Doggy (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -195,12 +195,12 @@
 
 
 	<tree id="Leito_Mattress_Doggy_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Doggy 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Doggy 2 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Doggy 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -219,12 +219,12 @@
 
 
 	<tree id="Leito_Mattress_Missionary_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Missionary Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Missionary (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Missionary Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Missionary (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Missionary (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Missionary (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Missionary (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Missionary (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Missionary (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -243,12 +243,12 @@
 
 
 	<tree id="Leito_Mattress_Missionary_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Missionary 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Missionary 2 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Missionary 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -267,12 +267,12 @@
 
 
 	<tree id="Leito_Mattress_Powerbomb_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Powerbomb Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Powerbomb (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Powerbomb Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Powerbomb (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Powerbomb (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Powerbomb (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Powerbomb (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Powerbomb (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Powerbomb (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -291,12 +291,12 @@
 
 
 	<tree id="Leito_Mattress_ReverseCarry_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Reverse Carry Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Reverse Carry Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Reverse Carry (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -315,12 +315,12 @@
 
 
 	<tree id="Leito_Mattress_ReverseCowgirl_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Reverse Cowgirl Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Reverse Cowgirl Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Reverse Cowgirl (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -339,12 +339,12 @@
 
 
 	<tree id="Leito_Mattress_ReverseCowgirl_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Reverse Cowgirl 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -363,12 +363,12 @@
 
 
 	<tree id="Leito_Mattress_Spoon_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Spoon Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Spoon (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Spoon Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Spoon (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Spoon (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Spoon (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Spoon (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Spoon (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Spoon (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -387,12 +387,12 @@
 
 
 	<tree id="Leito_Mattress_StandingDoggy_1_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Standing Doggy Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Standing Doggy Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Standing Doggy (Stage 4)" forceComplete="true" time="15" isExit="true">
 		
@@ -411,12 +411,12 @@
 
 
 	<tree id="Leito_Mattress_StandingDoggy_2_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Standing Doggy 2 Sequence" time="1">
-			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 1)" forceComplete="true" time="1">
+		<branch id="Playing Staged Sequence" positionID="[UAP] Leito - Mattress Standing Doggy 2 Sequence" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 1)" forceComplete="true" time="0">
 
-				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 2)" forceComplete="true" time="1">
+				<branch id="Play Stage 2" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 2)" forceComplete="true" time="0">
 
-					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 3)" forceComplete="true" time="1">
+					<branch id="Play Stage 3" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 3)" forceComplete="true" time="0">
 
 						<branch id="Climax" positionID="[UAP] Leito - Mattress Standing Doggy 2 (Stage 4)" forceComplete="true" time="15" isExit="true">
 		

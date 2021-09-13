@@ -43,9 +43,9 @@
 
 
 	<tree id="AtomicLust_ReverseCowgirlVaultBed_MM_01_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Staged)" time="1">
-			<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Main Course)" forceComplete="true" time="1">
-				<branch id="Orgasm" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Orgasm)" isExit="true" forceComplete="true" time="1"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Staged)" time="0">
+			<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Main Course)" forceComplete="true" time="0">
+				<branch id="Orgasm" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Orgasm)" isExit="true" forceComplete="true" time="0"></branch>
 			</branch>
 		</branch>
 	</tree>
