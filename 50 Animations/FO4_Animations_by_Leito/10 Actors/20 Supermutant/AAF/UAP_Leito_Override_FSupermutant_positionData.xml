@@ -10,4 +10,16 @@
     <position id="Leito SuperMutant Reverse Carry" animation="Null"/>
     <position id="Leito SuperMutant Standing Doggy" animation="Null"/>
     <position id="Leito SuperMutant Standing Sideways" animation="Null"/>
+
+    <position id="Leito_SuperMutant_Chair_Cowgirl_1_S1" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_Cowgirl_1_S2" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_Cowgirl_1_S3" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_Cowgirl_1_S4" animation="Null" location="ArmChair,Bench,Couches"/>
+
+    <position id="Leito_SuperMutant_Chair_ReverseCowgirl_1_S1" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_ReverseCowgirl_1_S2" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_ReverseCowgirl_1_S3" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_ReverseCowgirl_1_S4" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_ReverseCowgirl_1_S5" animation="Null" location="ArmChair,Bench,Couches"/>
+    <position id="Leito_SuperMutant_Chair_ReverseCowgirl_1_S6" animation="Null" location="ArmChair,Bench,Couches"/>
 </positionData>

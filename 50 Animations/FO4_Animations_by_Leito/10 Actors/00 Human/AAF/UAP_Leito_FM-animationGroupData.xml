@@ -146,5 +146,81 @@
 		<stage animation="Leito_Canine_Missionary_1_S2"/>
 		<stage animation="Leito_Canine_Missionary_1_S3"/>
 		<stage animation="Leito_Canine_Missionary_1_S4"/>
-	</animationGroup>	
+	</animationGroup>
+
+
+	<!-- Chair Animations-->
+
+
+	<animationGroup id="Leito_Chair_FM_Cowgirl_1_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_Cowgirl_1_S1"/>
+		<stage animation="Leito_Chair_FM_Cowgirl_1_S2"/>
+		<stage animation="Leito_Chair_FM_Cowgirl_1_S3"/>
+		<stage animation="Leito_Chair_FM_Cowgirl_1_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_Cowgirl_2_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_Cowgirl_2_S1"/>
+		<stage animation="Leito_Chair_FM_Cowgirl_2_S2"/>
+		<stage animation="Leito_Chair_FM_Cowgirl_2_S3"/>
+		<stage animation="Leito_Chair_FM_Cowgirl_2_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_Doggy_1_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_Doggy_1_S1"/>
+		<stage animation="Leito_Chair_FM_Doggy_1_S2"/>
+		<stage animation="Leito_Chair_FM_Doggy_1_S3"/>
+		<stage animation="Leito_Chair_FM_Doggy_1_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_Missionary_1_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_Missionary_1_S1"/>
+		<stage animation="Leito_Chair_FM_Missionary_1_S2"/>
+		<stage animation="Leito_Chair_FM_Missionary_1_S3"/>
+		<stage animation="Leito_Chair_FM_Missionary_1_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_Powerbomb_1_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_Powerbomb_1_S1"/>
+		<stage animation="Leito_Chair_FM_Powerbomb_1_S2"/>
+		<stage animation="Leito_Chair_FM_Powerbomb_1_S3"/>
+		<stage animation="Leito_Chair_FM_Powerbomb_1_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_ReverseCowgirl_1_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_1_S1"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_1_S2"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_1_S3"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_1_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_ReverseCowgirl_2_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_2_S1"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_2_S2"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_2_S3"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_2_S4"/>
+
+	</animationGroup>
+
+
+	<animationGroup id="Leito_Chair_FM_ReverseCowgirl_3_Staged" sequential="false">
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_3_S1"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_3_S2"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_3_S3"/>
+		<stage animation="Leito_Chair_FM_ReverseCowgirl_3_S4"/>
+
+	</animationGroup>
+
 </animationGroupData>	

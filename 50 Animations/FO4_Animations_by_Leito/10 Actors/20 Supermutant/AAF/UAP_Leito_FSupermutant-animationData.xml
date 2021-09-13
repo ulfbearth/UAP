@@ -59,4 +59,125 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
+
+	
+	<!-- Furniture Animations -->
+	<!-- Chair Animations-->
+	
+
+	<animation id="Leito_FSuperMutant_Chair_Cowgirl_1_S1" frames="300">
+		<actor gender="F" idleForm="01002E55" conditions="Foreplay">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01002E51">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_Cowgirl_1_S2" frames="300">
+		<actor gender="F" idleForm="01002E56" conditions="Intermediary-20_59">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01002E52">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_Cowgirl_1_S3" frames="300">
+		<actor gender="F" idleForm="01002E57" conditions="Intermediary-60_99">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01002E53">
+			<morph id="Erection Up" to="2"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_Cowgirl_1_S4" frames="300">
+		<actor gender="F" stopOverlaySet="Belly" idleForm="01002E58" conditions="Climax">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01002E54">
+			<morph id="Erection Up" to="2"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+
+
+
+	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S1" frames="300">
+		<actor gender="F" idleForm="0100DE2C" conditions="Foreplay">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="0100DE30">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S2" frames="300">
+		<actor gender="F" idleForm="0100DE2D" conditions="Intermediary-20_59">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="0100DE31">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S3" frames="300">
+		<actor gender="F" idleForm="0100DE2E" conditions="Intermediary-60_99">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="0100DE32">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S4" frames="300">
+		<actor gender="F" idleForm="0100DE2F" conditions="Intermediary-73_99">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="0100DE33">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S5" frames="300">
+		<actor gender="F" idleForm="01007B16" conditions="Climax">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01007B14">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+	</animation>
+
+	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S6" frames="300">
+		<actor gender="F" stopOverlaySet="Belly" idleForm="01007B17">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="01007B15">
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+		</actor>
+	</animation>
+
+	<!-- Chair Animations CT-->
+	<!-- Furniture Animations CT-->
+
+
 </animationData>

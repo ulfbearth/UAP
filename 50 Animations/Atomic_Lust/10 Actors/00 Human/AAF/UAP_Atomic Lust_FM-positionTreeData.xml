@@ -2,9 +2,9 @@
 	<defaults loadPriority="1" />
 
 	<tree id="Atomic Spanking" strictExiting="true">
-		<branch id="Spanking S1" positionID="Atomic Spanking S1" forceComplete="true" time="1">
-			<branch id="Spanking S2" positionID="Atomic Spanking S2" forceComplete="true" time="1">
-				<branch id="Spanking S3" positionID="Atomic Spanking S3" forceComplete="true" time="1">
+		<branch id="Spanking S1" positionID="Atomic Spanking S1" forceComplete="true" time="0">
+			<branch id="Spanking S2" positionID="Atomic Spanking S2" forceComplete="true" time="0">
+				<branch id="Spanking S3" positionID="Atomic Spanking S3" forceComplete="true" time="0">
 					<branch id="Spanking S3 Spank" positionID="Atomic Spanking S3 Spank" isFlavor="true"></branch>
 				</branch>
 			</branch>
@@ -13,18 +13,18 @@
 
 
 	<tree id="Atomic Lust">
-		<branch id="Standing" positionID="Standing Idle" forceComplete="true" time="1">
-			<branch id="Holding Hands" positionID="Holding Hands" forceComplete="true" time="1">
-				<branch id="Holding Kissing" positionID="Holding Kissing" forceComplete="true" time="1"></branch>
-				<branch id="Holding Jerking" positionID="Holding Hands to Holding Jerking" forceComplete="true" time="1"></branch>
+		<branch id="Standing" positionID="Standing Idle" forceComplete="true" time="0">
+			<branch id="Holding Hands" positionID="Holding Hands" forceComplete="true" time="0">
+				<branch id="Holding Kissing" positionID="Holding Kissing" forceComplete="true" time="0"></branch>
+				<branch id="Holding Jerking" positionID="Holding Hands to Holding Jerking" forceComplete="true" time="0"></branch>
 			</branch>
 		</branch>
 	</tree>
 
 	<tree id="Atomic Reversed Cowgirl (Vault Bed) Tree" strictExiting="true" useConditions="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Staged" time="1">
-			<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Main Course" forceComplete="true" time="1">
-				<branch id="Orgasm" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Orgasm" isExit="true" forceComplete="true" time="1"></branch>
+		<branch id="Playing Staged Sequence" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Staged" time="0">
+			<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Main Course" forceComplete="true" time="0">
+				<branch id="Orgasm" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Orgasm" isExit="true" forceComplete="true" time="0"></branch>
 			</branch>
 		</branch>
 	</tree>

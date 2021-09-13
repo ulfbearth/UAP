@@ -8,4 +8,26 @@
 	<position id="[UAP] Leito - SuperMutant Reverse Carry" animation="Leito_SuperMutant_ReverseCarry" tags="Leito,F_SMutantM,NoFurn,Carry,FromBehind,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
 	<position id="[UAP] Leito - SuperMutant Standing Doggy" animation="Leito_SuperMutant_StandingDoggy" tags="Leito,F_SMutantM,NoFurn,Standing,FromBehind,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
 	<position id="[UAP] Leito - SuperMutant Standing Sideways" animation="Leito_SuperMutant_StandingSideways" tags="Leito,F_SMutantM,NoFurn,Standing,FromSide,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+
+	<!-- Furniture Animations -->
+	<!-- Chair Animations -->
+
+	<position id="[UAP] Leito - SuperMutant Chair Cowgirl 1" positionTree="Leito_FSuperMutant_Chair_Cowgirl_1_Tree" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,Cowgirl,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair Cowgirl 1 Staged" animationGroup="Leito_FSuperMutant_Chair_Cowgirl_1_Staged" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,Cowgirl,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair Cowgirl 1 (Stage 1)" animation="Leito_FSuperMutant_Chair_Cowgirl_1_S1" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,Cowgirl,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair Cowgirl 1 (Stage 2)" animation="Leito_FSuperMutant_Chair_Cowgirl_1_S2" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,Cowgirl,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair Cowgirl 1 (Stage 3)" animation="Leito_FSuperMutant_Chair_Cowgirl_1_S3" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,Cowgirl,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair Cowgirl 1 (Stage 4)" animation="Leito_FSuperMutant_Chair_Cowgirl_1_S4" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,Cowgirl,FromFront,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1" positionTree="Leito_FSuperMutant_Chair_ReverseCowgirl_1_Tree" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 Staged" animationGroup="Leito_FSuperMutant_Chair_ReverseCowgirl_1_Staged" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 (Stage 1)" animation="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S1" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 (Stage 2)" animation="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S2" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 (Stage 3)" animation="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S3" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 (Stage 4)" animation="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S4" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 (Stage 5)" animation="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S5" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] Leito - SuperMutant Chair ReverseCowgirl 1 (Stage 6)" animation="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S6" isHidden="true" location="ArmChair,Bench,Couches" tags="Leito,F_SMutantM,ArmChair,RevCowgirl,FromBehind,Neutral,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina"/>
+	<!-- Chair Animations CT -->
+	<!-- Furniture Animations CT -->
+
 </positionData>	
