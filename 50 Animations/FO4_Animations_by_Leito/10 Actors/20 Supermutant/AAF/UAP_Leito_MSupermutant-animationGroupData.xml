@@ -1,0 +1,25 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
+
+
+	<!-- Furniture Animations -->
+	<!-- Chair Animations -->
+
+	<animationGroup id="Leito_MSuperMutant_Chair_Cowgirl_1_Staged" sequential="false">
+		<stage animation="Leito_MSuperMutant_Chair_Cowgirl_1_S1"/>
+		<stage animation="Leito_MSuperMutant_Chair_Cowgirl_1_S2"/>
+		<stage animation="Leito_MSuperMutant_Chair_Cowgirl_1_S3"/>
+		<stage animation="Leito_MSuperMutant_Chair_Cowgirl_1_S4"/>
+	</animationGroup>
+		
+	<animationGroup id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_Staged" sequential="false">
+		<stage animation="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S1"/>
+		<stage animation="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S2"/>
+		<stage animation="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S3"/>
+		<stage animation="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S4"/>
+		<stage animation="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S5"/>
+	</animationGroup>
+	<!-- Chair Animations CT -->
+	<!-- Furniture Animations CT -->
+
+</animationGroupData>	

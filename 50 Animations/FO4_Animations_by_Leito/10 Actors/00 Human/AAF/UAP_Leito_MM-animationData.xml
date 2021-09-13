@@ -1485,4 +1485,525 @@
 			<morph id="Penis Adjust" to="-1.085"/>
 		</actor>
 	</animation>
+
+
+	<!-- Furniture Animations-->
+	<!-- Chair -->
+	<animation id="Leito_Chair_MM_Cowgirl_1_S1" frames="300">
+		<actor gender="M" idleForm="0100B042" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100B043">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Cowgirl_1_S2" frames="300">
+		<actor gender="M" idleForm="0100B7F0" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100B7F3">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Cowgirl_1_S3" frames="300">
+		<actor gender="M" idleForm="0100B7F1" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100B7F4">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Cowgirl_1_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="0100B7F2" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100B7F5">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Up" to="2"/>
+			</actor>
+	</animation>
+	
+	
+	<animation id="Leito_Chair_MM_Cowgirl_2_S1" frames="300">
+		<actor gender="M" idleForm="0100C733" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100C737">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Cowgirl_2_S2" frames="300">
+		<actor gender="M" idleForm="0100C734" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100C738">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Cowgirl_2_S3" frames="300">
+		<actor gender="M" idleForm="0100C735" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100C739">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Cowgirl_2_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="0100C736" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100C73A">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Up" to="2"/>
+			</actor>
+	</animation>
+	
+	
+	<animation id="Leito_Chair_MM_Doggy_1_S1" frames="300">
+		<actor gender="M" idleForm="01003D9D" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01003DA1">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Doggy_1_S2" frames="300">
+		<actor gender="M" idleForm="01003D9E" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01003DA2">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.3"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Doggy_1_S3" frames="300">
+		<actor gender="M" idleForm="01003D9F" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01003DA3">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Doggy_1_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Back" idleForm="01003DA0" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01003DA4">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			</actor>
+	</animation>
+	
+	
+	
+	<animation id="Leito_Chair_MM_Missionary_1_S1" frames="300">
+		<actor gender="M" idleForm="010035F4" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="010035F8">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Missionary_1_S2" frames="300">
+		<actor gender="M" idleForm="010035F5" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="010035F9">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="0.2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Missionary_1_S3" frames="300">
+		<actor gender="M" idleForm="010035F6" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="010035FA">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Missionary_1_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="010035F7" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="010035FB">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+			</actor>
+	</animation>
+	
+	
+	<animation id="Leito_Chair_MM_Powerbomb_1_S1" frames="300">
+		<actor gender="M" idleForm="0100455D" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01004561">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Powerbomb_1_S2" frames="300">
+		<actor gender="M" idleForm="0100455E" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01004562">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Powerbomb_1_S3" frames="300">
+		<actor gender="M" idleForm="0100455F" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01004563">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_Powerbomb_1_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="01004560" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01004564">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Down" to="2"/>
+		</actor>
+	</animation>
+	
+	
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S1" frames="300">
+		<actor gender="M" idleForm="0100BF92" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100BF96">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.5"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S2" frames="300">
+		<actor gender="M" idleForm="0100BF93" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100BF97">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S3" frames="300">
+		<actor gender="M" idleForm="0100BF94" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100BF98">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="0100BF95" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100BF99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+			</actor>
+	</animation>
+	
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S1" frames="300">
+		<actor gender="M" idleForm="0100CED5" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CED9">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.5"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S2" frames="300">
+		<actor gender="M" idleForm="0100CED6" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEDA">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S3" frames="300">
+		<actor gender="M" idleForm="0100CED7" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEDB">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="0100CED8" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEDC">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Up" to="0.2"/>
+			</actor>
+	</animation>
+	
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S1" frames="300">
+		<actor gender="M" idleForm="0100CEDD" conditions="Foreplay">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEE1">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="0.1"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S2" frames="300">
+		<actor gender="M" idleForm="0100CEDE" conditions="Intermediary-20_59">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEE2">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="0.1"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S3" frames="300">
+		<actor gender="M" idleForm="0100CEDF" conditions="Intermediary-60_99">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEE3">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Down" to="0.2"/>
+		</actor>
+	</animation>
+	
+	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S4" frames="300">
+		<actor gender="M" stopOverlaySet="Belly" idleForm="0100CEE0" conditions="Climax">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0100CEE4">
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Down" to="0.5"/>
+			</actor>
+	</animation>
+	<!-- Chair Animations CT-->
+
+	<!-- Furniture Animations CT-->
+
 </animationData>

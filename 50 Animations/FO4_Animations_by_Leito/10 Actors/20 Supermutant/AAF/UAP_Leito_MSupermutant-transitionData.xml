@@ -9,4 +9,26 @@
 	<transition from="none" to="Leito_Powerbomb_MM_2Mutant_01" animation="Null"/>
 	<transition from="none" to="Leito_StandingSideways_MM_2Mutant_01" animation="Null"/>
 
+
+	<transition from="*" to="Leito_MSuperMutant_Chair_Cowgirl_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_Cowgirl_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_MSuperMutant_Chair_Cowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_Cowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_Cowgirl_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_Cowgirl_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_Cowgirl_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_Cowgirl_1_S4" animation="Null"/>
+
+	<transition from="*" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_Tree" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_Tree" animation="Null"/>
+	<transition from="*" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_Staged" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S1" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S2" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S3" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S4" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S5" animation="Null"/>
+	<transition from="none" to="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S6" animation="Null"/>
+
+
 </transitionData>
