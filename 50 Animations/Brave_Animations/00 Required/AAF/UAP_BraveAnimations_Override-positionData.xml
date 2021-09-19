@@ -3,51 +3,78 @@
 
     <!-- ==============================Loose Animations================================== -->
 
-    <!-- ==============================SuperMutant================================== -->
-    <position id="Supermutant Kissing" animation="Null" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim1,Love3,Dom-3,NullToSelf" />
-    <position id="Supermutant Kiss To Missionary" animation="Null" isHidden="true" />
-    <position id="Supermutant Missionary 1" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim5,Love3,Dom-3,NullToSelf,PenisToEither" />
-    <position id="Supermutant Missionary 2" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither" />
-    <position id="Supermutant Missionary 3" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
-    <position id="Supermutant Missionary 4" animation="Null" isHidden="true" />
-    <position id="Supermutant Missionary 5" animation="Null" />
+	<!-- ==============================SuperMutant================================== -->
+	<position id="Supermutant Kissing" animation="Null" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim1,Love3,Dom-3,NullToSelf"/>
+	<position id="Supermutant Kiss To Missionary" animation="Null" isHidden="true"/>
+	<position id="Supermutant Missionary Slow" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim5,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="Supermutant Missionary Fast" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="Supermutant Missionary Orgasm1" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" isHidden="true"/>
+	<position id="Supermutant Missionary Orgasm2" animation="Null" isHidden="true"/>
+	<position id="Supermutant Missionary Afterglow" animation="Null"/>
 
-    <!-- ==============================Deathclaw================================== -->
-    <position id="Deathclaw Sitting 1" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 2" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 3" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 4" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 5" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 6" animation="Null" isHidden="true" />
+	<!-- ==============================Deathclaw================================== -->
+	<position id="Deathclaw Sitting 1" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 2" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 3" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 4" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 5" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 6" animation="Null" isHidden="true"/>
 
-    <position id="Deathclaw Sitting 1 Long" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 2 Long" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 3 Long" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting 4 Long" animation="Null" isHidden="true" />
+	<position id="Deathclaw Spooning 1" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 2" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 3" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 4" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 5" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 6" animation="Null" isHidden="true"/>
+	
+	<position id="Deathclaw Missionary 1" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 2" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 3" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 4" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 5" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 6" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 7" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 8" animation="Null" isHidden="true"/>
 
+	<position id="Deathclaw Sitting 1 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 2 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 3 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Sitting 4 Long" animation="Null" isHidden="true"/>
+	
+	<position id="Deathclaw Spooning 1 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 2 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 3 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Spooning 4 Long" animation="Null" isHidden="true"/>
+	
+	<position id="Deathclaw Missionary 1 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 2 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 3 Long" animation="Null" isHidden="true"/>
+	<position id="Deathclaw Missionary 4 Long" animation="Null" isHidden="true"/>
+	
+	<!-- ================================Staged Animations====================================== -->
 
-    <position id="Deathclaw Spooning 1" animation="DeathclawSpooning1" isHidden="true"/>
-	<position id="Deathclaw Spooning 2" animation="DeathclawSpooning2" isHidden="true"/>
-	<position id="Deathclaw Spooning 3" animation="DeathclawSpooning3" isHidden="true"/>
-	<position id="Deathclaw Spooning 4" animation="DeathclawSpooning4" isHidden="true"/>
-	<position id="Deathclaw Spooning 5" animation="DeathclawSpooning5" isHidden="true"/>
-    <position id="Deathclaw Spooning 6" animation="DeathclawSpooning6" isHidden="true"/>
-    
-	<position id="Deathclaw Spooning 1 Long" animation="DeathclawSpooning1Long" isHidden="true"/>
-	<position id="Deathclaw Spooning 2 Long" animation="DeathclawSpooning2Long" isHidden="true"/>
-	<position id="Deathclaw Spooning 3 Long" animation="DeathclawSpooning3Long" isHidden="true"/>
-	<position id="Deathclaw Spooning 4 Long" animation="DeathclawSpooning4Long" isHidden="true"/>
-
-    <!-- ================================Staged Animations====================================== -->
-
-    <position id="Supermutant Missionary Staged" animation="Null" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
-    <position id="Deathclaw Sitting Staged" animation="Null" isHidden="true" />
-    <position id="Deathclaw Sitting Staged Normal" animation="Null" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
-    <position id="Deathclaw Sitting Staged Long" animation="Null" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither" />
-    <position id="Deathclaw Spooning Staged" animationGroup="DeathclawSpooningStaged" isHidden="true"/>
-    <position id="Deathclaw Spooning Staged Normal" animationGroup="DeathclawSpooningStagedNormal" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
-    <position id="Deathclaw Spooning Staged Long" animationGroup="DeathclawSpooningStagedLong" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
-
+	<position id="Supermutant Missionary Staged" animationGroup="SupermutantMissionaryStaged" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	
+	<position id="Deathclaw Sitting Staged Normal" animationGroup="DeathclawSittingStagedNormal" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="Deathclaw Sitting Staged Long" animationGroup="DeathclawSittingStagedLong" tags="Brave,NoFurn,Carry,FromFront,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="Deathclaw Sitting Kissing" animationGroup="DeathclawSittingForeplay" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Sitting Slow" animationGroup="DeathclawSitting1" tags="Brave,NoFurn,Carry,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Sitting Fast" animationGroup="DeathclawSitting2" tags="Brave,NoFurn,Carry,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Sitting Afterglow" animationGroup="DeathclawSittingAfterglow" tags="Brave,NoFurn,Cuddle,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	
+	<position id="Deathclaw Spooning Staged Normal" animationGroup="DeathclawSpooningStagedNormal" tags="Brave,NoFurn,Carry,FromSide,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="Deathclaw Spooning Staged Long" animationGroup="DeathclawSpooningStagedLong" tags="Brave,NoFurn,Carry,FromSide,Neutral,Held5,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="Deathclaw Spooning Kissing" animationGroup="DeathclawSpooningForeplay" tags="Brave,NoFurn,Kissing,FromSide,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Spooning Slow" animationGroup="DeathclawSpooning1" tags="Brave,NoFurn,Carry,FromSide,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Spooning Fast" animationGroup="DeathclawSpooning2" tags="Brave,NoFurn,Carry,FromSide,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Spooning Afterglow" animationGroup="DeathclawSpooningAfterglow" tags="Brave,NoFurn,Cuddle,FromSide,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	
+	<position id="Deathclaw Missionary Staged" animationGroup="DeathclawMissionaryStagedNormal" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Missionary Kissing" animationGroup="DeathclawMissionaryForeplay" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Missionary Slow" animationGroup="DeathclawMissionary1" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Missionary Fast" animationGroup="DeathclawMissionary2" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	<position id="Deathclaw Missionary Afterglow" animationGroup="DeathclawMissionaryAfterglow" tags="Brave,NoFurn,Cuddle,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/> 
+	
 
     <!--
 <position id="Deathclaw test" animation="Null"/>

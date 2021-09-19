@@ -6,6 +6,11 @@
 		<actor idleForm="Null" skeleton="" conditions="Climax"></actor>
 		<actor idleForm="Null" skeleton=""></actor>
 	</animation>
+	
+	<animation id="Filler2A" frames="13">
+		<actor idleForm="Null" skeleton=""></actor>
+		<actor idleForm="Null" skeleton=""></actor>
+	</animation>
 
 
 	<!-- Edge Reseters -->

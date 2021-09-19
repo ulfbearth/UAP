@@ -1191,6 +1191,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="0100B7F2" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="0100B7F5">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1248,6 +1249,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="0100C736" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="0100C73A">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1303,6 +1305,7 @@
 		<actor gender="F" stopOverlaySet="Back" idleForm="01003DA0" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="01003DA4">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1358,6 +1361,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="010035F7" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="010035FB">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1415,6 +1419,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="01004560" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="01004564">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1473,6 +1478,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="0100BF95" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="0100BF99">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1530,6 +1536,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="0100CED8" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="0100CEDC">
 			<morph id="Foreskin" to="0.000000000000001"/>
@@ -1587,6 +1594,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="0100CEE0" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" idleForm="0100CEE4">
 			<morph id="Foreskin" to="0.000000000000001"/>

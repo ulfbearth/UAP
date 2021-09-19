@@ -100,6 +100,7 @@
 		<actor gender="F" stopOverlaySet="Belly" idleForm="01002E58" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="01002E54">
 			<morph id="Erection Up" to="2"/>
@@ -157,7 +158,8 @@
 	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S5" frames="300">
 		<actor gender="F" idleForm="01007B16" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPMoans" loop="true"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="01007B14">
 			<morph id="Erection" to="1.0000000000001"/>
@@ -168,7 +170,8 @@
 	<animation id="Leito_FSuperMutant_Chair_ReverseCowgirl_1_S6" frames="300">
 		<actor gender="F" stopOverlaySet="Belly" idleForm="01007B17">
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<action id="UAPOrgasm" loop="true"/>
+			<action id="UAPMoans" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="01007B15">
 			<morph id="Erection" to="1.0000000000001"/>
