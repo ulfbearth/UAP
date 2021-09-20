@@ -1,146 +1,223 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="BraveAnims.esp" loadPriority="100"/>
+	<defaults source="BraveAnims.esp" loadPriority="100" />
 
 
 	<!-- Cowgirl Animations -->
 
 	<animation id="Brave_DeathclawSitting1" frames="200">
 		<actor gender="F" idleForm="01007276" conditions="Foreplay">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPBlowjob" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01007279">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSitting2" frames="170">
 		<actor gender="F" idleForm="01007277" conditions="Intermediary-20_59">
-			<action id="UAPMoans" loop="true"/>
+			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100727a">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSitting3" frames="350">
 		<actor gender="F" idleForm="01007278" conditions="Intermediary-20_59">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPMoans" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100727b">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSitting4" frames="201">
 		<actor gender="F" idleForm="01007a15" conditions="Intermediary-60_99">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPMoans" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01007a18">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSitting5" frames="230">
 		<actor gender="F" idleForm="01007a16" conditions="Climax">
-			<action id="UAPOrgasm" loop="true"/>
-			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="UAPOrgasm" loop="true" />
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01007a19">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSitting6" frames="500">
 		<actor gender="F" idleForm="01007a17" conditions="Climax">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPOrgasm" loop="true"/>
-			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPOrgasm" loop="true" />
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01007a1a">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<!-- Cowgirl Animations CT-->
 
 
-
-
 	<!-- Spooning Animations -->
 
 	<animation id="Brave_DeathclawSpooning1" frames="550">
 		<actor gender="F" idleForm="0100988d" conditions="Foreplay">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPBlowjob" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPBlowjob" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="01009889">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSpooning2" frames="320">
 		<actor gender="F" idleForm="0100988e" conditions="Intermediary-20_59">
-			<action id="UAPBlowjob" loop="true"/>
+			<action id="UAPBlowjob" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100988a">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSpooning3" frames="416">
 		<actor gender="F" idleForm="0100988f" conditions="Intermediary-20_59">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPMoans" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100988b">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSpooning4" frames="282">
 		<actor gender="F" idleForm="01009890" conditions="Intermediary-60_99">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPMoans" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100988c">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSpooning5" frames="300">
 		<actor gender="F" idleForm="0100a02a" conditions="Climax">
-			<action id="UAPOrgasm" loop="true"/>
-			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="UAPOrgasm" loop="true" />
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100a02c">
-			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<animation id="Brave_DeathclawSpooning6" frames="500">
 		<actor gender="F" idleForm="0100a02b" conditions="Climax">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<action id="UAPBlowjob" loop="true"/>
-			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<action id="UAPBlowjob" loop="true" />
+			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" skeleton="Deathclaw" idleForm="0100a02d">
-			<action id="Edge120s" from="0" to="1" frames="30"/>
-			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Edge120s" from="0" to="1" frames="30" />
+			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
 
 	<!-- Spooning Animations CT -->
 
-	
+
+	<!-- Missionary Animations -->
+
+	<animation id="Brave_DeathclawMissionary1" frames="550">
+		<actor idleForm="0100af74" gender="F" conditions="Foreplay">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPBlowjob" loop="true" />
+		</actor>
+		<actor idleForm="0100af68" skeleton="Deathclaw">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawMissionary2Trans" frames="169">
+		<actor idleForm="0100af75" gender="F" conditions="Intermediary-20_59">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
+		</actor>
+		<actor idleForm="0100af69" skeleton="Deathclaw">
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawMissionary3" frames="500">
+		<actor idleForm="0100af76" gender="F" conditions="Intermediary-20_59">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
+		</actor>
+		<actor idleForm="0100af6a" skeleton="Deathclaw">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawMissionary4Trans" frames="70">
+		<actor idleForm="0100af77" gender="F" conditions="Intermediary-60_99">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
+		</actor>
+		<actor idleForm="0100af6b" skeleton="Deathclaw">
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawMissionary5" frames="250">
+		<actor idleForm="0100af78" gender="F" conditions="Intermediary-60_99">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPMoans" loop="true" />
+		</actor>
+		<actor idleForm="0100af6c" skeleton="Deathclaw">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawMissionary7Trans" frames="100">
+		<actor idleForm="0100af7a" gender="F" conditions="Climax">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPOrgasm" loop="true" />
+		</actor>
+		<actor idleForm="0100af6e" skeleton="Deathclaw">
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<animation id="Brave_DeathclawMissionary8" frames="300">
+		<actor idleForm="0100af7b" gender="F" conditions="Climax">
+			<action id="Edge" from="0" to="1" frames="30" />
+			<action id="UAPOrgasm" loop="true" />
+			<action id="Play-Pussy-CumLeak" loop="true" />
+		</actor>
+		<actor idleForm="0100af6f" skeleton="Deathclaw">
+			<action id="Edge" from="0" to="1" frames="30"/>
+			<morph id="Erection" to="1.0000000000001" />
+		</actor>
+	</animation>
+
+	<!-- Missionary Animations CT -->
+
 
 </animationData>

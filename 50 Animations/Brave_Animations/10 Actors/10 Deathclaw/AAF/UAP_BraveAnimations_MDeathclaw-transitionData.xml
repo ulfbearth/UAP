@@ -12,4 +12,13 @@
 	<transition from="Brave_MM_DeathclawSpooning1_Block" to="Brave_MM_DeathclawSpooning3_Block" animation="Brave_MM_DeathclawSpooning2"/>
 	<transition from="Brave_MM_DeathclawSpooning4_Block" to="Brave_MM_DeathclawSpooning6_Block" animation="Brave_MM_DeathclawSpooning5"/>
 
+	<transition from="*" to="Brave_MM_DeathclawMissionary_Tree" animation="Null"/>
+	<transition from="None" to="Brave_MM_DeathclawMissionary_Tree" animation="Null"/>
+	<transition from="Brave_MM_DeathclawMissionary1_Block" to="Brave_MM_DeathclawMissionary3_Block" animation="Brave_MM_DeathclawMissionary2Trans"/>
+	<transition from="Brave_MM_DeathclawMissionary1" to="Brave_MM_DeathclawMissionary3" animation="Brave_MM_DeathclawMissionary2Trans"/>
+	<transition from="Brave_MM_DeathclawMissionary3_Block" to="Brave_MM_DeathclawMissionary5_Block" animation="Brave_MM_DeathclawMissionary4Trans"/>
+	<transition from="Brave_MM_DeathclawMissionary3" to="Brave_MM_DeathclawMissionary5" animation="Brave_MM_DeathclawMissionary4Trans"/>
+	<transition from="Brave_MM_DeathclawMissionary5_Block" to="Brave_MM_DeathclawMissionary8_Block" animation="Brave_MM_DeathclawMissionary7Trans"/>
+	<transition from="Brave_MM_DeathclawMissionary5" to="Brave_MM_DeathclawMissionary8" animation="Brave_MM_DeathclawMissionary7Trans"/>
+
 </transitionData>

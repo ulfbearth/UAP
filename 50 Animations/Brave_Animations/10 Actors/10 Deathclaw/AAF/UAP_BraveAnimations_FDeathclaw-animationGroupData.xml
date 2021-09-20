@@ -92,4 +92,41 @@
 		<stage animation="Brave_DeathclawSpooning6"/>
 	</animationGroup>
 
+
+
+
+	<animationGroup id="Brave_DeathclawMissionary_Staged" sequential="false">
+		<stage animation="Brave_DeathclawMissionary1" switchTo="[UAP] Brave - Deathclaw Missionary Sequence"/>
+		<stage animation="Brave_DeathclawMissionary2Trans" switchTo="[UAP] Brave - Deathclaw Missionary 2 Transition Staged"/>
+	</animationGroup>
+	<animationGroup id="Brave_DeathclawMissionary2Trans_Staged" sequential="false">
+		<stage animation="Brave_DeathclawMissionary3" switchTo="[UAP] Brave - Deathclaw Missionary 2 Transition Staged"></stage>
+		<stage animation="Brave_DeathclawMissionary4Trans" switchTo="[UAP] Brave - Deathclaw Missionary 4 Transition Staged"></stage>
+	</animationGroup>
+	<animationGroup id="Brave_DeathclawMissionary4Trans_Staged" sequential="false">
+		<stage animation="Brave_DeathclawMissionary5" switchTo="[UAP] Brave - Deathclaw Missionary 4 Transition Staged"></stage>
+		<stage animation="Brave_DeathclawMissionary7Trans" switchTo="[UAP] Brave - Deathclaw Missionary 7 Transition Staged"></stage>
+	</animationGroup>
+	<animationGroup id="Brave_DeathclawMissionary7Trans_Staged" sequential="false">
+		<stage animation="Brave_DeathclawMissionary8" switchTo="[UAP] Brave - Deathclaw Missionary 7 Transition Staged"></stage>
+	</animationGroup>
+
+	<animationGroup id="Brave_DeathclawMissionary1_Block" sequential="false">
+		<stage animation="Brave_DeathclawMissionary1" switchTo="[UAP] Brave - Deathclaw Missionary 1 Block"></stage>
+		<stage animation="Brave_DeathclawMissionary1" switchTo="[UAP] Brave - Deathclaw Missionary 1 Block"></stage>
+	</animationGroup>
+	<animationGroup id="Brave_DeathclawMissionary3_Block" sequential="false">
+		<stage animation="Brave_DeathclawMissionary3" switchTo="[UAP] Brave - Deathclaw Missionary 3 Block"></stage>
+		<stage animation="Brave_DeathclawMissionary3" switchTo="[UAP] Brave - Deathclaw Missionary 3 Block"></stage>
+	</animationGroup>
+	<animationGroup id="Brave_DeathclawMissionary5_Block" sequential="false">
+		<stage animation="Brave_DeathclawMissionary5" switchTo="[UAP] Brave - Deathclaw Missionary 5 Block"></stage>
+		<stage animation="Brave_DeathclawMissionary5" switchTo="[UAP] Brave - Deathclaw Missionary 5 Block"></stage>
+	</animationGroup>
+	<animationGroup id="Brave_DeathclawMissionary8_Block" sequential="false">
+		<stage animation="Brave_DeathclawMissionary8" switchTo="[UAP] Brave - Deathclaw Missionary 8 Block"></stage>
+		<stage animation="Brave_DeathclawMissionary8" switchTo="[UAP] Brave - Deathclaw Missionary 8 Block"></stage>
+		<stage animation="Filler2A"></stage>
+	</animationGroup>
+
 </animationGroupData>

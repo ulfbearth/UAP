@@ -31,4 +31,21 @@
 	<position id="[UAP] Brave - Deathclaw Spooning 6 Block" animationGroup="Brave_DeathclawSpooning6_Block" isHidden="true"/>
 	<position id="[UAP] Brave - Deathclaw Spooning 6" animation="Brave_DeathclawSpooning6" isHidden="true"/>
 
+    <position id="[UAP] Brave - Deathclaw Missionary" positionTree="Brave_DeathclawMissionary_Tree" tags="Brave,NoFurn,Kissing,Missionary,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Deathclaw Missionary Sequence" animationGroup="Brave_DeathclawMissionary_Staged" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Deathclaw Missionary 1 Block" animationGroup="Brave_DeathclawMissionary1_Block" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+    <position id="[UAP] Brave - Deathclaw Missionary 1" animation="Brave_DeathclawMissionary1" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 2 Transition" animation="Brave_DeathclawMissionary2Trans" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 2 Transition Staged" animationGroup="Brave_DeathclawMissionary2Trans_Staged" isHidden="true" tags="Brave,NoFurn,Kissing,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 3 Block" animationGroup="Brave_DeathclawMissionary3_Block" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 3" animation="Brave_DeathclawMissionary3" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 4 Transition" animation="Brave_DeathclawMissionary4Trans" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 4 Transition Staged" animationGroup="Brave_DeathclawMissionary4Trans_Staged" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 5 Block" animationGroup="Brave_DeathclawMissionary5_Block" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 5" animation="Brave_DeathclawMissionary5" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 7 Transition" animation="Brave_DeathclawMissionary7Trans" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 7 Transition Staged" animationGroup="Brave_DeathclawMissionary7Trans_Staged" isHidden="true" tags="Brave,NoFurn,Missionary,FromFront,Loving,Held3,Stim9,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 8 Block" animationGroup="Brave_DeathclawMissionary8_Block" isHidden="true" tags="Brave,NoFurn,Cuddle,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+	<position id="[UAP] Brave - Deathclaw Missionary 8" animation="Brave_DeathclawMissionary8" isHidden="true" tags="Brave,NoFurn,Cuddle,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,PenisToEither"/>
+
 </positionData>
