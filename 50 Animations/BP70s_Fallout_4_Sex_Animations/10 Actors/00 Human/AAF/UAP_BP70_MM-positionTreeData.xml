@@ -417,7 +417,7 @@
 				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Locker Sex 2" forceComplete="true" time="0">
 					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Locker Sex 3" forceComplete="true" time="0">
 						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Locker Sex 4" forceComplete="true" time="0">
-							<branch id="Finish" positionID="Filler2P" forceComplete="true" time="0" isExit="true"></branch>
+							<branch id="Finish" positionID="[UAP] BP70 - Gay Locker Sex 5" forceComplete="true" time="15" isExit="true"></branch>
 						</branch>
 					</branch>
 				</branch>
@@ -444,6 +444,50 @@
 			</branch>
 		</branch>
 
+	</tree>
+
+	<!-- -->
+	<tree id="rxl_bp70_gayspitroast_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Spit Roast (Staged)" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Spit Roast 1" time="0" forceComplete="true">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Spit Roast 2" time="0" forceComplete="true">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Spit Roast 3" time="0" forceComplete="true">
+						<branch id="Climax" positionID="[UAP] BP70 - Gay Spit Roast 4" time="0" forceComplete="true" isExit="true"></branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+	<tree id="rxl_bp70_mm_modernbedmissionary_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Modern Bed Missionary (Staged)" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Modern Bed Missionary 1" time="0" forceComplete="true">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Modern Bed Missionary 2" time="0" forceComplete="true">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Modern Bed Missionary 3" time="0" forceComplete="true">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Modern Bed Missionary 4" time="0" forceComplete="true">
+							<branch id="Play Stage 5" positionID="[UAP] BP70 - Gay Modern Bed Missionary 5" time="0" forceComplete="true">
+								<branch id="Climax" positionID="[UAP] BP70 - Gay Modern Bed Missionary Orgasm (Loop)" time="0" forceComplete="true" isExit="true"></branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</tree>
+
+
+	<tree id="rxl_bp70_mm_cowgirlseq_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
+		<branch id="Play Staged Sequence" positionID="[UAP] BP70 - Gay Cowgirl Sequence (Staged)" time="0">
+			<branch id="Play Stage 1" positionID="[UAP] BP70 - Gay Cowgirl Sequence 1" time="0" forceComplete="true">
+				<branch id="Play Stage 2" positionID="[UAP] BP70 - Gay Cowgirl Sequence 2" time="0" forceComplete="true">
+					<branch id="Play Stage 3" positionID="[UAP] BP70 - Gay Cowgirl Sequence 3" time="0" forceComplete="true">
+						<branch id="Play Stage 4" positionID="[UAP] BP70 - Gay Cowgirl Sequence 4" time="0" forceComplete="true">
+							<branch id="Climax" positionID="[UAP] BP70 - Gay Cowgirl Sequence 5" time="0" forceComplete="true" isExit="true"></branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
 	</tree>
 
 

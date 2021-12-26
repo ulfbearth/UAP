@@ -391,4 +391,26 @@
     <transition from="*" to="rxl_bp70_mm_lockersex_Tree" animation="Null"></transition>
     <transition from="none" to="rxl_bp70_mm_lockersex_Tree" animation="Null"></transition>
 
+    <!-- -->
+
+    <transition from="none" to="rxl_bp70_gayspitroast_tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_gayspitroast_tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_gayspitroast_staged" animation="Null"/>
+    <transition from="*" to="rxl_bp70_gayspitroast_staged" animation="Null"/>
+
+
+    <transition from="*" to="rxl_bp70_mm_modernbedmissionary_tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_modernbedmissionary_tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_modernbedmissionary_staged" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_modernbedmissionary_staged" animation="Null"/>
+    <transition from="rxl_bp70_mm_modernbedmissionary01" to="rxl_bp70_mm_modernbedmissionary02" animation="rxl_bp70_mm_modernbedmissionary01_trans"/>
+	<transition from="rxl_bp70_mm_modernbedmissionary02" to="rxl_bp70_mm_modernbedmissionary03" animation="rxl_bp70_mm_modernbedmissionary02_trans"/>
+	<transition from="rxl_bp70_mm_modernbedmissionary03" to="rxl_bp70_mm_modernbedmissionary04" animation="rxl_bp70_mm_modernbedmissionary03_trans"/>
+	<transition from="rxl_bp70_mm_modernbedmissionary04" to="rxl_bp70_mm_modernbedmissionary05" animation="rxl_bp70_mm_modernbedmissionary04_trans"/>
+
+    <transition from="*" to="rxl_bp70_mm_cowgirlseq_tree" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_cowgirlseq_tree" animation="Null"/>
+    <transition from="*" to="rxl_bp70_mm_cowgirlseq_staged" animation="Null"/>
+    <transition from="none" to="rxl_bp70_mm_cowgirlseq_staged" animation="Null"/>
+
 </transitionData>

@@ -84,6 +84,7 @@
         <stage animation="rxl_bp70_lockersex02"></stage>
         <stage animation="rxl_bp70_lockersex03"></stage>
         <stage animation="rxl_bp70_lockersex04"></stage>
+        <stage animation="rxl_bp70_lockersex05"></stage>
     </animationGroup>
 
 
@@ -325,9 +326,57 @@
 		<stage animation="rxl_bp70_toiletmissionary05"/>
 	</animationGroup>
 
+	<!-- [UAP] BP70 - Modern Bed Missionary -->
+	<animationGroup id="rxl_bp70_modernbedmissionary_staged" sequential="false">
+		<stage animation="rxl_bp70_modernbedmissionary01"></stage>
+		<stage animation="rxl_bp70_modernbedmissionary01_trans" switchTo="[UAP] BP70 - Modern Bed Missionary 1-2 (Staged)"></stage>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_modernbedmissionary_01-02_staged" sequential="false">
+		<stage animation="rxl_bp70_modernbedmissionary02"></stage>
+		<stage animation="rxl_bp70_modernbedmissionary02_trans" switchTo="[UAP] BP70 - Modern Bed Missionary 2-3 (Staged)"></stage>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_modernbedmissionary_02-03_staged" sequential="false">
+		<stage animation="rxl_bp70_modernbedmissionary03"></stage>
+		<stage animation="rxl_bp70_modernbedmissionary03_trans" switchTo="[UAP] BP70 - Modern Bed Missionary 3-4 (Staged)"></stage>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_modernbedmissionary_03-04_staged" sequential="false">
+		<stage animation="rxl_bp70_modernbedmissionary04"></stage>
+		<stage animation="rxl_bp70_modernbedmissionary04_trans" switchTo="[UAP] BP70 - Modern Bed Missionary 4-5 (Staged)"></stage>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_modernbedmissionary_04-05_staged" sequential="false">
+		<stage animation="rxl_bp70_modernbedmissionary05"></stage>
+		<stage animation="rxl_bp70_modernbedmissionary06"></stage>
+	</animationGroup>
+
+	<!-- [UAP] BP70 - Pre-War Bed Pussy Play -->
+	<animationGroup id="rxl_bp70_doublebedpussyplay_staged" sequential="false">
+		<stage animation="rxl_bp70_doublebedpussyplay01"/>
+		<stage animation="rxl_bp70_doublebedpussyplay02"/>
+		<stage animation="rxl_bp70_doublebedpussyplay03"/>
+		<stage animation="rxl_bp70_doublebedpussyplay04"/>
+	</animationGroup>
+
+	<!-- [UAP] BP70 - Cowgirl Sequence -->
+	<animationGroup id="rxl_bp70_cowgirlseq_staged" sequential="false">
+		<stage animation="rxl_bp70_cowgirlseq01"/>
+		<stage animation="rxl_bp70_cowgirlseq02"/>
+		<stage animation="rxl_bp70_cowgirlseq03"/>
+		<stage animation="rxl_bp70_cowgirlseq04"/>
+		<stage animation="rxl_bp70_cowgirlseq05"/>
+	</animationGroup>
 
 
-
+	<!-- [UAP] BP70 - Armchair Cunnilingus -->
+	<animationGroup id="rxl_bp70_armchaircunny_staged" sequential="false">
+		<stage animation="rxl_bp70_armchaircunny01"/>
+		<stage animation="rxl_bp70_armchaircunny02"/>
+		<stage animation="rxl_bp70_armchaircunny03"/>
+		<stage animation="rxl_bp70_armchaircunny04"/>
+		<stage animation="rxl_bp70_armchaircunny05"/>
+	</animationGroup>
 
 
 
