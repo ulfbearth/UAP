@@ -339,6 +339,52 @@
 		<stage animation="rxl_bp70_mm_lockersex02"></stage>
 		<stage animation="rxl_bp70_mm_lockersex03"></stage>
 		<stage animation="rxl_bp70_mm_lockersex04"></stage>
+		<stage animation="rxl_bp70_mm_lockersex05"></stage>
+	</animationGroup>
+
+
+	<!-- -->
+
+	<animationGroup id="rxl_bp70_gayspitroast_staged" sequential="false">
+		<stage animation="rxl_bp70_gayspitroast01"></stage>
+		<stage animation="rxl_bp70_gayspitroast02"></stage>
+		<stage animation="rxl_bp70_gayspitroast03"></stage>
+		<stage animation="rxl_bp70_gayspitroast04"></stage>
+	</animationGroup>
+
+	<!-- [UAP] BP70 - Gay Modern Bed Missionary -->
+	<animationGroup id="rxl_bp70_mm_modernbedmissionary_staged" sequential="false">
+		<stage animation="rxl_bp70_mm_modernbedmissionary01"></stage>
+		<stage animation="rxl_bp70_mm_modernbedmissionary01_trans" switchTo="[UAP] BP70 - Gay Modern Bed Missionary 1-2 (Staged)"></stage>
+	</animationGroup>
+	<animationGroup id="rxl_bp70_mm_modernbedmissionary_01-02_staged" sequential="false">
+		<stage animation="rxl_bp70_mm_modernbedmissionary02"></stage>
+		<stage animation="rxl_bp70_mm_modernbedmissionary02_trans" switchTo="[UAP] BP70 - Gay Modern Bed Missionary 2-3 (Staged)"></stage>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_mm_modernbedmissionary_02-03_staged" sequential="false">
+		<stage animation="rxl_bp70_mm_modernbedmissionary03"></stage>
+		<stage animation="rxl_bp70_mm_modernbedmissionary03_trans" switchTo="[UAP] BP70 - Gay Modern Bed Missionary 3-4 (Staged)"></stage>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_mm_modernbedmissionary_03-04_staged" sequential="false">
+		<stage animation="rxl_bp70_mm_modernbedmissionary04"></stage>
+		<stage animation="rxl_bp70_mm_modernbedmissionary04_trans" switchTo="[UAP] BP70 - Gay Modern Bed Missionary 4-5 (Staged)"></stage>
+	</animationGroup>
+	
+	<animationGroup id="rxl_bp70_mm_modernbedmissionary_04-05_staged" sequential="false">
+		<stage animation="rxl_bp70_mm_modernbedmissionary05"></stage>
+		<stage animation="rxl_bp70_mm_modernbedmissionary06"></stage>
+	</animationGroup>
+
+
+	<!-- [UAP] BP70 - Gay Cowgirl Sequence -->
+	<animationGroup id="rxl_bp70_mm_cowgirlseq_staged" sequential="false">
+		<stage animation="rxl_bp70_mm_cowgirlseq01"/>
+		<stage animation="rxl_bp70_mm_cowgirlseq02"/>
+		<stage animation="rxl_bp70_mm_cowgirlseq03"/>
+		<stage animation="rxl_bp70_mm_cowgirlseq04"/>
+		<stage animation="rxl_bp70_mm_cowgirlseq05"/>
 	</animationGroup>
 
 </animationGroupData>

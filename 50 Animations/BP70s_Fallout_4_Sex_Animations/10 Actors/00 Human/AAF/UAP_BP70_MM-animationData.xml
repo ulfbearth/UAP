@@ -3193,13 +3193,501 @@
 		</actor>
 	</animation>
 
+	<animation id="rxl_bp70_mm_lockersex05" frames="200">
+		<actor gender="M" idleForm="DDE7" conditions="Climax">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="DDE8">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 	<!-- Standing/Carry Animation CT-->
 
 	<!-- Non Misc Animations CT-->
 	<!-- Furniture Animations CT-->
 
 
+	<animation id="rxl_bp70_gayspitroast01" frames="240">
+		<actor gender="M" idleForm="02000FAB" conditions="Foreplay">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FAC">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FB1">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_gayspitroast02" frames="300">
+		<actor gender="M" idleForm="02000FB2" conditions="Intermediary-20_59">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FB6">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FB7">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
+	<animation id="rxl_bp70_gayspitroast03" frames="300">
+		<actor gender="M" idleForm="02000FB8" conditions="Intermediary-60_99">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FB9">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FBA">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_gayspitroast04" frames="500">
+		<actor gender="M" idleForm="02000FBB" conditions="Climax">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="02000FBC">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="02000FBD">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+
+	<!-- -->
+
+	<animation id="rxl_bp70_mm_modernbedmissionary01" frames="240" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A4B" conditions="Foreplay">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A4C">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_modernbedmissionary01_trans" frames="610" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A4D" conditions="Intermediary-20_39">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A4E">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_modernbedmissionary02" frames="640" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A4F" conditions="Intermediary-20_39">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A50">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_modernbedmissionary02_trans" frames="544" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A51" conditions="Intermediary-40_59">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A52">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_modernbedmissionary03" frames="480" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A53" conditions="Intermediary-40_59">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A54">
+			
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_modernbedmissionary03_trans" frames="600" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A55" conditions="Intermediary-60_79">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A56">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_modernbedmissionary04" frames="600" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A57" conditions="Intermediary-60_79">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A58">
+			
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_modernbedmissionary04_trans" frames="500" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A59" conditions="Intermediary-80_99">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A5A">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_modernbedmissionary05" frames="300" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="1F04" conditions="Intermediary-80_99">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="1F05">
+			
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_modernbedmissionary06" frames="550" offset="5.5,-92.35,0,0:0,0,0,0">
+		<actor gender="M" idleForm="12A5B" conditions="Climax">
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="12A5C">
+			
+			<action id="Edge120s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_doublebedpussyplay01" frames="240">
+		<actor gender="M" idleForm="1674F" conditions="Foreplay">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="16750">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_doublebedpussyplay02" frames="240">
+		<actor gender="M" idleForm="16751" conditions="Intermediary-20_59">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="16752">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_doublebedpussyplay03" frames="240">
+		<actor gender="M" idleForm="16753" conditions="Intermediary-60_99">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="16754">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_doublebedpussyplay04" frames="1000">
+		<actor gender="M" idleForm="16755" conditions="Climax">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="16756">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	
+	<animation id="rxl_bp70_mm_cowgirlseq01" frames="200">
+		<actor gender="M" idleForm="2E39" conditions="Foreplay">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E3A">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_cowgirlseq02" frames="320">
+		<actor gender="M" idleForm="2E3B" conditions="Intermediary-20_46">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E3C">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_cowgirlseq03" frames="288">
+		<actor gender="M" idleForm="2E3D" conditions="Intermediary-46_73">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E3E">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_cowgirlseq04" frames="272">
+		<actor gender="M" idleForm="2E3F" conditions="Intermediary-73_99">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E40">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_cowgirlseq05" frames="600" offset="0,6,0,0:0,0,0,0">
+		<actor gender="M" idleForm="2E41" conditions="Climax">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="2E42">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_armchaircunny01" frames="200">
+		<actor gender="M" idleForm="547A" conditions="Foreplay">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="547C">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_armchaircunny02" frames="200">
+		<actor gender="M" idleForm="547D" conditions="Intermediary-20_46">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="547E">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_armchaircunny03" frames="200">
+		<actor gender="M" idleForm="547F" conditions="Intermediary-46_73">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="5480">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_mm_armchaircunny04" frames="200">
+		<actor gender="M" idleForm="5481" conditions="Intermediary-73_99">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="5482">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_mm_armchaircunny05" frames="500">
+		<actor gender="M" idleForm="5483" conditions="Climax">
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" idleForm="5484">
+			
+			<action id="Edge90s" from="0" to="1" frames="30"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 
 
 </animationData>

@@ -85,6 +85,7 @@
 	<position id="[UAP] BP70 - Locker Sex 2" location="Locker" animation="rxl_bp70_lockersex02" isHidden="true" tags="BP70,F_M,Locker,Carry,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom3,NullToSelf,PenisToVagina"/>
 	<position id="[UAP] BP70 - Locker Sex 3" location="Locker" animation="rxl_bp70_lockersex03" isHidden="true" tags="BP70,F_M,Locker,Carry,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom3,NullToSelf,PenisToVagina"/>
 	<position id="[UAP] BP70 - Locker Sex 4" location="Locker" animation="rxl_bp70_lockersex04" isHidden="true" tags="BP70,F_M,Locker,Carry,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Locker Sex 5" location="Locker" animation="rxl_bp70_lockersex05" isHidden="true" tags="BP70,F_M,Locker,Carry,Climax,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom3,NullToSelf,PenisToVagina"/>
 
 
     <position id="[UAP] BP70 - Blowjob" animation="rxl_bp70_blowjob" tags="BP70,F_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,PenisToMouth"/>
@@ -362,6 +363,51 @@
     <position id="[UAP] BP70 - Female Masturbation (Couch)" location="Couch" animation="rxl_bp70_female_couchmast" tags="BP70,F,Couch,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
     <position id="[UAP] BP70 - Fast Female Masturbation (Couch)" location="Couch" animation="rxl_bp70_female_couchmastfast" tags="BP70,F,Couch,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
     <position id="[UAP] BP70 - Female Masturbation (Toilet)" location="Toilet" animation="rxl_bp70_female_toiletmast" tags="BP70,F,Toilet,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+
+
+    <!-- -->
+
+    <position id="[UAP] BP70 - Modern Bed Missionary" location="Double_Bed_Wood_PreWar" positionTree="rxl_bp70_modernbedmissionary_tree" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Modern Bed Missionary (Staged)" location="Double_Bed_Wood_PreWar" isHidden="true" animationGroup="rxl_bp70_modernbedmissionary_staged" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Modern Bed Missionary 1" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary01" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Tease,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 1 Trans" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary01_trans" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 1-2 (Staged)" location="Double_Bed_Wood_PreWar" animationGroup="rxl_bp70_modernbedmissionary_01-02_staged" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 2" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary02" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 2 Trans" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary02_trans" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 2-3 (Staged)" location="Double_Bed_Wood_PreWar" animationGroup="rxl_bp70_modernbedmissionary_02-03_staged" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 3" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary03" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 3 Trans" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary03_trans" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 3-4 (Staged)" location="Double_Bed_Wood_PreWar" animationGroup="rxl_bp70_modernbedmissionary_03-04_staged" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 4" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary04" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 4 Trans" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary04_trans" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 4-5 (Staged)" location="Double_Bed_Wood_PreWar" animationGroup="rxl_bp70_modernbedmissionary_04-05_staged" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary 5" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary05" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Modern Bed Missionary Orgasm (Loop)" location="Double_Bed_Wood_PreWar" animation="rxl_bp70_modernbedmissionary06" isHidden="true" tags="BP70,F_M,DoubleBed,Missionary,FromFront,Neutral,Climax,Held1,Love7,Stim3,Dom3,NullToSelf,PenisToVagina"/>
+
+
+    <position id="[UAP] BP70 - Pre-War Bed Pussy Play" location="Double_Bed_Wood_PreWar" positionTree="rxl_bp70_doublebedpussyplay_tree" tags="BP70,F_M,DoubleBed,Fingering,FromFront,Neutral,Tease,Held1,Love7,Stim3,Dom3,NullToSelf,HandToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Pussy Play (Staged)" location="Double_Bed_Wood_PreWar" isHidden="true" animationGroup="rxl_bp70_doublebedpussyplay_staged" tags="BP70,F_M,DoubleBed,Fingering,FromFront,Neutral,Tease,Held1,Love7,Stim3,Dom3,NullToSelf,HandToVagina"/>
+    <position id="[UAP] BP70 - Pre-War Bed Pussy Play 1" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_doublebedpussyplay01" tags="BP70,F_M,DoubleBed,Fingering,FromFront,Neutral,Tease,Held1,Love7,Stim3,Dom3,NullToSelf,HandToVagina"/>
+	<position id="[UAP] BP70 - Pre-War Bed Pussy Play 2" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_doublebedpussyplay02" tags="BP70,F_M,DoubleBed,Fingering,FromFront,Neutral,Tease,Held1,Love7,Stim3,Dom3,NullToSelf,HandToVagina"/>
+	<position id="[UAP] BP70 - Pre-War Bed Pussy Play 3" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_doublebedpussyplay03" tags="BP70,F_M,DoubleBed,Fingering,FromFront,Neutral,Tease,Held1,Love7,Stim3,Dom3,NullToSelf,HandToVagina"/>
+	<position id="[UAP] BP70 - Pre-War Bed Pussy Play 4 (Looping)" location="Double_Bed_Wood_PreWar" isHidden="true" animation="rxl_bp70_doublebedpussyplay04" tags="BP70,F_M,DoubleBed,Fingering,FromFront,Neutral,Climax,Held1,Love7,Stim3,Dom3,NullToSelf,HandToVagina"/>
+
+    <position id="[UAP] BP70 - Cowgirl Sequence" positionTree="rxl_bp70_cowgirlseq_tree" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Cowgirl Sequence (Staged)" isHidden="true" animationGroup="rxl_bp70_cowgirlseq_staged" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] BP70 - Cowgirl Sequence 1" isHidden="true" animation="rxl_bp70_cowgirlseq01" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>
+	<position id="[UAP] BP70 - Cowgirl Sequence 2" isHidden="true" animation="rxl_bp70_cowgirlseq02" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>	
+	<position id="[UAP] BP70 - Cowgirl Sequence 3" isHidden="true" animation="rxl_bp70_cowgirlseq03" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>	
+	<position id="[UAP] BP70 - Cowgirl Sequence 4" isHidden="true" animation="rxl_bp70_cowgirlseq04" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>	
+	<position id="[UAP] BP70 - Cowgirl Sequence 5" isHidden="true" animation="rxl_bp70_cowgirlseq05" tags="BP70,F_M,NoFurn,Cowgirl,FromFront,Neutral,Climax,Held1,Love5,Stim3,Dom5,NullToSelf,PenisToVagina"/>	
+	
+    <position id="[UAP] BP70 - Armchair Cunnilingus" location="Armchair" positionTree="rxl_bp70_armchaircunny_tree" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+    <position id="[UAP] BP70 - Armchair Cunnilingus (Staged)" isHidden="true" location="Armchair" animationGroup="rxl_bp70_armchaircunny_staged" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+    <position id="[UAP] BP70 - Armchair Cunnilingus 01" isHidden="true" location="Armchair" animation="rxl_bp70_armchaircunny01" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+	<position id="[UAP] BP70 - Armchair Cunnilingus 02" isHidden="true" location="Armchair" animation="rxl_bp70_armchaircunny02" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Midstage,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+	<position id="[UAP] BP70 - Armchair Cunnilingus 03" isHidden="true" location="Armchair" animation="rxl_bp70_armchaircunny03" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Midstage,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+	<position id="[UAP] BP70 - Armchair Cunnilingus 04" isHidden="true" location="Armchair" animation="rxl_bp70_armchaircunny04" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Midstage,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+	<position id="[UAP] BP70 - Armchair Cunnilingus 05" isHidden="true" location="Armchair" animation="rxl_bp70_armchaircunny05" tags="BP70,F_M,Armchair,Cunnilingus,FromFront,Neutral,Climax,Held1,Love5,Stim3,Dom3,NullToSelf,MouthToVagina"/>
+
 
 
 </positionData>
