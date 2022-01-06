@@ -1,0 +1,7 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="1" startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+    <!-- Feral Ghoul Animations -->
+
+    <position id="[UAP] Mutated Lust - Feral Ghoul Cowgirl" animation="ML_FM_Feral Ghoul Cowgirl" tags="Rufgt,Creature,F_FGhoulM,NoFurn,Cowgirl,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+</positionData>

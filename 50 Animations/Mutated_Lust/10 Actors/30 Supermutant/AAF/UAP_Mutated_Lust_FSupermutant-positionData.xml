@@ -1,0 +1,17 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="1" startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+    <!-- Supermutant Animations -->
+
+    <position id="[UAP] Mutated Lust - Supermutant Penis Lick" animation="ML_FM_Supermutant Penis Lick" tags="Rufgt,Creature,F_SMutantM,NoFurn,Kneeling,Blowjob,FromFront,Neutral,Held1,Stim1,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - Supermutant Forced Missionary" animation="ML_FM_Supermutant Forced Missionary" tags="Rufgt,Creature,F_SMutantM,NoFurn,Missionary,FromFront,Neutral,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - Supermutant Forced Missionary (Pipe Rifle)" animation="ML_FM_Supermutant Forced Missionary (Pipe Rifle)" tags="Rufgt,Creature,F_SMutantM,NoFurn,Missionary,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - Supermutant Blowjob" animation="ML_FM_Supermutant Blowjob" tags="Rufgt,Creature,F_SMutantM,NoFurn,Kneeling,Blowjob,FromFront,Neutral,Held1,Stim1,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - FEV Doggy" animation="ML_FM_FEV Doggy" location="FEV Chamber" tags="Rufgt,Creature,F_SMutantM,FEVChamber,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - FEV Cowgirl" animation="ML_FM_FEV Cowgirl" location="FEV Chamber" tags="Rufgt,Creature,F_SMutantM,FEVChamber,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+</positionData>

@@ -1,0 +1,99 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="Vadermania[AAF_anims].esp" loadPriority="100" />
+
+
+	<animation id="vad_Doggy" offset="0,-70,0,0:0,0,0,0" frames="119">
+		<actor gender="M" idleForm="01000f9D">
+		</actor>
+		<actor gender="F" idleForm="01000f9e">
+		</actor>
+	</animation>
+
+	<animation id="vad_Table" offset="0,-70,0,0:0,0,0,0" frames="119">
+		<actor gender="M" idleForm="01000f99">
+		</actor>
+		<actor gender="F" idleForm="01000f9b">
+		</actor>
+	</animation>
+
+
+	<animation id="vad_Dogmeat02" frames="180">
+
+		<actor gender="F" idleForm="01000f9f">
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="01000fa0">
+		</actor>
+	</animation>
+
+	<animation id="vad_Deathclaw02" frames="480">
+
+		<actor gender="F" idleForm="01002e07">
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="01002e08">
+		</actor>
+	</animation>
+
+
+	<animation id="vad_Deathclaw0202" frames="480">
+
+		<actor gender="F" idleForm="010044DB">
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="01003D41">
+		</actor>
+	</animation>
+
+
+	<animation id="vad_Cat01" offset="0,0,0,0:0,0,0,0" frames="180">
+
+		<actor gender="M" idleForm="01002e09">
+		</actor>
+		<actor gender="M" idleForm="01002e0a">
+		</actor>
+	</animation>
+
+	<animation id="vad_Ghoul02" frames="120">
+
+		<actor gender="F" idleForm="0100173c">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173B">
+		</actor>
+	</animation>
+
+	<animation id="vad_Ghoul03" frames="240">
+
+		<actor gender="F" idleForm="0100173D">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173E">
+		</actor>
+	</animation>
+
+
+	<animation id="vad_Ghoul4w MMMF" frames="60">
+
+		<actor gender="F" idleForm="01001ed8">
+		</actor>
+
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001ed9">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001eda">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001edb">
+		</actor>
+	</animation>
+
+	<animation id="vad_FEVHound01" frames="100">
+
+		<actor gender="F" idleForm="01002E13">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="01002e12">
+		</actor>
+	</animation>
+
+	<animation id="vad_Gorilla01" frames="240">
+
+		<actor gender="F" idleForm="010035b5">
+		</actor>
+		<actor gender="M" skeleton="Gorilla" idleForm="010035b4">
+		</actor>
+	</animation>
+</animationData>

@@ -210,7 +210,7 @@
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPBlowjob" loop="true" />
 		</actor>
-		<actor idleForm="0100af68" skeleton="Deathclaw">
+		<actor idleForm="0100af68" gender="M" skeleton="Deathclaw">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -223,7 +223,7 @@
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
-		<actor idleForm="0100af69" skeleton="Deathclaw">
+		<actor idleForm="0100af69" gender="M" skeleton="Deathclaw">
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
@@ -235,7 +235,7 @@
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
-		<actor idleForm="0100af6a" skeleton="Deathclaw">
+		<actor idleForm="0100af6a" gender="M" skeleton="Deathclaw">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -248,7 +248,7 @@
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
-		<actor idleForm="0100af6b" skeleton="Deathclaw">
+		<actor idleForm="0100af6b" gender="M" skeleton="Deathclaw">
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
@@ -260,7 +260,7 @@
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
-		<actor idleForm="0100af6c" skeleton="Deathclaw">
+		<actor idleForm="0100af6c" gender="M" skeleton="Deathclaw">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -273,7 +273,7 @@
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 		</actor>
-		<actor idleForm="0100af6e" skeleton="Deathclaw">
+		<actor idleForm="0100af6e" gender="M" skeleton="Deathclaw">
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 	</animation>
@@ -286,7 +286,7 @@
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor idleForm="0100af6f" skeleton="Deathclaw">
+		<actor idleForm="0100af6f" gender="M" skeleton="Deathclaw">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>

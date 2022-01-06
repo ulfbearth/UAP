@@ -1,0 +1,19 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+
+	<!--===================================== Deathclaw Animations =========================================-->
+	<animationGroup id="vad_FM_Deathclaw02_staged" sequential="true">
+		<stage animation="vad_FM_Deathclaw02"/>
+		<stage animation="vad_FM_Deathclaw02"/>
+		<stage animation="vad_FM_Deathclaw02"/>
+		<stage animation="vad_FM_Deathclaw02"/>
+	</animationGroup>
+
+	<animationGroup id="vad_FM_Deathclaw0202_staged" sequential="true">
+		<stage animation="vad_FM_Deathclaw0202"/>
+		<stage animation="vad_FM_Deathclaw0202"/>
+		<stage animation="vad_FM_Deathclaw0202"/>
+		<stage animation="vad_FM_Deathclaw0202"/>
+	</animationGroup>
+</animationGroupData>
