@@ -1,0 +1,26 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+
+	<!--===================================== Deathclaw Animations =========================================-->
+	<animationGroup id="ML_FM_Deathclaw Dumpster Bang_staged" sequential="true">
+		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
+		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
+		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
+		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
+	</animationGroup>
+
+	<animationGroup id="ML_FM_Deathclaw Fleshlight_staged" sequential="true">
+		<stage animation="ML_FM_Deathclaw Fleshlight"/>
+		<stage animation="ML_FM_Deathclaw Fleshlight"/>
+		<stage animation="ML_FM_Deathclaw Fleshlight"/>
+		<stage animation="ML_FM_Deathclaw Fleshlight"/>
+	</animationGroup>
+
+	<animationGroup id="ML_FM_Deathclaw Tease_staged" sequential="true">
+		<stage animation="ML_FM_Deathclaw Tease"/>
+		<stage animation="ML_FM_Deathclaw Tease"/>
+		<stage animation="ML_FM_Deathclaw Tease"/>
+		<stage animation="ML_FM_Deathclaw Tease"/>
+	</animationGroup>
+</animationGroupData>

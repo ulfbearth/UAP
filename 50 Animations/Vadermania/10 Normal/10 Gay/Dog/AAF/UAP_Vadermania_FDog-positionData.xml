@@ -1,0 +1,7 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+
+    <position id="[UAP] Vadermania - Dogmeat" animation="vad_FM_Dogmeat02" tags="Vader,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] Vadermania - FEVHound" animation="vad_FM_FEVHound01" tags="Vader,F_FEVHoundM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+</positionData>

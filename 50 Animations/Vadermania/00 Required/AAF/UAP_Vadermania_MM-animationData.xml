@@ -10,6 +10,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" idleForm="01000f9D">
+			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.135"/>

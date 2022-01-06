@@ -1,0 +1,108 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="Vadermania[AAF_anims].esp" loadPriority="100" />
+
+
+	<animation id="vad_FM_Doggy" offset="0,0,0,0:0,-70,0,0" frames="119">
+		<actor gender="F" idleForm="01000f9e">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01000f9D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="vad_FM_Table" offset="0,-70,0,0:0,0,0,0" frames="119">
+		<actor gender="F" idleForm="01000f9b">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="01000f99">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+
+	<animation id="vad_FM_Dogmeat02" frames="180">
+		<actor gender="F" idleForm="01000f9f">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Dog" idleForm="01000fa0">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="vad_FM_Deathclaw02" frames="480">
+		<actor gender="F" idleForm="01002e07">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="01002e08">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="vad_FM_Deathclaw0202" frames="480">
+		<actor gender="F" idleForm="010044DB">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Deathclaw" idleForm="01003D41">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="vad_FM_Ghoul02" frames="120">
+		<actor gender="F" idleForm="0100173c">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173B">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="vad_FM_Ghoul03" frames="240">
+		<actor gender="F" idleForm="0100173D">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173E">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+
+	<animation id="vad_FM_Ghoul4w MMMF" frames="60">
+		<actor gender="F" idleForm="01001ed8">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001ed9">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001eda">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="01001edb">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="vad_FM_FEVHound01" frames="100">
+		<actor gender="F" idleForm="01002E13">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="01002e12">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="vad_FM_Gorilla01" frames="240">
+		<actor gender="F" idleForm="010035b5">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" skeleton="Gorilla" idleForm="010035b4">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+</animationData>

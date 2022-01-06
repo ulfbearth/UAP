@@ -1,0 +1,14 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="1" startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+    <!-- Deathclaw Animations -->
+
+    <position id="[UAP] Mutated Lust - Deathclaw Fleshlight" animationGroup="ML_FM_Deathclaw Fleshlight_staged" tags="Rufgt,Creature,F_DeathClawM,Dumpster,Standing,FromBehind,Neutral,Held5,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] Mutated Lust - Deathclaw Fleshlight Stage" isHidden="true" animation="ML_FM_Deathclaw Fleshlight" tags="Rufgt,Creature,F_DeathClawM,Dumpster,Standing,FromBehind,Neutral,Held5,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - Deathclaw Tease" animationGroup="ML_FM_Deathclaw Tease_staged" tags="Rufgt,Creature,F_DeathClawM,NoFurn,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] Mutated Lust - Deathclaw Tease Stage" animation="ML_FM_Deathclaw Tease" isHidden="true" tags="Rufgt,Creature,F_DeathClawM,NoFurn,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] Mutated Lust - Deathclaw Dumpster Bang" animationGroup="ML_FM_Deathclaw Dumpster Bang_staged" location="Dumpster" tags="Rufgt,Creature,F_DeathClawM,NoFurn,LickTease,FromFront,Loving,Held1,Stim9,Love5,Dom3,NullToSelf,PenisToFace"/>
+    <position id="[UAP] Mutated Lust - Deathclaw Dumpster Bang Stage" isHidden="true" animation="ML_FM_Deathclaw Dumpster Bang" location="Dumpster" tags="Rufgt,Creature,F_DeathClawM,NoFurn,LickTease,FromFront,Loving,Held1,Stim9,Love5,Dom3,NullToSelf,PenisToFace"/>
+</positionData>
