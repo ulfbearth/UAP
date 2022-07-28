@@ -167,4 +167,146 @@
             <action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
+
+	<animation id="rxl_bp70_lesbianfootplay" frames="360">
+		<actor gender="F" idleForm="C6A4">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="C6A5">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianscissors" frames="300">
+		<actor gender="F" idleForm="C6A6">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="C6A7">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbiancycling" frames="240">
+		<actor gender="F" idleForm="7A5E">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="7A5F">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbiancyclingslow" frames="240">
+		<actor gender="F" idleForm="112F4">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="112F5">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbiancyclingslow_couch" frames="240">
+		<actor gender="F" idleForm="112F6">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="112F7">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianprecycling_FFF" frames="240">
+		<actor gender="F" idleForm="215EA">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215EB">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215EC">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbiancycling_FFF" frames="240">
+		<actor gender="F" idleForm="166C4">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="166C5">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="166C6">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianthreesome01" frames="240">
+		<actor gender="F" idleForm="215ED">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215EE">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215EF">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianthreesome02" frames="240">
+		<actor gender="F" idleForm="215F0">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215F1">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215F2">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianthreesome03" frames="240">
+		<actor gender="F" idleForm="215F3">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215F4">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215F5">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianthreesome04" frames="240">
+		<actor gender="F" idleForm="215F6">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215F7">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215F8">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianthreesome05" frames="240">
+		<actor gender="F" idleForm="215F9">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215FA">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215FB">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_lesbianthreesome06" frames="240">
+		<actor gender="F" idleForm="215FC">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215FD">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="F" idleForm="215FE">
+		<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+	
 </animationData>	

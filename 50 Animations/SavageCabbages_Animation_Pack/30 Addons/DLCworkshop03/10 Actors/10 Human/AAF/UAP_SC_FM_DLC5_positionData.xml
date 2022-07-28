@@ -1,0 +1,14 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+<!-- Moved SavageCabbage tags Update 1.2.3 -->
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
+
+    <position id="[UAP] SCAP_FM_WeightBench01_Tease_S1" location="WeightBench" isHidden="true" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_WeightBench01_Cowgirl_S3" location="WeightBench" isHidden="true" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_WeightBench01_Cowgirl_S4" location="WeightBench" isHidden="true" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_WeightBench01_Cowgirl_S5" location="WeightBench" isHidden="true" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_WeightBench01_Cowgirl_S6" location="WeightBench" isHidden="true" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <!--=============== STAGED ===============-->
+
+    <position id="[UAP] SC-WeightBenchCowgirl" animationGroup="SCAP_FM_WeightBench01_Cowgirl" location="WeightBench"/>
+</positionData>

@@ -1,0 +1,302 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_F_FG_MetalBarrel01_Upright_S3" frames="500">
+		<actor gender="F" idleForm="2A127">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A128">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BenchHighTech01_Sitting_S3" frames="500">
+		<actor gender="F" idleForm="2A8FA">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A8FB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="31558">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31559">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_Start_S2" frames="500">
+		<actor gender="F" idleForm="3155A">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="3155B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="3155C">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="3155D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="3155E">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="3155F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="31560">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31561">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="31562">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31563">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_BowlingBallReturn01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="31564">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31565">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_ChurchPew01_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="2A129">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A12A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_ClockTower01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A12B">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A12C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_NewsStand01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A8FC">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A8FD">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_NukaColaVendor01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2B099">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2B09A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Refrigerator01_Upright_S3" frames="500">
+		<actor gender="F" idleForm="2B09B">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2B09C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="27AFB">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="27AFC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="276A">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2769">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="B0BC">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="B0BD">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="B0BE">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="B0BF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="B0C0">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="B0C1">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Climax_S7" frames="500">
+		<actor gender="F" idleForm="1231C">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="1231D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="2F5C4">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C5">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5C6">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C7">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="14198">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="14199">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Handjob_S4" frames="500">
+		<actor gender="F" idleForm="1419A">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="1419B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="1419D">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="1419E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="1419F">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="141A0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Climax_S7" frames="500">
+		<actor gender="F" idleForm="2FD81">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2FD82">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Standing02_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30556">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="30557">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_SubwayColumnLower01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A12D">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A12E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_ToiletBroken01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A131">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A132">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_TrashCan01_Upright_S3" frames="500">
+		<actor gender="F" idleForm="2A133">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A134">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Urinal01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A12F">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2A130">
+		</actor>
+	</animation>
+
+	<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_F_FG_Floor01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="31D30">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D31">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D32">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_Start_S2" frames="500">
+		<actor gender="F" idleForm="31D33">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D34">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D35">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="31D36">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D37">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D38">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_DoubleTeam_S4" frames="500">
+		<actor gender="F" idleForm="31D39">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D3A">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D3B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_DoubleTeam_S5" frames="500">
+		<actor gender="F" idleForm="31D3C">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D3D">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D3E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_DoubleTeam_S6" frames="500">
+		<actor gender="F" idleForm="31D3F">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D40">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D41">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="31D42">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D43">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D44">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FG_Floor01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="31D45">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D46">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="31D47">
+		</actor>
+	</animation>
+
+</animationData>

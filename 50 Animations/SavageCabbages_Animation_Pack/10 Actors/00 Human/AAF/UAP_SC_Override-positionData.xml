@@ -1,0 +1,940 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+<!-- Moved SavageCabbage tags Update 1.2.3 -->
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="-1" isHidden="true"/>
+
+    <position id="SC-F-Human-Dance01-01HipShakeStart" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf"/>
+    <position id="SC-F-Human-Dance01-02HipShake" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,MidStage,Held0,Love0,Stim1,Dom0,NullToSelf"/>
+
+    <position id="SC-F-Human-Dance02-01TwerkStart" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf"/>
+
+    <position id="SC-F-Human-Dance03-01TwerkStart" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf"/>
+
+    <position id="SC-F-Human-Dance04-02SexyDance" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,MidStage,Held0,Love0,Stim1,Dom0,NullToSelf"/>
+
+    <position id="SC-F-Human-StripPole01-01PoleDance" location="Strip_Pole" tags="SavageCabbage,F_M,StripPole,Dance,Neutral,MidStage,Held0,Love0,Stim3,Dom0,HandToNipples"/>
+    <position id="SC-F-Human-StripPole01-02PoleDance" location="Strip_Pole" tags="SavageCabbage,F_M,StripPole,Dance,Neutral,MidStage,Held0,Love0,Stim3,Dom0,HandToNipples"/>
+    <position id="SC-F-Human-StripPole01-03PoleDance" location="Strip_Pole" tags="SavageCabbage,F_M,StripPole,Dance,Neutral,MidStage,Held0,Love0,Stim3,Dom0,HandToNipples"/>
+    <position id="SC-F-Human-StripPole01-04PoleDance" location="Strip_Pole" tags="SavageCabbage,F_M,StripPole,Dance,Neutral,MidStage,Held0,Love0,Stim3,Dom0,HandToNipples"/>
+
+    <position id="SC-FM-Human-Armchair01-01Tease" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,Tease,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Armchair01-02Start" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,Start,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Armchair01-03Cowgirl" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Armchair01-04Cowgirl" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Armchair01-05Cowgirl" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Armchair01-06Cowgirl" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Armchair01-07ClimaxLoop" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Armchair01-08Finish" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Armchair02-01Tease" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Neutral,Tease,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Armchair02-02Start" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Handjob,FromFront,Neutral,Start,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Armchair02-03Handjob" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Armchair02-04Handjob" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Armchair02-05Handjob" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Armchair02-06Blowjob" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Armchair02-07Blowjob" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Armchair02-08Deepthroat" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Blowjob,FromFront,Neutral,ClimaxM,Held5,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Armchair02-09Swallow" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Neutral,ClimaxM,Swallow,Finish,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-ArmorBench01-01Tease" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,Neutral,Tease,Held1,Love3,Stim1,Dom-3,NullToSelf,HandtoAnus"/>
+    <position id="SC-FM-Human-ArmorBench01-03Doggy" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ArmorBench01-04Doggy" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ArmorBench01-05Doggy" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ArmorBench01-06Doggy" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ArmorBench01-07ClimaxLoop" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,FaceDown,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Bed01-01Tease" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Handjob,FromFront,Neutral,Tease,Held1,Love3,Stim3,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Bed01-02Start" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Handjob,FromFront,Neutral,Start,Held1,Love3,Stim3,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Bed01-03Handjob" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim3,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Bed01-04Handjob" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim3,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Bed01-05Titjob" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,TitJob,FromFront,Neutral,MidStage,Held1,Love5,Stim9,Dom-5,NullToSelf,PenisToNipples"/>
+    <position id="SC-FM-Human-Bed01-06Blowjob" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Blowjob,FromFront,Neutral,MidStage,Held1,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Bed01-07Deepthroat" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Bed01-08Blowjob" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Bed01-09Climax" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Blowjob,FromFront,Neutral,ClimaxM,Held3,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Bed01-10Finish" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,FromFront,Neutral,Finish,Held1,Love3,Stim3,Dom-7,NullToSelf,PenisToFace"/>
+
+    <position id="SC-FM-Human-Bed02-01Tease" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed02-03Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed02-04Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed02-05Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed02-06Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed02-07ClimaxLoop" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed02-08Finish" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Bed03-01Tease" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Bed03-03Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed03-04Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed03-05Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed03-06Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed03-07ClimaxLoop" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed03-08Finish" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Bed04-01Tease" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Bed04-03Missionary" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed04-04Missionary" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed04-05Missionary" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed04-06Missionary" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed04-07ClimaxLoop" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Bed04-08Finish" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Bench01-01Tease" location="Bench" tags="SavageCabbage,F_M,Bench,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Bench01-02Start" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,Start,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-Bench01-03ReverseCowgirlAnal" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-Bench01-04ReverseCowgirlAnal" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-Bench01-05ReverseCowgirlAnal" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-Bench01-06ReverseCowgirlAnal" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-Bench01-07ClimaxLoop" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-Bench01-08Finish" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+
+    <position id="SC-FM-Human-ChairHigh01-03Doggy" location="ChairHigh" tags="SavageCabbage,F_M,ChairHigh,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-ChairLow01-03Doggy" location="ChairLow" tags="SavageCabbage,F_M,ChairLow,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-ChairMedium01-03Doggy" location="ChairMedium" tags="SavageCabbage,F_M,ChairMedium,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-ChairVeryLow01-03Doggy" location="ChairVeryLow" tags="SavageCabbage,F_M,ChairVeryLow,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Couch01-01Tease" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Couch01-02Start" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,Start,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Couch01-03Spoon" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Couch01-04Spoon" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Couch01-05Spoon" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Couch01-06Spoon" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Couch01-07ClimaxLoop" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Couch02-01Tease" location="Couches" tags="SavageCabbage,F_M,Couch,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Couch02-03Handjob" location="Couches" tags="SavageCabbage,F_M,Couch,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Couch02-04Handjob" location="Couches" tags="SavageCabbage,F_M,Couch,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Couch02-05Blowjob" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Couch02-06Blowjob" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Couch02-07ClimaxLoop" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,ClimaxM,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-Couch_PlayerHouse01-03Facefuck" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,ClimaxM,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Couch_PlayerHouse01-04Facefuck" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,ClimaxM,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-Crane01-03Carry" location="Crane" tags="SavageCabbage,F_M,Crane,Carry,FromFront,Neutral,MidStage,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Desk01-01Tease" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Desk01-02Start" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Desk01-03Doggy" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Desk01-04Doggy" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Desk01-05Doggy" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Desk01-06Doggy" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Desk01-07ClimaxLoop" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DinerBooth01-01Tease" location="Diner_Booth" tags="SavageCabbage,F_M,DinerBooth,FaceDown,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+
+    <position id="SC-FM-Human-DoubleBed01-01Tease" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Tease,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-03Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-04Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-05Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-06Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-07Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-08ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed01-09Finish" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DoubleBed02-01Tease" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-DoubleBed02-03Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed02-04Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed02-05Powerbomb" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Powerbomb,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed02-06Powerbomb" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Powerbomb,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed02-07Powerbomb" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Powerbomb,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed02-08ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Powerbomb,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DoubleBed03-01Tease" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-DoubleBed03-03Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed03-04Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed03-05Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed03-06Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed03-07ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed03-08Finish" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DoubleBed04-01Tease" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-DoubleBed04-03Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed04-04Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed04-05Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed04-06Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed04-07ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DoubleBed05-01Tease" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Tease,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-02Start" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-03Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-04Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-05Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-06Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-07ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBed05-08Finish" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DoubleBedInstitute01-01Tease" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Tease,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-02Start" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-03ReverseCowgirl" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-04ReverseCowgirl" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-05ReverseCowgirl" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-06ReverseCowgirl" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-07ClimaxLoop" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedInstitute01-08Finish" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-01Tease" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-02Start" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-03Doggy" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-04Doggy" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-05Sideways" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-06Missionary" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-DoubleBedWoodPreWar01-07AnalDoggy" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-FederalistCouch01-01Tease" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-FederalistCouch01-02Start" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,Start,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-FederalistCouch01-03Missionary" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-FederalistCouch01-04Missionary" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-FederalistCouch01-05Missionary" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-FederalistCouch01-06Missionary" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-FederalistCouch01-07Climax" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-FederalistCouch01-08Finish" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-FederalistCouch02-01Tease" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-FederalistCouch02-03ReverseCowGirl" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-FederalistCouch02-04ReverseCowGirl" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-FederalistCouch02-05ReverseCowGirl" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-FederalistCouch02-06ReverseCowGirl" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="SC-FM-Human-FederalistCouch02-07ClimaxLoop" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Cowgirl,Anal,FromBehind,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToAnus"/>
+
+    <position id="SC-FM-Human-Floor01-01Tease" tags="SavageCabbage,F_M,NoFurn,Handjob,FromFront,Neutral,Tease,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Floor01-02Start" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,Start,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Floor01-03Blowjob" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Floor01-04Blowjob" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Floor01-05Facefuck" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Floor01-06Facefuck" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Floor01-07ClimaxLoop" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,ClimaxM,Held5,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Floor01-08Finish" tags="SavageCabbage,F_M,NoFurn,Neutral,ClimaxM,Swallow,Finish,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-JailCellSmall01-01Tease" location="Jail_Cell_Small" tags="SavageCabbage,F_M,JailCell,Standing,Doggy,FromFront,Neutral,Tease,Held3,Stim7,Love5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-JailCellSmall01-03Standing" location="Jail_Cell_Small" tags="SavageCabbage,F_M,JailCell,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-JailCellSmall01-04Standing" location="Jail_Cell_Small" tags="SavageCabbage,F_M,JailCell,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-JailCellSmall01-05Carry" location="Jail_Cell_Small" tags="SavageCabbage,F_M,JailCell,Carry,FromFront,Neutral,MidStage,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-JailCellSmall01-06Carry" location="Jail_Cell_Small" tags="SavageCabbage,F_M,JailCell,Carry,FromFront,Neutral,MidStage,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-JailCellTinyWithDoor01-01Tease" location="Jail_Door" tags="SavageCabbage,F_M,Couch,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-JailCellTinyWithDoor01-03Blowjob" location="Jail_Door" tags="SavageCabbage,F_M,JailCell,Blowjob,FromFront,Neutral,MidStage,Held7,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-JailCellTinyWithDoor01-04Blowjob" location="Jail_Door" tags="SavageCabbage,F_M,JailCell,Blowjob,FromFront,Neutral,MidStage,Held7,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-JailCellTinyWithDoor01-05Blowjob" location="Jail_Door" tags="SavageCabbage,F_M,JailCell,Blowjob,FromFront,Neutral,MidStage,Held7,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-JailCellTinyWithDoor01-06Facefuck" location="Jail_Door" tags="SavageCabbage,F_M,JailCell,Blowjob,FromFront,Neutral,MidStage,Held7,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-KitchenPostWar01-03Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M,KitchenPostWar,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-KitchenPostWar01-04Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M,KitchenPostWar,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-KitchenPostWar01-05Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M,KitchenPostWar,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-KitchenPostWar01-06Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M,KitchenPostWar,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-LapDance01-01LapDance" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Dancing,Loving,Held1,Love5,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+
+    <position id="SC-FM-Human-Motorbike01-01Tease" location="Motorbike" tags="SavageCabbage,F_M,Couch,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Motorbike01-03Cowgirl" location="Motorbike" tags="SavageCabbage,F_M,MotorBike,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Motorbike01-04Cowgirl" location="Motorbike" tags="SavageCabbage,F_M,MotorBike,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Motorbike01-05Cowgirl" location="Motorbike" tags="SavageCabbage,F_M,MotorBike,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Motorbike01-06Cowgirl" location="Motorbike" tags="SavageCabbage,F_M,MotorBike,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Ottoman01-03Handjob" location="Ottoman" tags="SavageCabbage,F_M,Ottoman,Handjob,FromFront,Neutral,MidStage,Held1,Love3,Stim3,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Ottoman01-04Blowjob" location="Ottoman" tags="SavageCabbage,F_M,Ottoman,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-PoolTable01-01Tease" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Loving,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-PoolTable01-02Start" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Loving,Start,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-PoolTable01-03Cunnilingus" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Cunnilingus,Loving,Held1,Love5,Stim5,Dom3,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-Human-PoolTable01-04Cunnilingus" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Cunnilingus,Loving,Held1,Love5,Stim5,Dom3,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-Human-PoolTable01-05Missionary" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Missionary,FromFront,Loving,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-PoolTable01-06Missionary" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Missionary,FromFront,Loving,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-PoolTable01-07Missionary" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Missionary,FromFront,Loving,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-PoolTable02-01RoughTease" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Rough,Aggressive,Tease,Held3,Love-1,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-PoolTable02-02RoughStart" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Kneeling,FromBehind,Rough,Aggressive,Start,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-PoolTable02-03RoughDoggy" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Kneeling,FromBehind,Rough,Aggressive,Start,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-PoolTable02-04RoughDoggy" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Kneeling,FromBehind,Rough,Aggressive,Start,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-PoolTable02-05RoughBlowjob" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Blowjob,FromBehind,Rough,Aggressive,MidStage,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-PoolTable02-06RoughFacefuck" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Blowjob,Kneeling,FromBehind,Rough,Aggressive,MidStage,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-Railing01-01Tease" location="Railing" tags="SavageCabbage,F_M,Railing,Tease,Held3,Love-1,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-Railing01-02Start" location="Railing" tags="SavageCabbage,F_M,Railing,Kneeling,FromBehind,Start,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Railing01-03Doggy" location="Railing" tags="SavageCabbage,F_M,Railing,Kneeling,FromBehind,Start,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Railing01-04Sideways" location="Railing" tags="SavageCabbage,F_M,Railing,Kneeling,FromBehind,Start,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Railing01-05Sideways" location="Railing" tags="SavageCabbage,F_M,Railing,Blowjob,FromBehind,MidStage,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Railing01-06Sideways" location="Railing" tags="SavageCabbage,F_M,Railing,Blowjob,FromBehind,MidStage,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Railing01-07ClimaxLoop" location="Railing" tags="SavageCabbage,F_M,Railing,Blowjob,FromBehind,ClimaxM,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Railing01-08Finish" location="Railing" tags="SavageCabbage,F_M,Railing,Blowjob,FromBehind,Finish,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-RoundTable01-03Doggy" location="RoundTable" tags="SavageCabbage,F_M,RoundTable,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-RoundTable02-03RoughSideways" location="RoundTable" tags="SavageCabbage,F_M,Table,Standing,FromSide,Aggressive,Cuffed,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-RidingBrahmin-01Tease" tags="SavageCabbage,F_M,Brahmin,Loving,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Human-RidingBrahmin-03Doggy" tags="SavageCabbage,F_M,Brahmin,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Seat01-03Cowgirl" location="Seat" tags="SavageCabbage,F_M,Seat,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Seat01-04Cowgirl" location="Seat" tags="SavageCabbage,F_M,Seat,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Seat01-05Cowgirl" location="Seat" tags="SavageCabbage,F_M,Seat,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Seat01-06Cowgirl" location="Seat" tags="SavageCabbage,F_M,Seat,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-SedanPreWar01-03MissionaryBackseat" location="Sedan_PreWar01" tags="SavageCabbage,F_M,Car,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SedanPreWar01-04MissionaryBackseat" location="Sedan_PreWar01" tags="SavageCabbage,F_M,Car,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-SedanPreWar02-03Blowjob" location="Sedan_PreWar01" tags="SavageCabbage,F_M,Car,Blowjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-SedanPreWar02-04Cowgirl" location="Sedan_PreWar01" tags="SavageCabbage,F_M,Car,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-SedanPostWar01-03Doggy" location="Sedan_PostWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SedanPostWar01-04Doggy" location="Sedan_PostWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SedanPostWar01-05Doggy" location="Sedan_PostWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SedanPostWar01-06Doggy" location="Sedan_PostWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-ShowerPlayerHouse01-01Tease" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,Tease,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ShowerPlayerHouse01-03Doggy" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ShowerPlayerHouse01-04Doggy" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ShowerPlayerHouse01-05Doggy" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ShowerPlayerHouse01-06Doggy" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ShowerPlayerHouse01-07ClimaxLoop" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-ShowerPlayerHouse01-08Finish" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-SportsCarPreWar01-01Tease" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,Tease,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SportsCarPreWar01-03Doggy" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SportsCarPreWar01-04Doggy" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SportsCarPreWar01-05Doggy" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SportsCarPreWar01-06Doggy" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-SportsCarPreWar01-07ClimaxLoop" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,ClimaxM,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Standing01-03Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Standing01-04Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Standing01-05Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Standing01-06Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Stool01-03Doggy" location="Stool" tags="SavageCabbage,F_M,Stool,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Stool01-04Doggy" location="Stool" tags="SavageCabbage,F_M,Stool,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Stool01-05Doggy" location="Stool" tags="SavageCabbage,F_M,Stool,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Table01-03Missionary" location="MediumTable" tags="SavageCabbage,F_M,MediumTable,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-WeaponWorkbenchLarge01-03Doggy" location="Weapon_Workbench_Large" tags="SavageCabbage,F_M,Weapon_Workbench_Large,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-WeaponWorkbenchLarge01-04Doggy" location="Weapon_Workbench_Large" tags="SavageCabbage,F_M,Weapon_Workbench_Large,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FMM-Human-Armchair02-01Tease" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Handjob,Kneeling,FromBehind,Neutral,Tease,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Human-Armchair02-03HandjobDoggy" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Handjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Human-Armchair02-04HandjobDoggy" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Handjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Human-Armchair02-05HandjobDoggy" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Blowjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Armchair02-06BlowjobDoggy" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Blowjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Armchair02-07BlowjobDoggy" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Blowjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Armchair02-08DeepthroatDoggy" location="ArmChair" tags="SavageCabbage,F_M_M,ArmChair,Blowjob,Kneeling,FromBehind,Neutral,ClimaxM,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-Bed01-01Tease" location="Single_Bed" tags="SavageCabbage,F_M_M,SingleBed,Handjob,Kneeling,FromBehind,Neutral,Tease,Held3,Love3,Stim1,Dom-3,NullToSelf,HandToNipples,PenisToHand"/>
+    <position id="SC-FMM-Human-Bed01-03Handjob-Doggy" location="Single_Bed" tags="SavageCabbage,F_M_M,SingleBed,Handjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim1,Dom-3,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Human-Bed01-04Handjob-Doggy" location="Single_Bed" tags="SavageCabbage,F_M_M,SingleBed,Blowjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Bed01-05Titjob-Doggy" location="Single_Bed" tags="SavageCabbage,F_M_M,SingleBed,TitJob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim9,Dom-5,NullToSelf,PenisToVagina,PenisToNipples"/>
+
+
+    <position id="SC-FMM-Human-BunkBed01-01Tease" location="Bunk_Bed" tags="SavageCabbage,F_M_M,BunkBed,Neutral,Tease,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,HandToNipples"/>
+    <position id="SC-FMM-Human-BunkBed01-03Threesome" location="Bunk_Bed" tags="SavageCabbage,F_M_M,BunkBed,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-Human-BunkBed01-04Threesome" location="Bunk_Bed" tags="SavageCabbage,F_M_M,BunkBed,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FMM-Human-Couch02-01Tease" location="Couches" tags="SavageCabbage,F_M_M,Couch,Handjob,FromFront,Neutral,Tease,Held3,Love3,Stim5,Dom-5,NullToSelf,HandToNipples,HandToNipples"/>
+    <position id="SC-FMM-Human-Couch02-03Handjob" location="Couches" tags="SavageCabbage,F_M_M,Couch,Handjob,FromFront,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
+    <position id="SC-FMM-Human-Couch02-04Handjob" location="Couches" tags="SavageCabbage,F_M_M,Couch,Handjob,FromFront,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
+    <position id="SC-FMM-Human-Couch02-05Blowjob" location="Couches" tags="SavageCabbage,F_M_M,Couch,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,NullToSelf,PenisToMouth,PenisToHand"/>
+    <position id="SC-FMM-Human-Couch02-06Blowjob" location="Couches" tags="SavageCabbage,F_M_M,Couch,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,NullToSelf,PenisToMouth,PenisToHand"/>
+
+    <position id="SC-FMM-Human-DoubleBed01-03DoubleTeam" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-Human-DoubleBed01-04DoubleTeam" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FMM-Human-DoubleBed02-03ReverseCowgirl-Blowjob" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,Cowgirl,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-DoubleBed02-04ReverseCowgirl-Blowjob" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,Cowgirl,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-DoubleBed03-03Threesome" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-Floor01-03DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Floor01-04DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,HandToVagina,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Floor01-05DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,HandToVagina,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-Floor02-03DoubleTeamRough" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Floor02-04DoubleTeamRough" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-Floor03-03Gangbang" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-Human-Floor03-04Gangbang" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-Human-Floor03-05Gangbang" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FMM-Human-Floor04-03DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-Human-Floor04-04DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FMM-Human-Floor05-03DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-KitchenPostWar01-03Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M_M,Neutral,Tease,Held3,Love3,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+
+    <position id="SC-FMM-Human-PoolTable01-01Tease" location="PoolTable" tags="SavageCabbage,F_M_M,PoolTable,Neutral,Tease,Held3,Love3,Stim3,Dom-3,NullToSelf,PenisToNipples,HandToNipples"/>
+
+    <position id="SC-FMM-Human-Standing01-01Tease" tags="SavageCabbage,F_M_M,NoFurn,Standing,Caught,Neutral,MidStage,Held7,Love-3,Stim-1,Dom-3,NullToSelf,HandToVagina,HandToAnus"/>
+    <position id="SC-FMM-Human-Standing01-03DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Standing,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-Human-Standing01-04DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Standing,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FMMM-Human-DoubleBed02-03Gangbang" location="Double_Bed" tags="SavageCabbage,F_M_M_M,DoubleBed,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMMM-Human-DoubleBed02-04GangbangTripleAnal" location="Double_Bed" tags="SavageCabbage,F_M_M_M,DoubleBed,DoubleTeam,Anal,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FMMM-Human-Floor01-03Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToVagina"/>
+
+    <position id="SC-FMMM-Human-Floor02-03Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth"/>
+
+    <position id="SC-FMMM-Human-Floor03-03Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToNipples"/>
+
+    <position id="SC-FMMM-Human-Standing01-03Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Standing,Neutral,MidStage,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMMM-Human-Standing01-04Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Standing,Neutral,MidStage,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
+
+    <position id="SC-FMMMM-Human-Floor01-03Gangbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand"/>
+
+    <position id="SC-FMMMM-Human-Floor02-03Gangbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMMMM-Human-Standing01-03Multiple-Handjob" tags="SavageCabbage,F_M_M_M_M,NoFurn,Standing,Neutral,MidStage,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToVagina,PenisToMouth,PenisToHand,PenisToHand"/>
+    <position id="SC-FMMMM-Human-Standing01-04Blowbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Standing,Neutral,MidStage,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToVagina,PenisToMouth,PenisToHand,PenisToHand"/>
+    <position id="SC-FMMMM-Human-Standing01-05Blowbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Standing,Neutral,MidStage,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToVagina,PenisToMouth,PenisToHand,PenisToHand"/>
+    <position id="SC-FMMMM-Human-Standing01-06Blowbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Standing,Neutral,MidStage,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToVagina,PenisToMouth,PenisToHand,PenisToHand"/>
+    <position id="SC-FMMMM-Human-Standing01-07ClimaxLoop" tags="SavageCabbage,F_M_M_M_M,NoFurn,Standing,Neutral,ClimaxM,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToVagina,PenisToMouth,PenisToHand,PenisToHand"/>
+
+    <position id="SC-FMMMMMMMM-Human-Floor01-03Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
+
+    <position id="SC-FMMMMMMMMM-Human-Floor01-03Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
+    <position id="SC-FMMMMMMMMM-Human-Floor01-04Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
+    <position id="SC-FMMMMMMMMM-Human-Floor01-05Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
+    <position id="SC-FMMMMMMMMM-Human-Floor01-07Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
+
+    <position id="SC-FMF-Human-DoubleBed01-03Missionary-AnalFingering" location="Double_Bed" tags="SavageCabbage,F_M_F,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,HandToAnus"/>
+
+    <position id="SC-FMF-Human-DoubleBed02-01Tease" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Tease,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-02Start" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Start,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-03Threesome" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Midstage,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-04Threesome" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Midstage,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-05Threesome" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Midstage,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-06Threesome" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Midstage,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-07ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,ClimaxM,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+    <position id="SC-FMF-Human-DoubleBed02-08Finish" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Finish,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
+
+<!-- ================================================== FERAL GHOULS ============================================================================= -->
+
+	<position id="SC-FM-FeralGhoul-BarrelMetal01-03Upright" location="Metal_Barrel" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-BenchHighTech01-03Sitting" location="Bench_High_Tech" tags="SavageCabbage,F_M,Bench,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-01Tease" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,Tease,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-02Start" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,Start,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-03Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-04Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-05Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-06Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-07ClimaxLoop" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-ChurchPew01-03Missionary" location="Church_Pew" tags="SavageCabbage,F_M,Pew,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-ClockTower01-03Doggy" location="Clock_Tower" tags="SavageCabbage,F_FGhoulM,ClockTower,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-NewsStand01-03Doggy" location="News_Stand" tags="SavageCabbage,F_FGhoulM,NewsStand,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-NukaColaVendor01-03Doggy" location="Nuka_Cola_Vendor" tags="SavageCabbage,F_FGhoulM,NukaColaVendor,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Refrigerator01-03Upright" location="Refrigerator_PlayerHouse" tags="SavageCabbage,F_M,Fridge,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Standing01-01Tease" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromFront,Rough,Aggressive,Tease,Held3,Love0,Stim7,Dom-7,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-FeralGhoul-Standing01-03Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-04Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-05Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-06Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-07Climax" tags="SavageCabbage,F_FGhoulM,NoFurn,ClimaxM,Standing,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-08Finish" tags="SavageCabbage,F_FGhoulM,NoFurn,ClimaxM,Standing,FromBehind,Rough,Aggressive,Finish,Held3,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Standing02-01Tease" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromFront,Rough,Aggressive,Tease,Held3,Love0,Stim7,Dom-7,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-FeralGhoul-Standing02-03Handjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Handjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-FeralGhoul-Standing02-04Handjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Handjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-FeralGhoul-Standing02-05Blowjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-FeralGhoul-Standing02-06Blowjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-FeralGhoul-Standing02-07Climax" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,ClimaxM,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-FeralGhoul-Standing02-08Finish" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,Finish,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-FeralGhoul-SubwayColumnLower01-03Doggy" location="Subway_Platform_Column_Small" tags="SavageCabbage,F_FGhoulM,Column,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-ToiletBroken01-03Doggy" location="Toilet" tags="SavageCabbage,F_FGhoulM,Toilet,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-TrashCan01-03Upright" location="Trash_Can_PreWar" tags="SavageCabbage,F_M,TrashCan,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Urinal01-03Doggy" location="Urinal_Broken_01" tags="SavageCabbage,F_FGhoulM,Urinal,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FMM-FeralGhoul-Floor01-01Tease" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-02Start" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-03DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-04DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-05DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-06DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-07ClimaxLoop" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-08Finish" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+	
+	<!-- =============================================================================================================================== -->
+
+	<position id="SC-FM-BloatedGhoul-Floor01-01Tease" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToNipple"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-03Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-04Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-05Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-06Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-07Climax" tags="SavageCabbage,F_BltGhoulM,NoFurn,ClimaxM,Doggy,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-08Finish" tags="SavageCabbage,F_BltGhoulM,NoFurn,Finish,Doggy,FromBehind,Rough,Aggressive,Finish,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-BloatedGhoul-Standing01-01Tease" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-02Start" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,Start,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-03Carry" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-04Carry" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-05Carry" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-06Climax" tags="SavageCabbage,F_BltGhoulM,NoFurn,ClimaxM,Carry,FromFront,Rough,Aggressive,ClimaxM,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-BloatedGhoul-Standing02-01Tease" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToNipple"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-03Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-04Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-05Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-06Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+	
+	<!-- =============================================================================================================================== -->
+
+	<position id="SC-FM-FEVHound-Floor01-01Tease" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor01-02Start" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor01-03Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor01-04Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor01-05Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor01-06Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor01-07Climax" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+	<position id="SC-FM-FEVHound-Floor02-01Tease" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-02Start" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-03Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-04Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-05Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-06Doggy" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-07Climax" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-FEVHound-Floor02-08Finish" tags="SavageCabbage,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+	
+	<!-- =============================================================================================================================== -->
+	
+	<position id="SC-FM-Gorilla-Standing01-01Tease" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Tease,Held3,Stim7,Love5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Gorilla-Standing01-02Start" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Start,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-03Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-04Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-05Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-06Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-07Climax" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-08Finish" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Finish,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+	
+	<!-- =============================================================================================================================== -->
+	
+	<position id="SC-FMM-SuperMutantFEVHound-Standing01-03Doggy" tags="SavageCabbage,F_SMutantM,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToMouth,PenisToVagina"/>
+	<position id="SC-FMM-SuperMutantFEVHound-Standing01-04Doggy" tags="SavageCabbage,F_SMutantM,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToMouth,PenisToVagina"/>
+
+	<!-- =============================================================================================================================== -->
+	
+	<position id="SC-FM-SMBehemoth-Floor01-01Tease" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,Tease,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor01-03ReverseCowgirl" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor01-04Blowjob" tags="SavageCabbage,F_SMutantM,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-SMBehemoth-Floor01-05Cowgirl" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor01-06Cowgirl" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor01-07Climax" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,ClimaxM,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor01-08Finish" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,Finish,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SMBehemoth-Floor02-01Tease" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor02-03Missionary" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor02-04Missionary" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor02-05Missionary" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SMBehemoth-Floor02-06Missionary" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SMBehemoth-Floor03-03Handjob" tags="SavageCabbage,F_SMBehemoth,NoFurn,Handjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-SMBehemoth-Floor03-04Titjob" tags="SavageCabbage,F_SMBehemoth,NoFurn,Titjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToNipples"/>
+    <position id="SC-FM-SMBehemoth-Floor03-05Blowjob" tags="SavageCabbage,F_SMBehemoth,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-SMBehemoth-Floor03-06Blowjob" tags="SavageCabbage,F_SMBehemoth,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+	
+	<!-- =============================================================================================================================== -->
+	
+	<position id="SC-FM-SuperMutant-Bed01-01Tease" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Foreplay,FromFront,Neutral,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-Bed01-03Missionary" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed01-04Missionary" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed01-05Powerbomb" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed01-06Powerbomb" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed01-07ClimaxLoop" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed01-08Finish" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Finish,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-Bed02-01Tease" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Foreplay,FromFront,Neutral,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-Bed02-03ReversePowerbomb" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed02-04ReversePowerbomb" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed02-05ReversePowerbomb" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed02-06ReversePowerbomb" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed02-07ClimaxLoop" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Bed02-08Finish" location="Single_Bed" tags="SavageCabbage,F_SMutantM,SingleBed,Powerbomb,FromFront,Neutral,Finish,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-01Tease" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Foreplay,FromFront,Neutral,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-02Start" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Start,FromFront,Neutral,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-03ReverseCowgirl" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Cowgirl,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-04ReverseCowgirl" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Cowgirl,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-05ReverseCowgirl" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Cowgirl,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-06ReverseCowgirl" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Cowgirl,FromFront,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-07ClimaxLoop" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Cowgirl,FromFront,Neutral,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Couch_PlayerHouse01-08Finish" location="Couches" tags="SavageCabbage,F_SMutantM,Couch,Cowgirl,FromFront,Neutral,Finish,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-DoubleBed01-02Start" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,Start,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed01-03Doggy" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed01-04Doggy" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed01-05Doggy" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed01-06Doggy" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed01-07ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Doggy,FromBehind,Neutral,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-DoubleBed02-03Blowjob" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-SuperMutant-DoubleBed02-04Blowjob" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-SuperMutant-DoubleBed02-05Standing69" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Standing,69,Neutral,MidStage,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed02-06Standing69" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Standing,69,Neutral,MidStage,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed02-07Standing69" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Standing,69,Neutral,MidStage,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed02-08Deepthroat69" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Standing,69,Neutral,MidStage,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed02-09ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Standing,69,Neutral,ClimaxM,Held5,Love5,Stim7,Dom0,NullToSelf,MouthToVagina"/>
+
+    <position id="SC-FM-SuperMutant-DoubleBed03-01Tease" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Tease,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed03-02Start" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,Start,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed03-03Cowgirl" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed03-04Cowgirl" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed03-05Cowgirl" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed03-06Cowgirl" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-DoubleBed03-07ClimaxLoop" location="Double_Bed" tags="SavageCabbage,F_SMutantM,DoubleBed,Cowgirl,FromFront,Neutral,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-Floor01-01Tease" tags="SavageCabbage,F_SMutantM,NoFurn,Cowgirl,FromFront,Neutral,Tease,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Floor01-02Start" tags="SavageCabbage,F_SMutantM,NoFurn,Cowgirl,FromFront,Neutral,Start,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Floor01-03Doggy" tags="SavageCabbage,F_SMutantM,NoFurn,Kneeling,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Floor01-04Doggy" tags="SavageCabbage,F_SMutantM,NoFurn,Kneeling,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Floor01-05Wheelbarrow" tags="SavageCabbage,F_SMutantM,NoFurn,Wheelbarrow,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Floor01-06Wheelbarrow" tags="SavageCabbage,F_SMutantM,NoFurn,Wheelbarrow,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Floor01-07ClimaxLoop" tags="SavageCabbage,F_SMutantM,NoFurn,Wheelbarrow,Aggressive,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-MeatBagMedium01-03Missionary" location="Meat_Bag_Medium" tags="SavageCabbage,F_SMutantM,MeatBagM,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-MeatBagSmall01-01Tease" location="Meat_Bag_Small" tags="SavageCabbage,F_SMutantM,MeatbagS,Doggy,FromBehind,Neutral,Tease,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-MeatBagSmall01-03Doggy" location="Meat_Bag_Small" tags="SavageCabbage,F_SMutantM,MeatbagS,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-MeatBagSmall01-04Doggy" location="Meat_Bag_Small" tags="SavageCabbage,F_SMutantM,MeatbagS,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-MeatBagSmall01-05Doggy" location="Meat_Bag_Small" tags="SavageCabbage,F_SMutantM,MeatbagS,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-MeatBagSmall01-06Doggy" location="Meat_Bag_Small" tags="SavageCabbage,F_SMutantM,MeatbagS,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-MeatBagSmall01-07ClimaxLoop" location="Meat_Bag_Small" tags="SavageCabbage,F_SMutantM,MeatbagS,Doggy,FromBehind,Neutral,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-RoundTableSmall01-03ReverseCowgirlAnal" location="RoundTable" tags="SavageCabbage,F_SMutantM,FEVChamber,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToAnus"/>
+
+    <position id="SC-FM-SuperMutant-SMBed01-01Tease" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Aggressive,tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-SMBed01-02Start" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,Start,Held5,Love3,Stim3,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed01-03Missionary" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed01-04Missionary" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed01-05Missionary" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed01-06Missionary" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed01-07ClimaxLoop" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed01-08Finish" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,Finish,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-SMBed02-01Tease" location="SMBed" tags="SavageCabbage,F_SMutantM,TiresBed,Aggressive,tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-SMBed02-03Doggy" location="SMBed" tags="SavageCabbage,F_SMutantM,SMBed,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed02-04Doggy" location="SMBed" tags="SavageCabbage,F_SMutantM,SMBed,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed02-05Doggy" location="SMBed" tags="SavageCabbage,F_SMutantM,SMBed,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-SMBed02-06Doggy" location="SMBed" tags="SavageCabbage,F_SMutantM,SMBed,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-Standing01-02Start" tags="SavageCabbage,F_SMutantM,NoFurn,Standing,FromBehind,Neutral,Start,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing01-03Doggy" tags="SavageCabbage,F_SMutantM,NoFurn,Standing,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing01-04Doggy" tags="SavageCabbage,F_SMutantM,NoFurn,Standing,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing01-05Doggy" tags="SavageCabbage,F_SMutantM,NoFurn,Standing,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing01-06Doggy" tags="SavageCabbage,F_SMutantM,NoFurn,Standing,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-Standing02-03Handjob" tags="SavageCabbage,F_SMutantM,NoFurn,Handjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-SuperMutant-Standing02-04Blowjob" tags="SavageCabbage,F_SMutantM,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-SuperMutant-Standing02-05Blowjob" tags="SavageCabbage,F_SMutantM,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-SuperMutant-Standing02-06Blowjob" tags="SavageCabbage,F_SMutantM,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-SuperMutant-Standing03-01Tease" tags="SavageCabbage,F_SMutantM,NoFurn,Aggressive,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-Standing03-03Carry" tags="SavageCabbage,F_SMutantM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing03-04Carry" tags="SavageCabbage,F_SMutantM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing03-05Carry" tags="SavageCabbage,F_SMutantM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-Standing03-06Carry" tags="SavageCabbage,F_SMutantM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held7,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-Standing04-01Tease" tags="SavageCabbage,F_SMutantM_SMutantM,SMBed,Handjob,DoubleTeam,FromFront,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToAnus"/>
+
+    <position id="SC-FM-SuperMutant-TrafficLights01-01Tease" location="Traffic_Lights" tags="SavageCabbage,F_SMutantM,TrafficLight,Aggressive,tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-SuperMutant-TrafficLights01-03Doggy" location="Traffic_Lights" tags="SavageCabbage,F_SMutantM,TrafficLight,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-01Tease" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-02Start" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,Start,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-03Missionary" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-04Missionary" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-05Missionary" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-06Missionary" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-07ClimaxLoop" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-SuperMutant-VaultTecVanWrecked01-08Finish" location="VehicleVanWrecked" tags="SavageCabbage,F_SMutantM,TiresBed,Missionary,FromFront,Rough,Aggressive,Finish,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+
+<!-- =============================================================================================================================== -->
+
+    <position id="SC-FMM-SuperMutant-CampBed01-03DoubleTeam" location="SMFrameBed" tags="SavageCabbage,F_SMutantM,CampBed,Aggressive,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+
+    <position id="SC-FMM-SuperMutant-SMBed01-01Tease" location="SMBed" tags="SavageCabbage,F_SMutantM,SMBed,Aggressive,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FMM-SuperMutant-SMBed01-03Handjob-Doggy" location="SMBed" tags="SavageCabbage,F_SMutantM_SMutantM,SMBed,Handjob,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-SuperMutant-SMBed01-04Handjob-Doggy" location="SMBed" tags="SavageCabbage,F_SMutantM_SMutantM,SMBed,Handjob,Doggy,FromBehind,Rough,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-SuperMutant-SMBed01-05Spitroast" location="SMBed" tags="SavageCabbage,F_SMutantM_SMutantM,SMBed,Doggy,SpitRoast,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-SuperMutant-SMBed01-06Spitroast" location="SMBed" tags="SavageCabbage,F_SMutantM_SMutantM,SMBed,Doggy,SpitRoast,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-SuperMutant-Standing01-03DoubleTeam" tags="SavageCabbage,F_SMutantM_SMutantM,NoFurn,DoubleTeam,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+<!-- =============================================================================================================================== -->
+
+    <position id="SC-FMMM-SuperMutant-DoubleBedBroken01-03Gangbang" location="Double_Bed_Broken" tags="SavageCabbage,F_SMutantM_SMutantM_SMutantM,DoubleBed,GangBang,FromFront,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth"/>
+    <position id="SC-FMMM-SuperMutant-DoubleBedBroken01-04Gangbang" location="Double_Bed_Broken" tags="SavageCabbage,F_SMutantM_SMutantM_SMutantM,DoubleBed,GangBang,FromFront,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth"/>
+
+<!-- =============================================================================================================================== -->
+
+    <position id="SC-FM-Human-Shackles01-01Tease" location="Shackles" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,Tease,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Shackles01-02Start" location="Shackles" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,Start,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Shackles01-03Held" location="Shackles" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,MidStage,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Shackles01-04Held" location="Shackles" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,MidStage,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FMM-Human-Shackles01-03Held" location="Shackles" tags="SavageCabbage,F_M_M,Shackles,FromFront,Rough,Aggressive,MidStage,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+	
+<!-- =============================================================================================================================== -->
+	
+	<position id="SC-FM-Human-HydroPillory01-01Tease" location="HydroPillory" tags="SavageCabbage,F_M,HydroPillory,Aggressive,Terase,Held9,Love0,Stim5,Dom-9,NullToSelf,HandToNipple"/>
+    <position id="SC-FM-Human-HydroPillory01-03Doggy" location="HydroPillory" tags="SavageCabbage,F_M,HydroPillory,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-HydroPillory01-04Doggy" location="HydroPillory" tags="SavageCabbage,F_M,HydroPillory,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-HydroPillory01-05Doggy" location="HydroPillory" tags="SavageCabbage,F_M,HydroPillory,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Human-Pillory01-02Doggy" location="Pillory" tags="SavageCabbage,F_M,Pillory,FromBehind,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Pillory01-03Doggy" location="Pillory" tags="SavageCabbage,F_M,Pillory,FromBehind,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Pillory01-04Doggy" location="Pillory" tags="SavageCabbage,F_M,Pillory,FromBehind,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FMM-Human-HydroPillory01-03DoubleTeam" location="HydroPillory" tags="SavageCabbage,F_M_M,HydroPillory,FromFront,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <position id="SC-FMM-Human-Pillory01-02DoubleTeam" location="Pillory" tags="SavageCabbage,F_M_M,Pillory,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Human-Pillory01-03DoubleTeam" location="Pillory" tags="SavageCabbage,F_M_M,Pillory,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+<!-- =============================================================================================================================== -->
+
+    <position id="SC-FM-Human-Stocks01-01Tease" location="Stocks" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,Tease,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Stocks01-02Start" location="Stocks" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,Start,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Stocks01-03Doggy" location="Stocks" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Stocks01-04Doggy" location="Stocks" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-Stocks01-05Doggy" location="Stocks" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FMM-Human-Stocks01-03DoubleTeam" location="Stocks" tags="SavageCabbage,F_M_M,Stocks,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+	
+<!-- =============================================================================================================================== -->
+	
+	
+	<position id="SC-FM-Human-WeightBench01-01Tease" location="WeightBench" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-WeightBench01-03Cowgirl" location="WeightBench" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-WeightBench01-04Cowgirl" location="WeightBench" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-WeightBench01-05Cowgirl" location="WeightBench" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Human-WeightBench01-06Cowgirl" location="WeightBench" tags="SavageCabbage,F_M,WeightBench,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+	
+<!-- =============================================================================================================================== -->
+	
+	<position id="SC-FM-Human-Throne01-01Tease" location="Throne" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,Tease,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Throne01-03Handjob" location="Throne" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Throne01-04Handjob" location="Throne" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Human-Throne01-05Blowjob" location="Throne" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Blowjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Human-Throne01-06Blowjob" location="Throne" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Blowjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Human-Throne02-03ReverseCowgirl" location="Throne" tags="SavageCabbage,F_M,Couch,Cowgirl,FromBehind,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+	
+<!-- =============================================================================================================================== -->
+
+	<position id="SC-FM-Handy-Floor01-01Tease" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,Tease,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-02Start" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,Start,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-03Doggy" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-04Doggy" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-05Doggy" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-06Doggy" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-07Climax" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-Handy-Floor01-08Finish" tags="SavageCabbage,F_HandyM,NoFurn,Doggy,FromBehind,Neutral,Finish,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+<!-- =============================================================================================================================== -->
+
+	<position id="SC-FM-MirelurkKing-Standing01-03Doggy" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-MirelurkKing-Standing01-04Doggy" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-MirelurkKing-Standing01-05Doggy" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+	<position id="SC-FM-MirelurkKing-Standing01-06Doggy" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+<!-- =============================================================================================================================== -->
+
+	<position id="SC-FM-Protectron-Standing01-01Tease" tags="SavageCabbage,F_ProtectronM,NoFurn,Foreplay,FromBehind,Neutral,Tease,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToNipples"/>
+	<position id="SC-FM-Protectron-Standing01-02Start" tags="SavageCabbage,F_ProtectronM,NoFurn,Foreplay,FromBehind,Neutral,Start,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToVagina"/>
+	<position id="SC-FM-Protectron-Standing01-03Fisting" tags="SavageCabbage,F_ProtectronM,NoFurn,Fisting,FromBehind,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToVagina"/>
+	<position id="SC-FM-Protectron-Standing01-04Fisting" tags="SavageCabbage,F_ProtectronM,NoFurn,Fisting,FromBehind,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToVagina"/>
+	<position id="SC-FM-Protectron-Standing01-05Fisting" tags="SavageCabbage,F_ProtectronM,NoFurn,Fisting,FromBehind,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToVagina"/>
+	<position id="SC-FM-Protectron-Standing01-06Fisting" tags="SavageCabbage,F_ProtectronM,NoFurn,Fisting,FromBehind,Neutral,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToVagina"/>
+	<position id="SC-FM-Protectron-Standing01-07Climax" tags="SavageCabbage,F_ProtectronM,NoFurn,Fisting,FromBehind,Neutral,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,HandToVagina"/>
+
+<!-- =============================================================================================================================== -->
+
+    <position id="SC-FM-Dog-Armchair01-01Tease" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Armchair01-02Start" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromFront,Neutral,Start,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Armchair01-03Sitting" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Armchair01-04Sitting" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Armchair01-05Sitting" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Armchair01-06Sitting" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Armchair01-07Climax" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,ClimaxM,Sitting,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Armchair01-08Finish" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Finish,Sitting,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Bed01-01Tease" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Bed01-02Start" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Foreplay,FromFront,Neutral,Start,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Bed01-03Handjob" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,HandJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Bed01-04Blowjob" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-Bed01-05Blowjob" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-Bed01-06Facefuck" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-Bed01-07Climax" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,ClimaxM,BlowJob,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-Bed01-08Finish" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Finish,BlowJob,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Dog-Bed02-01Tease" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Bed02-02Start" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bed02-03Doggy" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bed02-04Doggy" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bed02-05Doggy" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bed02-06Doggy" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bed02-07Climax" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,ClimaxM,Doggy,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bed02-08Finish" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Finish,Doggy,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Bench01-01Tease" location="Bench" tags="SavageCabbage,F_DogM,Bench,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Bench01-02Start" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bench01-03Doggy" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bench01-04Doggy" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bench01-05Doggy" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bench01-06Doggy" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Bench01-07Climax" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Couch01-01Tease" location="Couches" tags="SavageCabbage,F_DogM,Couch,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Couch01-02Start" location="Couches" tags="SavageCabbage,F_DogM,Couch,Missionary,FromFront,Neutral,Start,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Couch01-03Missionary" location="Couches" tags="SavageCabbage,F_DogM,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Couch01-04Missionary" location="Couches" tags="SavageCabbage,F_DogM,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Couch01-05Missionary" location="Couches" tags="SavageCabbage,F_DogM,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Couch01-06Missionary" location="Couches" tags="SavageCabbage,F_DogM,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Couch01-07Climax" location="Couches" tags="SavageCabbage,F_DogM,Couch,ClimaxM,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Couch01-08Finish" location="Couches" tags="SavageCabbage,F_DogM,Couch,Finish,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-DoubleBed01-01Tease" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed01-02Start" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed01-03Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed01-04Sideways" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Sideways,FromSide,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed01-05Sideways" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Sideways,FromSide,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed01-06Missionary" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed01-07Climax" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,ClimaxM,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed01-08Finish" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Finish,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-DoubleBed02-01Tease" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed02-02Start" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,HandJob,FromFront,Neutral,Start,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed02-03Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,HandJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed02-04Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,HandJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed02-05Blowjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-DoubleBed02-06Facefuck" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-DoubleBed02-07Climax" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,ClimaxM,BlowJob,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-Dog-DoubleBed02-08Finish" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Finish,BlowJob,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-Dog-DoubleBed03-01Tease" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed03-02Start" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed03-03Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed03-04Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed03-05Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed03-06Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed03-07Climax" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,ClimaxM,Doggy,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed03-08Finish" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Finish,Doggy,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-DoubleBed04-01Tease" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-DoubleBed04-02Start" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed04-03Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed04-04Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed04-05Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed04-06Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed04-07Climax" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,ClimaxM,Doggy,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-DoubleBed04-08Finish" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Finish,Doggy,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Floor01-01Tease" tags="SavageCabbage,F_DogM,NoFurn,Foreplay,FromBehind,Rough,Aggressive,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-Dog-Floor01-02Start" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor01-03Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor01-04Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor01-05Doggy" tags="SavageCabbage,F_DogM,NoFurn,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor01-06Doggy" tags="SavageCabbage,F_DogM,NoFurn,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor01-07Climax" tags="SavageCabbage,F_DogM,NoFurn,ClimaxM,FaceDown,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor01-08Finish" tags="SavageCabbage,F_DogM,NoFurn,Finish,FaceDown,FromBehind,Rough,Aggressive,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Floor02-01Tease" tags="SavageCabbage,F_DogM,NoFurn,Foreplay,Kneeling,FromFront,Rough,Aggressive,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,MouthToMouth"/>
+    <position id="SC-FM-Dog-Floor02-02Start" tags="SavageCabbage,F_DogM,NoFurn,Missionary,FromFront,Rough,Aggressive,Start,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor02-03Missionary" tags="SavageCabbage,F_DogM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor02-04Sitting" tags="SavageCabbage,F_DogM,NoFurn,Sitting,FromFront,Rough,Aggressive,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor02-05Missionary" tags="SavageCabbage,F_DogM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor02-06Missionary" tags="SavageCabbage,F_DogM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor02-07Climax" tags="SavageCabbage,F_DogM,NoFurn,ClimaxM,Missionary,FromFront,Rough,Aggressive,ClimaxM,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor02-08Finish" tags="SavageCabbage,F_DogM,NoFurn,Missionary,Finish,FromFront,Rough,Aggressive,Finish,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Floor03-01Tease" tags="SavageCabbage,F_DogM,NoFurn,Foreplay,FromBehind,Rough,Aggressive,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,MouthToVagina"/>
+    <position id="SC-FM-Dog-Floor03-02Start" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor03-03Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor03-04Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor03-05Doggy" tags="SavageCabbage,F_DogM,NoFurn,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor03-06Doggy" tags="SavageCabbage,F_DogM,NoFurn,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor03-07Climax" tags="SavageCabbage,F_DogM,NoFurn,ClimaxM,FaceDown,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Floor03-08Finish" tags="SavageCabbage,F_DogM,NoFurn,Finish,FaceDown,FromBehind,Rough,Aggressive,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Outhouse01-01Tease" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Foreplay,Kneeling,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Outhouse01-02Start" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Sitting,FromFront,Neutral,Start,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Outhouse01-03Sitting" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Outhouse01-04Sitting" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Outhouse01-05Sitting" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Outhouse01-06Sitting" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Outhouse01-07Climax" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,ClimaxM,Sitting,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Outhouse01-08Finish" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Finish,Sitting,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-RoundTableSmall01-01Tease" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-02Start" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-03Doggy" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-04Doggy" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-05Doggy" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-06Doggy" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-07Climax" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,ClimaxM,Doggy,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-RoundTableSmall01-08Finish" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Finish,Doggy,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-SleepingBag01-01Tease" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Dog-SleepingBag01-02Start" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,Start,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-SleepingBag01-03Missionary" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-SleepingBag01-04Missionary" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-SleepingBag01-05Missionary" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-SleepingBag01-06Missionary" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-SleepingBag01-07Climax" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,Climax,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-SleepingBag01-08Finish" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Standing01-01Tease" tags="SavageCabbage,F_DogM,NoFurn,Foreplay,Standing,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Standing01-02Start" tags="SavageCabbage,F_DogM,NoFurn,Standing,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Standing01-03Doggy" tags="SavageCabbage,F_DogM,NoFurn,Standing,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Standing01-04Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Standing01-05Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Standing01-06Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Standing01-07Climax" tags="SavageCabbage,F_DogM,NoFurn,ClimaxM,FaceDown,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Standing01-08Finish" tags="SavageCabbage,F_DogM,NoFurn,Finish,FaceDown,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-Dog-Toilet01-01Tease" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-Dog-Toilet01-02Start" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Toilet01-03Doggy" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Toilet01-04Doggy" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Toilet01-05Doggy" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Toilet01-06Doggy" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Toilet01-07Climax" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Dog-Toilet01-08Finish" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <!-- =============================================================================================================================== -->
+
+    <position id="SC-FMM-Dog-DoubleBed01-01Tease" location="Double_Bed" tags="SavageCabbage,F_DogM_DogM,DoubleBed,Foreplay,FromBehind,Neutral,Tease,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-02Start" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,Start,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToHand,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-03Doggy-Blowjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Dog-DoubleBed01-04Doggy-Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-05Doggy-Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-06Doggy-Blowjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Dog-DoubleBed01-07Climax-Blowjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,Finish,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SC-FMM-Dog-DoubleBed01-08Switch" location="Double_Bed" tags="SavageCabbage,F_DogM_DogM,DoubleBed,Switch,FromFront,Neutral,MidStage,Held1,Love0,Stim0,Dom0,NullToSelf,PenisToHand,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-09Missionary-Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-10Missionary-Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-11Missionary-Handjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-12Climax" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,ClimaxM,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMM-Dog-DoubleBed01-13Finish" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Finish,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+
+    <position id="SC-FMH-Dog-Floor01-01TeaseRestrained" tags="SavageCabbage,F_DogM_P,NoFurn,Foreplay,Kneeling,FromFront,Rough,Aggressive,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-02StartRestrained" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Start,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-03DoggyRestrained" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-04DoggyRestrained" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-05DoggyRestrained" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-06DoggyRestrained" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-07ClimaxRestrained" tags="SavageCabbage,F_DogM,NoFurn,ClimaxM,Doggy,FromBehind,Rough,Aggressive,ClimaxM,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+    <position id="SC-FMH-Dog-Floor01-08FinishRestrained" tags="SavageCabbage,F_DogM,NoFurn,Finish,Doggy,FromBehind,Rough,Aggressive,Finish,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
+
+</positionData>
