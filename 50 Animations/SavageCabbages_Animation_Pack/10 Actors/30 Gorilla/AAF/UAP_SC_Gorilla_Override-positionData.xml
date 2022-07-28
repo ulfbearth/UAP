@@ -1,0 +1,16 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <!-- Moved SavageCabbage tags Update 1.2.3 -->
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="2" isHidden="true"/>
+    
+    <!-- =============================================================================================================================== -->
+	
+	<position id="SC-FM-Gorilla-Standing01-01Tease" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Tease,Held3,Stim7,Love5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-Gorilla-Standing01-02Start" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Start,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-03Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-04Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-05Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-06Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-07Climax" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-Gorilla-Standing01-08Finish" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Finish,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    
+</positionData>

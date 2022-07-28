@@ -1,0 +1,87 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <!-- Moved SavageCabbage tags Update 1.2.3 -->
+        <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="2" isHidden="true"/>
+    
+    <!-- ================================================== FERAL GHOULS ============================================================================= -->
+
+	<position id="SC-FM-FeralGhoul-BarrelMetal01-03Upright" location="Metal_Barrel" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-BenchHighTech01-03Sitting" location="Bench_High_Tech" tags="SavageCabbage,F_M,Bench,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-01Tease" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,Tease,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-02Start" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,Start,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-03Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-04Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-05Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-06Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn01-07ClimaxLoop" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-ChurchPew01-03Missionary" location="Church_Pew" tags="SavageCabbage,F_M,Pew,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-ClockTower01-03Doggy" location="Clock_Tower" tags="SavageCabbage,F_FGhoulM,ClockTower,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-NewsStand01-03Doggy" location="News_Stand" tags="SavageCabbage,F_FGhoulM,NewsStand,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-NukaColaVendor01-03Doggy" location="Nuka_Cola_Vendor" tags="SavageCabbage,F_FGhoulM,NukaColaVendor,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Refrigerator01-03Upright" location="Refrigerator_PlayerHouse" tags="SavageCabbage,F_M,Fridge,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Standing01-01Tease" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromFront,Rough,Aggressive,Tease,Held3,Love0,Stim7,Dom-7,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-FeralGhoul-Standing01-03Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-04Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-05Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-06Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-07Climax" tags="SavageCabbage,F_FGhoulM,NoFurn,ClimaxM,Standing,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Standing01-08Finish" tags="SavageCabbage,F_FGhoulM,NoFurn,ClimaxM,Standing,FromBehind,Rough,Aggressive,Finish,Held3,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Standing02-01Tease" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromFront,Rough,Aggressive,Tease,Held3,Love0,Stim7,Dom-7,NullToSelf,HandToNipples"/>
+    <position id="SC-FM-FeralGhoul-Standing02-03Handjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Handjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-FeralGhoul-Standing02-04Handjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Handjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim0,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-FeralGhoul-Standing02-05Blowjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-FeralGhoul-Standing02-06Blowjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-FeralGhoul-Standing02-07Climax" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,ClimaxM,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-FeralGhoul-Standing02-08Finish" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,Finish,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+
+    <position id="SC-FM-FeralGhoul-SubwayColumnLower01-03Doggy" location="Subway_Platform_Column_Small" tags="SavageCabbage,F_FGhoulM,Column,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-ToiletBroken01-03Doggy" location="Toilet" tags="SavageCabbage,F_FGhoulM,Toilet,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-TrashCan01-03Upright" location="Trash_Can_PreWar" tags="SavageCabbage,F_M,TrashCan,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Urinal01-03Doggy" location="Urinal_Broken_01" tags="SavageCabbage,F_FGhoulM,Urinal,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FMM-FeralGhoul-Floor01-01Tease" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-02Start" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-03DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-04DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-05DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-06DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-07ClimaxLoop" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="SC-FMM-FeralGhoul-Floor01-08Finish" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/>
+	
+	<!-- =============================================================================================================================== -->
+
+	<position id="SC-FM-BloatedGhoul-Floor01-01Tease" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToNipple"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-03Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-04Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-05Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-06Doggy" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-07Climax" tags="SavageCabbage,F_BltGhoulM,NoFurn,ClimaxM,Doggy,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Floor01-08Finish" tags="SavageCabbage,F_BltGhoulM,NoFurn,Finish,Doggy,FromBehind,Rough,Aggressive,Finish,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-BloatedGhoul-Standing01-01Tease" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-02Start" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,Start,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-03Carry" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-04Carry" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-05Carry" tags="SavageCabbage,F_BltGhoulM,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-BloatedGhoul-Standing01-06Climax" tags="SavageCabbage,F_BltGhoulM,NoFurn,ClimaxM,Carry,FromFront,Rough,Aggressive,ClimaxM,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-BloatedGhoul-Standing02-01Tease" tags="SavageCabbage,F_BltGhoulM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love1,Stim7,Dom-9,NullToSelf,PenisToNipple"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-03Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-04Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-05Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-06Blowjob" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+	
+	<!-- =============================================================================================================================== -->
+    
+    </positionData>
