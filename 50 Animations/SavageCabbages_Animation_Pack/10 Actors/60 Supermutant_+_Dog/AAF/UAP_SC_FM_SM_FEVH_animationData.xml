@@ -1,0 +1,21 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_F_SMFEVH_Standing01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2D701">
+		</actor>
+		<actor gender="M" skeleton="SuperMutant" idleForm="2D702">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2D703">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SMFEVH_Standing01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="30D84">
+		</actor>
+		<actor gender="M" skeleton="SuperMutant" idleForm="30D85">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D86">
+		</actor>
+	</animation>
+</animationData>

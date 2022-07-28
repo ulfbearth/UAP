@@ -1,0 +1,17 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+<!-- Moved SavageCabbage tags Update 1.2.3 -->
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
+
+    <position id="[UAP] SCAP_FM_Shackles01_Tease_S1" location="Shackles" isHidden="true" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,Tease,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_Shackles01_Start_S2" location="Shackles" isHidden="true" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,Start,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_Shackles01_Held_S3" location="Shackles" isHidden="true" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,MidStage,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SCAP_FM_Shackles01_Held_S4" location="Shackles" isHidden="true" tags="SavageCabbage,F_M,Shackles,FromFront,Rough,Aggressive,MidStage,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="[UAP] SCAP_FMM_Shackles01_Held_S3" location="Shackles" isHidden="true" tags="SavageCabbage,F_M_M,Shackles,FromFront,Rough,Aggressive,MidStage,Held9,Stim1,Love0,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+
+    <!--=============== STAGED ===============-->
+
+    <position id="[UAP] SC-Shackles01Held1" animationGroup="SCAP_FM_Shackles01_Held" location="Shackles"/>
+    <position id="[UAP] SC-Shackles01Held2" animationGroup="SCAP_FMM_Shackles01_Held" location="Shackles"/>
+
+</positionData>

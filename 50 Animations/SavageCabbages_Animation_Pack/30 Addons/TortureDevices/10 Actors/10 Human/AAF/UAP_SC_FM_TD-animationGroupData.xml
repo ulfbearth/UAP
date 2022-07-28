@@ -1,0 +1,26 @@
+<animationGroupData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults/>
+
+	<animationGroup id="SCAP_FM_HydroPillory01_Doggy" sequential="true"> 
+		<stage animation="SCAP_FM_HydroPillory01_Tease_S1" loops="1"/>
+        <stage animation="SCAP_FM_HydroPillory01_Doggy_S3" loops="1"/>
+        <stage animation="SCAP_FM_HydroPillory01_Doggy_S4" loops="1"/>
+        <stage animation="SCAP_FM_HydroPillory01_Doggy_S5" loops="1"/>
+	</animationGroup> 
+
+    <animationGroup id="SCAP_FM_Pillory01_Doggy" sequential="true"> 
+        <stage animation="SCAP_FM_Pillory01_Doggy_S3" loops="1"/>
+        <stage animation="SCAP_FM_Pillory01_Doggy_S4" loops="1"/>
+        <stage animation="SCAP_FM_Pillory01_Doggy_S5" loops="1"/>
+	</animationGroup> 
+
+    <animationGroup id="SCAP_FMM_HydroPillory01_DoubleTeam" sequential="true"> 
+		<stage animation="SCAP_FMM_HydroPillory01_DoubleTeam_S3" loops="1"/>
+	</animationGroup> 
+
+    <animationGroup id="SCAP_FMM_HydroPillory01_Doggy" sequential="true"> 
+        <stage animation="SCAP_FMM_Pillory01_DoubleTeam_S3" loops="1"/>
+        <stage animation="SCAP_FMM_Pillory01_DoubleTeam_S4" loops="1"/>
+	</animationGroup> 
+
+</animationGroupData>

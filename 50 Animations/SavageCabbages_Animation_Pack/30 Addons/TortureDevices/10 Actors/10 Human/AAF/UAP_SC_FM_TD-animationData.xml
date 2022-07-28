@@ -1,0 +1,83 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+    <animation id="SCAP_FM_HydroPillory01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5CE">
+		</actor>
+		<actor gender="M" idleForm="2F5CF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_HydroPillory01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="100E">
+		</actor>
+		<actor gender="M" idleForm="100F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_HydroPillory01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="27323">
+		</actor>
+		<actor gender="M" idleForm="27324">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_HydroPillory01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="27325">
+		</actor>
+		<actor gender="M" idleForm="27326">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Pillory01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="1010">
+		</actor>
+		<actor gender="M" idleForm="1011">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Pillory01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="1012">
+		</actor>
+		<actor gender="M" idleForm="1013">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Pillory01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="1014">
+		</actor>
+		<actor gender="M" idleForm="1015">
+		</actor>
+	</animation>
+
+    <!-- =============================================================================================================================== -->
+
+
+    <animation id="SCAP_FMM_HydroPillory01_DoubleTeam_S3" frames="500">
+        <actor gender="F" idleForm="1040">
+        </actor>
+        <actor gender="M" idleForm="1041">
+        </actor>
+        <actor gender="M" idleForm="1042">
+        </actor>
+    </animation>
+
+	<animation id="SCAP_FMM_Pillory01_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="1043">
+		</actor>
+		<actor gender="M" idleForm="1044">
+		</actor>
+		<actor gender="M" idleForm="1045">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FMM_Pillory01_DoubleTeam_S4" frames="500">
+		<actor gender="F" idleForm="1046">
+		</actor>
+		<actor gender="M" idleForm="1047">
+		</actor>
+		<actor gender="M" idleForm="1048">
+		</actor>
+	</animation>
+
+</animationData>

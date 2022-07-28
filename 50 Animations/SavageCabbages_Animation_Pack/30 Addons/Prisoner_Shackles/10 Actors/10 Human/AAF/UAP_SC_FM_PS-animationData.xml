@@ -1,0 +1,41 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+	
+	<animation id="SCAP_FM_Shackles01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="1816">
+		</actor>
+		<actor gender="M" idleForm="1817">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Shackles01_Start_S2" frames="500">
+		<actor gender="F" idleForm="1016">
+		</actor>
+		<actor gender="M" idleForm="1017">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Shackles01_Held_S3" frames="500">
+		<actor gender="F" idleForm="27329">
+		</actor>
+		<actor gender="M" idleForm="2732A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Shackles01_Held_S4" frames="500">
+		<actor gender="F" idleForm="2FD92">
+		</actor>
+		<actor gender="M" idleForm="2FD93">
+		</actor>
+	</animation>
+	
+	<animation id="SCAP_FMM_Shackles01_Held_S3" frames="500">
+		<actor gender="F" idleForm="1049">
+		</actor>
+		<actor gender="M" idleForm="104A">
+		</actor>
+		<actor gender="M" idleForm="104B">
+		</actor>
+	</animation>
+	
+</animationData>

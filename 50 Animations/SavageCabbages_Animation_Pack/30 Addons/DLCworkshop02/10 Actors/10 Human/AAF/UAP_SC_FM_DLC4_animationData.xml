@@ -1,0 +1,50 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+ 	<animation id="SCAP_FM_Stocks01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="CEDF">
+		</actor>
+		<actor gender="M" idleForm="CEE0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Stocks01_Start_S2" frames="500">
+		<actor gender="F" idleForm="1818">
+		</actor>
+		<actor gender="M" idleForm="1819">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Stocks01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="1018">
+		</actor>
+		<actor gender="M" idleForm="1019">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Stocks01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="181A">
+		</actor>
+		<actor gender="M" idleForm="181B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Stocks01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="1325E">
+		</actor>
+		<actor gender="M" idleForm="1325F">
+		</actor>
+	</animation>
+
+    <!-- =============================================================================================================================== -->
+
+
+	<animation id="SCAP_FMM_Stocks01_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="104F">
+		</actor>
+		<actor gender="M" idleForm="1050">
+		</actor>
+		<actor gender="M" idleForm="1051">
+		</actor>
+	</animation>
+</animationData>

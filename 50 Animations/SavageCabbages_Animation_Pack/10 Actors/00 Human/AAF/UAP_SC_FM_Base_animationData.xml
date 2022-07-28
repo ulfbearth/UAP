@@ -1,0 +1,2509 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_HipShakeStart_F_1Human_01_S1" frames="140">
+		<actor gender="F" idleForm="182B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_HipShakeStart_F_1Human_01_S2" frames="160">
+		<actor gender="F" idleForm="182C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_TwerkStart01_F_1Human_01_S1" frames="500">
+		<actor gender="F" idleForm="182D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_TwerkStart02_F_1Human_01_S1" frames="500">
+		<actor gender="F" idleForm="182E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SexyDance02_F_1Human_01_S2" frames="500">
+		<actor gender="F" idleForm="24CE1">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StripPole_F_1Human_01_S1" frames="1000">
+		<actor gender="F" idleForm="24CE2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StripPole_F_1Human_01_S2" frames="1035">
+		<actor gender="F" idleForm="24CE3">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StripPole_F_1Human_01_S3" frames="1035">
+		<actor gender="F" idleForm="2EE23">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_StripPole_F_1Human_01_S4" frames="1060">
+		<actor gender="F" idleForm="2EE24">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="FF0">
+		</actor>
+		<actor gender="M" idleForm="FF1">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="263E3">
+		</actor>
+		<actor gender="M" idleForm="263E4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="FF2">
+		</actor>
+		<actor gender="M" idleForm="FF3">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="FF4">
+		</actor>
+		<actor gender="M" idleForm="FF5">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="73B5">
+		</actor>
+		<actor gender="M" idleForm="73B6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="21EF0">
+		</actor>
+		<actor gender="M" idleForm="21EF1">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="26B80">
+		</actor>
+		<actor gender="M" idleForm="26B81">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="26B82">
+		</actor>
+		<actor gender="M" idleForm="26B83">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="263E5">
+		</actor>
+		<actor gender="M" idleForm="263E6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="FF6">
+		</actor>
+		<actor gender="M" idleForm="FF7">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="FF8">
+		</actor>
+		<actor gender="M" idleForm="FF9">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Handjob_S4" frames="500">
+		<actor gender="F" idleForm="FFA">
+		</actor>
+		<actor gender="M" idleForm="FFB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Handjob_S5" frames="500">
+		<actor gender="F" idleForm="FFC">
+		</actor>
+		<actor gender="M" idleForm="FFD">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="FFE">
+		</actor>
+		<actor gender="M" idleForm="FFF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Blowjob_S7" frames="500">
+		<actor gender="F" idleForm="17F8">
+		</actor>
+		<actor gender="M" idleForm="17F9">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Deepthroat_S8" frames="500">
+		<actor gender="F" idleForm="17FA">
+		</actor>
+		<actor gender="M" idleForm="17FB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmChair02_FM_2Human_Swallow_S9" frames="500">
+		<actor gender="F" idleForm="17FC">
+		</actor>
+		<actor gender="M" idleForm="17FD">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmorBench01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D28">
+		</actor>
+		<actor gender="M" idleForm="30D29">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="30D2A">
+		</actor>
+		<actor gender="M" idleForm="30D2B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="30D2C">
+		</actor>
+		<actor gender="M" idleForm="30D2D">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="30D2E">
+		</actor>
+		<actor gender="M" idleForm="30D2F">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="30D30">
+		</actor>
+		<actor gender="M" idleForm="30D31">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_ArmorBench01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="30D32">
+		</actor>
+		<actor gender="M" idleForm="30D33">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_Bed01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="FD3">
+		</actor>
+		<actor gender="M" idleForm="FD4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="FD5">
+		</actor>
+		<actor gender="M" idleForm="FD6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="FD7">
+		</actor>
+		<actor gender="M" idleForm="FD8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Handjob_S4" frames="500">
+		<actor gender="F" idleForm="FD9">
+		</actor>
+		<actor gender="M" idleForm="FDA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Titjob_S5" frames="500">
+		<actor gender="F" idleForm="FDB">
+		</actor>
+		<actor gender="M" idleForm="FDC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="FDD">
+		</actor>
+		<actor gender="M" idleForm="FDE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Deepthroat_S7" frames="500">
+		<actor gender="F" idleForm="FDF">
+		</actor>
+		<actor gender="M" idleForm="FE0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Blowjob_S8" frames="500">
+		<actor gender="F" idleForm="FE1">
+		</actor>
+		<actor gender="M" idleForm="FE2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Climax_S9" frames="200">
+		<actor gender="F" idleForm="FE3">
+		</actor>
+		<actor gender="M" idleForm="FE4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FM_2Human_Finish_S10" frames="500">
+		<actor gender="F" idleForm="FE5">
+		</actor>
+		<actor gender="M" idleForm="FE7">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="FE8">
+		</actor>
+		<actor gender="M" idleForm="FE9">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="FEA">
+		</actor>
+		<actor gender="M" idleForm="FEB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="FEC">
+		</actor>
+		<actor gender="M" idleForm="FED">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="FEE">
+		</actor>
+		<actor gender="M" idleForm="FEF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="6C08">
+		</actor>
+		<actor gender="M" idleForm="6C09">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DEA7">
+		</actor>
+		<actor gender="M" idleForm="2DEA8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed02_FM_2Human_Finish_S8" frames="200">
+		<actor gender="F" idleForm="2FD85">
+		</actor>
+		<actor gender="M" idleForm="2FD86">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="99DA">
+		</actor>
+		<actor gender="M" idleForm="99DB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="6C0A">
+		</actor>
+		<actor gender="M" idleForm="6C0B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="923C">
+		</actor>
+		<actor gender="M" idleForm="923D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="E62A">
+		</actor>
+		<actor gender="M" idleForm="E62B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="2731D">
+		</actor>
+		<actor gender="M" idleForm="2731E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DEA9">
+		</actor>
+		<actor gender="M" idleForm="2DEAA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed03_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30558">
+		</actor>
+		<actor gender="M" idleForm="30559">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_Tease_S1" frames="200">
+		<actor gender="F" idleForm="2DEAB">
+		</actor>
+		<actor gender="M" idleForm="2DEAC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="E62C">
+		</actor>
+		<actor gender="M" idleForm="E62D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="2B0A5">
+		</actor>
+		<actor gender="M" idleForm="2B0A6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="2B0A7">
+		</actor>
+		<actor gender="M" idleForm="2B0A8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="2B0A9">
+		</actor>
+		<actor gender="M" idleForm="2B0AA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DEAD">
+		</actor>
+		<actor gender="M" idleForm="2DEAE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed04_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="3055A">
+		</actor>
+		<actor gender="M" idleForm="3055B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="99DC">
+		</actor>
+		<actor gender="M" idleForm="99DD">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="2FD87">
+		</actor>
+		<actor gender="M" idleForm="2FD88">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S3" frames="500">
+		<actor gender="F" idleForm="550B">
+		</actor>
+		<actor gender="M" idleForm="550C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S4" frames="500">
+		<actor gender="F" idleForm="C744">
+		</actor>
+		<actor gender="M" idleForm="C745">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S5" frames="500">
+		<actor gender="F" idleForm="6C0C">
+		</actor>
+		<actor gender="M" idleForm="6C0D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S6" frames="500">
+		<actor gender="F" idleForm="2731F">
+		</actor>
+		<actor gender="M" idleForm="27320">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DECF">
+		</actor>
+		<actor gender="M" idleForm="2DED0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bench01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="3055C">
+		</actor>
+		<actor gender="M" idleForm="3055D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ChairHigh01_FM_2Human_Doggy_S1" frames="500">
+		<actor gender="F" idleForm="1000">
+		</actor>
+		<actor gender="M" idleForm="1001">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ChairLow01_FM_2Human_Doggy_S1" frames="500">
+		<actor gender="F" idleForm="1002">
+		</actor>
+		<actor gender="M" idleForm="1003">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ChairMedium01_FM_2Human_Doggy_S1" frames="500">
+		<actor gender="F" idleForm="1004">
+		</actor>
+		<actor gender="M" idleForm="1005">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ChairVeryLow01_FM_2Human_Doggy_S1" frames="500">
+		<actor gender="F" idleForm="1006">
+		</actor>
+		<actor gender="M" idleForm="1007">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="C001">
+		</actor>
+		<actor gender="M" idleForm="C002">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="2FD8B">
+		</actor>
+		<actor gender="M" idleForm="2FD8C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_Spoon_S3" frames="500">
+		<actor gender="F" idleForm="3E34">
+		</actor>
+		<actor gender="M" idleForm="3E35">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_Spoon_S4" frames="500">
+		<actor gender="F" idleForm="4D6E">
+		</actor>
+		<actor gender="M" idleForm="4D6F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_Spoon_S5" frames="500">
+		<actor gender="F" idleForm="6444">
+		</actor>
+		<actor gender="M" idleForm="6445">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_Spoon_S6" frames="500">
+		<actor gender="F" idleForm="2B0AB">
+		</actor>
+		<actor gender="M" idleForm="2B0AC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DED1">
+		</actor>
+		<actor gender="M" idleForm="2DED2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="C7A4">
+		</actor>
+		<actor gender="M" idleForm="C7A5">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FM_2Human_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="6448">
+		</actor>
+		<actor gender="M" idleForm="6449">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FM_2Human_Handjob_S4" frames="500">
+		<actor gender="F" idleForm="644A">
+		</actor>
+		<actor gender="M" idleForm="644B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FM_2Human_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="644C">
+		</actor>
+		<actor gender="M" idleForm="644D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FM_2Human_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="27321">
+		</actor>
+		<actor gender="M" idleForm="27322">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DED3">
+		</actor>
+		<actor gender="M" idleForm="2DED4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_CouchPlayerHouse01_FM_2Human_Facefuck_S3" frames="500">
+		<actor gender="F" idleForm="2C010">
+		</actor>
+		<actor gender="M" idleForm="2C011">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_CouchPlayerHouse01_FM_2Human_Facefuck_S4" frames="500">
+		<actor gender="F" idleForm="2FD89">
+		</actor>
+		<actor gender="M" idleForm="2FD8A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Crane01_FM_2Human_Carry_S3" frames="500">
+		<actor gender="F" idleForm="2C012">
+		</actor>
+		<actor gender="M" idleForm="2C013">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="C003">
+		</actor>
+		<actor gender="M" idleForm="C004">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="2FD8D">
+		</actor>
+		<actor gender="M" idleForm="2FD8E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="1FC9">
+		</actor>
+		<actor gender="M" idleForm="1FCA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="C005">
+		</actor>
+		<actor gender="M" idleForm="C006">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="2B0AD">
+		</actor>
+		<actor gender="M" idleForm="2B0AE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="2B0B3">
+		</actor>
+		<actor gender="M" idleForm="2B0B4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Desk01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2E676">
+		</actor>
+		<actor gender="M" idleForm="2E677">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DinerBooth01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2B866">
+		</actor>
+		<actor gender="M" idleForm="2B867">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="1008">
+		</actor>
+		<actor gender="M" idleForm="1009">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="100A">
+		</actor>
+		<actor gender="M" idleForm="100B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="100C">
+		</actor>
+		<actor gender="M" idleForm="100D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="4D6A">
+		</actor>
+		<actor gender="M" idleForm="4D6B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="4D6C">
+		</actor>
+		<actor gender="M" idleForm="4D6D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S7" frames="500">
+		<actor gender="F" idleForm="7386">
+		</actor>
+		<actor gender="M" idleForm="7387">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_ClimaxLoop_S8" frames="200">
+		<actor gender="F" idleForm="2DEAF">
+		</actor>
+		<actor gender="M" idleForm="2DEB0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FM_2Human_Finish_S9" frames="500">
+		<actor gender="F" idleForm="3055E">
+		</actor>
+		<actor gender="M" idleForm="3055F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="CF43">
+		</actor>
+		<actor gender="M" idleForm="CF44">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="17FE">
+		</actor>
+		<actor gender="M" idleForm="17FF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="644E">
+		</actor>
+		<actor gender="M" idleForm="644F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_Powerbomb_S5" frames="500">
+		<actor gender="F" idleForm="E5B2">
+		</actor>
+		<actor gender="M" idleForm="E5B3">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_Powerbomb_S6" frames="500">
+		<actor gender="F" idleForm="ED4D">
+		</actor>
+		<actor gender="M" idleForm="ED4E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_Powerbomb_S7" frames="500">
+		<actor gender="F" idleForm="17F7">
+		</actor>
+		<actor gender="M" idleForm="182F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FM_2Human_ClimaxLoop_S8" frames="200">
+		<actor gender="F" idleForm="2DEB1">
+		</actor>
+		<actor gender="M" idleForm="2DEB2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="99DE">
+		</actor>
+		<actor gender="M" idleForm="99DF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="5CA9">
+		</actor>
+		<actor gender="M" idleForm="5CAA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="B80B">
+		</actor>
+		<actor gender="M" idleForm="B80C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="DE15">
+		</actor>
+		<actor gender="M" idleForm="DE16">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="DE17">
+		</actor>
+		<actor gender="M" idleForm="DE18">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_ClimaxLoop_S7" frames="500">
+		<actor gender="F" idleForm="27AE4">
+		</actor>
+		<actor gender="M" idleForm="27AE5">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FM_2Human_Finish_S8" frames="200">
+		<actor gender="F" idleForm="2DEB3">
+		</actor>
+		<actor gender="M" idleForm="2DEB4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed04_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="99E0">
+		</actor>
+		<actor gender="M" idleForm="99E1">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="4D70">
+		</actor>
+		<actor gender="M" idleForm="4D71">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="B80D">
+		</actor>
+		<actor gender="M" idleForm="B80E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="6C0E">
+		</actor>
+		<actor gender="M" idleForm="6C0F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="8A9E">
+		</actor>
+		<actor gender="M" idleForm="8A9F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed04_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DEB5">
+		</actor>
+		<actor gender="M" idleForm="2DEB6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D44">
+		</actor>
+		<actor gender="M" idleForm="30D45">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="30D46">
+		</actor>
+		<actor gender="M" idleForm="30D47">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="30D48">
+		</actor>
+		<actor gender="M" idleForm="30D49">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="30D4A">
+		</actor>
+		<actor gender="M" idleForm="30D4B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="30D4C">
+		</actor>
+		<actor gender="M" idleForm="30D4D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="30D4E">
+		</actor>
+		<actor gender="M" idleForm="30D4F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="30D50">
+		</actor>
+		<actor gender="M" idleForm="30D51">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed05_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30D52">
+		</actor>
+		<actor gender="M" idleForm="30D53">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D87">
+		</actor>
+		<actor gender="M" idleForm="30D88">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="30D89">
+		</actor>
+		<actor gender="M" idleForm="30D8A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S3" frames="500">
+		<actor gender="F" idleForm="30D8B">
+		</actor>
+		<actor gender="M" idleForm="30D8C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S4" frames="500">
+		<actor gender="F" idleForm="30D8D">
+		</actor>
+		<actor gender="M" idleForm="30D8E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S5" frames="500">
+		<actor gender="F" idleForm="30D8F">
+		</actor>
+		<actor gender="M" idleForm="30D90">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S6" frames="500">
+		<actor gender="F" idleForm="30D91">
+		</actor>
+		<actor gender="M" idleForm="30D92">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="30D93">
+		</actor>
+		<actor gender="M" idleForm="30D94">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30D95">
+		</actor>
+		<actor gender="M" idleForm="30D96">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="25C26">
+		</actor>
+		<actor gender="M" idleForm="25C27">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="25C28">
+		</actor>
+		<actor gender="M" idleForm="25C29">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="25C2A">
+		</actor>
+		<actor gender="M" idleForm="25C2B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="25C2C">
+		</actor>
+		<actor gender="M" idleForm="25C2D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Sideways_S5" frames="500">
+		<actor gender="F" idleForm="25C2E">
+		</actor>
+		<actor gender="M" idleForm="25C2F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="25C30">
+		</actor>
+		<actor gender="M" idleForm="25C31">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_AnalDoggy_S7" frames="500">
+		<actor gender="F" idleForm="25C32">
+		</actor>
+		<actor gender="M" idleForm="25C33">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2547D">
+		</actor>
+		<actor gender="M" idleForm="2547E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Start_S2" frames="600">
+		<actor gender="F" idleForm="2547F">
+		</actor>
+		<actor gender="M" idleForm="25480">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="25481">
+		</actor>
+		<actor gender="M" idleForm="25482">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="25483">
+		</actor>
+		<actor gender="M" idleForm="25484">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="25485">
+		</actor>
+		<actor gender="M" idleForm="25486">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="25487">
+		</actor>
+		<actor gender="M" idleForm="25488">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_ClimaxLoop_S7" frames="600">
+		<actor gender="F" idleForm="25489">
+		</actor>
+		<actor gender="M" idleForm="2548A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="2548B">
+		</actor>
+		<actor gender="M" idleForm="2548C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch02_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5CA">
+		</actor>
+		<actor gender="M" idleForm="2F5CB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S3" frames="500">
+		<actor gender="F" idleForm="2B0B5">
+		</actor>
+		<actor gender="M" idleForm="2B0B6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S4" frames="500">
+		<actor gender="F" idleForm="2B0B7">
+		</actor>
+		<actor gender="M" idleForm="2B0B8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S5" frames="500">
+		<actor gender="F" idleForm="2DEB7">
+		</actor>
+		<actor gender="M" idleForm="2DEB8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S6" frames="500">
+		<actor gender="F" idleForm="2DEB9">
+		</actor>
+		<actor gender="M" idleForm="2DEBA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FederalistCouch02_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2F5CC">
+		</actor>
+		<actor gender="M" idleForm="2F5CD">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30DAF">
+		</actor>
+		<actor gender="M" idleForm="30DB0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Start_S2" frames="600">
+		<actor gender="F" idleForm="30DB1">
+		</actor>
+		<actor gender="M" idleForm="30DB2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Blowjob_S3" frames="500">
+		<actor gender="F" idleForm="30DB3">
+		</actor>
+		<actor gender="M" idleForm="30DB4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Blowjob_S4" frames="500">
+		<actor gender="F" idleForm="30DB5">
+		</actor>
+		<actor gender="M" idleForm="30DB6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Facefuck_S5" frames="500">
+		<actor gender="F" idleForm="30DB7">
+		</actor>
+		<actor gender="M" idleForm="30DB8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Facefuck_S6" frames="500">
+		<actor gender="F" idleForm="30DB9">
+		</actor>
+		<actor gender="M" idleForm="30DBA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="30DBB">
+		</actor>
+		<actor gender="M" idleForm="30DBC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30DBD">
+		</actor>
+		<actor gender="M" idleForm="30DBE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellSmall01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30560">
+		</actor>
+		<actor gender="M" idleForm="30561">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellSmall01_FM_2Human_Standing_S3" frames="500">
+		<actor gender="F" idleForm="2A135">
+		</actor>
+		<actor gender="M" idleForm="2A136">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellSmall01_FM_2Human_Standing_S4" frames="500">
+		<actor gender="F" idleForm="2A137">
+		</actor>
+		<actor gender="M" idleForm="2A138">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellSmall01_FM_2Human_Carry_S5" frames="500">
+		<actor gender="F" idleForm="2B0B9">
+		</actor>
+		<actor gender="M" idleForm="2B0BA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellSmall01_FM_2Human_Carry_S6" frames="500">
+		<actor gender="F" idleForm="2B0BB">
+		</actor>
+		<actor gender="M" idleForm="2B0BC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2D6FD">
+		</actor>
+		<actor gender="M" idleForm="2D6FE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob_S3" frames="500">
+		<actor gender="F" idleForm="2B0BD">
+		</actor>
+		<actor gender="M" idleForm="2B0BE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob_S4" frames="500">
+		<actor gender="F" idleForm="2B0BF">
+		</actor>
+		<actor gender="M" idleForm="2B0C0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="2B0C1">
+		</actor>
+		<actor gender="M" idleForm="2B0C2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Facefuck_S6" frames="500">
+		<actor gender="F" idleForm="2C014">
+		</actor>
+		<actor gender="M" idleForm="2C015">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2C016">
+		</actor>
+		<actor gender="M" idleForm="2C017">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="2C018">
+		</actor>
+		<actor gender="M" idleForm="2C019">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="2C01A">
+		</actor>
+		<actor gender="M" idleForm="2C01B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="2F5D0">
+		</actor>
+		<actor gender="M" idleForm="2F5D1">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_LapDance01_FM_2Human_LapDance_S1" frames="1000">
+		<actor gender="F" idleForm="1800">
+		</actor>
+		<actor gender="M" idleForm="1801">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Motorbike01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2B868">
+		</actor>
+		<actor gender="M" idleForm="2B869">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="2171E">
+		</actor>
+		<actor gender="M" idleForm="2171F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="2E678">
+		</actor>
+		<actor gender="M" idleForm="2E679">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="2E67A">
+		</actor>
+		<actor gender="M" idleForm="2E67B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="2E67C">
+		</actor>
+		<actor gender="M" idleForm="2E67D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Ottoman01_FM_2Human_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="2B86A">
+		</actor>
+		<actor gender="M" idleForm="2B86B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Ottoman01_FM_2Human_Blowjob_S4" frames="500">
+		<actor gender="F" idleForm="2B86C">
+		</actor>
+		<actor gender="M" idleForm="2B86D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="1802">
+		</actor>
+		<actor gender="M" idleForm="1803">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Start_S2" frames="360">
+		<actor gender="F" idleForm="1804">
+		</actor>
+		<actor gender="M" idleForm="1805">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Cunnilingus_S3" frames="500">
+		<actor gender="F" idleForm="1807">
+		</actor>
+		<actor gender="M" idleForm="1806">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Cunnilingus_S4" frames="500">
+		<actor gender="F" idleForm="1808">
+		</actor>
+		<actor gender="M" idleForm="1809">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="180A">
+		</actor>
+		<actor gender="M" idleForm="180B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="6C10">
+		</actor>
+		<actor gender="M" idleForm="6C11">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FM_2Human_Missionary_S7" frames="500">
+		<actor gender="F" idleForm="C7A6">
+		</actor>
+		<actor gender="M" idleForm="C7A7">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable02_FM_2Human_RoughTease_S1" frames="500">
+		<actor gender="F" idleForm="180C">
+		</actor>
+		<actor gender="M" idleForm="180D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable02_FM_2Human_RoughStart_S2" frames="500">
+		<actor gender="F" idleForm="180E">
+		</actor>
+		<actor gender="M" idleForm="180F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable02_FM_2Human_RoughDoggy_S3" frames="500">
+		<actor gender="F" idleForm="1810">
+		</actor>
+		<actor gender="M" idleForm="1811">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable02_FM_2Human_RoughDoggy_S4" frames="500">
+		<actor gender="F" idleForm="1812">
+		</actor>
+		<actor gender="M" idleForm="1813">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable02_FM_2Human_RoughBlowjob_S5" frames="500">
+		<actor gender="F" idleForm="1814">
+		</actor>
+		<actor gender="M" idleForm="1815">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_PoolTable02_FM_2Human_RoughFacefuck_S6" frames="500">
+		<actor gender="F" idleForm="2C01C">
+		</actor>
+		<actor gender="M" idleForm="2C01D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="31D48">
+		</actor>
+		<actor gender="M" idleForm="31D49">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="31D4A">
+		</actor>
+		<actor gender="M" idleForm="31D4B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="31D4C">
+		</actor>
+		<actor gender="M" idleForm="31D4D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Sideways_S4" frames="500">
+		<actor gender="F" idleForm="31D4E">
+		</actor>
+		<actor gender="M" idleForm="31D4F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Sideways_S5" frames="500">
+		<actor gender="F" idleForm="31D50">
+		</actor>
+		<actor gender="M" idleForm="31D51">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Sideways_S6" frames="500">
+		<actor gender="F" idleForm="31D52">
+		</actor>
+		<actor gender="M" idleForm="31D53">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Climaxloop_S7" frames="200">
+		<actor gender="F" idleForm="31D54">
+		</actor>
+		<actor gender="M" idleForm="31D55">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Railing01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="31D56">
+		</actor>
+		<actor gender="M" idleForm="31D57">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_RoundTable01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="B070">
+		</actor>
+		<actor gender="M" idleForm="B071">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_RoundTable02_FM_2Human_RoughSideways_S3" frames="500">
+		<actor gender="F" idleForm="6C12">
+		</actor>
+		<actor gender="M" idleForm="6C13">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_RidingBrahmin_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="291EB">
+		</actor>
+		<actor gender="M" idleForm="291EC">
+		</actor>
+		<actor skeleton="Brahmin" idleForm="291ED">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_RidingBrahmin_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2FD8F">
+		</actor>
+		<actor gender="M" idleForm="2FD90">
+		</actor>
+		<actor skeleton="Brahmin" idleForm="2FD91">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="6446">
+		</actor>
+		<actor gender="M" idleForm="6447">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="82FD">
+		</actor>
+		<actor gender="M" idleForm="82FE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="CF45">
+		</actor>
+		<actor gender="M" idleForm="CF46">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="30562">
+		</actor>
+		<actor gender="M" idleForm="30563">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_BackseatSedanPreWar_FM_2Human_01_S3" frames="500">
+		<actor gender="F" idleForm="2171C">
+		</actor>
+		<actor gender="M" idleForm="2171D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_BackseatSedanPreWar_FM_2Human_01_S4" frames="500">
+		<actor gender="F" idleForm="2C01E">
+		</actor>
+		<actor gender="M" idleForm="2C01F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_BlowjobSedanPreWar_FM_2Human_02_S3" frames="500">
+		<actor gender="F" idleForm="27327">
+		</actor>
+		<actor gender="M" idleForm="27328">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_CowgirlSedanPreWar_FM_2Human_02_S4" frames="500">
+		<actor gender="F" idleForm="27341">
+		</actor>
+		<actor gender="M" idleForm="27342">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S3" frames="500">
+		<actor gender="F" idleForm="21EC5">
+		</actor>
+		<actor gender="M" idleForm="21EC6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S4" frames="500">
+		<actor gender="F" idleForm="27345">
+		</actor>
+		<actor gender="M" idleForm="27346">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S5" frames="500">
+		<actor gender="F" idleForm="27347">
+		</actor>
+		<actor gender="M" idleForm="27348">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S6" frames="500">
+		<actor gender="F" idleForm="27349">
+		</actor>
+		<actor gender="M" idleForm="2734A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2732B">
+		</actor>
+		<actor gender="M" idleForm="2732C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2732D">
+		</actor>
+		<actor gender="M" idleForm="2732E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="2732F">
+		</actor>
+		<actor gender="M" idleForm="27330">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="27331">
+		</actor>
+		<actor gender="M" idleForm="27332">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="27333">
+		</actor>
+		<actor gender="M" idleForm="27334">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2FD94">
+		</actor>
+		<actor gender="M" idleForm="2FD95">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="31568">
+		</actor>
+		<actor gender="M" idleForm="31569">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="3156A">
+		</actor>
+		<actor gender="M" idleForm="3156B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2C020">
+		</actor>
+		<actor gender="M" idleForm="2C021">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="3156C">
+		</actor>
+		<actor gender="M" idleForm="3156D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="3156E">
+		</actor>
+		<actor gender="M" idleForm="3156F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="31570">
+		</actor>
+		<actor gender="M" idleForm="31571">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_SportsCarPreWar01_FM_2Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="31572">
+		</actor>
+		<actor gender="M" idleForm="31573">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="263DB">
+		</actor>
+		<actor gender="M" idleForm="263DC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="263DD">
+		</actor>
+		<actor gender="M" idleForm="263DE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="263DF">
+		</actor>
+		<actor gender="M" idleForm="263E0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FM_2Human_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="263E1">
+		</actor>
+		<actor gender="M" idleForm="263E2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Stool01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2761">
+		</actor>
+		<actor gender="M" idleForm="2762">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Stool01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="D67A">
+		</actor>
+		<actor gender="M" idleForm="D67B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Stool01_FM_2Human_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="6C14">
+		</actor>
+		<actor gender="M" idleForm="6C15">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Table01_FM_2Human_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="45CF">
+		</actor>
+		<actor gender="M" idleForm="45D0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_WeaponWorkbenchLarge01_FM_2Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="31D12">
+		</actor>
+		<actor gender="M" idleForm="31D13">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_WeaponWorkbenchLarge01_FM_2Human_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="31D14">
+		</actor>
+		<actor gender="M" idleForm="31D15">
+		</actor>
+	</animation>
+
+<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_Armchair02_FMM_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="1028">
+		</actor>
+		<actor gender="M" idleForm="1029">
+		</actor>
+		<actor gender="M" idleForm="102A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair02_FMM_3Human_HandjobDoggy_S3" frames="500">
+		<actor gender="F" idleForm="102B">
+		</actor>
+		<actor gender="M" idleForm="102C">
+		</actor>
+		<actor gender="M" idleForm="102D">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair02_FMM_3Human_HandjobDoggy_S4" frames="500">
+		<actor gender="F" idleForm="102E">
+		</actor>
+		<actor gender="M" idleForm="102F">
+		</actor>
+		<actor gender="M" idleForm="1030">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair02_FMM_3Human_HandjobDoggy_S5" frames="500">
+		<actor gender="F" idleForm="1031">
+		</actor>
+		<actor gender="M" idleForm="1032">
+		</actor>
+		<actor gender="M" idleForm="1033">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair02_FMM_3Human_BlowjobDoggy_S6" frames="500">
+		<actor gender="F" idleForm="181C">
+		</actor>
+		<actor gender="M" idleForm="181D">
+		</actor>
+		<actor gender="M" idleForm="181E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair02_FMM_3Human_BlowjobDoggy_S7" frames="500">
+		<actor gender="F" idleForm="181F">
+		</actor>
+		<actor gender="M" idleForm="1820">
+		</actor>
+		<actor gender="M" idleForm="1821">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Armchair02_FMM_3Human_DeepthroatDoggy_S8" frames="500">
+		<actor gender="F" idleForm="2A8F3">
+		</actor>
+		<actor gender="M" idleForm="2A8F4">
+		</actor>
+		<actor gender="M" idleForm="2A8F5">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FMM_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="101C">
+		</actor>
+		<actor gender="M" idleForm="101D">
+		</actor>
+		<actor gender="M" idleForm="101E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FMM_3Human_HadnjobDoggy_S3" frames="500">
+		<actor gender="F" idleForm="101F">
+		</actor>
+		<actor gender="M" idleForm="1020">
+		</actor>
+		<actor gender="M" idleForm="1021">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FMM_3Human_HandjobDoggy_S4" frames="500">
+		<actor gender="F" idleForm="1022">
+		</actor>
+		<actor gender="M" idleForm="1023">
+		</actor>
+		<actor gender="M" idleForm="1024">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Bed01_FMM_3Human_TitjobDoggy_S5" frames="500">
+		<actor gender="F" idleForm="1025">
+		</actor>
+		<actor gender="M" idleForm="1026">
+		</actor>
+		<actor gender="M" idleForm="1027">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_BunkBed01_FMM_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30564">
+		</actor>
+		<actor gender="M" idleForm="30565">
+		</actor>
+		<actor gender="M" idleForm="30566">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_BunkBed01_FMM_3Human_Threesome_S3" frames="500">
+		<actor gender="F" idleForm="10C3C">
+		</actor>
+		<actor gender="M" idleForm="10C3D">
+		</actor>
+		<actor gender="M" idleForm="10C3E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_BunkBed01_FMM_3Human_Threesome_S4" frames="500">
+		<actor gender="F" idleForm="2FD9E">
+		</actor>
+		<actor gender="M" idleForm="2FD9F">
+		</actor>
+		<actor gender="M" idleForm="2FDA0">
+		</actor>
+	</animation>
+
+
+	<animation id="SCAP_Couch02_FMM_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D25">
+		</actor>
+		<actor gender="M" idleForm="30D26">
+		</actor>
+		<actor gender="M" idleForm="30D27">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FMM_3Human_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="2763">
+		</actor>
+		<actor gender="M" idleForm="2764">
+		</actor>
+		<actor gender="M" idleForm="2765">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FMM_3Human_Handjob_S4" frames="500">
+		<actor gender="F" idleForm="12319">
+		</actor>
+		<actor gender="M" idleForm="1231A">
+		</actor>
+		<actor gender="M" idleForm="1231B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FMM_3Human_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="3698">
+		</actor>
+		<actor gender="M" idleForm="3699">
+		</actor>
+		<actor gender="M" idleForm="369A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Couch02_FMM_3Human_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="30567">
+		</actor>
+		<actor gender="M" idleForm="30568">
+		</actor>
+		<actor gender="M" idleForm="30569">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FMM_3Human_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="21EF5">
+		</actor>
+		<actor gender="M" idleForm="21EF6">
+		</actor>
+		<actor gender="M" idleForm="21EF7">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed01_FMM_3Human_DoubleTeam_S4" frames="500">
+		<actor gender="F" idleForm="3056A">
+		</actor>
+		<actor gender="M" idleForm="3056B">
+		</actor>
+		<actor gender="M" idleForm="3056C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMM_3Human_ReverseCowGirlBlowjob_S3" frames="500">
+		<actor gender="F" idleForm="21EF2">
+		</actor>
+		<actor gender="M" idleForm="21EF3">
+		</actor>
+		<actor gender="M" idleForm="21EF4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMM_3Human_ReverseCowGirlBlowjob_S4" frames="500">
+		<actor gender="F" idleForm="3056D">
+		</actor>
+		<actor gender="M" idleForm="3056E">
+		</actor>
+		<actor gender="M" idleForm="3056F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed03_FMM_3Human_Threesome_S3" frames="500">
+		<actor gender="F" idleForm="31574">
+		</actor>
+		<actor gender="M" idleForm="31575">
+		</actor>
+		<actor gender="M" idleForm="31576">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="1034">
+		</actor>
+		<actor gender="M" idleForm="1035">
+		</actor>
+		<actor gender="M" idleForm="1036">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S4" frames="500">
+		<actor gender="F" idleForm="1037">
+		</actor>
+		<actor gender="M" idleForm="1038">
+		</actor>
+		<actor gender="M" idleForm="1039">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S5" frames="500">
+		<actor gender="F" idleForm="2FDA1">
+		</actor>
+		<actor gender="M" idleForm="2FDA2">
+		</actor>
+		<actor gender="M" idleForm="2FDA3">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor02_FMM_3Human_DoubleTeamRough_S3" frames="500">
+		<actor gender="F" idleForm="103A">
+		</actor>
+		<actor gender="M" idleForm="103B">
+		</actor>
+		<actor gender="M" idleForm="103C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor02_FMM_3Human_DoubleTeamRough_S4" frames="1000">
+		<actor gender="F" idleForm="103D">
+		</actor>
+		<actor gender="M" idleForm="103E">
+		</actor>
+		<actor gender="M" idleForm="103F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor03_FMM_3Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="550D">
+		</actor>
+		<actor gender="M" idleForm="550E">
+		</actor>
+		<actor gender="M" idleForm="550F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor03_FMM_3Human_Gangbang_S4" frames="500">
+		<actor gender="F" idleForm="2FDA4">
+		</actor>
+		<actor gender="M" idleForm="2FDA5">
+		</actor>
+		<actor gender="M" idleForm="2FDA6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor03_FMM_3Human_Gangbang_S5" frames="500">
+		<actor gender="F" idleForm="30570">
+		</actor>
+		<actor gender="M" idleForm="30571">
+		</actor>
+		<actor gender="M" idleForm="30572">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor04_FMM_3Human_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="82C9">
+		</actor>
+		<actor gender="M" idleForm="82CA">
+		</actor>
+		<actor gender="M" idleForm="82CB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor04_FMM_3Human_DoubleTeam_S4" frames="500">
+		<actor gender="F" idleForm="30573">
+		</actor>
+		<actor gender="M" idleForm="30574">
+		</actor>
+		<actor gender="M" idleForm="30575">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor05_FMM_3Human_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="BFA8">
+		</actor>
+		<actor gender="M" idleForm="BFA9">
+		</actor>
+		<actor gender="M" idleForm="BFAA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_KitchenPostWar01_FMM_3Human_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2F5D2">
+		</actor>
+		<actor gender="M" idleForm="2F5D3">
+		</actor>
+		<actor gender="M" idleForm="2F5D4">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_PoolTable01_FMM_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="1822">
+		</actor>
+		<actor gender="M" idleForm="1823">
+		</actor>
+		<actor gender="M" idleForm="1824">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMM_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="1825">
+		</actor>
+		<actor gender="M" idleForm="1826">
+		</actor>
+		<actor gender="M" idleForm="1827">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMM_3Human_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="104C">
+		</actor>
+		<actor gender="M" idleForm="104D">
+		</actor>
+		<actor gender="M" idleForm="104E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMM_3Human_DoubleTeam_S4" frames="500">
+		<actor gender="F" idleForm="1828">
+		</actor>
+		<actor gender="M" idleForm="1829">
+		</actor>
+		<actor gender="M" idleForm="182A">
+		</actor>
+	</animation>
+
+<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_DoubleBed02_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="2A8F6">
+		</actor>
+		<actor gender="M" idleForm="2A8F7">
+		</actor>
+		<actor gender="M" idleForm="2A8F8">
+		</actor>
+		<actor gender="M" idleForm="2A8F9">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMMM_4Human_GangbangTripleAnal_S4" frames="500">
+		<actor gender="F" idleForm="263D7">
+		</actor>
+		<actor gender="M" idleForm="263D8">
+		</actor>
+		<actor gender="M" idleForm="263D9">
+		</actor>
+		<actor gender="M" idleForm="263DA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="11B76">
+		</actor>
+		<actor gender="M" idleForm="11B77">
+		</actor>
+		<actor gender="M" idleForm="11B78">
+		</actor>
+		<actor gender="M" idleForm="11B79">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor02_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="6BE9">
+		</actor>
+		<actor gender="M" idleForm="6BEA">
+		</actor>
+		<actor gender="M" idleForm="6BEB">
+		</actor>
+		<actor gender="M" idleForm="6BEC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor03_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="7388">
+		</actor>
+		<actor gender="M" idleForm="7389">
+		</actor>
+		<actor gender="M" idleForm="738A">
+		</actor>
+		<actor gender="M" idleForm="738B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="1052">
+		</actor>
+		<actor gender="M" idleForm="1053">
+		</actor>
+		<actor gender="M" idleForm="1054">
+		</actor>
+		<actor gender="M" idleForm="1055">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMM_4Human_Gangbang_S4" frames="500">
+		<actor gender="F" idleForm="1056">
+		</actor>
+		<actor gender="M" idleForm="1057">
+		</actor>
+		<actor gender="M" idleForm="1058">
+		</actor>
+		<actor gender="M" idleForm="1059">
+		</actor>
+	</animation>
+
+<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_Floor01_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="105A">
+		</actor>
+		<actor gender="M" idleForm="105B">
+		</actor>
+		<actor gender="M" idleForm="105C">
+		</actor>
+		<actor gender="M" idleForm="105D">
+		</actor>
+		<actor gender="M" idleForm="105E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor02_FMMM_4Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="113D8">
+		</actor>
+		<actor gender="M" idleForm="113D9">
+		</actor>
+		<actor gender="M" idleForm="113DA">
+		</actor>
+		<actor gender="M" idleForm="113DB">
+		</actor>
+		<actor gender="M" idleForm="113DC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMMM_5Human_MultipleHandjob_S3" frames="500">
+		<actor gender="F" idleForm="21EF8">
+		</actor>
+		<actor gender="M" idleForm="21EF9">
+		</actor>
+		<actor gender="M" idleForm="21EFA">
+		</actor>
+		<actor gender="M" idleForm="21EFB">
+		</actor>
+		<actor gender="M" idleForm="21EFC">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMMM_5Human_Blowbang_S4" frames="500">
+		<actor gender="F" idleForm="2DEBB">
+		</actor>
+		<actor gender="M" idleForm="2DEBC">
+		</actor>
+		<actor gender="M" idleForm="2DEBD">
+		</actor>
+		<actor gender="M" idleForm="2DEBE">
+		</actor>
+		<actor gender="M" idleForm="2DEBF">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMMM_5Human_Blowbang_S5" frames="500">
+		<actor gender="F" idleForm="2DEC5">
+		</actor>
+		<actor gender="M" idleForm="2DEC6">
+		</actor>
+		<actor gender="M" idleForm="2DEC7">
+		</actor>
+		<actor gender="M" idleForm="2DEC8">
+		</actor>
+		<actor gender="M" idleForm="2DEC9">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMMM_5Human_Blowbang_S6" frames="500">
+		<actor gender="F" idleForm="2DECA">
+		</actor>
+		<actor gender="M" idleForm="2DECB">
+		</actor>
+		<actor gender="M" idleForm="2DECC">
+		</actor>
+		<actor gender="M" idleForm="2DECD">
+		</actor>
+		<actor gender="M" idleForm="2DECE">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Standing01_FMMMM_5Human_ClimaxLoop_S7" frames="500">
+		<actor gender="F" idleForm="2DEC0">
+		</actor>
+		<actor gender="M" idleForm="2DEC1">
+		</actor>
+		<actor gender="M" idleForm="2DEC2">
+		</actor>
+		<actor gender="M" idleForm="2DEC3">
+		</actor>
+		<actor gender="M" idleForm="2DEC4">
+		</actor>
+	</animation>
+
+	<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_Floor01_FMMMMMMMM_9Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="21F0D">
+		</actor>
+		<actor gender="M" idleForm="21F0E">
+		</actor>
+		<actor gender="M" idleForm="21F0F">
+		</actor>
+		<actor gender="M" idleForm="21F10">
+		</actor>
+		<actor gender="M" idleForm="21F11">
+		</actor>
+		<actor gender="M" idleForm="21F12">
+		</actor>
+		<actor gender="M" idleForm="21F13">
+		</actor>
+		<actor gender="M" idleForm="21F14">
+		</actor>
+		<actor gender="M" idleForm="21F15">
+		</actor>
+	</animation>
+
+	<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="2FDA7">
+		</actor>
+		<actor gender="M" idleForm="2FDA8">
+		</actor>
+		<actor gender="M" idleForm="2FDA9">
+		</actor>
+		<actor gender="M" idleForm="2FDAA">
+		</actor>
+		<actor gender="M" idleForm="2FDAB">
+		</actor>
+		<actor gender="M" idleForm="2FDAC">
+		</actor>
+		<actor gender="M" idleForm="2FDAD">
+		</actor>
+		<actor gender="M" idleForm="2FDAE">
+		</actor>
+		<actor gender="M" idleForm="2FDAF">
+		</actor>
+		<actor gender="M" idleForm="2FDB0">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S4" frames="500">
+		<actor gender="F" idleForm="263CD">
+		</actor>
+		<actor gender="M" idleForm="263CE">
+		</actor>
+		<actor gender="M" idleForm="263CF">
+		</actor>
+		<actor gender="M" idleForm="263D0">
+		</actor>
+		<actor gender="M" idleForm="263D1">
+		</actor>
+		<actor gender="M" idleForm="263D2">
+		</actor>
+		<actor gender="M" idleForm="263D3">
+		</actor>
+		<actor gender="M" idleForm="263D4">
+		</actor>
+		<actor gender="M" idleForm="263D5">
+		</actor>
+		<actor gender="M" idleForm="263D6">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S5" frames="500">
+		<actor gender="F" idleForm="2FDB1">
+		</actor>
+		<actor gender="M" idleForm="2FDB2">
+		</actor>
+		<actor gender="M" idleForm="2FDB3">
+		</actor>
+		<actor gender="M" idleForm="2FDB4">
+		</actor>
+		<actor gender="M" idleForm="2FDB5">
+		</actor>
+		<actor gender="M" idleForm="2FDB6">
+		</actor>
+		<actor gender="M" idleForm="2FDB7">
+		</actor>
+		<actor gender="M" idleForm="2FDB8">
+		</actor>
+		<actor gender="M" idleForm="2FDB9">
+		</actor>
+		<actor gender="M" idleForm="2FDBA">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S7" frames="500">
+		<actor gender="F" idleForm="30D1B">
+		</actor>
+		<actor gender="M" idleForm="30D1C">
+		</actor>
+		<actor gender="M" idleForm="30D1D">
+		</actor>
+		<actor gender="M" idleForm="30D1E">
+		</actor>
+		<actor gender="M" idleForm="30D1F">
+		</actor>
+		<actor gender="M" idleForm="30D20">
+		</actor>
+		<actor gender="M" idleForm="30D21">
+		</actor>
+		<actor gender="M" idleForm="30D22">
+		</actor>
+		<actor gender="M" idleForm="30D23">
+		</actor>
+		<actor gender="M" idleForm="30D24">
+		</actor>
+	</animation>
+
+	<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_DoubleBed01_FMF_3Human_MissionaryAnalFingering_S3" frames="500">
+		<actor gender="F" idleForm="2360A">
+		</actor>
+		<actor gender="M" idleForm="2360B">
+		</actor>
+		<actor gender="F" idleForm="2360C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D97">
+		</actor>
+		<actor gender="M" idleForm="30D98">
+		</actor>
+		<actor gender="F" idleForm="30D99">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Start_S2" frames="500">
+		<actor gender="F" idleForm="30D9A">
+		</actor>
+		<actor gender="M" idleForm="30D9B">
+		</actor>
+		<actor gender="F" idleForm="30D9C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S3" frames="500">
+		<actor gender="F" idleForm="30D9D">
+		</actor>
+		<actor gender="M" idleForm="30D9E">
+		</actor>
+		<actor gender="F" idleForm="30D9F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S4" frames="500">
+		<actor gender="F" idleForm="30DA0">
+		</actor>
+		<actor gender="M" idleForm="30DA1">
+		</actor>
+		<actor gender="F" idleForm="30DA2">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S5" frames="500">
+		<actor gender="F" idleForm="30DA3">
+		</actor>
+		<actor gender="M" idleForm="30DA4">
+		</actor>
+		<actor gender="F" idleForm="30DA5">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S6" frames="500">
+		<actor gender="F" idleForm="30DA6">
+		</actor>
+		<actor gender="M" idleForm="30DA7">
+		</actor>
+		<actor gender="F" idleForm="30DA8">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="30DA9">
+		</actor>
+		<actor gender="M" idleForm="30DAA">
+		</actor>
+		<actor gender="F" idleForm="30DAB">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_DoubleBed02_FMF_3Human_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30DAC">
+		</actor>
+		<actor gender="M" idleForm="30DAD">
+		</actor>
+		<actor gender="F" idleForm="30DAE">
+		</actor>
+	</animation>
+</animationData>

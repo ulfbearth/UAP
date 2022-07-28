@@ -1,0 +1,38 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_FM_WeightBench01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="27337">
+		</actor>
+		<actor gender="M" idleForm="27338">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_WeightBench01_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="27339">
+		</actor>
+		<actor gender="M" idleForm="2733A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_WeightBench01_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="2733B">
+		</actor>
+		<actor gender="M" idleForm="2733C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_WeightBench01_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="2733D">
+		</actor>
+		<actor gender="M" idleForm="2733E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_WeightBench01_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="2733F">
+		</actor>
+		<actor gender="M" idleForm="27340">
+		</actor>
+	</animation>
+</animationData>

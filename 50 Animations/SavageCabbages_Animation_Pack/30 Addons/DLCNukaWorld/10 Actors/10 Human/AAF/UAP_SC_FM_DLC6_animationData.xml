@@ -1,0 +1,46 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+ 	<animation id="SCAP_FM_Throne01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2FD96">
+		</actor>
+		<actor gender="M" idleForm="2FD97">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Throne01_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="101A">
+		</actor>
+		<actor gender="M" idleForm="101B">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Throne01_Handjob_S4" frames="500">
+		<actor gender="F" idleForm="E62E">
+		</actor>
+		<actor gender="M" idleForm="E62F">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Throne01_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="27335">
+		</actor>
+		<actor gender="M" idleForm="27336">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Throne01_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="27343">
+		</actor>
+		<actor gender="M" idleForm="27344">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_FM_Throne02_ReverseCowgirl_S3" frames="500">
+		<actor gender="F" idleForm="2C022">
+		</actor>
+		<actor gender="M" idleForm="2C023">
+		</actor>
+	</animation>
+
+</animationData>
