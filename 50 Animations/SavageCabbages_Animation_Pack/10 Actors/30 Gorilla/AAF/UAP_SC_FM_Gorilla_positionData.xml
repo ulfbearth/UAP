@@ -2,14 +2,14 @@
     <!-- Moved SavageCabbage tags Update 1.2.3 -->
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Tease_S1" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Tease,Held3,Stim7,Love5,Dom-5,NullToSelf,HandToNipples"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Start_S2" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Start,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Doggy_S3" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Doggy_S4" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Doggy_S5" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Doggy_S6" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Climax_S7" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_Gorilla_Standing01_Doggy_Finish_S8" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Finish,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Tease_S1" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Tease,Held3,Stim7,Love5,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Start_S2" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Start,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S3" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S4" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S5" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S6" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Climax_S7" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_Gorilla_Standing01_Doggy_Finish_S8" isHidden="true" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,Finish,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
 
 
     <position id="[UAP] SC-GorillaDoggy01" animationGroup="SCAP_F_Gorilla_Standing01_Doggy"/>

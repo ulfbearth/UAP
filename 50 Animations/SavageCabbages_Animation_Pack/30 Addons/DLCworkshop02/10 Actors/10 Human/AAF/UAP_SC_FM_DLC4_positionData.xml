@@ -2,13 +2,13 @@
     <!-- Moved SavageCabbage tags Update 1.2.3 -->
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
-    <position id="[UAP] SCAP_FM_Stocks01_Tease_S1" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,Tease,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_FM_Stocks01_Start_S2" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,Start,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_FM_Stocks01_Doggy_S3" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_FM_Stocks01_Doggy_S4" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_FM_Stocks01_Doggy_S5" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_FM_Stocks01_Tease_S1" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,Tease,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_FM_Stocks01_Start_S2" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,Start,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_FM_Stocks01_Doggy_S3" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_FM_Stocks01_Doggy_S4" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_FM_Stocks01_Doggy_S5" location="Stocks" isHidden="true" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
 
-    <position id="[UAP] SCAP_FMM_Stocks01_DoubleTeam_S3" location="Stocks" isHidden="true" tags="SavageCabbage,F_M_M,Stocks,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="SCAP_FMM_Stocks01_DoubleTeam_S3" location="Stocks" isHidden="true" tags="SavageCabbage,F_M_M,Stocks,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
 
     <!--=============== STAGED ===============-->
 

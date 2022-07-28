@@ -2,8 +2,8 @@
 <!-- Moved SavageCabbage tags Update 1.2.3 -->
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
-    <position id="[UAP] SCAP_F_SMFEVH_Standing01_Doggy_S3" isHidden="true" tags="SavageCabbage,F_SMutantM,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToMouth,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_SMFEVH_Standing01_Doggy_S4" isHidden="true" tags="SavageCabbage,F_SMutantM,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToMouth,PenisToVagina"/>
+    <position id="SCAP_F_SMFEVH_Standing01_Doggy_S3" isHidden="true" tags="SavageCabbage,F_SMutantM,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToMouth,PenisToVagina"/>
+    <position id="SCAP_F_SMFEVH_Standing01_Doggy_S4" isHidden="true" tags="SavageCabbage,F_SMutantM,F_FEVHoundM,NoFurn,Doggy,FromBehind,Rough,Aggressive,Tease,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToMouth,PenisToVagina"/>
 
     <!-- SM+FEVH Staged-->
 
