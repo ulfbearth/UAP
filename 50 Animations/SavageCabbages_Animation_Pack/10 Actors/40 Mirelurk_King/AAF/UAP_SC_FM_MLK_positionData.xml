@@ -2,10 +2,10 @@
 <!-- Moved SavageCabbage tags Update 1.2.3 -->
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
-    <position id="[UAP] SCAP_F_MLK_Standing01_Doggy_S3" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_MLK_Standing01_Doggy_S4" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_MLK_Standing01_Doggy_S5" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
-    <position id="[UAP] SCAP_F_MLK_Standing01_Doggy_S6" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_MLK_Standing01_Doggy_S3" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_MLK_Standing01_Doggy_S4" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_MLK_Standing01_Doggy_S5" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_MLK_Standing01_Doggy_S6" isHidden="true" tags="SavageCabbage,F_MireLurkK,NoFurn,Carry,FromFront,Rough,Aggressive,MidStage,Held5,Love1,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
 
     <!--=============== STAGED ===============-->
 

@@ -2,13 +2,13 @@
 <!-- Moved SavageCabbage tags Update 1.2.3 -->
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
-    <position id="[UAP] SCAP_FM_Throne01_Tease_S1" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,Tease,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
-    <position id="[UAP] SCAP_FM_Throne01_Handjob_S3" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
-    <position id="[UAP] SCAP_FM_Throne01_Handjob_S4" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
-    <position id="[UAP] SCAP_FM_Throne01_Blowjob_S5" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Blowjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
-    <position id="[UAP] SCAP_FM_Throne01_Blowjob_S6" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Blowjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SCAP_FM_Throne01_Tease_S1" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,Tease,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
+    <position id="SCAP_FM_Throne01_Handjob_S3" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
+    <position id="SCAP_FM_Throne01_Handjob_S4" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Handjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToHand"/>
+    <position id="SCAP_FM_Throne01_Blowjob_S5" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Blowjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SCAP_FM_Throne01_Blowjob_S6" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Throne,Kneeling,FromFront,Blowjob,Aggressive,MidStage,Held1,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
 
-    <position id="[UAP] SCAP_FM_Throne02_ReverseCowgirl_S3" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Couch,Cowgirl,FromBehind,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_FM_Throne02_ReverseCowgirl_S3" location="Throne" isHidden="true" tags="SavageCabbage,F_M,Couch,Cowgirl,FromBehind,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
 
     <!--=============== STAGED ===============-->
 
