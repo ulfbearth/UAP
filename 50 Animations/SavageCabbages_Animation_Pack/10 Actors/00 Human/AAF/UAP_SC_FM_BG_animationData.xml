@@ -1,0 +1,165 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_F_BG_Floor01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5BE">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5BF">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Floor01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="45E2">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="45E3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Floor01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="4D85">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="4D86">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Floor01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="5525">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="5526">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Floor01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="5CC2">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="5CC3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Floor01_Climax_S7" frames="250">
+		<actor gender="F" idleForm="6469">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="646A">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Floor01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30554">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="30555">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5C0">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C1">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing01_Start_S2" frames="500">
+		<actor gender="F" idleForm="2FD7F">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2FD80">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing01_Carry_S3" frames="500">
+		<actor gender="F" idleForm="A17F">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="A180">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing01_Carry_S4" frames="500">
+		<actor gender="F" idleForm="12322">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12323">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing01_Carry_S5" frames="500">
+		<actor gender="F" idleForm="12324">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12325">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing01_Climax_S6" frames="500">
+		<actor gender="F" idleForm="12AC1">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12AC2">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing02_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5C2">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing02_Blowjob_S3" frames="500">
+		<actor gender="F" idleForm="A182">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="A183">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing02_Blowjob_S4" frames="500">
+		<actor gender="F" idleForm="1231E">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="1231F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing02_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="12320">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12321">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_BG_Standing02_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="28299">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2829A">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+</animationData>

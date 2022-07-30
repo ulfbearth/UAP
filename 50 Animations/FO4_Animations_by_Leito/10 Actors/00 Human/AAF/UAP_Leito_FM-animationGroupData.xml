@@ -127,27 +127,6 @@
 		<stage animation="Leito_StandingDoggy_2_S4"/>
 	</animationGroup>
 
-	<animationGroup id="Leito_Canine_Doggy_1_Staged" sequential="false">
-		<stage animation="Leito_Canine_Doggy_1_S1"/>
-		<stage animation="Leito_Canine_Doggy_1_S2"/>
-		<stage animation="Leito_Canine_Doggy_1_S3"/>
-		<stage animation="Leito_Canine_Doggy_1_S4"/>
-	</animationGroup>
-
-	<animationGroup id="Leito_Canine_Doggy_2_Staged" sequential="false">
-		<stage animation="Leito_Canine_Doggy_2_S1"/>
-		<stage animation="Leito_Canine_Doggy_2_S2"/>
-		<stage animation="Leito_Canine_Doggy_2_S3"/>
-		<stage animation="Leito_Canine_Doggy_2_S4"/>
-	</animationGroup>
-
-	<animationGroup id="Leito_Canine_Missionary_1_Staged" sequential="false">
-		<stage animation="Leito_Canine_Missionary_1_S1"/>
-		<stage animation="Leito_Canine_Missionary_1_S2"/>
-		<stage animation="Leito_Canine_Missionary_1_S3"/>
-		<stage animation="Leito_Canine_Missionary_1_S4"/>
-	</animationGroup>
-
 
 	<!-- Chair Animations-->
 
