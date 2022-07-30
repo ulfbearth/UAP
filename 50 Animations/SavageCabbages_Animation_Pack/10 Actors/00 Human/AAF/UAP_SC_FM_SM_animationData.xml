@@ -1,0 +1,990 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_F_SM_Bed01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="28A4E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="28A4F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed01_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="12AC3">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="12AC4">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed01_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="1493A">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1493B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed01_Powerbomb_S5" frames="500">
+		<actor gender="F" idleForm="1493C">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1493D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed01_Powerbomb_S6" frames="500">
+		<actor gender="F" idleForm="2A8FE">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A8FF">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DED7">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2DED8">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="3057E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3057F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2B0AF">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B0B0">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_ReversePowerbomb_S3" frames="500">
+		<actor gender="F" idleForm="21EC7">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="21EC8">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_ReversePowerbomb_S4" frames="500">
+		<actor gender="F" idleForm="21EC9">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="21ECA">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_ReversePowerbomb_S5" frames="500">
+		<actor gender="F" idleForm="21ECB">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="21ECC">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_ReversePowerbomb_S6" frames="500">
+		<actor gender="F" idleForm="21ECD">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="21ECE">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2DED9">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2DEDA">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Bed02_Finish_S8" frames="500">
+		<actor gender="F" idleForm="2FD9A">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2FD9B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D54">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D55">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_Start_S2" frames="500">
+		<actor gender="F" idleForm="30D56">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D57">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_ReverseCowgirl_S3" frames="500">
+		<actor gender="F" idleForm="30D58">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D59">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_ReverseCowgirl_S4" frames="500">
+		<actor gender="F" idleForm="30D5A">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D5B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_ReverseCowgirl_S5" frames="500">
+		<actor gender="F" idleForm="30D5C">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D5D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_ReverseCowgirl_S6" frames="500">
+		<actor gender="F" idleForm="30D5E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D5F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="30D60">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D61">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Couch_PlayerHouse01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30D62">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30D63">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed01_Start_S2" frames="500">
+		<actor gender="F" idleForm="21F0B">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="21F0C">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="7B5B">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="7B5C">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="923E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="923F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="D6E2">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="D6E3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="D6E4">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="D6E5">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2E67E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E67F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_Blowjob_S3" frames="500">
+		<actor gender="F" idleForm="7B5D">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="7B5E">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_Blowjob_S4" frames="500">
+		<actor gender="F" idleForm="99E2">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="99E3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_Standing69_S5" frames="500">
+		<actor gender="F" idleForm="A91F">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="A920">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_Standing69_S6" frames="500">
+		<actor gender="F" idleForm="E624">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="E625">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_Standing69_S7" frames="500">
+		<actor gender="F" idleForm="12313">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="12314">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_Deepthroat69_S8" frames="500">
+		<actor gender="F" idleForm="12315">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="12316">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed02_ClimaxLoop_S9" frames="200">
+		<actor gender="F" idleForm="2E680">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E681">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_Tease_S1" frames="500">
+		<actor gender="F" idleForm="21EDA">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="21EDB">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_Start_S2" frames="500">
+		<actor gender="F" idleForm="2A151">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A152">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_Cowgirl_S3" frames="500">
+		<actor gender="F" idleForm="E626">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="E627">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_Cowgirl_S4" frames="500">
+		<actor gender="F" idleForm="E628">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="E629">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_Cowgirl_S5" frames="500">
+		<actor gender="F" idleForm="EDCB">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="EDCC">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_Cowgirl_S6" frames="500">
+		<actor gender="F" idleForm="F566">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="F567">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_DoubleBed03_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2E682">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E683">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5D8">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5D9">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="CErection" to="1"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_Start_S2" frames="500">
+		<actor gender="F" idleForm="2FD9C">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2FD9D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="CErection" to="1"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="1493E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1493F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="CErection" to="1"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="14940">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="14941">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_Wheelbarrow_S5" frames="500">
+		<actor gender="F" idleForm="14942">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="14943">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_Wheelbarrow_S6" frames="500">
+		<actor gender="F" idleForm="14944">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="14945">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Floor01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2E684">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2E685">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagMedium01_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="2A139">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A13A">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagSmall01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="31D16">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D17">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagSmall01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A13B">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A13C">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagSmall01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="31D18">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D19">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagSmall01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="31D1A">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D1B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagSmall01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="31D1C">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D1D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_MeatBagSmall01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="31D1E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D1F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_RoundTableSmall01_ReverseCowgirlAnal_S3" frames="500">
+		<actor gender="F" idleForm="2A13D">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A13E">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="3E3D">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3E3E">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Start_S2" frames="500">
+		<actor gender="F" idleForm="3E3F">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3E40">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="3E41">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3E42">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="3E43">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3E44">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="3E45">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3E46">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="2F5DA">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5DB">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="2F5DC">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5DD">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30580">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="30581">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed02_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5DE">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5DF">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed02_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="C7A2">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="C7A3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed02_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="139F9">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="139FA">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed02_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="139FB">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="139FC">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_SMBed02_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="139FD">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="139FE">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing01_Start_S2" frames="500">
+		<actor gender="F" idleForm="2F5E0">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5E1">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2F04">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F05">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="B85F">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="B860">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="B861">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="B862">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="B863">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="B864">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing02_Handjob_S3" frames="500">
+		<actor gender="F" idleForm="7B5F">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="7B60">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing02_Blowjob_S4" frames="500">
+		<actor gender="F" idleForm="DE87">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="DE88">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing02_Blowjob_S5" frames="500">
+		<actor gender="F" idleForm="150E6">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="150E7">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing02_Blowjob_S6" frames="500">
+		<actor gender="F" idleForm="150E8">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="150E9">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing03_Tease_S1" frames="500">
+		<actor gender="F" idleForm="D6E6">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="D6E7">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing03_Carry_S3" frames="500">
+		<actor gender="F" idleForm="D6E8">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="D6E9">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing03_Carry_S4" frames="500">
+		<actor gender="F" idleForm="12317">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="12318">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing03_Carry_S5" frames="500">
+		<actor gender="F" idleForm="12326">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="12327">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing03_Carry_S6" frames="500">
+		<actor gender="F" idleForm="2A156">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A157">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_Standing04_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2A158">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A159">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_TrafficLights01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5E2">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5E3">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_TrafficLights01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="2A13F">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A140">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="31D20">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D21">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Start_S2" frames="500">
+		<actor gender="F" idleForm="31D22">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D23">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="31D24">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D25">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="31D26">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D27">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="31D28">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D29">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="31D2A">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D2B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="31D2C">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D2D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_VaultTecVanWrecked01_Finish_S8" frames="500">
+		<actor gender="F" idleForm="31D2E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="31D2F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_F_SM2_CampBed01_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="FD01">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="FD02">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="FD03">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM2_SMBed01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2F5D5">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5D6">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2F5D7">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM2_SMBed01_HandjobDoggy_S3" frames="500">
+		<actor gender="F" idleForm="1049D">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1049E">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1049F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM2_SMBed01_HandjobDoggy_S4" frames="500">
+		<actor gender="F" idleForm="14946">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="14947">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="14948">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM2_SMBed01_Spitroast_S5" frames="500">
+		<actor gender="F" idleForm="14949">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1494A">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="1494B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM2_SMBed01_Spitroast_S6" frames="500">
+		<actor gender="F" idleForm="2A153">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A154">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2A155">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM2_Standing01_DoubleTeam_S3" frames="500">
+		<actor gender="F" idleForm="104A0">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="104A1">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="104A2">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+<!-- =============================================================================================================================== -->
+
+	<animation id="SCAP_F_SM3_DoubleBedBroken01_Gangbang_S3" frames="500">
+		<actor gender="F" idleForm="2B86E">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B86F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B870">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B871">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM3_DoubleBedBroken01_Gangbang_S4" frames="500">
+		<actor gender="F" idleForm="2B872">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B873">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B874">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="2B875">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+</animationData>

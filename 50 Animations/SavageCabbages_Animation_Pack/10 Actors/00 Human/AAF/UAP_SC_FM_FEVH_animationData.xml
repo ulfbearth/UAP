@@ -1,0 +1,138 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults idleSource="SavageCabbage_Animations.esp"/>
+
+	<animation id="SCAP_F_FEVH_Floor01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="2D6F3">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2D6F4">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor01_Start_S2" frames="500">
+		<actor gender="F" idleForm="2D6F5">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2D6F6">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor01_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="28297">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="28298">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor01_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="2D6F7">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2D6F8">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="2D6F9">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2D6FA">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor01_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="2D6FB">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2D6FC">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor01_Climax_S7" frames="500">
+		<actor gender="F" idleForm="2E688">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="2E689">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Tease_S1" frames="500">
+		<actor gender="F" idleForm="30D74">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D75">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Start_S2" frames="500">
+		<actor gender="F" idleForm="30D76">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D77">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="30D78">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D79">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="30D7A">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D7B">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="30D7C">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D7D">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="30D7E">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D7F">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Climax_S7" frames="500">
+		<actor gender="F" idleForm="30D80">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D81">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_FEVH_Floor02_Finish_S8" frames="500">
+		<actor gender="F" idleForm="30D82">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="30D83">
+			<morph id="Erection" to="1.0000000000001"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+		</actor>
+	</animation>
+</animationData>
