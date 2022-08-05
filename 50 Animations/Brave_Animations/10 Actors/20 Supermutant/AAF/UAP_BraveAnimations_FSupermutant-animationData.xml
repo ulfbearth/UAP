@@ -6,7 +6,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01001732">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01001732">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -17,7 +17,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="010044d3">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d3">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -28,7 +28,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="010044d4">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d4">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -39,7 +39,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="010044d5">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d5">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -51,7 +51,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="010044d6">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d6">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -62,7 +62,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="010044d7">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d7">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -74,7 +74,7 @@
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="010044d8">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d8">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

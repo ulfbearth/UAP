@@ -23,8 +23,8 @@
 
     <!-- SMB Staged -->
 
-    <position id="[UAP] SC-SMBCowgirl01" animationGroup="SCAP_F_SMB_Floor01_Cowgirl"/>
-    <position id="[UAP] SC-SMBMissionary01" animationGroup="SCAP_F_SMB_Floor02_Missionary"/>
-    <position id="[UAP] SC-SMBBlowjob01" animationGroup="SCAP_F_SMB_Floor03_Blowjob"/>
+    <position id="[UAP] SC-SMBCowgirl01" animationGroup="SCAP_F_SMB_Floor01_Cowgirl" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-SMBMissionary01" animationGroup="SCAP_F_SMB_Floor02_Missionary" tags="SavageCabbage,F_SMBehemoth,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-SMBBlowjob01" animationGroup="SCAP_F_SMB_Floor03_Blowjob" tags="SavageCabbage,F_SMBehemoth,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
 
 </positionData>

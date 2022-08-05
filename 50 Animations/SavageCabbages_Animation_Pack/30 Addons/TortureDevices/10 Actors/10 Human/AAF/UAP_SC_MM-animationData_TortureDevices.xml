@@ -7,33 +7,33 @@
 	<!-- 2 Actors -->
 
 	<animation id="SCAP_DoggyHydroPillory_MM_2Human_01_S3" frames="500">
-		<actor gender="M" idleForm="0000100E">
+		<actor gender="M" idleForm="0000100E" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="0000100F">
+		<actor gender="M" idleForm="0000100F" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoggyHydroPillory_MM_2Human_01_S4" frames="500">
-		<actor gender="M" idleForm="27323">
+		<actor gender="M" idleForm="27323" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="27324">
+		<actor gender="M" idleForm="27324" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoggyHydroPillory_MM_2Human_01_S5" frames="500">
-		<actor gender="M" idleForm="27325">
+		<actor gender="M" idleForm="27325" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="27326">
+		<actor gender="M" idleForm="27326" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
@@ -45,15 +45,15 @@
 	<!-- 3 Actors -->
 
 	<animation id="SCAP_DoubleTeamHydroPillory_MM_3Human_01" frames="500">
-		<actor gender="M" idleForm="00001040">
+		<actor gender="M" idleForm="00001040" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001041">
+		<actor gender="M" idleForm="00001041" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001042">
+		<actor gender="M" idleForm="00001042" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
@@ -68,33 +68,33 @@
 	<!-- 2 Actors -->
 
 	<animation id="SCAP_DoggyPillory_MM_2Human_01_S2" frames="500">
-		<actor gender="M" idleForm="00001010">
+		<actor gender="M" idleForm="00001010" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001011">
+		<actor gender="M" idleForm="00001011" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoggyPillory_MM_2Human_01_S3" frames="500">
-		<actor gender="M" idleForm="00001012">
+		<actor gender="M" idleForm="00001012" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001013">
+		<actor gender="M" idleForm="00001013" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoggyPillory_MM_2Human_01_S4" frames="500">
-		<actor gender="M" idleForm="00001014">
+		<actor gender="M" idleForm="00001014" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001015">
+		<actor gender="M" idleForm="00001015" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
@@ -105,30 +105,30 @@
 	<!-- 3 Actors -->
 
 	<animation id="SCAP_DoubleTeamPillory_MM_3Human_01_S2" frames="500">
-		<actor gender="M" idleForm="00001043">
+		<actor gender="M" idleForm="00001043" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001044">
+		<actor gender="M" idleForm="00001044" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001045">
+		<actor gender="M" idleForm="00001045" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_DoubleTeamPillory_MM_3Human_01_S3" frames="500">
-		<actor gender="M" idleForm="00001046">
+		<actor gender="M" idleForm="00001046" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001047">
+		<actor gender="M" idleForm="00001047" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001048">
+		<actor gender="M" idleForm="00001048" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>

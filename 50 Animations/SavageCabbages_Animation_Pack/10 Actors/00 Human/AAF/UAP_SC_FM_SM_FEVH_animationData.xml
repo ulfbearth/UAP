@@ -4,11 +4,11 @@
 	<animation id="SCAP_F_SMFEVH_Standing01_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2D701">
 		</actor>
-		<actor gender="M" skeleton="SuperMutant" idleForm="2D702">
+		<actor gender="M" skeleton="SuperMutant" idleForm="2D702" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FEVHound" idleForm="2D703">
+		<actor gender="M" skeleton="FEVHound" idleForm="2D703" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -17,11 +17,11 @@
 	<animation id="SCAP_F_SMFEVH_Standing01_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="30D84">
 		</actor>
-		<actor gender="M" skeleton="SuperMutant" idleForm="30D85">
+		<actor gender="M" skeleton="SuperMutant" idleForm="30D85" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FEVHound" idleForm="30D86">
+		<actor gender="M" skeleton="FEVHound" idleForm="30D86" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>

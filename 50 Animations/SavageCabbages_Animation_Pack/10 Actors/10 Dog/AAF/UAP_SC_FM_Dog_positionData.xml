@@ -181,24 +181,24 @@
 
     <!--========================================= Dog Animations STAGED =============================================-->
     
-    <position id="[UAP] SC-ArmchairSitting" animationGroup="SCAP_F_Dog_Armchair01_Sitting" location="ArmChair"/>
-    <position id="[UAP] SC-BedBlowjob" animationGroup="SCAP_F_Dog_Bed01_Blowjob" location="Single_Bed"/>
-    <position id="[UAP] SC-BedDoggy" animationGroup="SCAP_F_Dog_Bed02_Doggy" location="Single_Bed"/>
-    <position id="[UAP] SC-BenchDoggy" animationGroup="SCAP_F_Dog_Bench01_Doggy" location="Bench"/>
-    <position id="[UAP] SC-CouchMissionary" animationGroup="SCAP_F_Dog_Couch01_Missionary" location="Couches"/>
-    <position id="[UAP] SC-DoubleBedMix" animationGroup="SCAP_F_Dog_DoubleBedBed01_Mix" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBedBlowjob" animationGroup="SCAP_F_Dog_DoubleBedBed02_Blowjob" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBedDoggy" animationGroup="SCAP_F_Dog_DoubleBedBed03_Doggy" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBedDoggy2" animationGroup="SCAP_F_Dog_DoubleBedBed04_Doggy" location="Double_Bed"/>
-    <position id="[UAP] SC-FloorDoggy" animationGroup="SCAP_F_Dog_Floor01_Doggy"/>
-    <position id="[UAP] SC-FloorMissionary" animationGroup="SCAP_F_Dog_Floor02_Missionary"/>
-    <position id="[UAP] SC-FloorDoggy2" animationGroup="SCAP_F_Dog_Floor03_Doggy"/>
-    <position id="[UAP] SC-OuthouseSitting" animationGroup="SCAP_F_Dog_Outhouse01_Sitting" location="Outhouse"/>
-    <position id="[UAP] SC-RoundTableSmallDoggy" animationGroup="SCAP_F_Dog_RoundTableSmall01_Doggy" location="RoundTable"/>
-    <position id="[UAP] SC-SleepingBagMissionary" animationGroup="SCAP_F_Dog_SleepingBag01_Missionary" location="Sleeping_Bag"/>
-    <position id="[UAP] SC-StandingDoggy" animationGroup="SCAP_F_Dog_Standing01_Doggy"/>
-    <position id="[UAP] SC-ToiletDoggy" animationGroup="SCAP_F_Dog_Toilet01_Doggy" location="Toilet"/>
-    <position id="[UAP] SC-DoubleBedDoggy3" animationGroup="SCAP_F_Dog2_DoubleBed01_Doggy" location="Double_Bed"/>
-    <position id="[UAP] SC-FloorDoggy3" animationGroup="SCAP_FH_Dog_Floor01_Doggy"/>
+    <position id="[UAP] SC-ArmchairSitting" animationGroup="SCAP_F_Dog_Armchair01_Sitting" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-BedBlowjob" animationGroup="SCAP_F_Dog_Bed01_Blowjob" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] SC-BedDoggy" animationGroup="SCAP_F_Dog_Bed02_Doggy" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-BenchDoggy" animationGroup="SCAP_F_Dog_Bench01_Doggy" location="Bench" tags="SavageCabbage,F_DogM,SingleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-CouchMissionary" animationGroup="SCAP_F_Dog_Couch01_Missionary" location="Couches" tags="SavageCabbage,F_DogM,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBedMix" animationGroup="SCAP_F_Dog_DoubleBedBed01_Mix" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Finish,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBedBlowjob" animationGroup="SCAP_F_Dog_DoubleBedBed02_Blowjob" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,BlowJob,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] SC-DoubleBedDoggy" animationGroup="SCAP_F_Dog_DoubleBedBed03_Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBedDoggy2" animationGroup="SCAP_F_Dog_DoubleBedBed04_Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-FloorDoggy" animationGroup="SCAP_F_Dog_Floor01_Doggy" tags="SavageCabbage,F_DogM,NoFurn,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-FloorMissionary" animationGroup="SCAP_F_Dog_Floor02_Missionary" tags="SavageCabbage,F_DogM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-FloorDoggy2" animationGroup="SCAP_F_Dog_Floor03_Doggy" tags="SavageCabbage,F_DogM,NoFurn,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-OuthouseSitting" animationGroup="SCAP_F_Dog_Outhouse01_Sitting" location="Outhouse" tags="SavageCabbage,F_DogM,Outhouse,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-RoundTableSmallDoggy" animationGroup="SCAP_F_Dog_RoundTableSmall01_Doggy" location="RoundTable" tags="SavageCabbage,F_DogM,RoundTable,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-SleepingBagMissionary" animationGroup="SCAP_F_Dog_SleepingBag01_Missionary" location="Sleeping_Bag" tags="SavageCabbage,F_DogM,SleepingBag,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-StandingDoggy" animationGroup="SCAP_F_Dog_Standing01_Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-ToiletDoggy" animationGroup="SCAP_F_Dog_Toilet01_Doggy" location="Toilet" tags="SavageCabbage,F_DogM,Toilet,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBedDoggy3" animationGroup="SCAP_F_Dog2_DoubleBed01_Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-FloorDoggy3" animationGroup="SCAP_FH_Dog_Floor01_Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
     
 </positionData>

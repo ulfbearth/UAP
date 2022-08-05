@@ -12,7 +12,7 @@
 
     <!--=============== STAGED ===============-->
 
-    <position id="[UAP] SC-StocksDoggy" animationGroup="SCAP_FM_Stocks01_Doggy" location="Stocks"/>
-    <position id="[UAP] SC-StocksDoubleTeam" animationGroup="SCAP_FMM_Stocks01_DoubleTeam" location="Stocks"/>
+    <position id="[UAP] SC-StocksDoggy" animationGroup="SCAP_FM_Stocks01_Doggy" location="Stocks" tags="SavageCabbage,F_M,Stocks,FromBehind,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-StocksDoubleTeam" animationGroup="SCAP_FMM_Stocks01_DoubleTeam" location="Stocks" tags="SavageCabbage,F_M_M,Stocks,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love1,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
 
 </positionData>

@@ -299,7 +299,7 @@
 		<actor gender="F" idleForm="2F5D8">
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="2F5D9">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -307,7 +307,7 @@
 		<actor gender="F" idleForm="2FD9C">
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="2FD9D">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -315,7 +315,7 @@
 		<actor gender="F" idleForm="1493E">
 		</actor>
 		<actor gender="M" skeleton="Supermutant" idleForm="1493F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 

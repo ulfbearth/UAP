@@ -62,36 +62,36 @@
 <!--===================================== Staged Ghouls =========================================-->
 	<!-- Blowjob -->
 
-    <position id="[UAP] SC-GhoulBlowjob01" animationGroup="SCAP_F_FG_Standing02_Blowjob"/>
+    <position id="[UAP] SC-GhoulBlowjob01" animationGroup="SCAP_F_FG_Standing02_Blowjob" tags="SavageCabbage,F_FGhoulM,NoFurn,Kneeling,Blowjob,Handjob,FromFront,Rough,Aggressive,MidStage,Held3,Love0,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
     
     <!-- Doggy -->
     
-    <position id="[UAP] SC-GhoulDoggy01" animationGroup="SCAP_F_FG_BowlingBallReturn01_Doggy" location="BowlingBallReturn"/> 
-    <position id="[UAP] SC-GhoulDoggy02" animationGroup="SCAP_F_FG_ClockTower01_Doggy" location="Clock_Tower"/> 
-    <position id="[UAP] SC-GhoulDoggy03" animationGroup="SCAP_F_FG_NewsStand01_Doggy" location="News_Stand"/> 
-    <position id="[UAP] SC-GhoulDoggy04" animationGroup="SCAP_F_FG_NukaColaVendor01_Doggy" location="Nuka_Cola_Vendor"/>
-    <position id="[UAP] SC-GhoulDoggy05" animationGroup="SCAP_F_FG_Standing01_Doggy"/> 
-    <position id="[UAP] SC-GhoulDoggy06" animationGroup="SCAP_F_FG_SubwayColumnLower01_Doggy" location="Subway_Platform_Column_Small"/> 
-    <position id="[UAP] SC-GhoulDoggy07" animationGroup="SCAP_F_FG_ToiletBroken01_Doggy" location="Toilet"/> 
-    <position id="[UAP] SC-GhoulDoggy08" animationGroup="SCAP_F_FG_Urinal01_Doggy" location="Urinal_Broken_01"/> 
+    <position id="[UAP] SC-GhoulDoggy01" animationGroup="SCAP_F_FG_BowlingBallReturn01_Doggy" location="BowlingBallReturn" tags="SavageCabbage,F_FGhoulM,BowlingBallReturn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulDoggy02" animationGroup="SCAP_F_FG_ClockTower01_Doggy" location="Clock_Tower" tags="SavageCabbage,F_FGhoulM,ClockTower,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulDoggy03" animationGroup="SCAP_F_FG_NewsStand01_Doggy" location="News_Stand" tags="SavageCabbage,F_FGhoulM,NewsStand,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulDoggy04" animationGroup="SCAP_F_FG_NukaColaVendor01_Doggy" location="Nuka_Cola_Vendor" tags="SavageCabbage,F_FGhoulM,NukaColaVendor,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-GhoulDoggy05" animationGroup="SCAP_F_FG_Standing01_Doggy" tags="SavageCabbage,F_FGhoulM,NoFurn,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulDoggy06" animationGroup="SCAP_F_FG_SubwayColumnLower01_Doggy" location="Subway_Platform_Column_Small" tags="SavageCabbage,F_FGhoulM,Column,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulDoggy07" animationGroup="SCAP_F_FG_ToiletBroken01_Doggy" location="Toilet" tags="SavageCabbage,F_FGhoulM,Toilet,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulDoggy08" animationGroup="SCAP_F_FG_Urinal01_Doggy" location="Urinal_Broken_01" tags="SavageCabbage,F_FGhoulM,Urinal,Standing,FromBehind,Rough,Aggressive,MidStage,Held3,Love0,Stim7,Dom-7,NullToSelf,PenisToVagina"/> 
 
     <!-- Standing -->
 
-    <position id="[UAP] SC-GhoulUpright01" animationGroup="SCAP_F_FG_MetalBarrel01_Upright" location="Metal_Barrel"/> 
-    <position id="[UAP] SC-GhoulUpright02" animationGroup="SCAP_F_FG_Refrigerator01_Upright" location="Refrigerator_PlayerHouse"/> 
-    <position id="[UAP] SC-GhoulUpright03" animationGroup="SCAP_F_FG_TrashCan01_Upright" location="Trash_Can_PreWar"/> 
+    <position id="[UAP] SC-GhoulUpright01" animationGroup="SCAP_F_FG_MetalBarrel01_Upright" location="Metal_Barrel" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulUpright02" animationGroup="SCAP_F_FG_Refrigerator01_Upright" location="Refrigerator_PlayerHouse" tags="SavageCabbage,F_M,Fridge,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-GhoulUpright03" animationGroup="SCAP_F_FG_TrashCan01_Upright" location="Trash_Can_PreWar" tags="SavageCabbage,F_M,TrashCan,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/> 
 
     <!-- Sitting -->
 
-    <position id="[UAP] SC-GhoulSitting01" animationGroup="SCAP_F_FG_BenchHighTech01_Sitting" location="Bench_High_Tech"/> 
+    <position id="[UAP] SC-GhoulSitting01" animationGroup="SCAP_F_FG_BenchHighTech01_Sitting" location="Bench_High_Tech" tags="SavageCabbage,F_M,Bench,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/> 
 
     <!-- Missionary -->
 
-    <position id="[UAP] SC-Ghoul" animationGroup="SCAP_F_FG_ChurchPew01_Missionary" location="Church_Pew"/> 
+    <position id="[UAP] SC-Ghoul" animationGroup="SCAP_F_FG_ChurchPew01_Missionary" location="Church_Pew" tags="SavageCabbage,F_M,Pew,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/> 
 
     <!-- Threesome -->
 
-    <position id="[UAP] SC-GhoulDoubleTeam01" animationGroup="SCAP_F_FG_Floor01_DoubleTeam"/> 
+    <position id="[UAP] SC-GhoulDoubleTeam01" animationGroup="SCAP_F_FG_Floor01_DoubleTeam" tags="SavageCabbage,F_FGhoulM,NoFurn,Rough,Tease,Held3,Love1,Stim3,Dom-3,NullToSelf,PenisToVagina,PenisToAnus"/> 
 
 
 </positionData>

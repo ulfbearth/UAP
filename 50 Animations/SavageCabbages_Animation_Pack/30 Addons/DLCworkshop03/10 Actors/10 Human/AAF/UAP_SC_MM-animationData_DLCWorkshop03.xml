@@ -7,55 +7,55 @@
 	<!-- 2 Actors -->
 
 	<animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S1" frames="500">
-		<actor gender="M" idleForm="27337">
+		<actor gender="M" idleForm="27337" startEquipmentSet="CockErect">
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="27338">
+		<actor gender="M" idleForm="27338" startEquipmentSet="CockErect">
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S2" frames="500">
-		<actor gender="M" idleForm="27339">
+		<actor gender="M" idleForm="27339" startEquipmentSet="CockErect">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="2733A">
+		<actor gender="M" idleForm="2733A" startEquipmentSet="CockErect">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S3" frames="500">
-		<actor gender="M" idleForm="2733B">
+		<actor gender="M" idleForm="2733B" startEquipmentSet="CockErect">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="2733C">
+		<actor gender="M" idleForm="2733C" startEquipmentSet="CockErect">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S4" frames="500">
-		<actor gender="M" idleForm="2733D">
+		<actor gender="M" idleForm="2733D" startEquipmentSet="CockErect">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="2733E">
+		<actor gender="M" idleForm="2733E" startEquipmentSet="CockErect">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_CowgirlWeightBench_MM_2Human_01_S5" frames="500">
-		<actor gender="M" idleForm="2733F">
+		<actor gender="M" idleForm="2733F" startEquipmentSet="CockErect">
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="27340">
+		<actor gender="M" idleForm="27340" startEquipmentSet="CockErect">
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

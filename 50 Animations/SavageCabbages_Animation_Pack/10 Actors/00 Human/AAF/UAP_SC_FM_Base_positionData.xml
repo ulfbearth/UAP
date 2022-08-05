@@ -423,130 +423,130 @@
 <!--===================================== Staged Human =========================================-->
 	<!-- Dancing Staged -->
 
-    <position id="[UAP] SC-HipShake" animationGroup="SCAP_HipShake_F_1Human_01_Staged"/> 
-    <position id="[UAP] SC-SexyDance01" animationGroup="SCAP_TwerkStart01_F_1Human_01_Staged"/> 
-    <position id="[UAP] SC-SexyDance02" animationGroup="SCAP_TwerkStart02_F_1Human_01_Staged"/> 
-    <position id="[UAP] SC-SexyDance02" animationGroup="SCAP_SexyDance02_F_1Human_01_Staged"/> 
-    <position id="[UAP] SC-StripPole" animationGroup="SCAP_StripPole_F_1Human_01_Staged" location="Strip_Pole"/> 
-    <position id="[UAP] SC-LapDance01" animationGroup="SCAP_LapDance01_FM_2Human_LapDance" location="ArmChair"/>
+    <position id="[UAP] SC-HipShake" animationGroup="SCAP_HipShake_F_1Human_01_Staged" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf"/> 
+    <position id="[UAP] SC-TwerkStart01" animationGroup="SCAP_TwerkStart01_F_1Human_01_Staged" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf"/> 
+    <position id="[UAP] SC-TwerkStart02" animationGroup="SCAP_TwerkStart02_F_1Human_01_Staged" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf"/> 
+    <position id="[UAP] SC-SexyDance02" animationGroup="SCAP_SexyDance02_F_1Human_01_Staged" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,MidStage,Held0,Love0,Stim1,Dom0,NullToSelf"/> 
+    <position id="[UAP] SC-StripPole" animationGroup="SCAP_StripPole_F_1Human_01_Staged" location="Strip_Pole" tags="SavageCabbage,F_M,StripPole,Dance,Neutral,MidStage,Held0,Love0,Stim3,Dom0,HandToNipples"/> 
+    <position id="[UAP] SC-LapDance01" animationGroup="SCAP_LapDance01_FM_2Human_LapDance" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Dancing,Loving,Held1,Love5,Stim3,Dom-3,NullToSelf,HandToNipples"/>
 
     <!-- Car Staged -->
 
-    <position id="[UAP] SC-DoggySedanPostWar" animationGroup="SCAP_DoggySedanPostWar_FM_2Human_01_Staged" location="Sedan_PostWar01"/> 
-    <position id="[UAP] SC-BackseatSedanPreWar01" animationGroup="SCAP_BackseatSedanPreWar_FM_2Human_01_Staged" location="Sedan_PreWar01"/> 
-    <position id="[UAP] SC-BackseatSedanPreWar02" animationGroup="SCAP_BackseatSedanPreWar_FM_2Human_02_Staged" location="Sedan_PreWar01"/> 
+    <position id="[UAP] SC-DoggySedanPostWar" animationGroup="SCAP_DoggySedanPostWar_FM_2Human_01_Staged" location="Sedan_PostWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-BackseatSedanPreWar01" animationGroup="SCAP_BackseatSedanPreWar_FM_2Human_01_Staged" location="Sedan_PreWar01" tags="SavageCabbage,F_M,Car,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/> 
+    <position id="[UAP] SC-BackseatSedanPreWar02" animationGroup="SCAP_BackseatSedanPreWar_FM_2Human_02_Staged" location="Sedan_PreWar01" tags="SavageCabbage,F_M,Car,Blowjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/> 
 
     <!-- Blowjob Staged -->
 
-    <position id="[UAP] SC-ArmChair02Blowjob" animationGroup="SCAP_ArmChair02_FM_2Human_Blowjob" location="ArmChair"/> 
-    <position id="[UAP] SC-Bed01Blowjob" animationGroup="SCAP_Bed01_FM_2Human_Blowjob" location="Single_Bed"/> 
-    <position id="[UAP] SC-Couch02Blowjob" animationGroup="SCAP_Couch02_FM_2Human_Blowjob" location="Couches"/> 
-    <position id="[UAP] SC-CouchPlayerHouse01FaceFuck" animationGroup="SCAP_CouchPlayerHouse01_FM_2Human_Facefuck" location="Couches"/>
-    <position id="[UAP] SC-Floor01Blowjob" animationGroup="SCAP_Floor01_FM_2Human_Blowjob"/>
-    <position id="[UAP] SC-JailCellTinyDoor01Blowjob" animationGroup="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob" location="Jail_Door"/>
+    <position id="[UAP] SC-ArmChair02Blowjob" animationGroup="SCAP_ArmChair02_FM_2Human_Blowjob" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/> 
+    <position id="[UAP] SC-Bed01Blowjob" animationGroup="SCAP_Bed01_FM_2Human_Blowjob" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim3,Dom-5,NullToSelf,PenisToMouth"/> 
+    <position id="[UAP] SC-Couch02Blowjob" animationGroup="SCAP_Couch02_FM_2Human_Blowjob" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,MidStage,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/> 
+    <position id="[UAP] SC-CouchPlayerHouse01FaceFuck" animationGroup="SCAP_CouchPlayerHouse01_FM_2Human_Facefuck" location="Couches" tags="SavageCabbage,F_M,Couch,Blowjob,FromFront,Neutral,ClimaxM,Held1,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] SC-Floor01Blowjob" animationGroup="SCAP_Floor01_FM_2Human_Blowjob" tags="SavageCabbage,F_M,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] SC-JailCellTinyDoor01Blowjob" animationGroup="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob" location="Jail_Door" tags="SavageCabbage,F_M,JailCell,Blowjob,FromFront,Neutral,MidStage,Held7,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
     <position id="[UAP] SC-Ottoman01Blowjob" animationGroup="SCAP_Ottoman01_FM_2Human_Blowjob" location="Ottoman"/>
 
     <!-- Cowgirl Staged -->
 
-    <position id="[UAP] SC-Armchair01Cowgirl" animationGroup="SCAP_Armchair01_FM_2Human_Cowgirl" location="ArmChair"/>
-    <position id="[UAP] SC-Bed02Cowgirl" animationGroup="SCAP_Bed02_FM_2Human_Cowgirl" location="Single_Bed"/>
-    <position id="[UAP] SC-Bed03Cowgirl" animationGroup="SCAP_Bed03_FM_2Human_Cowgirl" location="Single_Bed"/>
-    <position id="[UAP] SC-Bench01ReverseCowgirl" animationGroup="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal" location="Bench"/>
-    <position id="[UAP] SC-DoubleBedInstitute01ReverseCowgirl" animationGroup="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl" location="Double_Bed_Institute"/>
-    <position id="[UAP] SC-CouchFederalist02ReverseCowgirl" animationGroup="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl" location="Couch_Federalist"/>
-    <position id="[UAP] SC-Motorbike01Cowgirl" animationGroup="SCAP_Motorbike01_FM_2Human_Cowgirl" location="Motorbike"/>
-    <position id="[UAP] SC-Seat01Cowgirl" animationGroup="SCAP_Seat01_FM_2Human_Cowgirl" location="Seat"/>
+    <position id="[UAP] SC-Armchair01Cowgirl" animationGroup="SCAP_Armchair01_FM_2Human_Cowgirl" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Bed02Cowgirl" animationGroup="SCAP_Bed02_FM_2Human_Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Bed03Cowgirl" animationGroup="SCAP_Bed03_FM_2Human_Cowgirl" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Bench01ReverseCowgirl" animationGroup="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal" location="Bench" tags="SavageCabbage,F_M,Bench,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SC-DoubleBedInstitute01ReverseCowgirl" animationGroup="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl" location="Double_Bed_Institute" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-CouchFederalist02ReverseCowgirl" animationGroup="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Cowgirl,Anal,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] SC-Motorbike01Cowgirl" animationGroup="SCAP_Motorbike01_FM_2Human_Cowgirl" location="Motorbike" tags="SavageCabbage,F_M,MotorBike,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Seat01Cowgirl" animationGroup="SCAP_Seat01_FM_2Human_Cowgirl" location="Seat" tags="SavageCabbage,F_M,Seat,Cowgirl,FromFront,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
 
     <!-- Doggy Staged -->
 
-    <position id="[UAP] SC-ArmorBench01Doggy" animationGroup="SCAP_ArmorBench01_FM_2Human_Doggy" location="ArmorBench"/>
-    <position id="[UAP] SC-ChairHihg01Doggy" animationGroup="SCAP_ChairHigh01_FM_2Human_Doggy" location="ChairHigh"/>
-    <position id="[UAP] SC-ChairLow01Doggy" animationGroup="SCAP_ChairLow01_FM_2Human_Doggy" location="ChairLow"/>
-    <position id="[UAP] SC-ChairMedium01Doggy" animationGroup="SCAP_ChairMedium01_FM_2Human_Doggy" location="ChairMedium"/>
-    <position id="[UAP] SC-ChairVeryLow01Doggy" animationGroup="SCAP_ChairVeryLow01_FM_2Human_Doggy" location="ChairVeryLow"/>
-    <position id="[UAP] SC-Desk01Doggy" animationGroup="SCAP_Desk01_FM_2Human_Doggy" location="Desk"/>
-    <position id="[UAP] SC-DoubleBed01Doggy" animationGroup="SCAP_DoubleBed01_FM_2Human_Doggy" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBed04Doggy" animationGroup="SCAP_DoubleBed04_FM_2Human_Doggy" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBed05Doggy" animationGroup="SCAP_DoubleBed05_FM_2Human_Doggy" location="Double_Bed"/>
-    <position id="[UAP] SC-KitchenPostWar01Doggy" animationGroup="SCAP_KitchenPostWar01_FM_2Human_Doggy" location="Kitchen_PostWar"/>
-    <position id="[UAP] SC-RoundTable01Doggy" animationGroup="SCAP_RoundTable01_FM_2Human_Doggy" location="Round_Table"/>
-    <position id="[UAP] SC-RidingBrahmin01Doggy" animationGroup="SCAP_RidingBrahmin_FM_2Human_Doggy"/>
-    <position id="[UAP] SC-ShowerPlayerHouse01Doggy" animationGroup="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy" location="Shower_PlayerHouse"/>
-    <position id="[UAP] SC-SportsCarPreWar01Doggy" animationGroup="SCAP_SportsCarPreWar01_FM_2Human_Doggy" location="SportsCar_PreWar01"/>
-    <position id="[UAP] SC-Standing01Doggy" animationGroup="SCAP_Standing01_FM_2Human_Doggy"/>
-    <position id="[UAP] SC-Stool01Doggy" animationGroup="SCAP_Stool01_FM_2Human_Doggy" location="Stool"/>
-    <position id="[UAP] SC-WeaponWorkbenchLarge01Doggy" animationGroup="SCAP_WeaponWorkbenchLarge01_FM_2Human_Doggy" location="Weapon_Workbench_Large"/>
+    <position id="[UAP] SC-ArmorBench01Doggy" animationGroup="SCAP_ArmorBench01_FM_2Human_Doggy" location="ArmorBench" tags="SavageCabbage,F_M,ArmorBench,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-ChairHihg01Doggy" animationGroup="SCAP_ChairHigh01_FM_2Human_Doggy" location="ChairHigh" tags="SavageCabbage,F_M,ChairHigh,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-ChairLow01Doggy" animationGroup="SCAP_ChairLow01_FM_2Human_Doggy" location="ChairLow" tags="SavageCabbage,F_M,ChairLow,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-ChairMedium01Doggy" animationGroup="SCAP_ChairMedium01_FM_2Human_Doggy" location="ChairMedium" tags="SavageCabbage,F_M,ChairMedium,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-ChairVeryLow01Doggy" animationGroup="SCAP_ChairVeryLow01_FM_2Human_Doggy" location="ChairVeryLow" tags="SavageCabbage,F_M,ChairVeryLow,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Desk01Doggy" animationGroup="SCAP_Desk01_FM_2Human_Doggy" location="Desk" tags="SavageCabbage,F_M,Desk,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBed01Doggy" animationGroup="SCAP_DoubleBed01_FM_2Human_Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBed04Doggy" animationGroup="SCAP_DoubleBed04_FM_2Human_Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBed05Doggy" animationGroup="SCAP_DoubleBed05_FM_2Human_Doggy" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Kneeling,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-KitchenPostWar01Doggy" animationGroup="SCAP_KitchenPostWar01_FM_2Human_Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M,KitchenPostWar,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-RoundTable01Doggy" animationGroup="SCAP_RoundTable01_FM_2Human_Doggy" location="Round_Table" tags="SavageCabbage,F_M,RoundTable,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-RidingBrahmin01Doggy" animationGroup="SCAP_RidingBrahmin_FM_2Human_Doggy" tags="SavageCabbage,F_M,Brahmin,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-ShowerPlayerHouse01Doggy" animationGroup="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy" location="Shower_PlayerHouse" tags="SavageCabbage,F_M,Shower,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-SportsCarPreWar01Doggy" animationGroup="SCAP_SportsCarPreWar01_FM_2Human_Doggy" location="SportsCar_PreWar01" tags="SavageCabbage,F_M,Car,FaceDown,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Standing01Doggy" animationGroup="SCAP_Standing01_FM_2Human_Doggy" tags="SavageCabbage,F_M,NoFurn,Standing,Doggy,FromBehind,Neutral,ClimaxM,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Stool01Doggy" animationGroup="SCAP_Stool01_FM_2Human_Doggy" location="Stool" tags="SavageCabbage,F_M,Stool,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-WeaponWorkbenchLarge01Doggy" animationGroup="SCAP_WeaponWorkbenchLarge01_FM_2Human_Doggy" location="Weapon_Workbench_Large" tags="SavageCabbage,F_M,Weapon_Workbench_Large,FaceDown,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
 
     <!-- Missionary Staged -->
 
-    <position id="[UAP] SC-Bed04Missionary" animationGroup="SCAP_Bed04_FM_2Human_Missionary" location="Single_Bed"/>
-    <position id="[UAP] SC-DoubleBed03Missionary" animationGroup="SCAP_DoubleBed03_FM_2Human_Missionary" location="Double_Bed"/>
-    <position id="[UAP] SC-FederalistCouch01Missionary" animationGroup="SCAP_FederalistCouch01_FM_2Human_Missionary" location="Couch_Federalist"/>
-    <position id="[UAP] SC-Table01Missionary" animationGroup="SCAP_Table01_FM_2Human_Missionary" location="MediumTable"/>
+    <position id="[UAP] SC-Bed04Missionary" animationGroup="SCAP_Bed04_FM_2Human_Missionary" location="Single_Bed" tags="SavageCabbage,F_M,SingleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DoubleBed03Missionary" animationGroup="SCAP_DoubleBed03_FM_2Human_Missionary" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-FederalistCouch01Missionary" animationGroup="SCAP_FederalistCouch01_FM_2Human_Missionary" location="Couch_Federalist" tags="SavageCabbage,F_M,Couch,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-Table01Missionary" animationGroup="SCAP_Table01_FM_2Human_Missionary" location="MediumTable" tags="SavageCabbage,F_M,MediumTable,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
 
     <!-- Powerbomb Staged -->
 
-    <position id="[UAP] SC-DoubleBed02Powerbomb" animationGroup="SCAP_DoubleBed02_FM_2Human_Powerbomb" location="Double_Bed"/>
+    <position id="[UAP] SC-DoubleBed02Powerbomb" animationGroup="SCAP_DoubleBed02_FM_2Human_Powerbomb" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Powerbomb,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
 
     <!-- Spoon Staged -->
 
-    <position id="[UAP] SC-Couch01Spoon" animationGroup="SCAP_Couch01_FM_2Human_Spoon" location="Couches"/>
+    <position id="[UAP] SC-Couch01Spoon" animationGroup="SCAP_Couch01_FM_2Human_Spoon" location="Couches" tags="SavageCabbage,F_M,Couch,FromBehind,Neutral,MidStage,Held1,Love5,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
 
     <!-- 2 Actors Sex Staged -->
 
-    <position id="[UAP] SC-Crane01Carry" animationGroup="SCAP_Crane01_FM_2Human_Carry" location="Crane"/>
-    <position id="[UAP] SC-DinerBooth01Tease" animationGroup="SCAP_DinerBooth01_FM_2Human_Tease" location="Diner_Booth"/>
-    <position id="[UAP] SC-DoubleBedWoodPreWar01Mix01" animationGroup="SCAP_DoubleBedWoodPreWar01_FM_2Human_Mix01" location="Double_Bed_Wood_PreWar"/>
-    <position id="[UAP] SC-JailCellSmall01Standing" animationGroup="SCAP_JailCellSmall01_FM_2Human_Standing01" location="Jail_Cell_Small"/>
-    <position id="[UAP] SC-PoolTable01Mix02" animationGroup="SCAP_PoolTable01_FM_2Human_Mix02" location="PoolTable"/>
-    <position id="[UAP] SC-PoolTable02Mix03" animationGroup="SCAP_PoolTable02_FM_2Human_Mix03" location="PoolTable"/>
-    <position id="[UAP] SC-Railing01Mix04" animationGroup="SCAP_Railing01_FM_2Human_Mix04" location="Railing"/>
-    <position id="[UAP] SC-RoundTable02Sideways" animationGroup="SCAP_RoundTable02_FM_2Human_RoughSideways" location="Round_Table"/>
+    <position id="[UAP] SC-Crane01Carry" animationGroup="SCAP_Crane01_FM_2Human_Carry" location="Crane" tags="SavageCabbage,F_M,Crane,Carry,FromFront,Neutral,MidStage,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-DinerBooth01Tease" animationGroup="SCAP_DinerBooth01_FM_2Human_Tease" location="Diner_Booth" tags="SavageCabbage,F_M,DinerBooth,FaceDown,Neutral,Tease,Held1,Love5,Stim3,Dom-5,NullToSelf,HandToNipples"/>
+    <position id="[UAP] SC-DoubleBedWoodPreWar01Mix01" animationGroup="SCAP_DoubleBedWoodPreWar01_FM_2Human_Mix01" location="Double_Bed_Wood_PreWar" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-JailCellSmall01Standing" animationGroup="SCAP_JailCellSmall01_FM_2Human_Standing01" location="Jail_Cell_Small" tags="SavageCabbage,F_M,JailCell,Standing,Doggy,FromBehind,Neutral,MidStage,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-PoolTable01Mix02" animationGroup="SCAP_PoolTable01_FM_2Human_Mix02" location="PoolTable" tags="SavageCabbage,F_M,PoolTable,Missionary,FromFront,Loving,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-PoolTable02Mix03" animationGroup="SCAP_PoolTable02_FM_2Human_Mix03" location="PoolTable" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Standing,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] SC-Railing01Mix04" animationGroup="SCAP_Railing01_FM_2Human_Mix04" location="Railing" tags="SavageCabbage,F_M,Railing,Blowjob,FromBehind,ClimaxM,Held5,Love-5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-RoundTable02Sideways" animationGroup="SCAP_RoundTable02_FM_2Human_RoughSideways" location="Round_Table" tags="SavageCabbage,F_M,Table,Standing,FromSide,Aggressive,Cuffed,Held1,Love5,Stim7,Dom-3,NullToSelf,PenisToVagina"/>
 
     <!-- 3 Actors Sex Staged -->
 
-    <position id="[UAP] SC-Couch02Blowjob02" animationGroup="SCAP_Couch02_FMM_3Human_Blowjob" location="Couches"/>
-    <position id="[UAP] SC-Armchair02Doggy01" animationGroup="SCAP_Armchair02_FMM_3Human_Doggy" location="Armchair"/>
-    <position id="[UAP] SC-Bed01Doggy01" animationGroup="SCAP_Bed01_FMM_3Human_Doggy" location="Single_Bed"/>
-    <position id="[UAP] SC-BunkBed01Threesome" animationGroup="SCAP_BunkBed01_FMM_3Human_Threesome" location="Bunk_Bed"/>
-    <position id="[UAP] SC-DoubleBed01DoubleTeam" animationGroup="SCAP_DoubleBed01_FMM_3Human_DoubleTeam" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBed02ReverseCowgirlBlowjob" animationGroup="SCAP_DoubleBed02_FMM_3Human_ReverseCowGirlBlowjob" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBed03Threesome" animationGroup="SCAP_DoubleBed03_FMM_3Human_Threesome" location="Double_Bed"/>
-    <position id="[UAP] SC-Floor01Threesome" animationGroup="SCAP_Floor01_FMM_3Human_DoubleTeam"/>
-    <position id="[UAP] SC-Floor02DoubleTeamRough" animationGroup="SCAP_Floor02_FMM_3Human_DoubleTeamRough"/>
-    <position id="[UAP] SC-Floor03Gangbang" animationGroup="SCAP_Floor03_FMM_3Human_Gangbang"/>
-    <position id="[UAP] SC-Floor04DoubleTeam" animationGroup="SCAP_Floor04_FMM_3Human_DoubleTeam"/>
-    <position id="[UAP] SC-Floor05DoubleTeam" animationGroup="SCAP_Floor05_FMM_3Human_DoubleTeam"/>
-    <position id="[UAP] SC-KitchenPostWar01Doggy" animationGroup="SCAP_KitchenPostWar01_FMM_3Human_Doggy" location="Kitchen_PostWar"/>
-    <position id="[UAP] SC-PoolTable01Tease" animationGroup="SCAP_PoolTable01_FMM_3Human_Tease" location="PoolTable"/>
-    <position id="[UAP] SC-Standing01DoubleTeam" animationGroup="SCAP_Standing01_FMM_3Human_DoubleTeam"/>
+    <position id="[UAP] SC-Couch02Blowjob02" animationGroup="SCAP_Couch02_FMM_3Human_Blowjob" location="Couches" tags="SavageCabbage,F_M_M,Couch,Blowjob,FromFront,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,NullToSelf,PenisToMouth,PenisToHand"/>
+    <position id="[UAP] SC-Armchair02Doggy01" animationGroup="SCAP_Armchair02_FMM_3Human_Doggy" location="Armchair" tags="SavageCabbage,F_M_M,ArmChair,Blowjob,Kneeling,FromBehind,Neutral,ClimaxM,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-Bed01Doggy01" animationGroup="SCAP_Bed01_FMM_3Human_Doggy" location="Single_Bed" tags="SavageCabbage,F_M_M,SingleBed,Blowjob,Kneeling,FromBehind,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-BunkBed01Threesome" animationGroup="SCAP_BunkBed01_FMM_3Human_Threesome" location="Bunk_Bed" tags="SavageCabbage,F_M_M,BunkBed,Neutral,MidStage,Held3,Love3,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] SC-DoubleBed01DoubleTeam" animationGroup="SCAP_DoubleBed01_FMM_3Human_DoubleTeam" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] SC-DoubleBed02ReverseCowgirlBlowjob" animationGroup="SCAP_DoubleBed02_FMM_3Human_ReverseCowGirlBlowjob" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,Cowgirl,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-DoubleBed03Threesome" animationGroup="SCAP_DoubleBed03_FMM_3Human_Threesome" location="Double_Bed" tags="SavageCabbage,F_M_M,DoubleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-Floor01Threesome" animationGroup="SCAP_Floor01_FMM_3Human_DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held3,Love3,Stim5,Dom-5,HandToVagina,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-Floor02DoubleTeamRough" animationGroup="SCAP_Floor02_FMM_3Human_DoubleTeamRough" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-Floor03Gangbang" animationGroup="SCAP_Floor03_FMM_3Human_Gangbang" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Aggressive,MidStage,Held7,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] SC-Floor04DoubleTeam" animationGroup="SCAP_Floor04_FMM_3Human_DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] SC-Floor05DoubleTeam" animationGroup="SCAP_Floor05_FMM_3Human_DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-KitchenPostWar01Doggy" animationGroup="SCAP_KitchenPostWar01_FMM_3Human_Doggy" location="Kitchen_PostWar" tags="SavageCabbage,F_M_M,Neutral,Tease,Held3,Love3,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="[UAP] SC-PoolTable01Tease" animationGroup="SCAP_PoolTable01_FMM_3Human_Tease" location="PoolTable" tags="SavageCabbage,F_M_M,PoolTable,Neutral,Tease,Held3,Love3,Stim3,Dom-3,NullToSelf,PenisToNipples,HandToNipples"/>
+    <position id="[UAP] SC-Standing01DoubleTeam" animationGroup="SCAP_Standing01_FMM_3Human_DoubleTeam" tags="SavageCabbage,F_M_M,NoFurn,DoubleTeam,Standing,Neutral,MidStage,Held3,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
 
     <!-- 4 Actors Sex Staged -->
 
-    <position id="[UAP] SC-DoubleBed02Gangbang" animationGroup="SCAP_DoubleBed02_FMMM_4Human_Gangbang" location="Double_Bed"/>
-    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMM_4Human_Gangbang"/>
-    <position id="[UAP] SC-Floor02Gangbang" animationGroup="SCAP_Floor02_FMMM_4Human_Gangbang"/>
-    <position id="[UAP] SC-Floor03Gangbang" animationGroup="SCAP_Floor03_FMMM_4Human_Gangbang"/>
-    <position id="[UAP] SC-Standing01Gangbang" animationGroup="SCAP_Standing01_FMMM_4Human_Gangbang"/>
+    <position id="[UAP] SC-DoubleBed02Gangbang" animationGroup="SCAP_DoubleBed02_FMMM_4Human_Gangbang" location="Double_Bed" tags="SavageCabbage,F_M_M_M,DoubleBed,DoubleTeam,Anal,Neutral,MidStage,Held5,Love3,Stim7,Dom-5,NullToSelf,PenisToVagina,PenisToAnus"/>
+    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMM_4Human_Gangbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand"/>
+    <position id="[UAP] SC-Floor02Gangbang" animationGroup="SCAP_Floor02_FMMM_4Human_Gangbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-Floor03Gangbang" animationGroup="SCAP_Floor03_FMMM_4Human_Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToNipples"/>
+    <position id="[UAP] SC-Standing01Gangbang" animationGroup="SCAP_Standing01_FMMM_4Human_Gangbang" tags="SavageCabbage,F_M_M_M,NoFurn,Standing,Neutral,MidStage,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
 
     <!-- 5 Actors Sex Staged -->
 
-    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMM_4Human_Gangbang"/>
-    <position id="[UAP] SC-Floor02Gangbang" animationGroup="SCAP_Floor02_FMMM_4Human_Gangbang"/>
-    <position id="[UAP] SC-Standing01Blowbang" animationGroup="SCAP_Standing01_FMMMM_5Human_Blowbang"/>
+    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMM_4Human_Gangbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand"/>
+    <position id="[UAP] SC-Floor02Gangbang" animationGroup="SCAP_Floor02_FMMM_4Human_Gangbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim9,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-Standing01Blowbang" animationGroup="SCAP_Standing01_FMMMM_5Human_Blowbang" tags="SavageCabbage,F_M_M_M_M,NoFurn,Standing,Neutral,MidStage,Held7,Love0,Stim5,Dom-9,NullToSelf,PenisToAnus,PenisToVagina,PenisToMouth,PenisToHand,PenisToHand"/>
 
 
     <!-- 9 Actors Sex Staged -->
 
-    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMMMMMMM_9Human_Gangbang"/>
+    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMMMMMMM_9Human_Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
 
     <!-- 10 Actors Sex Staged -->
 
-    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang"/>
+    <position id="[UAP] SC-Floor01Gangbang" animationGroup="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang" tags="SavageCabbage,F_M_M_M_M_M_M_M_M_M,NoFurn,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth,PenisToHand,PenisToHand,PenisToNipples"/>
 
     <!-- FMF 3 Actors Sex Staged -->
 
-    <position id="[UAP] SC-DoubleBed01MissionaryAnalFingering" animationGroup="SCAP_DoubleBed01_FMF_3Human_MissionaryAnalFingering" location="Double_Bed"/>
-    <position id="[UAP] SC-DoubleBed02Threesome" animationGroup="SCAP_DoubleBed02_FMF_3Human_Threesome" location="Double_Bed"/>
+    <position id="[UAP] SC-DoubleBed01MissionaryAnalFingering" animationGroup="SCAP_DoubleBed01_FMF_3Human_MissionaryAnalFingering" location="Double_Bed" tags="SavageCabbage,F_M_F,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,HandToAnus"/>
+    <position id="[UAP] SC-DoubleBed02Threesome" animationGroup="SCAP_DoubleBed02_FMF_3Human_Threesome" location="Double_Bed" tags="SavageCabbage,F_M,DoubleBed,Doggy,FromBehind,Neutral,Midstage,Held1,Love5,Stim3,Dom5,NullToSelf,HandToNipples"/>
 
 </positionData>

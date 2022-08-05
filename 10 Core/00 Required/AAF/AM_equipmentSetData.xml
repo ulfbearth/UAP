@@ -1,0 +1,68 @@
+<equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+	<!-- Default attributes are applied to the addEquipment and removeEquipment nodes below if no conflicting attribute is set there. -->
+	<defaults source="Fallout4.esm" loadPriority="1" />
+
+	<!--
+Add or remove unEquip and reEquip entries to control which slots get
+equipped or unequipped before and after animations.
+
+Use the exact slot names defined here: https://www.creationkit.com/fallout4/index.php?title=Biped_Slots
+
+For the slots with repeated names like "Unnamed" and "Possibly Weapons"
+add a number after each. So, "Unnamed1" is slot index 24 and "Possibly Weapons2"
+is slot index 33.
+-->
+
+	<equipmentSet id="CockErect">
+		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="803" source="AMCock.esp"/>
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="CockUp">
+		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="80C" source="AMCock.esp"/>
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="CockUpStop">
+		<condition isFemale="false" skeleton="Human">
+			<removeEquipment form="80C" source="AMCock.esp"/>
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="CockDown">
+		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="80D" source="AMCock.esp"/>
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="CockDownStop">
+		<condition isFemale="false" skeleton="Human">
+			<removeEquipment form="80D" source="AMCock.esp"/>
+		</condition>
+	</equipmentSet>
+
+	<!--
+Add or remove addEquipment and removeEquipment entries to control adding and
+removing any equipment to the actors before and after animations.
+
+You can also add attributes to the condition node to discriminate which actors
+the set is applied to. For example, <condition isFemale="true"> will only
+apply the equipment commands to female actors.
+-->
+
+	<equipmentSet id="addEquipmentExample">
+		<condition>
+			<addEquipment form="0004A521" />
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="removeEquipmentExample">
+		<condition>
+			<removeEquipment form="0004A521" />
+			<removeEquipment form="000DF621" />
+		</condition>
+	</equipmentSet>
+</equipmentSetData>
