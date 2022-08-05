@@ -5,7 +5,7 @@
 		<actor gender="F" idleForm="17E8A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="17E8B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -13,7 +13,7 @@
 		<actor gender="F" idleForm="18625">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="18626">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -21,7 +21,7 @@
 		<actor gender="F" idleForm="167B9">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="167BA">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -29,7 +29,7 @@
 		<actor gender="F" idleForm="18DC0">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="18DC1">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -37,7 +37,7 @@
 		<actor gender="F" idleForm="1955B">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1955C">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -45,7 +45,7 @@
 		<actor gender="F" idleForm="19CF6">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="19CF7">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -53,7 +53,7 @@
 		<actor gender="F" idleForm="1AC2E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1AC2F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -61,7 +61,7 @@
 		<actor gender="F" idleForm="1BB6E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1BB6F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -69,7 +69,7 @@
 		<actor gender="F" idleForm="21F00">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21F01">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -77,7 +77,7 @@
 		<actor gender="F" idleForm="226AF">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226B0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -85,7 +85,7 @@
 		<actor gender="F" idleForm="207BC">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207BD">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -93,7 +93,7 @@
 		<actor gender="F" idleForm="207BE">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207BF">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -101,7 +101,7 @@
 		<actor gender="F" idleForm="207C2">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207C3">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -109,7 +109,7 @@
 		<actor gender="F" idleForm="207C0">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207C1">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -117,7 +117,7 @@
 		<actor gender="F" idleForm="21718">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21719">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -125,7 +125,7 @@
 		<actor gender="F" idleForm="235FA">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="235FB">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -133,7 +133,7 @@
 		<actor gender="F" idleForm="21F02">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21F03">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -141,7 +141,7 @@
 		<actor gender="F" idleForm="226B1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226B2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -149,7 +149,7 @@
 		<actor gender="F" idleForm="207D2">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207D3">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -157,7 +157,7 @@
 		<actor gender="F" idleForm="207D4">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207D5">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -165,7 +165,7 @@
 		<actor gender="F" idleForm="20F73">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20F74">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -173,7 +173,7 @@
 		<actor gender="F" idleForm="20F75">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20F76">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -181,7 +181,7 @@
 		<actor gender="F" idleForm="21716">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21717">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -189,7 +189,7 @@
 		<actor gender="F" idleForm="23601">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23602">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -197,7 +197,7 @@
 		<actor gender="F" idleForm="2B0B1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B0B2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -205,7 +205,7 @@
 		<actor gender="F" idleForm="2DED5">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2DED6">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -213,7 +213,7 @@
 		<actor gender="F" idleForm="2B09D">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B09E">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -221,7 +221,7 @@
 		<actor gender="F" idleForm="2B09F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B0A0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -229,7 +229,7 @@
 		<actor gender="F" idleForm="2B0A1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B0A2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -237,7 +237,7 @@
 		<actor gender="F" idleForm="2B0A3">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B0A4">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -245,7 +245,7 @@
 		<actor gender="F" idleForm="2B864">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2B865">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -253,7 +253,7 @@
 		<actor gender="F" idleForm="1E914">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E915">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -261,7 +261,7 @@
 		<actor gender="F" idleForm="1E916">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E917">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -269,7 +269,7 @@
 		<actor gender="F" idleForm="1D23F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1D240">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -277,7 +277,7 @@
 		<actor gender="F" idleForm="1D9DA">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1D9DB">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -285,7 +285,7 @@
 		<actor gender="F" idleForm="1E910">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E911">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -293,7 +293,7 @@
 		<actor gender="F" idleForm="1E912">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E913">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -301,7 +301,7 @@
 		<actor gender="F" idleForm="1E918">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E919">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -309,7 +309,7 @@
 		<actor gender="F" idleForm="1E91A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E91B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -317,7 +317,7 @@
 		<actor gender="F" idleForm="1E91E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E91F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -325,7 +325,7 @@
 		<actor gender="F" idleForm="1E92C">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E92D">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -333,7 +333,7 @@
 		<actor gender="F" idleForm="1E922">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E923">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -341,7 +341,7 @@
 		<actor gender="F" idleForm="1E926">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E927">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -349,7 +349,7 @@
 		<actor gender="F" idleForm="1E928">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E929">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -357,7 +357,7 @@
 		<actor gender="F" idleForm="1E92A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E92B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -365,7 +365,7 @@
 		<actor gender="F" idleForm="1E92E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E92F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -373,7 +373,7 @@
 		<actor gender="F" idleForm="1F866">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1F867">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -381,7 +381,7 @@
 		<actor gender="F" idleForm="226B5">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226B6">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -389,7 +389,7 @@
 		<actor gender="F" idleForm="226B3">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226B4">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -397,7 +397,7 @@
 		<actor gender="F" idleForm="207C4">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207C5">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -405,7 +405,7 @@
 		<actor gender="F" idleForm="207C6">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207C7">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -413,7 +413,7 @@
 		<actor gender="F" idleForm="207C8">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207C9">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -421,7 +421,7 @@
 		<actor gender="F" idleForm="207CA">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207CB">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -429,7 +429,7 @@
 		<actor gender="F" idleForm="21F04">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21F05">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -437,7 +437,7 @@
 		<actor gender="F" idleForm="23603">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23604">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -445,7 +445,7 @@
 		<actor gender="F" idleForm="226B7">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226B8">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -453,7 +453,7 @@
 		<actor gender="F" idleForm="2360D">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2360E">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -461,7 +461,7 @@
 		<actor gender="F" idleForm="21ECF">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21ED0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -469,7 +469,7 @@
 		<actor gender="F" idleForm="21ED1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21ED2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -477,7 +477,7 @@
 		<actor gender="F" idleForm="21ED3">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21ED4">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -485,7 +485,7 @@
 		<actor gender="F" idleForm="21ED5">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21ED6">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -493,7 +493,7 @@
 		<actor gender="F" idleForm="226B9">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226BA">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -501,7 +501,7 @@
 		<actor gender="F" idleForm="2360F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23610">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -509,7 +509,7 @@
 		<actor gender="F" idleForm="30D34">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D35">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -517,7 +517,7 @@
 		<actor gender="F" idleForm="30D36">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D37">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -525,7 +525,7 @@
 		<actor gender="F" idleForm="30D38">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D39">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -533,7 +533,7 @@
 		<actor gender="F" idleForm="30D3A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D3B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -541,7 +541,7 @@
 		<actor gender="F" idleForm="30D3C">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D3D">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -549,7 +549,7 @@
 		<actor gender="F" idleForm="30D3E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D3F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -557,7 +557,7 @@
 		<actor gender="F" idleForm="30D40">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D41">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -565,7 +565,7 @@
 		<actor gender="F" idleForm="30D42">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D43">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -573,7 +573,7 @@
 		<actor gender="F" idleForm="1AC2C">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1AC2D">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -581,7 +581,7 @@
 		<actor gender="F" idleForm="1A491">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1A492">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -589,7 +589,7 @@
 		<actor gender="F" idleForm="1601E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1601F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -597,7 +597,7 @@
 		<actor gender="F" idleForm="16F54">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="16F55">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -605,7 +605,7 @@
 		<actor gender="F" idleForm="15883">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="15884">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -613,7 +613,7 @@
 		<actor gender="F" idleForm="176EF">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="176F0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -621,7 +621,7 @@
 		<actor gender="F" idleForm="1C309">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1C30A">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -629,7 +629,7 @@
 		<actor gender="F" idleForm="1CAA4">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1CAA5">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -637,7 +637,7 @@
 		<actor gender="F" idleForm="226BB">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226BC">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -645,7 +645,7 @@
 		<actor gender="F" idleForm="226BD">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226BE">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -653,7 +653,7 @@
 		<actor gender="F" idleForm="226BF">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226C0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -661,7 +661,7 @@
 		<actor gender="F" idleForm="207B7">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207B8">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -669,7 +669,7 @@
 		<actor gender="F" idleForm="20F6F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20F70">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -677,7 +677,7 @@
 		<actor gender="F" idleForm="20F71">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20F72">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -685,7 +685,7 @@
 		<actor gender="F" idleForm="2171A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2171B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -693,7 +693,7 @@
 		<actor gender="F" idleForm="23605">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23606">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -701,7 +701,7 @@
 		<actor gender="F" idleForm="30D64">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D65">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -709,7 +709,7 @@
 		<actor gender="F" idleForm="30D66">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D67">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -717,7 +717,7 @@
 		<actor gender="F" idleForm="30D68">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D69">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -725,7 +725,7 @@
 		<actor gender="F" idleForm="30D6A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D6B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -733,7 +733,7 @@
 		<actor gender="F" idleForm="30D6C">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D6D">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -741,7 +741,7 @@
 		<actor gender="F" idleForm="30D6E">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D6F">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -749,7 +749,7 @@
 		<actor gender="F" idleForm="30D70">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D71">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -757,7 +757,7 @@
 		<actor gender="F" idleForm="30D72">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="30D73">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -765,7 +765,7 @@
 		<actor gender="F" idleForm="20011">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20012">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -773,7 +773,7 @@
 		<actor gender="F" idleForm="20013">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20014">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -781,7 +781,7 @@
 		<actor gender="F" idleForm="20009">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2000A">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -789,7 +789,7 @@
 		<actor gender="F" idleForm="2000B">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2000C">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -797,7 +797,7 @@
 		<actor gender="F" idleForm="2000D">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2000E">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -805,7 +805,7 @@
 		<actor gender="F" idleForm="2000F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20010">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -813,7 +813,7 @@
 		<actor gender="F" idleForm="20015">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20016">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -821,7 +821,7 @@
 		<actor gender="F" idleForm="207B3">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207B4">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -829,7 +829,7 @@
 		<actor gender="F" idleForm="21F06">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21F07">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -837,7 +837,7 @@
 		<actor gender="F" idleForm="22E5F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="22E60">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -845,7 +845,7 @@
 		<actor gender="F" idleForm="207B5">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207B6">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -853,7 +853,7 @@
 		<actor gender="F" idleForm="207CE">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207CF">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -861,7 +861,7 @@
 		<actor gender="F" idleForm="207D0">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207D1">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -869,7 +869,7 @@
 		<actor gender="F" idleForm="207CC">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207CD">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -877,7 +877,7 @@
 		<actor gender="F" idleForm="226C4">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226C5">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -885,7 +885,7 @@
 		<actor gender="F" idleForm="235FC">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="235FD">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -893,7 +893,7 @@
 		<actor gender="F" idleForm="2829B">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2829C">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -901,7 +901,7 @@
 		<actor gender="F" idleForm="28A48">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="28A49">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -909,7 +909,7 @@
 		<actor gender="F" idleForm="21EDF">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -917,7 +917,7 @@
 		<actor gender="F" idleForm="2829D">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2829E">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -925,7 +925,7 @@
 		<actor gender="F" idleForm="2829F">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282A0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -933,7 +933,7 @@
 		<actor gender="F" idleForm="282A1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282A2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -941,7 +941,7 @@
 		<actor gender="F" idleForm="28A4A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="28A4B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -949,7 +949,7 @@
 		<actor gender="F" idleForm="2DE9D">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2DE9E">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -957,7 +957,7 @@
 		<actor gender="F" idleForm="1E930">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E931">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -965,7 +965,7 @@
 		<actor gender="F" idleForm="20001">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20002">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -973,7 +973,7 @@
 		<actor gender="F" idleForm="1E175">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E176">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -981,7 +981,7 @@
 		<actor gender="F" idleForm="1E91C">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E91D">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -989,7 +989,7 @@
 		<actor gender="F" idleForm="1E920">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E921">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -997,7 +997,7 @@
 		<actor gender="F" idleForm="1E924">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="1E925">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1005,7 +1005,7 @@
 		<actor gender="F" idleForm="20003">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20004">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1013,7 +1013,7 @@
 		<actor gender="F" idleForm="20007">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20008">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1021,7 +1021,7 @@
 		<actor gender="F" idleForm="282A3">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282A4">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1029,7 +1029,7 @@
 		<actor gender="F" idleForm="282A5">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282A6">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1037,7 +1037,7 @@
 		<actor gender="F" idleForm="282A7">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282A8">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1045,7 +1045,7 @@
 		<actor gender="F" idleForm="282A9">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282AA">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1053,7 +1053,7 @@
 		<actor gender="F" idleForm="282AB">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282AC">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1061,7 +1061,7 @@
 		<actor gender="F" idleForm="282AD">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="282AE">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1069,7 +1069,7 @@
 		<actor gender="F" idleForm="2E686">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2E687">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1077,7 +1077,7 @@
 		<actor gender="F" idleForm="2F5C8">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="2F5C9">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1085,10 +1085,10 @@
 		<actor gender="F" idleForm="21ED7">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21ED8">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21ED9">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1096,10 +1096,10 @@
 		<actor gender="F" idleForm="21EFD">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EFE">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EFF">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1107,10 +1107,10 @@
 		<actor gender="F" idleForm="21723">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21724">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21725">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1118,10 +1118,10 @@
 		<actor gender="F" idleForm="21EBF">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EC0">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EC1">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1129,10 +1129,10 @@
 		<actor gender="F" idleForm="21EC2">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EC3">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EC4">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1140,10 +1140,10 @@
 		<actor gender="F" idleForm="21EDC">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EDD">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EDE">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1151,10 +1151,10 @@
 		<actor gender="F" idleForm="21EE1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE3">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1162,10 +1162,10 @@
 		<actor gender="F" idleForm="21EE4">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE5">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE6">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1173,10 +1173,10 @@
 		<actor gender="F" idleForm="21EE7">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE8">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EE9">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1184,10 +1184,10 @@
 		<actor gender="F" idleForm="21EEA">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EEB">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EEC">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1195,10 +1195,10 @@
 		<actor gender="F" idleForm="21EED">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EEE">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21EEF">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1206,10 +1206,10 @@
 		<actor gender="F" idleForm="21F08">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21F09">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21F0A">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1217,10 +1217,10 @@
 		<actor gender="F" idleForm="235FE">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="235FF">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23600">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 	</animation>
 
@@ -1228,7 +1228,7 @@
 		<actor gender="F" idleForm="23607">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23608">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="23609">
 		</actor>
@@ -1238,7 +1238,7 @@
 		<actor gender="F" idleForm="23611">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="23612">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="23613">
 		</actor>
@@ -1248,7 +1248,7 @@
 		<actor gender="F" idleForm="207B0">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207B1">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="207B2">
 		</actor>
@@ -1258,7 +1258,7 @@
 		<actor gender="F" idleForm="20F77">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20F78">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="20F79">
 		</actor>
@@ -1268,7 +1268,7 @@
 		<actor gender="F" idleForm="20F7A">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="20F7B">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="20F7C">
 		</actor>
@@ -1278,7 +1278,7 @@
 		<actor gender="F" idleForm="207B9">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="207BA">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="207BB">
 		</actor>
@@ -1288,7 +1288,7 @@
 		<actor gender="F" idleForm="21720">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="21721">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="21722">
 		</actor>
@@ -1298,7 +1298,7 @@
 		<actor gender="F" idleForm="226C1">
 		</actor>
 		<actor gender="M" skeleton="Dog" idleForm="226C2">
-			<morph id="CErection" to="1"/>
+			<morph id="Erection" to="1"/>
 		</actor>
 		<actor idleForm="226C3">
 		</actor>

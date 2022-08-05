@@ -18,9 +18,9 @@
 
     <!--=============== STAGED ===============-->
 
-    <position id="[UAP] SC-PilloryDoggy01" animationGroup="SCAP_FM_HydroPillory01_Doggy" location="HydroPillory"/>
-    <position id="[UAP] SC-PilloryDoggy02" animationGroup="SCAP_FM_Pillory01_Doggy" location="Pillory"/>
-    <position id="[UAP] SC-PilloryDoubleTeam01" animationGroup="SCAP_FMM_HydroPillory01_DoubleTeam" location="HydroPillory"/>
-    <position id="[UAP] SC-PilloryDoubleTeam02" animationGroup="SCAP_FMM_HydroPillory01_Doggy" location="Pillory"/>
+    <position id="[UAP] SC-PilloryDoggy01" animationGroup="SCAP_FM_HydroPillory01_Doggy" location="HydroPillory" tags="SavageCabbage,F_M,HydroPillory,Aggressive,Terase,Held9,Love0,Stim5,Dom-9,NullToSelf,HandToNipple"/>
+    <position id="[UAP] SC-PilloryDoggy02" animationGroup="SCAP_FM_Pillory01_Doggy" location="Pillory" tags="SavageCabbage,F_M,Pillory,FromBehind,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-PilloryDoubleTeam01" animationGroup="SCAP_FMM_HydroPillory01_DoubleTeam" location="HydroPillory" tags="SavageCabbage,F_M_M,HydroPillory,FromFront,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
+    <position id="[UAP] SC-PilloryDoubleTeam02" animationGroup="SCAP_FMM_HydroPillory01_Doggy" location="Pillory" tags="SavageCabbage,F_M_M,Pillory,FromBehind,FromFront,Rough,Aggressive,MidStage,Held9,Love0,Stim5,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
 
 </positionData>

@@ -4,7 +4,7 @@
 	<animation id="SCAP_F_MLK_Standing01_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2D6FF">
 		</actor>
-		<actor gender="M" skeleton="MirelurkKing" idleForm="2D700">
+		<actor gender="M" skeleton="MirelurkKing" idleForm="2D700" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -13,7 +13,7 @@
 	<animation id="SCAP_F_MLK_Standing01_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="30576">
 		</actor>
-		<actor gender="M" skeleton="MirelurkKing" idleForm="30577">
+		<actor gender="M" skeleton="MirelurkKing" idleForm="30577" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -22,7 +22,7 @@
 	<animation id="SCAP_F_MLK_Standing01_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="30578">
 		</actor>
-		<actor gender="M" skeleton="MirelurkKing" idleForm="30579">
+		<actor gender="M" skeleton="MirelurkKing" idleForm="30579" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -31,7 +31,7 @@
 	<animation id="SCAP_F_MLK_Standing01_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="3057A">
 		</actor>
-		<actor gender="M" skeleton="MirelurkKing" idleForm="3057B">
+		<actor gender="M" skeleton="MirelurkKing" idleForm="3057B" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>

@@ -4,13 +4,13 @@
 	<!-- Supermutant Animations -->
 
 	<animation id="Leito_Carry_MM_2Mutant_01" frames="306">
-		<actor gender="M" idleForm="00001EDC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EDC">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="00001EDD">
+		<actor gender="M" startEquipmentSet="CockDown" skeleton="Supermutant" idleForm="00001EDD">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.68"/>
 			<morph id="Erection Down" to="-0.20"/>
@@ -19,13 +19,13 @@
 	</animation>
 
 	<animation id="Leito_ReverseCarry_MM_2Mutant_01" frames="304">
-		<actor gender="M" idleForm="00004C8F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004C8F">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="00004C8C">
+		<actor gender="M" startEquipmentSet="CockDown" skeleton="Supermutant" idleForm="00004C8C">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.80"/>
 			<morph id="Erection Down" to="-0.60"/>
@@ -34,13 +34,13 @@
 	</animation>
 
 	<animation id="Leito_Doggy_MM_2Mutant_01" frames="308">
-		<actor gender="M" idleForm="0000542A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000542A">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0000542D">
+		<actor gender="M" startEquipmentSet="CockDown" skeleton="Supermutant" idleForm="0000542D">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.32"/>
 			<morph id="Penis Adjust" to="-0.30"/>
@@ -48,13 +48,13 @@
 	</animation>
 
 	<animation id="Leito_StandingDoggy_MM_2Mutant_01" frames="288">
-		<actor gender="M" idleForm="0000542B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000542B">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0000542E">
+		<actor gender="M" startEquipmentSet="CockDown" skeleton="Supermutant" idleForm="0000542E">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.10"/>
 			<morph id="Penis Adjust" to="-0.20"/>
@@ -62,13 +62,13 @@
 	</animation>
 
 	<animation id="Leito_Powerbomb_MM_2Mutant_01" frames="300">
-		<actor gender="M" idleForm="0000B73D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B73D">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0000B73E">
+		<actor gender="M" startEquipmentSet="CockDown" skeleton="Supermutant" idleForm="0000B73E">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Down" to="1"/>
 			<morph id="Erection Up" to="0.8"/>
@@ -77,13 +77,13 @@
 	</animation>
 
 	<animation id="Leito_StandingSideways_MM_2Mutant_01" frames="304">
-		<actor gender="M" idleForm="0000542C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000542C">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0000542F">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0000542F">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -93,51 +93,51 @@
 	
 
 	<animation id="Leito_MSuperMutant_Chair_Cowgirl_1_S1" frames="300">
-		<actor gender="M" idleForm="01002E55" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01002E55" conditions="Foreplay">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01002E51">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01002E51">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_Cowgirl_1_S2" frames="300">
-		<actor gender="M" idleForm="01002E56" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01002E56" conditions="Intermediary-20_59">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01002E52">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01002E52">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_Cowgirl_1_S3" frames="300">
-		<actor gender="M" idleForm="01002E57" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01002E57" conditions="Intermediary-60_99">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01002E53">
+		<actor gender="M" startEquipmentSet="CockUp" skeleton="Supermutant" idleForm="01002E53">
 			<morph id="Erection Up" to="2"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_Cowgirl_1_S4" frames="300">
-		<actor gender="M" stopOverlaySet="Belly" idleForm="01002E58" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="01002E58" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01002E54">
+		<actor gender="M" startEquipmentSet="CockUp" skeleton="Supermutant" idleForm="01002E54">
 			<morph id="Erection Up" to="2"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -147,79 +147,79 @@
 
 
 	<animation id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S1" frames="300">
-		<actor gender="M" idleForm="0100DE2C" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100DE2C" conditions="Foreplay">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0100DE30">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE30">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S2" frames="300">
-		<actor gender="M" idleForm="0100DE2D" conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100DE2D" conditions="Intermediary-20_46">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0100DE31">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE31">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S3" frames="300">
-		<actor gender="M" idleForm="0100DE2E" conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100DE2E" conditions="Intermediary-46_73">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0100DE32">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE32">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S4" frames="300">
-		<actor gender="M" idleForm="0100DE2F" conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100DE2F" conditions="Intermediary-73_99">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="0100DE33">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE33">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S5" frames="300">
-		<actor gender="M" idleForm="01007B16" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01007B16" conditions="Climax">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01007B14">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01007B14">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="Leito_MSuperMutant_Chair_ReverseCowgirl_1_S6" frames="300">
-		<actor gender="M" stopOverlaySet="Belly" idleForm="01007B17">
+		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="01007B17">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" skeleton="Supermutant" idleForm="01007B15">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01007B15">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>

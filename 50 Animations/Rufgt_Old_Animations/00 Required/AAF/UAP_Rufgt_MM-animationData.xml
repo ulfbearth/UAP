@@ -3,13 +3,13 @@
 
 
 	<animation id="MM Rocket 69" frames="60">
-		<actor gender="M" idleForm="01001ECC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01001ECC">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.000000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="01001732">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01001732">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -19,12 +19,12 @@
 
 
 	<animation id="MM Kissing" frames="60">
-		<actor gender="M" idleForm="0100359B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100359B">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.000000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="0100359A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100359A">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.000000000000001"/>
@@ -33,12 +33,12 @@
 
 
 	<animation id="MM Make Out" frames="60">
-		<actor gender="M" idleForm="01004C6E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01004C6E">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.000000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="01004C6D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01004C6D">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.000000000000001"/>
@@ -47,12 +47,12 @@
 
 
 	<animation id="MM Smooching" frames="60">
-		<actor gender="M" idleForm="01006AD7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01006AD7">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.000000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="01006AD8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01006AD8">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.000000000000001"/>
@@ -61,13 +61,13 @@
 
 
 	<animation id="MM Cunnilingus" frames="60">
-		<actor gender="M" idleForm="01007A0E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01007A0E">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.000000000000001"/>
 		</actor>
-		<actor gender="M" idleForm="01007A0D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01007A0D">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -77,14 +77,14 @@
 
 
 	<animation id="MM Spooning" frames="60">
-		<actor gender="M" idleForm="01008943">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01008943">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.000000000000001"/>
 			<morph id="Anus Spread" to=".815"/>
 		</actor>
-		<actor gender="M" idleForm="01008942">
+		<actor gender="M" startEquipmentSet="CockUp" idleForm="01008942">
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>

@@ -4,7 +4,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Tease_S1" frames="500">
 		<actor gender="F" idleForm="27AF7">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AF8">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AF8" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -13,7 +13,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Start_S2" frames="500">
 		<actor gender="F" idleForm="27AF9">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AFA">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AFA" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -22,7 +22,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="27AEB">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AEC">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AEC" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -31,7 +31,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="27AEF">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AF0">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AF0" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -40,7 +40,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="27AF1">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AF2">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AF2" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -49,7 +49,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="27AF3">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AF4">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AF4" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -58,7 +58,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Climax_S7" frames="500">
 		<actor gender="F" idleForm="27AF5">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="27AF6">
+		<actor gender="M" skeleton="Gorilla" idleForm="27AF6" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -67,7 +67,7 @@
 	<animation id="SCAP_F_Gorilla_Standing01_Doggy_Finish_S8" frames="500">
 		<actor gender="F" idleForm="28A4C">
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="28A4D">
+		<actor gender="M" skeleton="Gorilla" idleForm="28A4D" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>

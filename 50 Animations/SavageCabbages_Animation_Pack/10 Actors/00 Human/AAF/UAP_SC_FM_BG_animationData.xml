@@ -4,7 +4,7 @@
 	<animation id="SCAP_F_BG_Floor01_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2F5BE">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5BF">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5BF" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -13,7 +13,7 @@
 	<animation id="SCAP_F_BG_Floor01_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="45E2">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="45E3">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="45E3" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -22,7 +22,7 @@
 	<animation id="SCAP_F_BG_Floor01_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="4D85">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="4D86">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="4D86" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -31,7 +31,7 @@
 	<animation id="SCAP_F_BG_Floor01_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="5525">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="5526">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="5526" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -40,7 +40,7 @@
 	<animation id="SCAP_F_BG_Floor01_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="5CC2">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="5CC3">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="5CC3" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -49,7 +49,7 @@
 	<animation id="SCAP_F_BG_Floor01_Climax_S7" frames="250">
 		<actor gender="F" idleForm="6469">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="646A">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="646A" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -58,7 +58,7 @@
 	<animation id="SCAP_F_BG_Floor01_Finish_S8" frames="500">
 		<actor gender="F" idleForm="30554">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="30555">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="30555" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -67,7 +67,7 @@
 	<animation id="SCAP_F_BG_Standing01_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2F5C0">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C1">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C1" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -76,7 +76,7 @@
 	<animation id="SCAP_F_BG_Standing01_Start_S2" frames="500">
 		<actor gender="F" idleForm="2FD7F">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="2FD80">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2FD80" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -85,7 +85,7 @@
 	<animation id="SCAP_F_BG_Standing01_Carry_S3" frames="500">
 		<actor gender="F" idleForm="A17F">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="A180">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="A180" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -94,7 +94,7 @@
 	<animation id="SCAP_F_BG_Standing01_Carry_S4" frames="500">
 		<actor gender="F" idleForm="12322">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="12323">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12323" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -103,7 +103,7 @@
 	<animation id="SCAP_F_BG_Standing01_Carry_S5" frames="500">
 		<actor gender="F" idleForm="12324">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="12325">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12325" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -112,7 +112,7 @@
 	<animation id="SCAP_F_BG_Standing01_Climax_S6" frames="500">
 		<actor gender="F" idleForm="12AC1">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="12AC2">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12AC2" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -121,7 +121,7 @@
 	<animation id="SCAP_F_BG_Standing02_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2F5C2">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C3">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2F5C3" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -130,7 +130,7 @@
 	<animation id="SCAP_F_BG_Standing02_Blowjob_S3" frames="500">
 		<actor gender="F" idleForm="A182">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="A183">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="A183" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -139,7 +139,7 @@
 	<animation id="SCAP_F_BG_Standing02_Blowjob_S4" frames="500">
 		<actor gender="F" idleForm="1231E">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="1231F">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="1231F" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -148,7 +148,7 @@
 	<animation id="SCAP_F_BG_Standing02_Blowjob_S5" frames="500">
 		<actor gender="F" idleForm="12320">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="12321">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="12321" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
@@ -157,7 +157,7 @@
 	<animation id="SCAP_F_BG_Standing02_Blowjob_S6" frames="500">
 		<actor gender="F" idleForm="28299">
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="2829A">
+		<actor gender="M" skeleton="FeralGhoul" idleForm="2829A" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>

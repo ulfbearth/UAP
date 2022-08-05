@@ -6,7 +6,7 @@
 		<actor gender="F" idleForm="01000f9e">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="01000f9D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f9D">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
@@ -17,7 +17,7 @@
 		<actor gender="F" idleForm="01000f9b">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="01000f99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f99">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
@@ -29,7 +29,7 @@
 		<actor gender="F" idleForm="01000f9f">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Dog" idleForm="01000fa0">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="01000fa0">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -38,7 +38,7 @@
 		<actor gender="F" idleForm="01002e07">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Deathclaw" idleForm="01002e08">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="01002e08">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -48,7 +48,7 @@
 		<actor gender="F" idleForm="010044DB">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Deathclaw" idleForm="01003D41">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="01003D41">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -58,7 +58,7 @@
 		<actor gender="F" idleForm="0100173c">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173B">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="0100173B">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -67,7 +67,7 @@
 		<actor gender="F" idleForm="0100173D">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="0100173E">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="0100173E">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -77,13 +77,13 @@
 		<actor gender="F" idleForm="01001ed8">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="01001ed9">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="01001ed9">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="01001eda">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="01001eda">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" skeleton="FeralGhoul" idleForm="01001edb">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="01001edb">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -92,7 +92,7 @@
 		<actor gender="F" idleForm="01002E13">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="FEVHound" idleForm="01002e12">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="01002e12">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -101,7 +101,7 @@
 		<actor gender="F" idleForm="010035b5">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" skeleton="Gorilla" idleForm="010035b4">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Gorilla" idleForm="010035b4">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
