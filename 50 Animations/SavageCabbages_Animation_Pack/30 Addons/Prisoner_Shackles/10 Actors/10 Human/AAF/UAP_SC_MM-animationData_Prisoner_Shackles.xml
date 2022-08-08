@@ -6,33 +6,33 @@
 	<!-- 2 Actors -->
 
 	<animation id="SCAP_HeldShackles_MM_2Human_01_S1" frames="500">
-		<actor gender="M" idleForm="00001816">
+		<actor gender="M" idleForm="00001816" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001817">
+		<actor gender="M" idleForm="00001817" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_HeldShackles_MM_2Human_01_S2" frames="500">
-		<actor gender="M" idleForm="00001016">
+		<actor gender="M" idleForm="00001016" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001017">
+		<actor gender="M" idleForm="00001017" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="SCAP_HeldShackles_MM_2Human_01_S3" frames="500">
-		<actor gender="M" idleForm="00027329">
+		<actor gender="M" idleForm="00027329" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="0002732A">
+		<actor gender="M" idleForm="0002732A" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
@@ -45,15 +45,15 @@
 	<!-- 3 Actors -->
 
 	<animation id="SCAP_HeldShackles_MM_3Human_01" frames="500">
-		<actor gender="M" idleForm="00001049">
+		<actor gender="M" idleForm="00001049" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="0000104A">
+		<actor gender="M" idleForm="0000104A" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="0000104B">
+		<actor gender="M" idleForm="0000104B" startEquipmentSet="CockErect">
 			<morph id="Erection Down" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
