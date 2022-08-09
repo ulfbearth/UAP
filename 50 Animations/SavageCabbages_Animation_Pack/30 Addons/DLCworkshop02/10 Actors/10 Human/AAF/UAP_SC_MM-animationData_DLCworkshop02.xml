@@ -53,7 +53,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="0001325F" startEquipmentSet="CockUp">
+		<actor gender="M" idleForm="0001325F" startEquipmentSet="CockErect">
 			<morph id="Erection Up" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
@@ -75,7 +75,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" idleForm="00001051" startEquipmentSet="CockUp">
+		<actor gender="M" idleForm="00001051" startEquipmentSet="CockErect">
 			<morph id="Erection Up" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
