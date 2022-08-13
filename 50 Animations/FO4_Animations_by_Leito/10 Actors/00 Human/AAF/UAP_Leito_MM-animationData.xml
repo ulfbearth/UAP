@@ -168,7 +168,7 @@
 			<action id="Play-Pussy-CumLeak" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50	'" idleForm="0000450A">
+		<actor gender="M" startEquipmentSet="CockUp50" idleForm="0000450A">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
 			<morph id="Foreskin" to="0.000000000000001" />
 			<action id="UAPOrgasm" loop="true" />

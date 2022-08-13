@@ -7,88 +7,105 @@
 
 	<equipmentSet id="CockErect">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="803" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 
 	<equipmentSet id="CockUp12">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="82B" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp25">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="82A" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp37">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="829" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp50">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="811" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp62">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="828" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp75">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="827" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp87">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="826" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	<equipmentSet id="CockUp">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="80C" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 
 	
 	<equipmentSet id="CockDown12">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="831" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown25">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="830" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown37">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="82F" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown50">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="812" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown62">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="82E" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown75">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="82D" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown87">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="82C" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
 	<equipmentSet id="CockDown">
 		<condition isFemale="false" skeleton="Human">
+			<addEquipment form="80D" source="Atomic Muscle.esp" />
 		</condition>
 	</equipmentSet>
 	
