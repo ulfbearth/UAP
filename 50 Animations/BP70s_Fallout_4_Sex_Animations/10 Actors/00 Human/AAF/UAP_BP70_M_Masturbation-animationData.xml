@@ -4,7 +4,7 @@
 	<!-- Furniture Animations -->
 
 	<animation id="FO4SA_MasturbationBed_M_01" frames="360">
-		<actor gender="M" idleForm="000035E6" startEquipmentSet="CockErect">
+		<actor gender="M" idleForm="000035E6">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

@@ -3,15 +3,5 @@
 
 
 	<position id="Filler2P" isHidden="true"></position>
-	<position id="[UAP]Reseter Solo" animation="NullSolo" isHidden="true"/>
-	<position id="[UAP]Reseter Duo" animation="Null" isHidden="true"/>
-	<position id="[UAP]Reseter 3Way" animation="Null_3Way" isHidden="true"/>
-	<position id="[UAP]Reseter 4Way" animation="Null_4Way" isHidden="true"/>
-	<position id="[UAP]Reseter 5Way" animation="Null_5Way" isHidden="true"/>
-	<position id="[UAP]Reseter 6Way" animation="Null_6Way" isHidden="true"/>
-	<position id="[UAP]Reseter 7Way" animation="Null_7Way" isHidden="true"/>
-	<position id="[UAP]Reseter 8Way" animation="Null_8Way" isHidden="true"/>
-	<position id="[UAP]Reseter 9Way" animation="Null_9Way" isHidden="true"/>
-	<position id="[UAP]Reseter 10Way" animation="Null_10Way" isHidden="true"/>
 
 </positionData>
