@@ -2,210 +2,210 @@
 	<defaults idleSource="Fallout4.esm"/>
 
 	<!-- Filler Animations -->
-	<animation id="Filler2P" frames="13">
-		<actor idleForm="Null" skeleton="" conditions="Climax"></actor>
-		<actor idleForm="Null" skeleton=""></actor>
+	<animation id="Filler2P" frames="120">
+		<actor idleForm="20D6D" skeleton="" conditions="Climax"></actor>
+		<actor idleForm="20D6D" skeleton=""></actor>
 	</animation>
 	
-	<animation id="Filler2A" frames="13">
-		<actor idleForm="Null" skeleton=""></actor>
-		<actor idleForm="Null" skeleton=""></actor>
+	<animation id="Filler2A" frames="120">
+		<actor idleForm="20D6D" skeleton=""></actor>
+		<actor idleForm="20D6D" skeleton=""></actor>
 	</animation>
 
 
 	<!-- Edge Reseters -->
 
-	<animation id="NullSolo" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="NullSolo" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-	</animation>
-
-	<animation id="Null_3Way" frames="13">
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_4Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_3Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_5Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_4Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_6Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_5Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_7Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_6Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_8Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_7Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_9Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_8Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
-			<action id="Resetall" from="0" to="1" loop="false"/>
-		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
 
-	<animation id="Null_10Way" frames="13">
-		<actor skeleton="" idleForm="Null">
+	<animation id="Null_9Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
-		<actor skeleton="" idleForm="Null">
+	</animation>
+
+	<animation id="Null_10Way" frames="120">
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
+			<action id="Resetall" from="0" to="1" loop="false"/>
+		</actor>
+		<actor skeleton="" idleForm="20D6D">
 			<action id="Resetall" from="0" to="1" loop="false"/>
 		</actor>
 	</animation>
