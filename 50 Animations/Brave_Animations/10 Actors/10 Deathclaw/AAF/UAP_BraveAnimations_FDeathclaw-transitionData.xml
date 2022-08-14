@@ -1,18 +1,12 @@
 <transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults/>
 
-	<transition from="*" to="Brave_DeathclawSitting_Tree" animation="Null"/>
-	<transition from="None" to="Brave_DeathclawSitting_Tree" animation="Null"/>
 	<transition from="Brave_DeathclawSitting1_Block" to="Brave_DeathclawSitting3_Block" animation="Brave_DeathclawSitting2"/>
 	<transition from="Brave_DeathclawSitting4_Block" to="Brave_DeathclawSitting6_Block" animation="Brave_DeathclawSitting5"/>
 
-	<transition from="*" to="Brave_DeathclawSpooning_Tree" animation="Null"/>
-	<transition from="None" to="Brave_DeathclawSpooning_Tree" animation="Null"/>
 	<transition from="Brave_DeathclawSpooning1_Block" to="Brave_DeathclawSpooning3_Block" animation="Brave_DeathclawSpooning2"/>
 	<transition from="Brave_DeathclawSpooning4_Block" to="Brave_DeathclawSpooning6_Block" animation="Brave_DeathclawSpooning5"/>
 
-	<transition from="*" to="Brave_DeathclawMissionary_Tree" animation="Null"/>
-	<transition from="None" to="Brave_DeathclawMissionary_Tree" animation="Null"/>
 	<transition from="Brave_DeathclawMissionary1_Block" to="Brave_DeathclawMissionary3_Block" animation="Brave_DeathclawMissionary2Trans"/>
 	<transition from="Brave_DeathclawMissionary1" to="Brave_DeathclawMissionary3" animation="Brave_DeathclawMissionary2Trans"/>
 	<transition from="Brave_DeathclawMissionary3_Block" to="Brave_DeathclawMissionary5_Block" animation="Brave_DeathclawMissionary4Trans"/>
