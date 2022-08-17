@@ -385,7 +385,7 @@
 		<actor gender="M" skeleton="Supermutant" idleForm="2F5D9" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<morph id="CErection" to="1"/> </actor>
+			<morph id="CErection" to="1"/>
 		</actor>
 	</animation>
 
@@ -395,7 +395,7 @@
 		<actor gender="M" skeleton="Supermutant" idleForm="2FD9D" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<morph id="CErection" to="1"/> </actor>
+			<morph id="CErection" to="1"/>
 		</actor>
 	</animation>
 
@@ -405,7 +405,7 @@
 		<actor gender="M" skeleton="Supermutant" idleForm="1493F" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Foreskin" to="0.000000000000001"/>
-			<morph id="CErection" to="1"/> </actor>
+			<morph id="CErection" to="1"/>
 		</actor>
 	</animation>
 
