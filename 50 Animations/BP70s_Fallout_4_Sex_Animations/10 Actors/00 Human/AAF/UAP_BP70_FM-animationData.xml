@@ -2779,5 +2779,104 @@
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
+
+	<animation id="rxl_bp70_doublebedpussyplay01" frames="240">
+		<actor gender="F" idleForm="1674F">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="16750">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_doublebedpussyplay02" frames="240">
+		<actor gender="F" idleForm="16751">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="16752">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_doublebedpussyplay03" frames="240">
+		<actor gender="F" idleForm="16753">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="16754">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_doublebedpussyplay04" frames="1000">
+		<actor gender="F" idleForm="16755">
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="16756">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_armchaircunny01" frames="200">
+		<actor gender="F" idleForm="547A">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="547C">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_armchaircunny02" frames="200">
+		<actor gender="F" idleForm="547D">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="547E">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_armchaircunny03" frames="200">
+		<actor gender="F" idleForm="547F">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="5480">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="rxl_bp70_armchaircunny04" frames="200">
+		<actor gender="F" idleForm="5481">
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="5482">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="rxl_bp70_armchaircunny05" frames="500">
+		<actor gender="F" idleForm="5483">
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="5484">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Foreskin" to="0.000000000000001"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
 	
 </animationData>

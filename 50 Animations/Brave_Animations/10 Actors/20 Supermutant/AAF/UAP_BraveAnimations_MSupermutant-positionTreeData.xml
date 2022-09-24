@@ -2,13 +2,12 @@
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" />
 
 
-    <tree id="Brave_MM_SupermutantMissionary_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-        <branch id="Playing Staged Sequence" positionID="[UAP] Brave - Gay Supermutant Missionary Staged" time="0">
-            <branch id="Play Stage 1" positionID="[UAP] Brave - Gay Supermutant Kissing" forceComplete="true" time="0">
-                <branch id="Play Stage 2" positionID="[UAP] Brave - Gay Supermutant Missionary 1" forceComplete="true" time="0">
-                    <branch id="Play Stage 3" positionID="[UAP] Brave - Gay Supermutant Missionary 2" forceComplete="true" time="0">
-                        <branch id="Orgasm" positionID="[UAP] Brave - Gay Supermutant Missionary 3" forceComplete="true" time="30" isExit="true">
-                        </branch>
+    <tree id="Brave_MM_SupermutantMissionary_Tree"   strictExiting="true"  >
+        <branch id="Play Stage 1" positionID="[UAP] Brave - Gay Supermutant Kissing" forceComplete="true" time="15">
+            <branch id="Play Stage 2" positionID="[UAP] Brave - Gay Supermutant Missionary 1" forceComplete="true" time="35">
+                <branch id="Play Stage 3" positionID="[UAP] Brave - Gay Supermutant Missionary 2" forceComplete="true" time="35">
+                    <branch id="Orgasm" positionID="[UAP] Brave - Gay Supermutant Missionary 3" forceComplete="true" time="30">
+                        <branch id="Finish" isExit="true" positionID="Filler2P"></branch>
                     </branch>
                 </branch>
             </branch>

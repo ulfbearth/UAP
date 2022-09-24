@@ -7,105 +7,105 @@
 
 	<!-- Supermutant -->
 
-	<transition from="*" to="GUCP_Supermutant_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Supermutant_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
-	<transition from="*" to="GUCP_Supermutant_MM_02_Staged" animation="Null"/>
-	<transition from="GUCP_Supermutant_MM_02_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- FEVHound -->
 
-	<transition from="*" to="GUCP_FEVHound_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_FEVHound_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Deathclaw -->
 
-	<transition from="*" to="GUCP_Deathclaw_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Deathclaw_MM_01_Staged" to="*" animation="Null"/>
+
+
 
 	<!-- Feral Ghoul -->
 
-	<transition from="*" to="GUCP_Ghoul_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Ghoul_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
-	<transition from="*" to="GUCP_Ghoul_MM_02_Staged" animation="Null"/>
-	<transition from="GUCP_Ghoul_MM_02_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Molerat -->
 
-	<transition from="*" to="GUCP_Molerat_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Molerat_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Behemoth -->
 
-	<transition from="*" to="GUCP_Behemoth_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Behemoth_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Alien -->
 
-	<transition from="*" to="GUCP_Alien_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Alien_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Bloatfly -->
 
-	<transition from="*" to="GUCP_Bloatfly_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Bloatfly_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Bloodbug -->
 
-	<transition from="*" to="GUCP_Bloodbug_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Bloodbug_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Mirelurk -->
 
-	<transition from="*" to="GUCP_Mirelurk_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Mirelurk_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Mirelurk Hunter -->
 
-	<transition from="*" to="GUCP_MirelurkHunter_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_MirelurkHunter_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Mirelurk King -->
 
-	<transition from="*" to="GUCP_MirelurkKing_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_MirelurkKing_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Mirelurk Queen -->
 
-	<transition from="*" to="GUCP_MirelurkQueen_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_MirelurkQueen_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Rad Scorpion -->
 
-	<transition from="*" to="GUCP_Radscorpion_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Radscorpion_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Stingwing -->
 
-	<transition from="*" to="GUCP_Stingwing_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Stingwing_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 	<!-- Yao-Guai -->
 
-	<transition from="*" to="GUCP_YaoGuai_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_YaoGuai_MM_01_Staged" to="*" animation="Null"/>
+
+
 	
 
 </transitionData>
