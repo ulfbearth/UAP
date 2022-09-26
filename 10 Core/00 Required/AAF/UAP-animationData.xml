@@ -2,7 +2,7 @@
 	<defaults idleSource="Fallout4.esm"/>
 
 	<!-- Filler Animations -->
-	<animation id="Filler2P" frames="120">
+	<animation id="Ending" frames="120">
 		<actor idleForm="20D6D" skeleton="" conditions="Climax"></actor>
 		<actor idleForm="20D6D" skeleton=""></actor>
 	</animation>

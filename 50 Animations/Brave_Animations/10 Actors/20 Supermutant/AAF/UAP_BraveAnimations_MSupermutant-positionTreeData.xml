@@ -7,7 +7,7 @@
             <branch id="Play Stage 2" positionID="[UAP] Brave - Gay Supermutant Missionary 1" forceComplete="true" time="35">
                 <branch id="Play Stage 3" positionID="[UAP] Brave - Gay Supermutant Missionary 2" forceComplete="true" time="35">
                     <branch id="Orgasm" positionID="[UAP] Brave - Gay Supermutant Missionary 3" forceComplete="true" time="30">
-                        <branch id="Finish" isExit="true" positionID="Filler2P"></branch>
+                        <branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
                     </branch>
                 </branch>
             </branch>

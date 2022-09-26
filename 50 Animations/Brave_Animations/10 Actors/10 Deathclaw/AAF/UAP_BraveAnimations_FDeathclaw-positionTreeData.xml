@@ -7,7 +7,7 @@
             <branch id="Play Stage 2" positionID="[UAP] Brave - Deathclaw Sitting 3 Block" forceComplete="true" time="35">
                 <branch id="Play Stage 3" positionID="[UAP] Brave - Deathclaw Sitting 4 Block" forceComplete="true" time="35">
                     <branch id="Orgasm" positionID="[UAP] Brave - Deathclaw Sitting 6 Block" time="30" forceComplete="true">
-                        <branch id="Finish" isExit="true" positionID="Filler2P"></branch>
+                        <branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
                     </branch>
                 </branch>
             </branch>
@@ -21,7 +21,7 @@
             <branch id="Play Stage 2" positionID="[UAP] Brave - Deathclaw Spooning 3 Block" forceComplete="true" time="35">
                 <branch id="Play Stage 3" positionID="[UAP] Brave - Deathclaw Spooning 4 Block" forceComplete="true" time="35">
                     <branch id="Orgasm" positionID="[UAP] Brave - Deathclaw Spooning 6 Block" time="30" forceComplete="true">
-                        <branch id="Finish" isExit="true" positionID="Filler2P"></branch>
+                        <branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
                     </branch>
                 </branch>
             </branch>
@@ -35,7 +35,7 @@
             <branch id="Play Stage 2" positionID="[UAP] Brave - Deathclaw Missionary 3 Block" forceComplete="true" time="35">
                 <branch id="Play Stage 3" positionID="[UAP] Brave - Deathclaw Missionary 5 Block" forceComplete="true" time="35">
                     <branch id="Climax" positionID="[UAP] Brave - Deathclaw Missionary 8 Block" forceComplete="true" time="15">
-                        <branch id="Finish" isExit="true" positionID="Filler2P"></branch>
+                        <branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
                     </branch>
                 </branch>
             </branch>

@@ -6,7 +6,7 @@
 	<tree id="AtomicLust_Jerking_M_01_Tree"   strictExiting="true"  >
 		<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Male Jerking Off (Main Course)" forceComplete="true" time="35">
 			<branch id="Orgasm" positionID="[UAP] Atomic Lust - Male Jerking Off (Orgasm)" forceComplete="true" time="25">
-				<branch id="Finish" isExit="true" positionID="Filler2P"></branch>
+				<branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
 			</branch>
 		</branch>
 	</tree>

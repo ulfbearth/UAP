@@ -7,7 +7,7 @@
             <branch id="Play Stage 2" positionID="[UAP] Brave - Supermutant Missionary 1" forceComplete="true" time="35">
                 <branch id="Play Stage 3" positionID="[UAP] Brave - Supermutant Missionary 2" forceComplete="true" time="35">
                     <branch id="Orgasm" positionID="[UAP] Brave - Supermutant Missionary 3" forceComplete="true" time="30">
-                        <branch id="Finish" positionID="Filler2P" isExit="true"></branch>
+                        <branch id="Finish" positionID="Ending" time="0" isExit="true"></branch>
                     </branch>
                 </branch>
             </branch>
