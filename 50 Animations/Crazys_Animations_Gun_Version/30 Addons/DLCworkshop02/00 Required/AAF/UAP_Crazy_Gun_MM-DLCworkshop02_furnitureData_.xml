@@ -1,7 +1,0 @@
-<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
-	<defaults source="DLCworkshop02.esm"/>
-
-	<group id="Pillory">
-		<furniture form="00000AAD" id="DLC05NPCWorkshopPillory"/>
-	</group>
-</furnitureData>
