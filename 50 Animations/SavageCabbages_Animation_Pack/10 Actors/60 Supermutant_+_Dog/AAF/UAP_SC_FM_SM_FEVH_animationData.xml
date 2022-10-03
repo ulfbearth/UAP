@@ -18,4 +18,13 @@
 		<actor gender="M" skeleton="FEVHound" idleForm="30D86">
 		</actor>
 	</animation>
+	
+	<animation id="SCAP_F_SMFEVH_Standing01_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="32552">
+		</actor>
+		<actor gender="M" skeleton="SuperMutant" idleForm="32553">
+		</actor>
+		<actor gender="M" skeleton="FEVHound" idleForm="32554">
+		</actor>
+	</animation>
 </animationData>

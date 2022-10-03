@@ -1,0 +1,17 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults loadPriority="5"/>
+
+
+    <transition from="zazout-PilloryOral_BJ-03" to="zazout-PilloryOral_BJ-04" animation="zazout-PilloryOral_BJ-03_TR" />
+
+    <transition from="zazout-PilloryOral_BJ-04" to="zazout-PilloryOral_BJ-05" animation="zazout-PilloryOral_BJ-04_TR" />
+
+
+    <transition from="none" to="zazout-PillorySex_A-Pussy-00" animation="ZOut4-HP_2P_A-Enter_Pussy" />
+
+    <transition from="*" to="zazout-PillorySex_A-Pussy-00" animation="ZOut4-HP_2P_A-Enter_Pussy" />
+
+    <transition from="zazout-PillorySex_A-Pussy-06" to="zazout-PillorySex_A-Pussy-07" animation="zazout-PillorySex_A-Pussy-06_TR" />
+
+    <transition from="zazout-PillorySex_A-Pussy-07" to="zazout-PillorySex_A-Pussy-08" animation="zazout-PillorySex_A-Pussy-07_TR" />
+</transitionData>

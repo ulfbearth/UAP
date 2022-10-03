@@ -1,0 +1,258 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="ZaZOut4.esp" loadPriority="5"/>
+
+	<animation id="zazout-MM_PilloryOral_BJ-00" offset="0,0.5,0,0:0,-1,0,180" frames="500">
+		<actor gender="M" idleForm="05004504" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05004503" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-01" offset="0,0.5,0,0:0,-1,0,180" frames="500">
+		<actor gender="M" idleForm="050035C6" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050035C5" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="1.0" />
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-02" offset="0,0.5,0,0:0,-1.0,0,180" frames="500">
+		<actor gender="M" idleForm="050035C8" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050035C7" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="1.0" />
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-03" offset="0,0.5,0,0:0,-1.0,0,180" frames="500">
+		<actor gender="M" idleForm="050035CA" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050035C9" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection Up" to="1.0" />
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-03_TR" offset="0,0.5,0,0:0,-1.0,0,180" frames="180">
+		<actor gender="M" idleForm="05003D85" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05003D84" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-04" offset="0,0.5,0,0:0,-1.0,0,180" frames="500">
+		<actor gender="M" idleForm="05003D66" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05003D65" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-04_TR" offset="0,0.5,0,0:0,-1.0,0,180" frames="300">
+		<actor gender="M" idleForm="05004529" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05004528" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-05" offset="0,0.5,0,0:0,-1.0,0,180" frames="500">
+		<actor gender="M" idleForm="05004502" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05004501" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPOrgasm" loop="true"/>
+			<morph id="Erection Up" to="1.0" />
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-06" offset="0,0.5,0,0:0,-1.0,0,180" frames="500">
+		<actor gender="M" idleForm="05004506" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05004505" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PilloryOral_BJ-07" offset="0,0.5,0,0:0,-1.0,0,180" frames="500">
+		<actor gender="M" idleForm="0500452B" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="0500452A" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+	</animation>
+
+
+	<!-- Enter Animation For Pillory Sex Auto -->
+
+	<animation id="zazout-MM_ZOut4-HP_2P_A-Enter_Pussy" offset="0,0,0,0:0,0,0,0" frames="80">
+		<actor gender="M" idleForm="05002698" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05002697" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+	</animation>
+
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-00" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="05001EE4" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05001EE3" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-01" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="05001EE5" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05001EE6" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-02" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="05001EEB" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05001EEA" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-03" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="05002691" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05002690" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-04" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="05002694" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05002693" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-05" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="05002696" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05002695" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-06" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="500269A" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="05002699" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPMoans" loop="true"/>
+		</actor>
+	</animation>
+
+	<!-- Transition From Animation-06 to Animation-07  -->
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-06_TR" offset="0,0,0,0:0,0,0,0" frames="400">
+		<actor gender="M" idleForm="050026A3" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050026A2" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+	</animation>
+
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-07" offset="0,0,0,0:0,0,0,0" frames="300">
+		<actor gender="M" idleForm="050026A5" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050026A4" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPOrgasm" loop="true"/>
+		</actor>
+	</animation>
+
+	<!-- Transitions From Animation-07 to Animation-08  -->
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-07_TR" offset="0,0,0,0:0,0,0,0" frames="90">
+		<actor gender="M" idleForm="050026A7" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050026A6" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+	</animation>
+
+	<animation id="zazout-MM_PillorySex_A-Pussy-08" offset="0,0,0,0:0,0,0,0" frames="500">
+		<actor gender="M" idleForm="050026A9" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+		<actor gender="M" idleForm="050026A8" startEquipmentSet="CockErect">
+			<morph id="Erection" to="1.0000000000001" />
+			<action id="UAPBlowjob" loop="true"/>
+		</actor>
+	</animation>
+</animationData>

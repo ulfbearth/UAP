@@ -158,4 +158,22 @@
     <position id="[UAP] SC-DoubleTeam2" animationGroup="SCAP_F_SM2_Standing01_DoubleTeam" tags="SavageCabbage,F_SMutantM_SMutantM,NoFurn,DoubleTeam,Aggressive,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToMouth"/>
     <position id="[UAP] SC-Gangbang" animationGroup="SCAP_F_SM3_DoubleBedBroken01_Gangbang" location="Double_Bed_Broken" tags="SavageCabbage,F_SMutantM_SMutantM_SMutantM,DoubleBed,GangBang,FromFront,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth"/>
 
+<!-- ============================================================ 1.2.8 ============================================================ -->
+
+    <position id="SCAP_F_SM_PickUpPostWar01_Tease_S1" isHidden="true" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Aggressive,tease,Held3,Love1,Stim3,Dom-3,NullToSelf,HandToNipples"/>
+    <position id="SCAP_F_SM_PickUpPostWar01_Missionary_S3" isHidden="true" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_SM_PickUpPostWar01_Missionary_S4" isHidden="true" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_SM_PickUpPostWar01_Missionary_S5" isHidden="true" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_SM_PickUpPostWar01_Missionary_S6" isHidden="true" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_SM_PickUpPostWar01_ClimaxLoop_S7" isHidden="true" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Missionary,FromFront,Rough,Aggressive,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="[UAP] SC-PickUp-Missionary"  animationGroup="SCAP_F_SM_PickUpPostWar01_Missionary" location="PickUpTruckFlapDown" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Missionary,FromFront,Rough,Aggressive,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+
+    <position id="SCAP_F_SM_PickUpPostWar02_Tease_S1" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,Tease,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_SM_PickUpPostWar02_Doggy_S3" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_SM_PickUpPostWar02_Doggy_S4" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_SM_PickUpPostWar02_Doggy_S5" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_SM_PickUpPostWar02_Doggy_S6" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,MidStage,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_SM_PickUpPostWar02_ClimaxLoop_S7" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="[UAP] SC-PickUp-Doggy" animationGroup="SCAP_F_SM_PickUpPostWar02_Doggy" location="PickUpTrucksAll" tags="SavageCabbage,F_SMutantM,PickUpPostWar,Doggy,FromBehind,Neutral,ClimaxM,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToVagina"/>
+  
 </positionData>

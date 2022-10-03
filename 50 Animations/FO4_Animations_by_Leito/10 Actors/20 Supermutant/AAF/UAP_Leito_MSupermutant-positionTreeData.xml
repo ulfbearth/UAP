@@ -10,7 +10,7 @@
 			<branch id="Play Stage 2" positionID="[UAP] Leito - Gay SuperMutant Chair Cowgirl 1 (Stage 2)" forceComplete="true"  time="35">
 				<branch id="Play Stage 3" positionID="[UAP] Leito - Gay SuperMutant Chair Cowgirl 1 (Stage 3)" forceComplete="true"  time="35">
 					<branch id="Climax" positionID="[UAP] Leito - Gay SuperMutant Chair Cowgirl 1 (Stage 4)" forceComplete="true" time="15">
-						<branch id="Finish" positionID="Ending" time="0" isExit="true"></branch>
+						<branch id="Finish" positionID="[UAP] Leito - Gay SuperMutant Chair Cowgirl 1 (Stage 4)" time="0" isExit="true"></branch>
 					</branch>
 				</branch>
 			</branch>

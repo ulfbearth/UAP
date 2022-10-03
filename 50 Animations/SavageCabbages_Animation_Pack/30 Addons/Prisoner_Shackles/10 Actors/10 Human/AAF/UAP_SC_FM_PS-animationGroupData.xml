@@ -5,7 +5,8 @@
 		<stage animation="SCAP_FM_Shackles01_Tease_S1" loops="1"/> 
         <stage animation="SCAP_FM_Shackles01_Start_S2" loops="1"/> 
         <stage animation="SCAP_FM_Shackles01_Held_S3" loops="1"/> 
-        <stage animation="SCAP_FM_Shackles01_Held_S4" loops="1"/> 
+        <stage animation="SCAP_FM_Shackles01_Held_S4" loops="1"/>  
+        <stage animation="SCAP_FM_Shackles01_Held_S5" loops="1"/>
 	</animationGroup> 
 
     <animationGroup id="SCAP_FMM_Shackles01_Held" sequential="true">  

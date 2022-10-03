@@ -83,6 +83,32 @@
     <position id="SC-FM-BloatedGhoul-Standing02-05Blowjob" animation="Null" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
     <position id="SC-FM-BloatedGhoul-Standing02-06Blowjob" animation="Null" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
 	
-	<!-- =============================================================================================================================== -->
+	<!-- ============================================ 1.2.8 =================================================================================== -->
+	
+	<position id="SC-FM-FeralGhoul-BarrelMetal01-04Upright" location="Metal_Barrel" animation="Null" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BarrelMetal01-05Upright" location="Metal_Barrel" animation="Null" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BarrelMetal01-06Upright" location="Metal_Barrel" animation="Null" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BarrelMetal01-07ClimaxLoop" location="Metal_Barrel" animation="Null" tags="SavageCabbage,F_M,Barrel,Standing,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-Bed01-01Tease" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,Tease,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToHand"/>
+    <position id="SC-FM-FeralGhoul-Bed01-02Start" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,Start,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Bed01-03Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Bed01-04Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Bed01-05Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Bed01-06Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Bed01-07ClimaxLoop" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-Bed01-08Finish" location="Single_Bed" animation="Null" tags="SavageCabbage,F_M,Single_Bed,Missionary,FromFront,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-01Tease" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,Tease,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-02Start" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,Start,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-03Sitting" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-04Sitting" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-05Sitting" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-06Sitting" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,MidStage,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-07ClimaxLoop" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,ClimaxM,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+    <position id="SC-FM-FeralGhoul-BowlingBallReturn02-08Finish" location="BowlingBallReturn" animation="Null" tags="SavageCabbage,F_M,BowlingBallReturn,Sitting,FromFront,Neutral,Finish,Held1,Love5,Stim5,Dom-3,NullToSelf,PenisToVagina"/>
+
+    <position id="SC-FM-BloatedGhoul-Standing02-02Start" animation="Null" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,MidStage,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
+    <position id="SC-FM-BloatedGhoul-Standing02-07ClimaxLoop" animation="Null" tags="SavageCabbage,F_BltGhoulM,NoFurn,Kneeling,Blowjob,FromFront,Rough,Aggressive,ClimaxM,Held3,Love1,Stim1,Dom-7,NullToSelf,PenisToMouth"/>
     
     </positionData>

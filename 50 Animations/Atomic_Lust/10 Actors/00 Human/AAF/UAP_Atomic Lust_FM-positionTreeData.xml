@@ -6,7 +6,7 @@
 			<branch id="Spanking S2" positionID="Atomic Spanking S2" forceComplete="true" time="15">
 				<branch id="Spanking S3" positionID="Atomic Spanking S3" forceComplete="true" time="15">
 					<branch id="Spanking S3 Spank" positionID="Atomic Spanking S3 Spank" isFlavor="true" time="20">
-						<branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
+						<branch id="Finish" isExit="true" positionID="Atomic Spanking S3 Spank" time="0"></branch>
 					</branch>
 				</branch>
 			</branch>
@@ -19,7 +19,7 @@
 			<branch id="Holding Hands" positionID="Holding Hands" forceComplete="true" time="10">
 				<branch id="Holding Kissing" positionID="Holding Kissing" forceComplete="true" time="15"></branch>
 				<branch id="Holding Jerking" positionID="Holding Hands to Holding Jerking" forceComplete="true" time="15">
-					<branch id="Finish" isExit="true" positionID="Ending" time="0"></branch>
+					<branch id="Finish" isExit="true" positionID="Holding Hands to Holding Jerking" time="0"></branch>
 				</branch>
 			</branch>
 		</branch>
@@ -28,7 +28,7 @@
 	<tree id="Atomic Reversed Cowgirl (Vault Bed) Tree" strictExiting="true">
 		<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Main Course" forceComplete="true" time="45">
 			<branch id="Orgasm" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Orgasm" forceComplete="true" time="0">
-				<branch id="Finish" positionID="Ending" time="0" isExit="true"></branch>
+				<branch id="Finish" positionID="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Orgasm" time="0" isExit="true"></branch>
 			</branch>
 		</branch>
 	</tree>

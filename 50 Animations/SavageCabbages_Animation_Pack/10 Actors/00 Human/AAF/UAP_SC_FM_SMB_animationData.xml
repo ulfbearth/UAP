@@ -5,17 +5,20 @@
 		<actor gender="F" idleForm="2F5E4">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2F5E5">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
+
+    <animation id="SCAP_F_SMB_Floor01_Start_S2" frames="500">
+        <actor gender="F" idleForm="32583">
+        </actor>
+        <actor gender="M" skeleton="SupermutantBehemoth" idleForm="32584">
+        </actor>
+    </animation>
 
 	<animation id="SCAP_F_SMB_Floor01_ReverseCowgirl_S3" frames="500">
 		<actor gender="F" idleForm="2A141">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A142">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -23,8 +26,6 @@
 		<actor gender="F" idleForm="2A143">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A144">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -32,8 +33,6 @@
 		<actor gender="F" idleForm="2A145">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A146">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -41,8 +40,6 @@
 		<actor gender="F" idleForm="2A147">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A148">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -50,8 +47,6 @@
 		<actor gender="F" idleForm="2DEDB">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2DEDC">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -59,8 +54,6 @@
 		<actor gender="F" idleForm="31577">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="31578">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -68,8 +61,6 @@
 		<actor gender="F" idleForm="3057C">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="3057D">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -77,8 +68,6 @@
 		<actor gender="F" idleForm="27AE6">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="27AE7">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -86,8 +75,6 @@
 		<actor gender="F" idleForm="24546">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="27AE8">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -95,8 +82,6 @@
 		<actor gender="F" idleForm="27AE9">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="27AEA">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -104,18 +89,30 @@
 		<actor gender="F" idleForm="27AED">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="27AEE">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
+	
+    <animation id="SCAP_F_SMB_Floor02_ClimaxLoop_S7" frames="200">
+        <actor gender="F" idleForm="32D68">
+        </actor>
+        <actor gender="M" skeleton="SupermutantBehemoth" idleForm="32D69">
+            <morph id="Erection Up" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_SMB_Floor02_Finish_S8" frames="500">
+        <actor gender="F" idleForm="32D6A">
+        </actor>
+        <actor gender="M" skeleton="SupermutantBehemoth" idleForm="32D6B">
+            <morph id="Erection Up" to="1"/>
+        </actor>
+    </animation>	
 
 	<animation id="SCAP_F_SMB_Floor03_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="2A149">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A14A">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 
@@ -123,8 +120,6 @@
 		<actor gender="F" idleForm="2A14B">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A14C">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -133,8 +128,6 @@
 		<actor gender="F" idleForm="2A14D">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A14E">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
@@ -143,8 +136,6 @@
 		<actor gender="F" idleForm="2A14F">
 		</actor>
 		<actor gender="M" skeleton="SupermutantBehemoth" idleForm="2A150">
-			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
 		</actor>
 	</animation>
 </animationData>

@@ -46,23 +46,7 @@ is slot index 33.
 
 	<equipmentSet id="reEquip">
 		<condition>
-			<reEquip bipedSlot="Hair Top"/>
-			<reEquip bipedSlot="Hair Long"/>
-			<reEquip bipedSlot="FaceGen Head"/>
-			<reEquip bipedSlot="BODY"/>
-			<reEquip bipedSlot="L Hand"/>
-			<reEquip bipedSlot="R Hand"/>
-			<reEquip bipedSlot="[U] Torso"/>
-			<reEquip bipedSlot="[U] L Arm"/>
-			<reEquip bipedSlot="[U] R Arm"/>
-			<reEquip bipedSlot="[U] L Leg"/>
-			<reEquip bipedSlot="[U] R Leg"/>
-			<unEquip bipedSlot="[U] Torso"/>
-			<unEquip bipedSlot="[A] Torso"/>
-			<reEquip bipedSlot="[A] L Arm"/>
-			<reEquip bipedSlot="[A] R Arm"/>
-			<reEquip bipedSlot="[A] L Leg"/>
-			<reEquip bipedSlot="[A] R Leg"/>
+			<reEquip resetAll="true"/>
 		</condition>
 	</equipmentSet>
 

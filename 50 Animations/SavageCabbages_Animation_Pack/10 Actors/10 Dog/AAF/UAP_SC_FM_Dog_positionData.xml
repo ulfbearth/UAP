@@ -201,4 +201,34 @@
     <position id="[UAP] SC-DoubleBedDoggy3" animationGroup="SCAP_F_Dog2_DoubleBed01_Doggy" location="Double_Bed" tags="SavageCabbage,F_DogM,DoubleBed,Doggy,FromBehind,Neutral,MidStage,Held1,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToMouth"/>
     <position id="[UAP] SC-FloorDoggy3" animationGroup="SCAP_FH_Dog_Floor01_Doggy" tags="SavageCabbage,F_DogM,NoFurn,Doggy,FromBehind,Rough,Aggressive,MidStage,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
     
+	<!--========================================= 1.2.8 =============================================-->
+ 
+    <position id="SCAP_F_Dog_Armchair02_Tease_S1" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Foreplay,FromBack,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand" isHidden="true"/>
+    <position id="SCAP_F_Dog_Armchair02_Doggy_S3" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Armchair02_Doggy_S4" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Armchair02_Doggy_S5" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Armchair02_Doggy_S6" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Armchair02_ClimaxLoop_S7" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,ClimaxM,Sitting,FromBack,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="[UAP] SC-Armchair-Doggy" animationGroup="SCAP_F_Dog_Armchair02_Doggy" location="ArmChair" tags="SavageCabbage,F_DogM,ArmChair,Foreplay,ClimaxM,Sitting,FromBack,Neutral,Tease,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+  
+    <position id="SCAP_F_Dog_Bed03_Tease_S1" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_Start_S2" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_Missionary_S3" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_Missionary_S4" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_Missionary_S5" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_Missionary_S6" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_ClimaxLoop_S7" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,ClimaxM,Missionary,FromFront,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Bed03_Finish_S8" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Finish,Missionary,FromFront,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="[UAP] SC-Bed-Missionary" animationGroup="SCAP_F_Dog_Bed03_Missionary" location="Single_Bed" tags="SavageCabbage,F_DogM,SingleBed,Finish,Missionary,FromFront,Neutral,Tease,Start,MidStage,ClimaxM,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+    <position id="SCAP_F_Dog_Ottoman01_Tease_S1" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,Foreplay,FromBehind,Rough,Aggressive,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,MouthToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_Start_S2" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,Doggy,FromBehind,Rough,Aggressive,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_Doggy_S3" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_Doggy_S4" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_Doggy_S5" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_Doggy_S6" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_ClimaxLoop_S7" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,ClimaxM,FaceDown,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="SCAP_F_Dog_Ottoman01_Finish_S8" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,Finish,FaceDown,FromBehind,Rough,Aggressive,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina" isHidden="true"/>
+    <position id="[UAP] SC-Ottoman-Doggy" animationGroup="SCAP_F_Dog_Ottoman01_Doggy" location="Ottoman" tags="SavageCabbage,F_DogM,Ottoman,Finish,FaceDown,FromBehind,Rough,Aggressive,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    
 </positionData>

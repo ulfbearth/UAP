@@ -13,7 +13,7 @@
 				<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Canine Doggy (Stage 3)" forceComplete="true"  time="35">
 
 					<branch id="Climax" positionID="[UAP] Leito - Bed Canine Doggy (Stage 4)" forceComplete="true" time="15">
-						<branch id="Finish" positionID="Ending" time="0" isExit="true"></branch>
+						<branch id="Finish" positionID="[UAP] Leito - Bed Canine Doggy (Stage 4)" time="0" isExit="true"></branch>
 		
 					</branch>
 
@@ -35,7 +35,7 @@
 				<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Canine Doggy 2 (Stage 3)" forceComplete="true"  time="35">
 
 					<branch id="Climax" positionID="[UAP] Leito - Bed Canine Doggy 2 (Stage 4)" forceComplete="true" time="15">
-						<branch id="Finish" positionID="Ending" time="0" isExit="true"></branch>
+						<branch id="Finish" positionID="[UAP] Leito - Bed Canine Doggy 2 (Stage 4)" time="0" isExit="true"></branch>
 		
 					</branch>
 
@@ -57,7 +57,7 @@
 				<branch id="Play Stage 3" positionID="[UAP] Leito - Bed Canine Missionary (Stage 3)" forceComplete="true"  time="35">
 
 					<branch id="Climax" positionID="[UAP] Leito - Bed Canine Missionary (Stage 4)" forceComplete="true" time="15">
-						<branch id="Finish" positionID="Ending" time="0" isExit="true"></branch>
+						<branch id="Finish" positionID="[UAP] Leito - Bed Canine Missionary (Stage 4)" time="0" isExit="true"></branch>
 		
 					</branch>
 

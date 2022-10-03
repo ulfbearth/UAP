@@ -1,0 +1,50 @@
+<positionTreeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults />
+
+    <tree id="zazout-PilloryOral_BJ_tree" strictExiting="true">
+        <branch id="Stage 0" positionID="[UAP]ZazOut - PilloryOral_BJ-00" forceComplete="true" time="10">
+            <branch id="Stage 1" positionID="[UAP]ZazOut - PilloryOral_BJ-01" forceComplete="true" time="35">
+                <branch id="Stage 2" positionID="[UAP]ZazOut - PilloryOral_BJ-02" forceComplete="true" time="35">
+                    <branch id="Stage 3" positionID="[UAP]ZazOut - PilloryOral_BJ-03" forceComplete="true" time="35">
+                        <branch id="Stage 4" positionID="[UAP]ZazOut - PilloryOral_BJ-04" forceComplete="true" time="35">
+                            <branch id="Orgasm" positionID="[UAP]ZazOut - PilloryOral_BJ-05" forceComplete="true" time="35">
+                                <branch id="Taste It" positionID="[UAP]ZazOut - PilloryOral_BJ-06" forceComplete="true" time="10">
+                                    <branch id="Relax" positionID="[UAP]ZazOut - PilloryOral_BJ-07" forceComplete="true" time="10">
+                                        <branch id="Finish" positionID="[UAP]ZazOut - PilloryOral_BJ-07" time="0" isExit="true"></branch>
+                                    </branch>
+                                </branch>
+                            </branch>
+                        </branch>
+                    </branch>
+                </branch>
+            </branch>
+        </branch>
+
+
+    </tree>
+
+    <tree id="zazout-PillorySex_A-Pussy_tree" strictExiting="true">
+        <branch id="Stage 0" positionID="[UAP]ZazOut - PillorySex_A-Pussy-00" forceComplete="true" time="10">
+            <branch id="Stage 1" positionID="[UAP]ZazOut - PillorySex_A-Pussy-01" forceComplete="true" time="35">
+                <branch id="Stage 2" positionID="[UAP]ZazOut - PillorySex_A-Pussy-02" forceComplete="true" time="35">
+                    <branch id="Stage 3" positionID="[UAP]ZazOut - PillorySex_A-Pussy-03" forceComplete="true" time="35">
+                        <branch id="Stage 4" positionID="[UAP]ZazOut - PillorySex_A-Pussy-04" forceComplete="true" time="35">
+                            <branch id="Stage 5" positionID="[UAP]ZazOut - PillorySex_A-Pussy-05" forceComplete="true" time="35">
+                                <branch id="Stage 6" positionID="[UAP]ZazOut - PillorySex_A-Pussy-06" forceComplete="true" time="35">
+                                    <branch id="Orgasm" positionID="[UAP]ZazOut - PillorySex_A-Pussy-07" forceComplete="true" time="35">
+                                        <branch id="Relax" positionID="[UAP]ZazOut - PillorySex_A-Pussy-08" forceComplete="true" time="10">
+                                            <branch id="Finish" positionID="[UAP]ZazOut - PillorySex_A-Pussy-08" time="0" isExit="true"></branch>
+                                        </branch>
+                                    </branch>
+                                </branch>
+                            </branch>
+                        </branch>
+                    </branch>
+                </branch>
+            </branch>
+        </branch>
+
+
+    </tree>
+
+</positionTreeData>

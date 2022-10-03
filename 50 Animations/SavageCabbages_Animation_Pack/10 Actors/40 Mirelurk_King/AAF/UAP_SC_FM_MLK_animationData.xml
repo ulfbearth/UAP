@@ -1,6 +1,20 @@
 <animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults idleSource="SavageCabbage_Animations.esp"/>
 
+	<animation id="SCAP_F_MLK_Standing01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="32550">
+		</actor>
+		<actor gender="M" skeleton="MirelurkKing" idleForm="32551">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_MLK_Standing01_Start_S2" frames="500">
+		<actor gender="F" idleForm="3257F">
+		</actor>
+		<actor gender="M" skeleton="MirelurkKing" idleForm="32580">
+		</actor>
+	</animation>
+
 	<animation id="SCAP_F_MLK_Standing01_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2D6FF">
 		</actor>

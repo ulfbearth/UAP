@@ -1303,4 +1303,160 @@
 		<actor idleForm="226C3">
 		</actor>
 	</animation>
+	
+<!--======================================================== 1.2.8 ================================================================== -->	
+
+    <animation id="SCAP_F_Dog_Armchair02_Tease_S1" frames="500">
+        <actor gender="F" idleForm="324F1"/>
+        <actor gender="M" skeleton="Dog" idleForm="324F2">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Armchair02_Doggy_S3" frames="500">
+        <actor gender="F" idleForm="324F3"/>
+        <actor gender="M" skeleton="Dog" idleForm="324F4">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Armchair02_Doggy_S4" frames="500">
+        <actor gender="F" idleForm="324F5"/>
+        <actor gender="M" skeleton="Dog" idleForm="324F6">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Armchair02_Doggy_S5" frames="500">
+        <actor gender="F" idleForm="324F7"/>
+        <actor gender="M" skeleton="Dog" idleForm="324F8">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Armchair02_Doggy_S6" frames="500">
+        <actor gender="F" idleForm="324F9"/>
+        <actor gender="M" skeleton="Dog" idleForm="324FA">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Armchair02_ClimaxLoop_S7" frames="200">
+        <actor gender="F" idleForm="324FB"/>
+        <actor gender="M" skeleton="Dog" idleForm="324FC">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Tease_S1" frames="500">
+        <actor gender="F" idleForm="324FD"/>
+        <actor gender="M" skeleton="Dog" idleForm="324FE">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Start_S2" frames="500">
+        <actor gender="F" idleForm="324FF"/>
+        <actor gender="M" skeleton="Dog" idleForm="32500">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Missionary_S3" frames="500">
+        <actor gender="F" idleForm="32501"/>
+        <actor gender="M" skeleton="Dog" idleForm="32502">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Missionary_S4" frames="500">
+        <actor gender="F" idleForm="32503"/>
+        <actor gender="M" skeleton="Dog" idleForm="32504">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Missionary_S5" frames="500">
+        <actor gender="F" idleForm="32505"/>
+        <actor gender="M" skeleton="Dog" idleForm="32506">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Missionary_S6" frames="500">
+        <actor gender="F" idleForm="32507"/>
+        <actor gender="M" skeleton="Dog" idleForm="32508">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_ClimaxLoop_S7" frames="500">
+        <actor gender="F" idleForm="32509"/>
+        <actor gender="M" skeleton="Dog" idleForm="3250A">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Bed03_Finish_S8" frames="500">
+        <actor gender="F" idleForm="3250B"/>
+        <actor gender="M" skeleton="Dog" idleForm="3250C">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Tease_S1" frames="500">
+        <actor gender="F" idleForm="3250D"/>
+        <actor gender="M" skeleton="Dog" idleForm="3250E">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Start_S2" frames="500">
+        <actor gender="F" idleForm="3250F"/>
+        <actor gender="M" skeleton="Dog" idleForm="32510">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Doggy_S3" frames="500">
+        <actor gender="F" idleForm="32511"/>
+        <actor gender="M" skeleton="Dog" idleForm="32512">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Doggy_S4" frames="500">
+        <actor gender="F" idleForm="32513"/>
+        <actor gender="M" skeleton="Dog" idleForm="32514">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Doggy_S5" frames="500">
+        <actor gender="F" idleForm="32515"/>
+        <actor gender="M" skeleton="Dog" idleForm="32516">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Doggy_S6" frames="500">
+        <actor gender="F" idleForm="32517"/>
+        <actor gender="M" skeleton="Dog" idleForm="32518">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_ClimaxLoop_S7" frames="500">
+        <actor gender="F" idleForm="32519"/>
+        <actor gender="M" skeleton="Dog" idleForm="3251A">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_Dog_Ottoman01_Finish_S8" frames="500">
+        <actor gender="F" idleForm="3251B"/>
+        <actor gender="M" skeleton="Dog" idleForm="3251C">
+            <morph id="Erection" to="1"/>
+        </actor>
+    </animation>	
 </animationData>
