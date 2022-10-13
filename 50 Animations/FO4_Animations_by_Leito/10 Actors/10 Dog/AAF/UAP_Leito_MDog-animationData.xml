@@ -5,7 +5,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S1" frames="480">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004523" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -19,7 +19,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S2" frames="400">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000268B" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -34,7 +34,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S3" frames="400">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000268C" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -48,7 +48,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_01_S4" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000268D" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -67,7 +67,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S1" frames="480">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00003D80" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -80,7 +80,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S2" frames="400">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00003D81" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -95,7 +95,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S3" frames="400">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00003D82" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -110,7 +110,7 @@
 
 	<animation id="Leito_Doggy_MM_2Dog_02_S4" frames="420">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00003D83" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -129,7 +129,7 @@
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S1" frames="256" offset="0,-2,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE4" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -143,7 +143,7 @@
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S2" frames="400" offset="0,-2,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE5" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="0.765"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -159,7 +159,7 @@
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S3" frames="400" offset="0,-2,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE6" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="0.765"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -175,7 +175,7 @@
 
 	<animation id="Leito_Missionary_MM_2Dog_01_S4" frames="340" offset="0,-2,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE7" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="0.679"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>

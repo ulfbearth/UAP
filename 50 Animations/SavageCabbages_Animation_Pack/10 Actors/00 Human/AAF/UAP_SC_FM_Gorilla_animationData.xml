@@ -6,7 +6,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AF8" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -15,7 +15,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AFA" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -24,7 +24,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AEC" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -33,7 +33,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AF0" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -42,7 +42,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AF2" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -51,7 +51,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AF4" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -60,7 +60,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="27AF6" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 
@@ -69,7 +69,7 @@
 		</actor>
 		<actor gender="M" skeleton="Gorilla" idleForm="28A4D" startEquipmentSet="CockErect">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 	</animation>
 </animationData>

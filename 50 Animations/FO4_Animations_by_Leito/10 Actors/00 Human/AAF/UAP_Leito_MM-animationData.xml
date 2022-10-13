@@ -7,12 +7,12 @@
 
 	<animation id="Leito_Blowjob_MM_Aggressive_01" frames="308">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B71E">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPBlowjob" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B71F">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -21,13 +21,13 @@
 	<animation id="Leito_Blowjob_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB2" conditions="Foreplay">
 			<action id="Edge" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPBlowjob" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB6">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -36,13 +36,13 @@
 	<animation id="Leito_Blowjob_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB3" conditions="Intermediary-20_59">
 			<action id="Edge" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPBlowjob" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB7">
 			<action id="Edge" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -50,7 +50,7 @@
 
 	<animation id="Leito_Blowjob_MM_01_S3" frames="288">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB4" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPBlowjob" loop="true" />
@@ -58,7 +58,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB8">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -66,14 +66,14 @@
 
 	<animation id="Leito_Blowjob_MM_01_S4" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB5" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPBlowjob" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CB9">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -83,14 +83,14 @@
 
 	<animation id="Leito_Carry_MM_Aggressive_01" frames="312">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00006367">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.0" />
 			<morph id="Anus Spread" to="1.157" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="0000173C">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-1.134" />
@@ -101,7 +101,7 @@
 
 	<animation id="Leito_Carry_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004503" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
@@ -110,7 +110,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00004507">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.999" />
@@ -121,7 +121,7 @@
 
 	<animation id="Leito_Carry_MM_01_S2" frames="304">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004504" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
@@ -130,7 +130,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00004508">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.999" />
@@ -141,7 +141,7 @@
 
 	<animation id="Leito_Carry_MM_01_S3" frames="297">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004505" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
@@ -150,7 +150,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00004509">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.409" />
@@ -161,7 +161,7 @@
 
 	<animation id="Leito_Carry_MM_01_S4" frames="270">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004506" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPOrgasm" loop="true" />
@@ -170,7 +170,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="0000450A">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.409" />
@@ -182,7 +182,7 @@
 
 	<animation id="Leito_Carry_MM_02_S1" frames="297">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A891" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
@@ -191,7 +191,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A895">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="0.7" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -201,7 +201,7 @@
 
 	<animation id="Leito_Carry_MM_02_S2" frames="288">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A892" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
@@ -211,7 +211,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A896">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.521" />
@@ -221,7 +221,7 @@
 
 	<animation id="Leito_Carry_MM_02_S3" frames="330">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A893" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
@@ -231,7 +231,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0000A897">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.297" />
@@ -242,7 +242,7 @@
 
 	<animation id="Leito_Carry_MM_02_S4" frames="280">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A894" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -252,7 +252,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0000A898">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.297" />
@@ -265,7 +265,7 @@
 
 	<animation id="Leito_ReverseCarry_MM_01_S1" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A8A1" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -273,7 +273,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A8A5">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.429" />
@@ -283,7 +283,7 @@
 
 	<animation id="Leito_ReverseCarry_MM_01_S2" frames="288">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A8A2" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -292,7 +292,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A8A6">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.826" />
@@ -303,7 +303,7 @@
 
 	<animation id="Leito_ReverseCarry_MM_01_S3" frames="290">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A8A3" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -312,7 +312,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A8A7">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.826" />
@@ -323,7 +323,7 @@
 
 	<animation id="Leito_ReverseCarry_MM_01_S4" frames="280">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A8A4" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -332,7 +332,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000A8A8">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.826" />
@@ -346,12 +346,12 @@
 
 	<animation id="Leito_Cowgirl_MM_Aggressive_01" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B720">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B721">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="0.4" />
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -360,7 +360,7 @@
 
 	<animation id="Leito_Cowgirl_MM_01_S1" frames="350">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000173F" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -368,7 +368,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001740">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="0.5" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -377,7 +377,7 @@
 
 	<animation id="Leito_Cowgirl_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E27" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -386,7 +386,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E2A">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="-0.772" />
@@ -397,7 +397,7 @@
 
 	<animation id="Leito_Cowgirl_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E28" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -406,7 +406,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00002E2B">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.928" />
@@ -417,7 +417,7 @@
 
 	<animation id="Leito_Cowgirl_MM_01_S4" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E29" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -426,7 +426,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00002E2C">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.928" />
@@ -438,7 +438,7 @@
 
 	<animation id="Leito_Cowgirl_MM_02_S1" frames="350">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00005C34" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -447,7 +447,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005C38">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -455,7 +455,7 @@
 
 	<animation id="Leito_Cowgirl_MM_02_S2" frames="340">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00005C35" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -465,7 +465,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005C39">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -473,7 +473,7 @@
 
 	<animation id="Leito_Cowgirl_MM_02_S3" frames="340">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00005C36" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -483,7 +483,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005C3A">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -491,7 +491,7 @@
 
 	<animation id="Leito_Cowgirl_MM_02_S4" frames="140">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00005C37" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -501,7 +501,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005C3B">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -510,7 +510,7 @@
 
 	<animation id="Leito_Cowgirl_MM_03_S1" frames="350">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="000063DF" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -518,7 +518,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown50" idleForm="000063E3">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.5" />
@@ -528,7 +528,7 @@
 
 	<animation id="Leito_Cowgirl_MM_03_S2" frames="340">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="000063E0" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -537,7 +537,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown50" idleForm="000063E4">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.5" />
@@ -547,7 +547,7 @@
 
 	<animation id="Leito_Cowgirl_MM_03_S3" frames="330">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="000063E1" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -556,7 +556,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown50" idleForm="000063E5">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.5" />
@@ -566,7 +566,7 @@
 
 	<animation id="Leito_Cowgirl_MM_03_S4" frames="280">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="000063E2" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -575,7 +575,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown50" idleForm="000063E6">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.5" />
@@ -586,14 +586,14 @@
 
 	<animation id="Leito_Cowgirl_MM_04_S1" frames="350">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A899" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A89D">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -601,7 +601,7 @@
 
 	<animation id="Leito_Cowgirl_MM_04_S2" frames="340">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A89A" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -609,7 +609,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A89E">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -617,7 +617,7 @@
 
 	<animation id="Leito_Cowgirl_MM_04_S3" frames="330">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A89B" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -625,7 +625,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A89F">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
@@ -633,14 +633,14 @@
 
 	<animation id="Leito_Cowgirl_MM_04_S4" frames="280">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A89C" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A8A0">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 
@@ -652,7 +652,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S1" frames="322">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00006B82" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -660,7 +660,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00006B86">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1.25" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -670,7 +670,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S2" frames="340">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00006B83" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -679,7 +679,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00006B87">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -689,7 +689,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S3" frames="333">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00006B84" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -698,7 +698,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00006B88">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -708,7 +708,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_01_S4" frames="350">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00006B85" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -717,7 +717,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00006B89">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -728,7 +728,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S1" frames="338">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000732E" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -736,7 +736,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007332">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="2" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -746,7 +746,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S2" frames="336">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000732F" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -755,7 +755,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007333">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.585" />
@@ -764,7 +764,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S3" frames="330">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007330" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -773,7 +773,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007334">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.585" />
@@ -782,7 +782,7 @@
 
 	<animation id="Leito_ReverseCowgirl_MM_02_S4" frames="280">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007331" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 
@@ -792,7 +792,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007335">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="1.585" />
@@ -803,13 +803,13 @@
 
 	<animation id="Leito_Doggy_MM_Aggressive_01" frames="312">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B723">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B722">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="0.1" />
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -819,7 +819,7 @@
 
 	<animation id="Leito_Doggy_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001739" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -827,7 +827,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001738">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.325" />
@@ -838,7 +838,7 @@
 
 	<animation id="Leito_Doggy_MM_01_S2" frames="308">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EDE" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -847,7 +847,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE1">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.325" />
@@ -858,7 +858,7 @@
 
 	<animation id="Leito_Doggy_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EDF" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -867,7 +867,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE2">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.325" />
@@ -878,7 +878,7 @@
 
 	<animation id="Leito_Doggy_MM_01_S4" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE0" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -888,7 +888,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EE3">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.325" />
@@ -900,7 +900,7 @@
 
 	<animation id="Leito_Doggy_MM_02_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E35" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -908,7 +908,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E39">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.432" />
@@ -918,7 +918,7 @@
 
 	<animation id="Leito_Doggy_MM_02_S2" frames="308">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E36" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -927,7 +927,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E3A">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.432" />
@@ -937,7 +937,7 @@
 
 	<animation id="Leito_Doggy_MM_02_S3" frames="315">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E37" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -946,7 +946,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E3B">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.432" />
@@ -956,7 +956,7 @@
 
 	<animation id="Leito_Doggy_MM_02_S4" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E38" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -965,7 +965,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E3C">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.432" />
@@ -977,7 +977,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_01_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007AD1" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -985,7 +985,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007AD5">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -995,7 +995,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_01_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007AD2" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1004,7 +1004,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007AD6">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1014,7 +1014,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_01_S3" frames="290">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007AD3" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1023,7 +1023,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007AD7">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1033,7 +1033,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_01_S4" frames="280">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007AD4" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -1042,7 +1042,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00007AD8">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1053,7 +1053,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_02_S1" frames="200">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007AD9" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -1061,7 +1061,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007ADD">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.388" />
@@ -1071,7 +1071,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_02_S2" frames="224">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007ADA" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1080,7 +1080,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007ADE">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Down" to="0.388" />
@@ -1090,7 +1090,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_02_S3" frames="220">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007ADB" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1099,7 +1099,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007ADF">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.406" />
@@ -1109,7 +1109,7 @@
 
 	<animation id="Leito_StandingDoggy_MM_02_S4" frames="210">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007ADC" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 
@@ -1119,7 +1119,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007AE0">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.406" />
@@ -1131,13 +1131,13 @@
 
 	<animation id="Leito_Missionary_MM_Aggressive_01" frames="228" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B724">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
 			<morph id="Erection" to="0.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000B725">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.205" />
@@ -1148,7 +1148,7 @@
 
 	<animation id="Leito_Missionary_MM_01_S1" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004C8D" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -1156,7 +1156,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00004C8E">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.770" />
@@ -1166,7 +1166,7 @@
 
 	<animation id="Leito_Missionary_MM_01_S2" frames="224">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002682" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1175,7 +1175,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00002685">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.770" />
@@ -1185,7 +1185,7 @@
 
 	<animation id="Leito_Missionary_MM_01_S3" frames="308">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002683" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1194,7 +1194,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00002686">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.770" />
@@ -1205,7 +1205,7 @@
 
 	<animation id="Leito_Missionary_MM_01_S4" frames="240">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002684" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -1214,7 +1214,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp50" idleForm="00002687">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Erection Up" to="0.770" />
@@ -1226,7 +1226,7 @@
 
 	<animation id="Leito_Missionary_MM_02_S1" frames="360">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E2D" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -1234,7 +1234,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E31">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Penis Adjust" to="0.930" />
@@ -1243,7 +1243,7 @@
 
 	<animation id="Leito_Missionary_MM_02_S2" frames="324">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E2E" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1252,7 +1252,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E32">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Penis Adjust" to="0.930" />
@@ -1261,7 +1261,7 @@
 
 	<animation id="Leito_Missionary_MM_02_S3" frames="320">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E2F" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1270,7 +1270,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E33">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Penis Adjust" to="0.930" />
@@ -1279,7 +1279,7 @@
 
 	<animation id="Leito_Missionary_MM_02_S4" frames="350">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E30" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -1288,7 +1288,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00002E34">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
 			<morph id="Penis Adjust" to="0.930" />
@@ -1299,14 +1299,14 @@
 
 	<animation id="Leito_Powerbomb_MM_Aggressive_01" frames="300" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000B726">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1" />
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
 			<morph id="Erection" to="1.0000000000001" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0000B727">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="1" />
 			<action id="UAPAggMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1317,7 +1317,7 @@
 
 	<animation id="Leito_Powerbomb_MM_01_S1" frames="280" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000450B" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPMoans" loop="true" />
@@ -1326,7 +1326,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0000450F">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1337,7 +1337,7 @@
 
 	<animation id="Leito_Powerbomb_MM_01_S2" frames="300" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000450C" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
@@ -1347,7 +1347,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="00004510">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1358,7 +1358,7 @@
 
 	<animation id="Leito_Powerbomb_MM_01_S3" frames="299" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000450D" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
@@ -1368,7 +1368,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="00004511">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="1" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1379,7 +1379,7 @@
 
 	<animation id="Leito_Powerbomb_MM_01_S4" frames="320" offset="0,-5,0,0:0,0,0,0">
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0000450E" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<morph id="Erection Up" to="1" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1389,7 +1389,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="00004512">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Down" to="1" />
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1402,7 +1402,7 @@
 
 	<animation id="Leito_Spoon_MM_01_S1" frames="350">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CEB" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -1410,7 +1410,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004CEF">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1.25" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1420,7 +1420,7 @@
 
 	<animation id="Leito_Spoon_MM_01_S2" frames="324">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CEC" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1429,7 +1429,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004CF0">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1.25" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1439,7 +1439,7 @@
 
 	<animation id="Leito_Spoon_MM_01_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CED" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Anus Spread" to="1.0000000000001" />
@@ -1447,7 +1447,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004CF1">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1.25" />
 			<action id="UAPMoans" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1457,7 +1457,7 @@
 
 	<animation id="Leito_Spoon_MM_01_S4" frames="140">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="00004CEE" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
@@ -1467,7 +1467,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="00004CF2">
 			<action id="Edge" target="1" from="0" to="1" frames="30" />
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection Up" to="1.25" />
 			<action id="UAPOrgasm" loop="true" />
 			<morph id="Erection" to="1.0000000000001" />
@@ -1480,13 +1480,13 @@
 	<!-- Chair -->
 	<animation id="Leito_Chair_MM_Cowgirl_1_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B042" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B043">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1495,13 +1495,13 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_1_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B7F0" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B7F3">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1510,13 +1510,13 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_1_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B7F1" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100B7F4">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1526,14 +1526,14 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_1_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="0100B7F2" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100B7F5">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1543,13 +1543,13 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_2_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C733" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C737">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1559,13 +1559,13 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_2_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C734" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C738">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1575,13 +1575,13 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_2_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C735" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C739">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1591,14 +1591,14 @@
 
 	<animation id="Leito_Chair_MM_Cowgirl_2_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="0100C736" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C73A">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1608,13 +1608,13 @@
 
 	<animation id="Leito_Chair_MM_Doggy_1_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003D9D" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA1">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1623,13 +1623,13 @@
 
 	<animation id="Leito_Chair_MM_Doggy_1_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003D9E" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="01003DA2">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1639,13 +1639,13 @@
 
 	<animation id="Leito_Chair_MM_Doggy_1_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003D9F" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA3">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1654,14 +1654,14 @@
 
 	<animation id="Leito_Chair_MM_Doggy_1_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Back" idleForm="01003DA0" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA4">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1671,13 +1671,13 @@
 
 	<animation id="Leito_Chair_MM_Missionary_1_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035F4" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035F8">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1686,13 +1686,13 @@
 
 	<animation id="Leito_Chair_MM_Missionary_1_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035F5" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="010035F9">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1702,13 +1702,13 @@
 
 	<animation id="Leito_Chair_MM_Missionary_1_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035F6" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035FA">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1717,14 +1717,14 @@
 
 	<animation id="Leito_Chair_MM_Missionary_1_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="010035F7" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="010035FB">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1734,13 +1734,13 @@
 
 	<animation id="Leito_Chair_MM_Powerbomb_1_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100455D" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004561">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1750,13 +1750,13 @@
 
 	<animation id="Leito_Chair_MM_Powerbomb_1_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100455E" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004562">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1766,13 +1766,13 @@
 
 	<animation id="Leito_Chair_MM_Powerbomb_1_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100455F" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004563">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1782,14 +1782,14 @@
 
 	<animation id="Leito_Chair_MM_Powerbomb_1_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="01004560" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004564">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1800,13 +1800,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF92" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF96">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1816,13 +1816,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF93" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF97">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1832,13 +1832,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF94" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF98">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1848,14 +1848,14 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_1_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="0100BF95" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1865,13 +1865,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CED5" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CED9">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1881,13 +1881,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CED6" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CEDA">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1897,13 +1897,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CED7" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CEDB">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1913,14 +1913,14 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_2_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="0100CED8" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CEDC">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
@@ -1930,13 +1930,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S1" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEDD" conditions="Foreplay">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE1">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1946,13 +1946,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S2" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEDE" conditions="Intermediary-20_59">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE2">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1962,13 +1962,13 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S3" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEDF" conditions="Intermediary-60_99">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE3">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
@@ -1978,14 +1978,14 @@
 
 	<animation id="Leito_Chair_MM_ReverseCowgirl_3_S4" frames="300">
 		<actor gender="M" startEquipmentSet="CockErect" stopOverlaySet="Belly" idleForm="0100CEE0" conditions="Climax">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE4">
-			<morph id="Foreskin" to="0.000000000000001" />
+			
 			<morph id="Erection" to="1.0000000000001" />
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />

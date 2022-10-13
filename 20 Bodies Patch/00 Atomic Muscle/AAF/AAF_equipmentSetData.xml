@@ -1,0 +1,93 @@
+<equipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+	<!-- Default attributes are applied to the addEquipment and removeEquipment nodes below if no conflicting attribute is set there. -->
+	<defaults source="Fallout4.esm"/>
+
+	<!--
+	Add or remove unEquip and reEquip entries to control which slots get
+	equipped or unequipped before and after animations.
+
+	Use the exact slot names defined here: https://www.creationkit.com/fallout4/index.php?title=Biped_Slots
+
+	For the slots with repeated names like "Unnamed" and "Possibly Weapons"
+	add a number after each. So, "Unnamed1" is slot index 24 and "Possibly Weapons2"
+	is slot index 33.
+	-->
+
+	<equipmentSet id="unEquip">
+		<condition>
+			<unEquip bipedSlot="Hair Top"/>
+			<unEquip bipedSlot="Hair Long"/>
+			<unEquip bipedSlot="FaceGen Head"/>
+			<unEquip bipedSlot="BODY"/>
+			<unEquip bipedSlot="L Hand"/>
+			<unEquip bipedSlot="R Hand"/>
+			<unEquip bipedSlot="[U] Torso"/>
+			<unEquip bipedSlot="[U] L Arm"/>
+			<unEquip bipedSlot="[U] R Arm"/>
+			<unEquip bipedSlot="[U] L Leg"/>
+			<unEquip bipedSlot="[U] R Leg"/>
+			<unEquip bipedSlot="[A] Torso"/>
+			<unEquip bipedSlot="[A] L Arm"/>
+			<unEquip bipedSlot="[A] R Arm"/>
+			<unEquip bipedSlot="[A] L Leg"/>
+			<unEquip bipedSlot="[A] R Leg"/>
+			<unEquip bipedSlot="Headband"/>
+			<unEquip bipedSlot="Eyes"/>
+			<unEquip bipedSlot="Beard"/>
+			<unEquip bipedSlot="Mouth"/>
+			<unEquip bipedSlot="Neck"/>
+			<unEquip bipedSlot="Ring"/>
+			<unEquip bipedSlot="Scalp"/>
+			<unEquip bipedSlot="Unnamed1"/>
+			<unEquip bipedSlot="Unnamed2"/>
+			<unEquip bipedSlot="Unnamed3"/>
+			<unEquip bipedSlot="Unnamed4"/>
+			<unEquip bipedSlot="Unnamed5"/>
+			<unEquip bipedSlot="Shield"/>
+			<unEquip bipedSlot="FX"/>
+			<unEquip bipedSlot="Possibly Weapons1"/>
+			<unEquip bipedSlot="Possibly Weapons2"/>
+			<unEquip bipedSlot="Possibly Weapons3"/>
+			<unEquip bipedSlot="Possibly Weapons4"/>
+			<unEquip bipedSlot="Possibly Weapons5"/>
+			<unEquip bipedSlot="Possibly Weapons6"/>
+			<unEquip bipedSlot="Possibly Weapons7"/>
+			<unEquip bipedSlot="Possibly Weapons8"/>
+			<unEquip bipedSlot="Possibly Weapons9"/>
+			<unEquip bipedSlot="Possibly Weapons10"/>
+			<unEquip bipedSlot="Possibly Weapons11"/>
+			<unEquip bipedSlot="Possibly Weapons12"/>
+		</condition>
+		<condition isFemale="false" raceFormID="79686" name="!Darius">
+			<addEquipment form="803" source="Atomic Muscle.esp"/>
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="reEquip">
+		<condition>
+			<reEquip resetAll="true"/>
+		</condition>
+	</equipmentSet>
+
+	<!--
+	Add or remove addEquipment and removeEquipment entries to control adding and
+	removing any equipment to the actors before and after animations.
+
+	You can also add attributes to the condition node to discriminate which actors
+	the set is applied to. For example, <condition isFemale="true"> will only
+	apply the equipment commands to female actors.
+	-->
+
+	<equipmentSet id="addEquipmentExample">
+		<condition>
+			<addEquipment form="0004A521"/>
+		</condition>
+	</equipmentSet>
+
+	<equipmentSet id="removeEquipmentExample">
+		<condition>
+			<removeEquipment form="0004A521"/>
+		</condition>
+	</equipmentSet>
+</equipmentSetData>
