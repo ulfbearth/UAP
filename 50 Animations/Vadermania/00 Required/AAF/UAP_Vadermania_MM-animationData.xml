@@ -2,14 +2,14 @@
 	<defaults idleSource="Vadermania[AAF_anims].esp"/>
 
 	<animation id="VM_Doggy_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f9e">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01000f9e">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="01000f9D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01000f9D">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -18,13 +18,13 @@
 	</animation>
 
 	<animation id="VM_Table_MM_01" offset="0,0,0,0:0,-70,0,0" frames="119">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f9b">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01000f9b">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f99">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01000f99">
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="UAPMoans" loop="true"/>
@@ -32,13 +32,13 @@
 	</animation>
 
 	<animation id="VM_Dogmeat_MM_01" frames="180">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f9f">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01000f9f">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" skeleton="Dog" idleForm="01000fa0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01000fa0">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Up" to="1.20"/>
 			<morph id="Penis Adjust" to="1.20"/>
@@ -46,14 +46,14 @@
 	</animation>
 
 	<animation id="VM_Deathclaw_MM_Slow_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01002e07">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002e07">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="1.404"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" skeleton="Deathclaw" idleForm="01002e08">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002e08">
 			<morph id="Scale" to="1"/>
 			<morph id="Erection Up" to="0.8"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -61,14 +61,14 @@
 	</animation>
 
 	<animation id="VM_Deathclaw_MM_Fast_02" frames="2360">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044DB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044DB">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="1.404"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" skeleton="Deathclaw" idleForm="01003D41">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01003D41">
 			<morph id="Erection Up" to="1.5"/>
 			<morph id="Scale" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -80,20 +80,20 @@
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Cat" idleForm="01002e09">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002e09">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Ghoul_MM_02" frames="120">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100173c">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100173c">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="0.608"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" skeleton="FeralGhoul" idleForm="0100173B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100173B">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.20"/>
 			<morph id="Erection Down" to="-0.60"/>
@@ -102,55 +102,55 @@
 	</animation>
 
 	<animation id="VM_Ghoul_MM_Aggressive_03" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100173D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100173D">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="0.608"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="0100173E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100173E">
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="-0.10"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_Ghoul_MM_04" frames="60">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01001ed8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01001ed8">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="01001ed9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01001ed9">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="-0.20"/>
 			<morph id="Penis Adjust" to="0.51"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" skeleton="FeralGhoul" idleForm="01001eda">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01001eda">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.19"/>
 			<morph id="Erection Down" to="-0.19"/>
 			<morph id="Penis Adjust" to="0.80"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="01001edb">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01001edb">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="VM_FEVHound_MM_01" frames="100">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01002E13">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002E13">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="1.450"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="01002e12">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002e12">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Down" to="0.20"/>
@@ -159,14 +159,14 @@
 	</animation>
 
 	<animation id="VM_Gorilla_MM_01" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035b5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="010035b5">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="1.000000000000001"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" skeleton="Gorilla" idleForm="010035b4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="010035b4">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection Up" to="0.25"/>

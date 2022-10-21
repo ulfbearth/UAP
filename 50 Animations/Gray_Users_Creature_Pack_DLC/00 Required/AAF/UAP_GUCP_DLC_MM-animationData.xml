@@ -4,49 +4,49 @@
 	<!-- Angler -->
 
 	<animation id="GUCP_Angler_MM_01_S1" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081e7" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Angler" idleForm="010081ff">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="010081ff">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Angler_MM_01_S2" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081e8" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Angler" idleForm="01008200">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008200">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Angler_MM_01_S3" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081e9" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Angler" idleForm="01008201">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008201">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Angler_MM_01_S4" frames="300" offset="0,3,-36,0:0,0,-36,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081ea" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Angler" idleForm="01008202">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008202">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -58,49 +58,49 @@
 	<!-- Fog Crawler -->
 
 	<animation id="GUCP_Fog_MM_01_S1" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081ef" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FogCrawler" idleForm="01008207">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008207">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Fog_MM_01_S2" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f0" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FogCrawler" idleForm="01008208">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008208">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Fog_MM_01_S3" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f1" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FogCrawler" idleForm="01008209">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008209">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Fog_MM_01_S4" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f2" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="FogCrawler" idleForm="0100820a">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820a">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -111,97 +111,97 @@
 	<!-- Gulper -->
 
 	<animation id="GUCP_Gulper_MM_01_S1" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f3" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Gulper" idleForm="0100820b">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820b">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Gulper_MM_01_S2" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f4" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Gulper" idleForm="0100820c">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820c">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Gulper_MM_01_S3" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f5" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Gulper" idleForm="0100820d">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820d">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Gulper_MM_01_S4" frames="300" offset="0,-32,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f6" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Gulper" idleForm="0100820e">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820e">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S1" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01026047" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="GulperLarge" idleForm="0100820b">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820b">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S2" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01026048" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="GulperLarge" idleForm="0100820c">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820c">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S3" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="01026049" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="GulperLarge" idleForm="0100820d">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820d">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_GulperLarge_MM_01_S4" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0102604a" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="GulperLarge" idleForm="0100820e">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820e">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -213,49 +213,49 @@
 	<!-- Hermit -->
 
 	<animation id="GUCP_Hermit_MM_01_S1" frames="300" offset="0,5.5,1,0:0,0,0,0">		<!-- In Animation offset is 156.365-->
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f7" conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Hermit" idleForm="0100820f">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100820f">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Hermit_MM_01_S2" frames="300" offset="0,5.5,1,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f8" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Hermit" idleForm="01008210">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008210">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Hermit_MM_01_S3" frames="300" offset="0,5.5,1,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081f9" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>			
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Hermit" idleForm="01008211">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008211">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="GUCP_Hermit_MM_01_S4" frames="300" offset="0,5.5,1,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="010081fa" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Hermit" idleForm="01008212">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="01008212">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>

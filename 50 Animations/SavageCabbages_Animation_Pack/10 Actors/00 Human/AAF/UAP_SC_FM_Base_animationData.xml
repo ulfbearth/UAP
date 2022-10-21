@@ -49,7 +49,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="FF0">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FF1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FF1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -58,7 +58,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="263E3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263E4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263E4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -67,7 +67,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S3" frames="500">
 		<actor gender="F" idleForm="FF2">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FF3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FF3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -76,7 +76,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S4" frames="500">
 		<actor gender="F" idleForm="FF4">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FF5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FF5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -85,7 +85,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S5" frames="500">
 		<actor gender="F" idleForm="73B5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="73B6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="73B6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -94,7 +94,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Cowgirl_S6" frames="500">
 		<actor gender="F" idleForm="21EF0">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EF1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EF1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -103,7 +103,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="26B80">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="26B81">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="26B81">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -112,7 +112,7 @@
 	<animation id="SCAP_Armchair01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="26B82">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="26B83">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="26B83">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -122,7 +122,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="263E5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263E6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263E6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -131,7 +131,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="FF6">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FF7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FF7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -140,7 +140,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="FF8">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FF9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FF9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -149,7 +149,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Handjob_S4" frames="500">
 		<actor gender="F" idleForm="FFA">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FFB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FFB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -158,7 +158,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Handjob_S5" frames="500">
 		<actor gender="F" idleForm="FFC">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FFD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FFD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -167,7 +167,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Blowjob_S6" frames="500">
 		<actor gender="F" idleForm="FFE">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FFF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FFF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -176,7 +176,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Blowjob_S7" frames="500">
 		<actor gender="F" idleForm="17F8">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="17F9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="17F9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -185,7 +185,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Deepthroat_S8" frames="500">
 		<actor gender="F" idleForm="17FA">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="17FB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="17FB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -194,7 +194,7 @@
 	<animation id="SCAP_ArmChair02_FM_2Human_Swallow_S9" frames="500">
 		<actor gender="F" idleForm="17FC">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="17FD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="17FD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -203,7 +203,7 @@
 	<animation id="SCAP_ArmorBench01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30D28">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D29">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D29">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -212,7 +212,7 @@
 	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="30D2A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D2B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D2B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -221,7 +221,7 @@
 	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="30D2C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D2D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D2D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -231,7 +231,7 @@
 	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="30D2E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D2F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D2F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -241,7 +241,7 @@
 	<animation id="SCAP_ArmorBench01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="30D30">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D31">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D31">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -251,7 +251,7 @@
 	<animation id="SCAP_ArmorBench01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="30D32">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D33">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D33">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -261,7 +261,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="FD3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FD4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FD4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -270,7 +270,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="FD5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FD6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FD6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -279,7 +279,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="FD7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FD8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FD8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -288,7 +288,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Handjob_S4" frames="500">
 		<actor gender="F" idleForm="FD9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FDA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FDA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -297,7 +297,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Titjob_S5" frames="500">
 		<actor gender="F" idleForm="FDB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FDC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FDC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -306,7 +306,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Blowjob_S6" frames="500">
 		<actor gender="F" idleForm="FDD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FDE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FDE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -315,7 +315,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Deepthroat_S7" frames="500">
 		<actor gender="F" idleForm="FDF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FE0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FE0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -324,7 +324,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Blowjob_S8" frames="500">
 		<actor gender="F" idleForm="FE1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FE2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FE2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -333,7 +333,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Climax_S9" frames="200">
 		<actor gender="F" idleForm="FE3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FE4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FE4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -342,7 +342,7 @@
 	<animation id="SCAP_Bed01_FM_2Human_Finish_S10" frames="500">
 		<actor gender="F" idleForm="FE5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FE7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FE7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -351,7 +351,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="FE8">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FE9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FE9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -360,7 +360,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S3" frames="500">
 		<actor gender="F" idleForm="FEA">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FEB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FEB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -369,7 +369,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S4" frames="500">
 		<actor gender="F" idleForm="FEC">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FED">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FED">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -378,7 +378,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S5" frames="500">
 		<actor gender="F" idleForm="FEE">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="FEF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="FEF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -387,7 +387,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_Cowgirl_S6" frames="500">
 		<actor gender="F" idleForm="6C08">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C09">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C09">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -396,7 +396,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DEA7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEA8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEA8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -405,7 +405,7 @@
 	<animation id="SCAP_Bed02_FM_2Human_Finish_S8" frames="200">
 		<actor gender="F" idleForm="2FD85">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD86">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD86">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -414,7 +414,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="99DA">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="99DB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="99DB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -423,7 +423,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S3" frames="500">
 		<actor gender="F" idleForm="6C0A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C0B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C0B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -432,7 +432,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S4" frames="500">
 		<actor gender="F" idleForm="923C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="923D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="923D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -441,7 +441,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S5" frames="500">
 		<actor gender="F" idleForm="E62A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="E62B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="E62B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -450,7 +450,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_Cowgirl_S6" frames="500">
 		<actor gender="F" idleForm="2731D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2731E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2731E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -459,7 +459,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DEA9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEAA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEAA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -468,7 +468,7 @@
 	<animation id="SCAP_Bed03_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="30558">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30559">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30559">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -477,7 +477,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_Tease_S1" frames="200">
 		<actor gender="F" idleForm="2DEAB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEAC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEAC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -486,7 +486,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_Missionary_S3" frames="500">
 		<actor gender="F" idleForm="E62C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="E62D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="E62D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -495,7 +495,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_Missionary_S4" frames="500">
 		<actor gender="F" idleForm="2B0A5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0A6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0A6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -504,7 +504,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_Missionary_S5" frames="500">
 		<actor gender="F" idleForm="2B0A7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0A8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0A8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -513,7 +513,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_Missionary_S6" frames="500">
 		<actor gender="F" idleForm="2B0A9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0AA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0AA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -522,7 +522,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DEAD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEAE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEAE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -531,7 +531,7 @@
 	<animation id="SCAP_Bed04_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="3055A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3055B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3055B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -540,7 +540,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="99DC">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="99DD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="99DD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -549,7 +549,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="2FD87">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD88">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD88">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -558,7 +558,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S3" frames="500">
 		<actor gender="F" idleForm="550B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="550C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="550C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -567,7 +567,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S4" frames="500">
 		<actor gender="F" idleForm="C744">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="C745">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="C745">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -576,7 +576,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S5" frames="500">
 		<actor gender="F" idleForm="6C0C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C0D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C0D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -585,7 +585,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_ReverseCowgirlAnal_S6" frames="500">
 		<actor gender="F" idleForm="2731F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27320">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27320">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -594,7 +594,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DECF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DED0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DED0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -603,7 +603,7 @@
 	<animation id="SCAP_Bench01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="3055C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3055D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3055D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -612,7 +612,7 @@
 	<animation id="SCAP_ChairHigh01_FM_2Human_Doggy_S1" frames="500">
 		<actor gender="F" idleForm="1000">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1001">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1001">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -621,7 +621,7 @@
 	<animation id="SCAP_ChairLow01_FM_2Human_Doggy_S1" frames="500">
 		<actor gender="F" idleForm="1002">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1003">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1003">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -630,7 +630,7 @@
 	<animation id="SCAP_ChairMedium01_FM_2Human_Doggy_S1" frames="500">
 		<actor gender="F" idleForm="1004">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1005">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1005">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -639,7 +639,7 @@
 	<animation id="SCAP_ChairVeryLow01_FM_2Human_Doggy_S1" frames="500">
 		<actor gender="F" idleForm="1006">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1007">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1007">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -648,7 +648,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="C001">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="C002">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="C002">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -657,7 +657,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="2FD8B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD8C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD8C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -666,7 +666,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_Spoon_S3" frames="500">
 		<actor gender="F" idleForm="3E34">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3E35">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3E35">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -675,7 +675,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_Spoon_S4" frames="500">
 		<actor gender="F" idleForm="4D6E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="4D6F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="4D6F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -684,7 +684,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_Spoon_S5" frames="500">
 		<actor gender="F" idleForm="6444">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6445">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6445">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -693,7 +693,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_Spoon_S6" frames="500">
 		<actor gender="F" idleForm="2B0AB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0AC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0AC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -702,7 +702,7 @@
 	<animation id="SCAP_Couch01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DED1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DED2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DED2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -711,7 +711,7 @@
 	<animation id="SCAP_Couch02_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="C7A4">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="C7A5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="C7A5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -720,7 +720,7 @@
 	<animation id="SCAP_Couch02_FM_2Human_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="6448">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6449">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6449">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -729,7 +729,7 @@
 	<animation id="SCAP_Couch02_FM_2Human_Handjob_S4" frames="500">
 		<actor gender="F" idleForm="644A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="644B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="644B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -738,7 +738,7 @@
 	<animation id="SCAP_Couch02_FM_2Human_Blowjob_S5" frames="500">
 		<actor gender="F" idleForm="644C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="644D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="644D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -747,7 +747,7 @@
 	<animation id="SCAP_Couch02_FM_2Human_Blowjob_S6" frames="500">
 		<actor gender="F" idleForm="27321">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27322">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27322">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -756,7 +756,7 @@
 	<animation id="SCAP_Couch02_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DED3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DED4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DED4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -765,7 +765,7 @@
 	<animation id="SCAP_CouchPlayerHouse01_FM_2Human_Facefuck_S3" frames="500">
 		<actor gender="F" idleForm="2C010">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C011">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C011">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -774,7 +774,7 @@
 	<animation id="SCAP_CouchPlayerHouse01_FM_2Human_Facefuck_S4" frames="500">
 		<actor gender="F" idleForm="2FD89">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD8A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD8A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -783,7 +783,7 @@
 	<animation id="SCAP_Crane01_FM_2Human_Carry_S3" frames="500">
 		<actor gender="F" idleForm="2C012">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C013">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C013">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -792,7 +792,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="C003">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="C004">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="C004">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -801,7 +801,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="2FD8D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD8E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD8E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -810,7 +810,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="1FC9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FCA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FCA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -819,7 +819,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="C005">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="C006">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="C006">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -828,7 +828,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="2B0AD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0AE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0AE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -837,7 +837,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="2B0B3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0B4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0B4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -846,7 +846,7 @@
 	<animation id="SCAP_Desk01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2E676">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E677">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E677">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -855,7 +855,7 @@
 	<animation id="SCAP_DinerBooth01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2B866">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B867">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B867">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -864,7 +864,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="1008">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1009">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1009">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -873,7 +873,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="100A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="100B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="100B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -882,7 +882,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="100C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="100D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="100D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -891,7 +891,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="4D6A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="4D6B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="4D6B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -900,7 +900,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="4D6C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="4D6D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="4D6D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -909,7 +909,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Doggy_S7" frames="500">
 		<actor gender="F" idleForm="7386">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="7387">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="7387">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -918,7 +918,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_ClimaxLoop_S8" frames="200">
 		<actor gender="F" idleForm="2DEAF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEB0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEB0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -927,7 +927,7 @@
 	<animation id="SCAP_DoubleBed01_FM_2Human_Finish_S9" frames="500">
 		<actor gender="F" idleForm="3055E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3055F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3055F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -936,7 +936,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="CF43">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="CF44">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="CF44">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -945,7 +945,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_Missionary_S3" frames="500">
 		<actor gender="F" idleForm="17FE">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="17FF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="17FF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -954,7 +954,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_Missionary_S4" frames="500">
 		<actor gender="F" idleForm="644E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="644F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="644F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -963,7 +963,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_Powerbomb_S5" frames="500">
 		<actor gender="F" idleForm="E5B2">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="E5B3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="E5B3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -972,7 +972,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_Powerbomb_S6" frames="500">
 		<actor gender="F" idleForm="ED4D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="ED4E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="ED4E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -981,7 +981,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_Powerbomb_S7" frames="500">
 		<actor gender="F" idleForm="17F7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="182F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="182F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -990,7 +990,7 @@
 	<animation id="SCAP_DoubleBed02_FM_2Human_ClimaxLoop_S8" frames="200">
 		<actor gender="F" idleForm="2DEB1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEB2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEB2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -999,7 +999,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="99DE">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="99DF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="99DF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1008,7 +1008,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S3" frames="500">
 		<actor gender="F" idleForm="5CA9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="5CAA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="5CAA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1017,7 +1017,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S4" frames="500">
 		<actor gender="F" idleForm="B80B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="B80C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="B80C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1026,7 +1026,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S5" frames="500">
 		<actor gender="F" idleForm="DE15">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="DE16">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="DE16">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1035,7 +1035,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_Missionary_S6" frames="500">
 		<actor gender="F" idleForm="DE17">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="DE18">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="DE18">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1044,7 +1044,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_ClimaxLoop_S7" frames="500">
 		<actor gender="F" idleForm="27AE4">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27AE5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27AE5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1053,7 +1053,7 @@
 	<animation id="SCAP_DoubleBed03_FM_2Human_Finish_S8" frames="200">
 		<actor gender="F" idleForm="2DEB3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEB4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEB4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1062,7 +1062,7 @@
 	<animation id="SCAP_DoubleBed04_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="99E0">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="99E1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="99E1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1071,7 +1071,7 @@
 	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="4D70">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="4D71">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="4D71">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1080,7 +1080,7 @@
 	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="B80D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="B80E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="B80E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1089,7 +1089,7 @@
 	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="6C0E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C0F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C0F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1098,7 +1098,7 @@
 	<animation id="SCAP_DoubleBed04_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="8A9E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="8A9F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="8A9F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1107,7 +1107,7 @@
 	<animation id="SCAP_DoubleBed04_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2DEB5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEB6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEB6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1116,7 +1116,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30D44">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D45">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D45">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1125,7 +1125,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="30D46">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D47">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D47">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1134,7 +1134,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="30D48">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D49">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D49">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1143,7 +1143,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="30D4A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D4B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D4B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1152,7 +1152,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="30D4C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D4D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D4D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1161,7 +1161,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="30D4E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D4F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D4F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1170,7 +1170,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="30D50">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D51">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D51">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1179,7 +1179,7 @@
 	<animation id="SCAP_DoubleBed05_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="30D52">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D53">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D53">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1188,7 +1188,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30D87">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D88">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D88">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1197,7 +1197,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="30D89">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D8A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D8A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1206,7 +1206,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S3" frames="500">
 		<actor gender="F" idleForm="30D8B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D8C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D8C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1215,7 +1215,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S4" frames="500">
 		<actor gender="F" idleForm="30D8D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D8E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D8E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1224,7 +1224,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S5" frames="500">
 		<actor gender="F" idleForm="30D8F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D90">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D90">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1233,7 +1233,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ReverseCowgirl_S6" frames="500">
 		<actor gender="F" idleForm="30D91">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D92">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D92">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1242,7 +1242,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="30D93">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D94">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D94">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1251,7 +1251,7 @@
 	<animation id="SCAP_DoubleBedInstitute01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="30D95">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D96">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D96">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1260,7 +1260,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="25C26">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C27">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C27">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1269,7 +1269,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="25C28">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C29">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C29">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1278,7 +1278,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="25C2A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C2B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C2B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1287,7 +1287,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="25C2C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C2D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C2D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1296,7 +1296,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Sideways_S5" frames="500">
 		<actor gender="F" idleForm="25C2E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C2F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C2F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1305,7 +1305,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_Missionary_S6" frames="500">
 		<actor gender="F" idleForm="25C30">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C31">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C31">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1314,7 +1314,7 @@
 	<animation id="SCAP_DoubleBeedWoodPreWar01_FM_2Human_AnalDoggy_S7" frames="500">
 		<actor gender="F" idleForm="25C32">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25C33">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25C33">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1323,7 +1323,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2547D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2547E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2547E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1332,7 +1332,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Start_S2" frames="600">
 		<actor gender="F" idleForm="2547F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25480">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25480">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1341,7 +1341,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S3" frames="500">
 		<actor gender="F" idleForm="25481">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25482">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25482">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1350,7 +1350,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S4" frames="500">
 		<actor gender="F" idleForm="25483">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25484">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25484">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1359,7 +1359,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S5" frames="500">
 		<actor gender="F" idleForm="25485">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25486">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25486">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1368,7 +1368,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Missionary_S6" frames="500">
 		<actor gender="F" idleForm="25487">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="25488">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="25488">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1377,7 +1377,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_ClimaxLoop_S7" frames="600">
 		<actor gender="F" idleForm="25489">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2548A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2548A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1386,7 +1386,7 @@
 	<animation id="SCAP_FederalistCouch01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="2548B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2548C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2548C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1395,7 +1395,7 @@
 	<animation id="SCAP_FederalistCouch02_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2F5CA">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2F5CB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2F5CB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1404,7 +1404,7 @@
 	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S3" frames="500">
 		<actor gender="F" idleForm="2B0B5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0B6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0B6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1413,7 +1413,7 @@
 	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S4" frames="500">
 		<actor gender="F" idleForm="2B0B7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0B8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0B8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1422,7 +1422,7 @@
 	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S5" frames="500">
 		<actor gender="F" idleForm="2DEB7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEB8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEB8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1431,7 +1431,7 @@
 	<animation id="SCAP_FederalistCouch02_FM_2Human_ReverseCowGirl_S6" frames="500">
 		<actor gender="F" idleForm="2DEB9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEBA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEBA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1440,7 +1440,7 @@
 	<animation id="SCAP_FederalistCouch02_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2F5CC">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2F5CD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2F5CD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1449,7 +1449,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30DAF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DB0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DB0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1458,7 +1458,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Start_S2" frames="600">
 		<actor gender="F" idleForm="30DB1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DB2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DB2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1467,7 +1467,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Blowjob_S3" frames="500">
 		<actor gender="F" idleForm="30DB3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DB4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DB4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1476,7 +1476,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Blowjob_S4" frames="500">
 		<actor gender="F" idleForm="30DB5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DB6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DB6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1485,7 +1485,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Facefuck_S5" frames="500">
 		<actor gender="F" idleForm="30DB7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DB8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DB8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1494,7 +1494,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Facefuck_S6" frames="500">
 		<actor gender="F" idleForm="30DB9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DBA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DBA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1503,7 +1503,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="30DBB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DBC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DBC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1512,7 +1512,7 @@
 	<animation id="SCAP_Floor01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="30DBD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DBE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DBE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1521,7 +1521,7 @@
 	<animation id="SCAP_JailCellSmall01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30560">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30561">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30561">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1530,7 +1530,7 @@
 	<animation id="SCAP_JailCellSmall01_FM_2Human_Standing_S3" frames="500">
 		<actor gender="F" idleForm="2A135">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A136">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A136">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1539,7 +1539,7 @@
 	<animation id="SCAP_JailCellSmall01_FM_2Human_Standing_S4" frames="500">
 		<actor gender="F" idleForm="2A137">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A138">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A138">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1548,7 +1548,7 @@
 	<animation id="SCAP_JailCellSmall01_FM_2Human_Carry_S5" frames="500">
 		<actor gender="F" idleForm="2B0B9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0BA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0BA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1557,7 +1557,7 @@
 	<animation id="SCAP_JailCellSmall01_FM_2Human_Carry_S6" frames="500">
 		<actor gender="F" idleForm="2B0BB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0BC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0BC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1566,7 +1566,7 @@
 	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2D6FD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2D6FE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2D6FE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1575,7 +1575,7 @@
 	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob_S3" frames="500">
 		<actor gender="F" idleForm="2B0BD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0BE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0BE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1584,7 +1584,7 @@
 	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob_S4" frames="500">
 		<actor gender="F" idleForm="2B0BF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0C0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0C0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1593,7 +1593,7 @@
 	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Blowjob_S5" frames="500">
 		<actor gender="F" idleForm="2B0C1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B0C2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B0C2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1602,7 +1602,7 @@
 	<animation id="SCAP_JailCellTinyDoor01_FM_2Human_Facefuck_S6" frames="500">
 		<actor gender="F" idleForm="2C014">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C015">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C015">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1611,7 +1611,7 @@
 	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2C016">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C017">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C017">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1620,7 +1620,7 @@
 	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="2C018">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C019">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C019">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1629,7 +1629,7 @@
 	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="2C01A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C01B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C01B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1638,7 +1638,7 @@
 	<animation id="SCAP_KitchenPostWar01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="2F5D0">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2F5D1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2F5D1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1647,7 +1647,7 @@
 	<animation id="SCAP_LapDance01_FM_2Human_LapDance_S1" frames="1000">
 		<actor gender="F" idleForm="1800">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1801">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1801">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1656,7 +1656,7 @@
 	<animation id="SCAP_Motorbike01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2B868">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B869">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B869">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1665,7 +1665,7 @@
 	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S3" frames="500">
 		<actor gender="F" idleForm="2171E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2171F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2171F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1674,7 +1674,7 @@
 	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S4" frames="500">
 		<actor gender="F" idleForm="2E678">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E679">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E679">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1683,7 +1683,7 @@
 	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S5" frames="500">
 		<actor gender="F" idleForm="2E67A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E67B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E67B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1692,7 +1692,7 @@
 	<animation id="SCAP_Motorbike01_FM_2Human_Cowgirl_S6" frames="500">
 		<actor gender="F" idleForm="2E67C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E67D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E67D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1701,7 +1701,7 @@
 	<animation id="SCAP_Ottoman01_FM_2Human_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="2B86A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B86B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B86B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1710,7 +1710,7 @@
 	<animation id="SCAP_Ottoman01_FM_2Human_Blowjob_S4" frames="500">
 		<actor gender="F" idleForm="2B86C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2B86D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2B86D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1719,7 +1719,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="1802">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1803">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1803">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1728,7 +1728,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Start_S2" frames="360">
 		<actor gender="F" idleForm="1804">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1805">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1805">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1737,7 +1737,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Cunnilingus_S3" frames="500">
 		<actor gender="F" idleForm="1807">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1806">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1806">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1746,7 +1746,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Cunnilingus_S4" frames="500">
 		<actor gender="F" idleForm="1808">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1809">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1809">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1755,7 +1755,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Missionary_S5" frames="500">
 		<actor gender="F" idleForm="180A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="180B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="180B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1764,7 +1764,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Missionary_S6" frames="500">
 		<actor gender="F" idleForm="6C10">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C11">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C11">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1773,7 +1773,7 @@
 	<animation id="SCAP_PoolTable01_FM_2Human_Missionary_S7" frames="500">
 		<actor gender="F" idleForm="C7A6">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="C7A7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="C7A7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1782,7 +1782,7 @@
 	<animation id="SCAP_PoolTable02_FM_2Human_RoughTease_S1" frames="500">
 		<actor gender="F" idleForm="180C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="180D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="180D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1791,7 +1791,7 @@
 	<animation id="SCAP_PoolTable02_FM_2Human_RoughStart_S2" frames="500">
 		<actor gender="F" idleForm="180E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="180F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="180F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1800,7 +1800,7 @@
 	<animation id="SCAP_PoolTable02_FM_2Human_RoughDoggy_S3" frames="500">
 		<actor gender="F" idleForm="1810">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1811">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1811">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1809,7 +1809,7 @@
 	<animation id="SCAP_PoolTable02_FM_2Human_RoughDoggy_S4" frames="500">
 		<actor gender="F" idleForm="1812">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1813">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1813">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1818,7 +1818,7 @@
 	<animation id="SCAP_PoolTable02_FM_2Human_RoughBlowjob_S5" frames="500">
 		<actor gender="F" idleForm="1814">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1815">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1815">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1828,7 +1828,7 @@
 	<animation id="SCAP_PoolTable02_FM_2Human_RoughFacefuck_S6" frames="500">
 		<actor gender="F" idleForm="2C01C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C01D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C01D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1837,7 +1837,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="31D48">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D49">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D49">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1846,7 +1846,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="31D4A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D4B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D4B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1855,7 +1855,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="31D4C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D4D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D4D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1864,7 +1864,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Sideways_S4" frames="500">
 		<actor gender="F" idleForm="31D4E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D4F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D4F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1873,7 +1873,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Sideways_S5" frames="500">
 		<actor gender="F" idleForm="31D50">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D51">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D51">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1882,7 +1882,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Sideways_S6" frames="500">
 		<actor gender="F" idleForm="31D52">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D53">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D53">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1891,7 +1891,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Climaxloop_S7" frames="200">
 		<actor gender="F" idleForm="31D54">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D55">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D55">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1900,7 +1900,7 @@
 	<animation id="SCAP_Railing01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="31D56">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D57">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D57">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1910,7 +1910,7 @@
 	<animation id="SCAP_RoundTable01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="B070">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="B071">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="B071">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1919,7 +1919,7 @@
 	<animation id="SCAP_RoundTable02_FM_2Human_RoughSideways_S3" frames="500">
 		<actor gender="F" idleForm="6C12">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C13">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C13">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1928,7 +1928,7 @@
 	<animation id="SCAP_RidingBrahmin_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="291EB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="291EC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="291EC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1939,7 +1939,7 @@
 	<animation id="SCAP_RidingBrahmin_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2FD8F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD90">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD90">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1950,7 +1950,7 @@
 	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S3" frames="500">
 		<actor gender="F" idleForm="6446">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6447">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6447">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1959,7 +1959,7 @@
 	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S4" frames="500">
 		<actor gender="F" idleForm="82FD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="82FE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="82FE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1968,7 +1968,7 @@
 	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S5" frames="500">
 		<actor gender="F" idleForm="CF45">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="CF46">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="CF46">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1977,7 +1977,7 @@
 	<animation id="SCAP_Seat01_FM_2Human_Cowgirl_S6" frames="500">
 		<actor gender="F" idleForm="30562">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30563">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30563">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1986,7 +1986,7 @@
 	<animation id="SCAP_BackseatSedanPreWar_FM_2Human_01_S3" frames="500">
 		<actor gender="F" idleForm="2171C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2171D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2171D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -1995,7 +1995,7 @@
 	<animation id="SCAP_BackseatSedanPreWar_FM_2Human_01_S4" frames="500">
 		<actor gender="F" idleForm="2C01E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C01F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C01F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2004,7 +2004,7 @@
 	<animation id="SCAP_BlowjobSedanPreWar_FM_2Human_02_S3" frames="500">
 		<actor gender="F" idleForm="27327">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27328">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27328">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2013,7 +2013,7 @@
 	<animation id="SCAP_CowgirlSedanPreWar_FM_2Human_02_S4" frames="500">
 		<actor gender="F" idleForm="27341">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27342">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27342">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2022,7 +2022,7 @@
 	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S3" frames="500">
 		<actor gender="F" idleForm="21EC5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EC6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EC6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2031,7 +2031,7 @@
 	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S4" frames="500">
 		<actor gender="F" idleForm="27345">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27346">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27346">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2040,7 +2040,7 @@
 	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S5" frames="500">
 		<actor gender="F" idleForm="27347">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27348">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27348">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2049,7 +2049,7 @@
 	<animation id="SCAP_DoggySedanPostWar_FM_2Human_01_S6" frames="500">
 		<actor gender="F" idleForm="27349">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2734A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2734A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2058,7 +2058,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2732B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2732C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2732C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2067,7 +2067,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2732D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2732E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2732E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2076,7 +2076,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="2732F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27330">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27330">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2085,7 +2085,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="27331">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27332">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27332">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2094,7 +2094,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="27333">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="27334">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="27334">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2103,7 +2103,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="2FD94">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD95">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD95">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2112,7 +2112,7 @@
 	<animation id="SCAP_ShowerPlayerHouse01_FM_2Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="31568">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31569">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31569">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2121,7 +2121,7 @@
 	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="3156A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3156B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3156B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2130,7 +2130,7 @@
 	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2C020">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2C021">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2C021">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2139,7 +2139,7 @@
 	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="3156C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3156D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3156D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2148,7 +2148,7 @@
 	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="3156E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3156F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3156F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2157,7 +2157,7 @@
 	<animation id="SCAP_SportsCarPreWar01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="31570">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31571">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31571">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2166,7 +2166,7 @@
 	<animation id="SCAP_SportsCarPreWar01_FM_2Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="31572">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31573">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31573">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2175,7 +2175,7 @@
 	<animation id="SCAP_Standing01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="263DB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263DC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263DC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2184,7 +2184,7 @@
 	<animation id="SCAP_Standing01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="263DD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263DE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263DE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2193,7 +2193,7 @@
 	<animation id="SCAP_Standing01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="263DF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263E0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263E0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2202,7 +2202,7 @@
 	<animation id="SCAP_Standing01_FM_2Human_Doggy_S6" frames="500">
 		<actor gender="F" idleForm="263E1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263E2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263E2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2211,7 +2211,7 @@
 	<animation id="SCAP_Stool01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2761">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2762">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2762">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2220,7 +2220,7 @@
 	<animation id="SCAP_Stool01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="D67A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="D67B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="D67B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2229,7 +2229,7 @@
 	<animation id="SCAP_Stool01_FM_2Human_Doggy_S5" frames="500">
 		<actor gender="F" idleForm="6C14">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6C15">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6C15">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2238,7 +2238,7 @@
 	<animation id="SCAP_Table01_FM_2Human_Missionary_S3" frames="500">
 		<actor gender="F" idleForm="45CF">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="45D0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="45D0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2247,7 +2247,7 @@
 	<animation id="SCAP_WeaponWorkbenchLarge01_FM_2Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="31D12">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D13">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D13">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2256,7 +2256,7 @@
 	<animation id="SCAP_WeaponWorkbenchLarge01_FM_2Human_Doggy_S4" frames="500">
 		<actor gender="F" idleForm="31D14">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31D15">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31D15">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2267,11 +2267,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="1028">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1029">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1029">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="102A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="102A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2280,11 +2280,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_HandjobDoggy_S3" frames="500">
 		<actor gender="F" idleForm="102B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="102C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="102C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="102D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="102D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2293,11 +2293,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_HandjobDoggy_S4" frames="500">
 		<actor gender="F" idleForm="102E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="102F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="102F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1030">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1030">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2306,11 +2306,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_HandjobDoggy_S5" frames="500">
 		<actor gender="F" idleForm="1031">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1032">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1032">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1033">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1033">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2319,11 +2319,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_BlowjobDoggy_S6" frames="500">
 		<actor gender="F" idleForm="181C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="181D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="181D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="181E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="181E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2332,11 +2332,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_BlowjobDoggy_S7" frames="500">
 		<actor gender="F" idleForm="181F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1820">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1820">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1821">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1821">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2345,11 +2345,11 @@
 	<animation id="SCAP_Armchair02_FMM_3Human_DeepthroatDoggy_S8" frames="500">
 		<actor gender="F" idleForm="2A8F3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A8F4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A8F4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A8F5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A8F5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2358,11 +2358,11 @@
 	<animation id="SCAP_Bed01_FMM_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="101C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="101D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="101D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="101E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="101E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2371,11 +2371,11 @@
 	<animation id="SCAP_Bed01_FMM_3Human_HadnjobDoggy_S3" frames="500">
 		<actor gender="F" idleForm="101F">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1020">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1020">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1021">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1021">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2384,11 +2384,11 @@
 	<animation id="SCAP_Bed01_FMM_3Human_HandjobDoggy_S4" frames="500">
 		<actor gender="F" idleForm="1022">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1023">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1023">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1024">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1024">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2397,11 +2397,11 @@
 	<animation id="SCAP_Bed01_FMM_3Human_TitjobDoggy_S5" frames="500">
 		<actor gender="F" idleForm="1025">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1026">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1026">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1027">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1027">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2410,11 +2410,11 @@
 	<animation id="SCAP_BunkBed01_FMM_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30564">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30565">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30565">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30566">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30566">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2423,11 +2423,11 @@
 	<animation id="SCAP_BunkBed01_FMM_3Human_Threesome_S3" frames="500">
 		<actor gender="F" idleForm="10C3C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="10C3D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="10C3D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="10C3E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="10C3E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2436,11 +2436,11 @@
 	<animation id="SCAP_BunkBed01_FMM_3Human_Threesome_S4" frames="500">
 		<actor gender="F" idleForm="2FD9E">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FD9F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FD9F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2450,11 +2450,11 @@
 	<animation id="SCAP_Couch02_FMM_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30D25">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D26">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D26">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D27">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D27">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2463,11 +2463,11 @@
 	<animation id="SCAP_Couch02_FMM_3Human_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="2763">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2764">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2764">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2765">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2765">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2476,11 +2476,11 @@
 	<animation id="SCAP_Couch02_FMM_3Human_Handjob_S4" frames="500">
 		<actor gender="F" idleForm="12319">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1231A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1231A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1231B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1231B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2489,11 +2489,11 @@
 	<animation id="SCAP_Couch02_FMM_3Human_Blowjob_S5" frames="500">
 		<actor gender="F" idleForm="3698">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3699">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3699">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="369A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="369A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2502,11 +2502,11 @@
 	<animation id="SCAP_Couch02_FMM_3Human_Blowjob_S6" frames="500">
 		<actor gender="F" idleForm="30567">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30568">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30568">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30569">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30569">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2515,11 +2515,11 @@
 	<animation id="SCAP_DoubleBed01_FMM_3Human_DoubleTeam_S3" frames="500">
 		<actor gender="F" idleForm="21EF5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EF6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EF6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EF7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EF7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2528,11 +2528,11 @@
 	<animation id="SCAP_DoubleBed01_FMM_3Human_DoubleTeam_S4" frames="500">
 		<actor gender="F" idleForm="3056A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3056B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3056B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3056C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3056C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2541,11 +2541,11 @@
 	<animation id="SCAP_DoubleBed02_FMM_3Human_ReverseCowGirlBlowjob_S3" frames="500">
 		<actor gender="F" idleForm="21EF2">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EF3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EF3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EF4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EF4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2554,11 +2554,11 @@
 	<animation id="SCAP_DoubleBed02_FMM_3Human_ReverseCowGirlBlowjob_S4" frames="500">
 		<actor gender="F" idleForm="3056D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3056E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3056E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="3056F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3056F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2567,11 +2567,11 @@
 	<animation id="SCAP_DoubleBed03_FMM_3Human_Threesome_S3" frames="500">
 		<actor gender="F" idleForm="31574">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31575">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31575">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="31576">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="31576">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2580,11 +2580,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S3" frames="500">
 		<actor gender="F" idleForm="1034">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1035">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1035">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1036">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1036">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2593,11 +2593,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S4" frames="500">
 		<actor gender="F" idleForm="1037">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1038">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1038">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1039">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1039">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2606,11 +2606,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S5" frames="500">
 		<actor gender="F" idleForm="2FDA1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2619,11 +2619,11 @@
 	<animation id="SCAP_Floor02_FMM_3Human_DoubleTeamRough_S3" frames="500">
 		<actor gender="F" idleForm="103A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="103B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="103B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="103C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="103C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2632,11 +2632,11 @@
 	<animation id="SCAP_Floor02_FMM_3Human_DoubleTeamRough_S4" frames="1000">
 		<actor gender="F" idleForm="103D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="103E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="103E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="103F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="103F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2645,11 +2645,11 @@
 	<animation id="SCAP_Floor03_FMM_3Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="550D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="550E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="550E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="550F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="550F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2658,11 +2658,11 @@
 	<animation id="SCAP_Floor03_FMM_3Human_Gangbang_S4" frames="500">
 		<actor gender="F" idleForm="2FDA4">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2671,11 +2671,11 @@
 	<animation id="SCAP_Floor03_FMM_3Human_Gangbang_S5" frames="500">
 		<actor gender="F" idleForm="30570">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30571">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30571">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30572">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30572">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2684,11 +2684,11 @@
 	<animation id="SCAP_Floor04_FMM_3Human_DoubleTeam_S3" frames="500">
 		<actor gender="F" idleForm="82C9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="82CA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="82CA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="82CB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="82CB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2697,11 +2697,11 @@
 	<animation id="SCAP_Floor04_FMM_3Human_DoubleTeam_S4" frames="500">
 		<actor gender="F" idleForm="30573">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30574">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30574">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30575">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30575">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2710,11 +2710,11 @@
 	<animation id="SCAP_Floor05_FMM_3Human_DoubleTeam_S3" frames="500">
 		<actor gender="F" idleForm="BFA8">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="BFA9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="BFA9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="BFAA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="BFAA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2723,11 +2723,11 @@
 	<animation id="SCAP_KitchenPostWar01_FMM_3Human_Doggy_S3" frames="500">
 		<actor gender="F" idleForm="2F5D2">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2F5D3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2F5D3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2F5D4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2F5D4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2736,11 +2736,11 @@
 	<animation id="SCAP_PoolTable01_FMM_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="1822">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1823">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1823">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1824">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1824">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2749,11 +2749,11 @@
 	<animation id="SCAP_Standing01_FMM_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="1825">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1826">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1826">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1827">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1827">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2762,11 +2762,11 @@
 	<animation id="SCAP_Standing01_FMM_3Human_DoubleTeam_S3" frames="500">
 		<actor gender="F" idleForm="104C">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="104D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="104D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="104E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="104E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2775,11 +2775,11 @@
 	<animation id="SCAP_Standing01_FMM_3Human_DoubleTeam_S4" frames="500">
 		<actor gender="F" idleForm="1828">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1829">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1829">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="182A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="182A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2790,15 +2790,15 @@
 	<animation id="SCAP_DoubleBed02_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="2A8F6">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A8F7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A8F7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A8F8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A8F8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2A8F9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2A8F9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2807,15 +2807,15 @@
 	<animation id="SCAP_DoubleBed02_FMMM_4Human_GangbangTripleAnal_S4" frames="500">
 		<actor gender="F" idleForm="263D7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263DA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263DA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2824,15 +2824,15 @@
 	<animation id="SCAP_Floor01_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="11B76">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B77">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B77">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B78">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B78">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B79">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B79">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2841,15 +2841,15 @@
 	<animation id="SCAP_Floor02_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="6BE9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6BEA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6BEA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6BEB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6BEB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="6BEC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="6BEC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2858,15 +2858,15 @@
 	<animation id="SCAP_Floor03_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="7388">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="7389">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="7389">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="738A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="738A">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="738B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="738B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2875,15 +2875,15 @@
 	<animation id="SCAP_Standing01_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="1052">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1053">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1053">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1054">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1054">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1055">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1055">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2892,15 +2892,15 @@
 	<animation id="SCAP_Standing01_FMMM_4Human_Gangbang_S4" frames="500">
 		<actor gender="F" idleForm="1056">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1057">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1057">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1058">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1058">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="1059">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1059">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2911,19 +2911,19 @@
 	<animation id="SCAP_Floor01_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="105A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="105B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="105B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="105C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="105C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="105D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="105D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="105E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="105E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2932,19 +2932,19 @@
 	<animation id="SCAP_Floor02_FMMM_4Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="113D8">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="113D9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="113D9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="113DA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="113DA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="113DB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="113DB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="113DC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="113DC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2953,19 +2953,19 @@
 	<animation id="SCAP_Standing01_FMMMM_5Human_MultipleHandjob_S3" frames="500">
 		<actor gender="F" idleForm="21EF8">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EF9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EF9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EFA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EFA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EFB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EFB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21EFC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21EFC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2974,19 +2974,19 @@
 	<animation id="SCAP_Standing01_FMMMM_5Human_Blowbang_S4" frames="500">
 		<actor gender="F" idleForm="2DEBB">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEBC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEBC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEBD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEBD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEBE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEBE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEBF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEBF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -2995,19 +2995,19 @@
 	<animation id="SCAP_Standing01_FMMMM_5Human_Blowbang_S5" frames="500">
 		<actor gender="F" idleForm="2DEC5">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3016,19 +3016,19 @@
 	<animation id="SCAP_Standing01_FMMMM_5Human_Blowbang_S6" frames="500">
 		<actor gender="F" idleForm="2DECA">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DECB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DECB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DECC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DECC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DECD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DECD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DECE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DECE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3037,19 +3037,19 @@
 	<animation id="SCAP_Standing01_FMMMM_5Human_ClimaxLoop_S7" frames="500">
 		<actor gender="F" idleForm="2DEC0">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2DEC4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2DEC4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3060,35 +3060,35 @@
 	<animation id="SCAP_Floor01_FMMMMMMMM_9Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="21F0D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F0E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F0E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F0F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F0F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F10">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F10">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F11">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F11">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F12">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F12">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F13">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F13">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F14">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F14">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="21F15">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="21F15">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3099,39 +3099,39 @@
 	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S3" frames="500">
 		<actor gender="F" idleForm="2FDA7">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDAA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDAA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDAB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDAB">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDAC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDAC">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDAD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDAD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDAE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDAE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDAF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDAF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3140,39 +3140,39 @@
 	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S4" frames="500">
 		<actor gender="F" idleForm="263CD">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263CE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263CE">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263CF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263CF">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D0">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="263D6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="263D6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3181,39 +3181,39 @@
 	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S5" frames="500">
 		<actor gender="F" idleForm="2FDB1">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB2">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB3">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB3">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB5">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB6">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB6">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB8">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDB9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDB9">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2FDBA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2FDBA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3222,39 +3222,39 @@
 	<animation id="SCAP_Floor01_FMMMMMMMMM_10Human_Gangbang_S7" frames="500">
 		<actor gender="F" idleForm="30D1B">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D1C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D1C">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D1D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D1D">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D1E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D1E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D1F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D1F">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D20">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D20">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D21">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D21">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D22">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D22">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D23">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D23">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D24">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D24">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3265,7 +3265,7 @@
 	<animation id="SCAP_DoubleBed01_FMF_3Human_MissionaryAnalFingering_S3" frames="500">
 		<actor gender="F" idleForm="2360A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="2360B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2360B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3276,7 +3276,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="30D97">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D98">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D98">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3287,7 +3287,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Start_S2" frames="500">
 		<actor gender="F" idleForm="30D9A">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D9B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D9B">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3298,7 +3298,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S3" frames="500">
 		<actor gender="F" idleForm="30D9D">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30D9E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30D9E">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3309,7 +3309,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S4" frames="500">
 		<actor gender="F" idleForm="30DA0">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DA1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DA1">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3320,7 +3320,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S5" frames="500">
 		<actor gender="F" idleForm="30DA3">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DA4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DA4">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3331,7 +3331,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Threesome_S6" frames="500">
 		<actor gender="F" idleForm="30DA6">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DA7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DA7">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3342,7 +3342,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_ClimaxLoop_S7" frames="200">
 		<actor gender="F" idleForm="30DA9">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DAA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DAA">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3353,7 +3353,7 @@
 	<animation id="SCAP_DoubleBed02_FMF_3Human_Finish_S8" frames="500">
 		<actor gender="F" idleForm="30DAC">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="30DAD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="30DAD">
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
@@ -3366,7 +3366,7 @@
 	<animation id="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S3" frames="500">
         <actor gender="F" idleForm="32523">
 		</actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32524">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32524">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3375,7 +3375,7 @@
     <animation id="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S4" frames="500">
         <actor gender="F" idleForm="32525">
 		</actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32526">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32526">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3384,7 +3384,7 @@
     <animation id="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S5" frames="500">
         <actor gender="F" idleForm="32527">
 		</actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32528">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32528">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3393,7 +3393,7 @@
     <animation id="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S6" frames="500">
         <actor gender="F" idleForm="32529">
 		</actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3252A">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3252A">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3402,7 +3402,7 @@
     <animation id="SCAP_CouchChaise01_FM_2Human_ClimaxLoop_S7" frames="200">
         <actor gender="F" idleForm="3252B">
 		</actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3252C">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3252C">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3411,7 +3411,7 @@
 	<animation id="SCAP_Crib01_FM_2Human_Tease_S1" frames="500">
         <actor gender="F" idleForm="32D4E">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D4F">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D4F">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3420,7 +3420,7 @@
     <animation id="SCAP_Crib01_FM_2Human_Start_S2" frames="500">
         <actor gender="F" idleForm="32D50">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D51">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D51">
             
             <morph id="Erection" to="1.0000000000001"/>
        </actor>
@@ -3429,7 +3429,7 @@
     <animation id="SCAP_Crib01_FM_2Human_Sideways_S3" frames="500">
         <actor gender="F" idleForm="3252D">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3252E">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3252E">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3438,7 +3438,7 @@
     <animation id="SCAP_Crib01_FM_2Human_Sideways_S4" frames="500">
         <actor gender="F" idleForm="3252F">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32530">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32530">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3447,7 +3447,7 @@
     <animation id="SCAP_Crib01_FM_2Human_Sideways_S5" frames="500">
         <actor gender="F" idleForm="3257D">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3257E">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3257E">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3456,7 +3456,7 @@
     <animation id="SCAP_Crib01_FM_2Human_Standing_S6" frames="500">
         <actor gender="F" idleForm="32D52">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D53">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D53">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3465,7 +3465,7 @@
     <animation id="SCAP_Crib01_FM_2Human_ClimaxLoop_S7" frames="200">
         <actor gender="F" idleForm="32D54">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D55">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D55">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3474,7 +3474,7 @@
 	<animation id="SCAP_Lockers01_FM_2Human_Tease_S1" frames="500">
 		<actor gender="F" idleForm="32533">
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="32534">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="32534">
         
         <morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -3483,7 +3483,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_Start_S2" frames="500">
         <actor gender="F" idleForm="32535">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32536">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32536">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3492,7 +3492,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_Standing_S3" frames="500">
         <actor gender="F" idleForm="32537">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32538">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32538">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3501,7 +3501,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_Standing_S4" frames="500">
         <actor gender="F" idleForm="32539">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3253A">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3253A">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3510,7 +3510,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_Standing_S5" frames="500">
         <actor gender="F" idleForm="3253B">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3253C">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3253C">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3519,7 +3519,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_Carry_S6" frames="500">
         <actor gender="F" idleForm="3253D">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3253E">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3253E">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3528,7 +3528,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_ClimaxLoop_S7" frames="200">
         <actor gender="F" idleForm="3253F">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32540">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32540">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3537,7 +3537,7 @@
     <animation id="SCAP_Lockers01_FM_2Human_Finish_S8" frames="500">
         <actor gender="F" idleForm="32541">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32542">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32542">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3546,7 +3546,7 @@
     <animation id="SCAP_ChairHigh01_FM_2Human_Tease_S1" frames="500">
         <actor gender="F" idleForm="32D42">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D43">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D43">
              
             <morph id="Erection" to="1.0000000000001"/>
        </actor>
@@ -3555,7 +3555,7 @@
     <animation id="SCAP_ChairHigh01_FM_2Human_Start_S2" frames="500">
         <actor gender="F" idleForm="32D44">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D45">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D45">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3564,7 +3564,7 @@
 	<animation id="SCAP_ChairHigh01_FM_2Human_Doggy_S3" frames="500">
         <actor gender="F" idleForm="1000">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="1001">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="1001">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3573,7 +3573,7 @@
 	<animation id="SCAP_ChairHigh01_FM_2Human_Doggy_S4" frames="500">
         <actor gender="F" idleForm="32D46">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D47">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D47">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3582,7 +3582,7 @@
     <animation id="SCAP_ChairHigh01_FM_2Human_Doggy_S5" frames="500">
         <actor gender="F" idleForm="32D48">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D49">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D49">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3591,7 +3591,7 @@
     <animation id="SCAP_ChairHigh01_FM_2Human_Doggy_S6" frames="500">
         <actor gender="F" idleForm="32D4A">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D4B">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D4B">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3600,7 +3600,7 @@
     <animation id="SCAP_ChairHigh01_FM_2Human_ClimaxLoop_S7" frames="200">
         <actor gender="F" idleForm="32D4C">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D4D">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D4D">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3609,7 +3609,7 @@
 	<animation id="SCAP_Mattress01_FM_2Human_Tease_S1" frames="500">
         <actor gender="F" idleForm="32543">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32544">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32544">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3618,7 +3618,7 @@
 	<animation id="SCAP_Mattress01_FM_2Human_Missionary_S3" frames="500">
         <actor gender="F" idleForm="32545">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32546">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32546">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3627,7 +3627,7 @@
 	<animation id="SCAP_Mattress01_FM_2Human_Missionary_S4" frames="500">
         <actor gender="F" idleForm="32D56">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D57">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D57">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3636,7 +3636,7 @@
     <animation id="SCAP_Mattress01_FM_2Human_Missionary_S5" frames="500">
         <actor gender="F" idleForm="32D58">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D59">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D59">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3645,7 +3645,7 @@
     <animation id="SCAP_Mattress01_FM_2Human_Missionary_S6" frames="500">
         <actor gender="F" idleForm="32D5A">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D5B">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D5B">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3654,7 +3654,7 @@
 	    <animation id="SCAP_SleepingBag01_FM_2Human_Tease_S1" frames="500">
         <actor gender="F" idleForm="32549">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3254A">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3254A">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3663,7 +3663,7 @@
     <animation id="SCAP_SleepingBag01_FM_2Human_Start_S2" frames="500">
         <actor gender="F" idleForm="32D5C">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D5D">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D5D">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3672,7 +3672,7 @@
     <animation id="SCAP_SleepingBag01_FM_2Human_Doggy_S3" frames="500">
         <actor gender="F" idleForm="3254B">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="3254C">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="3254C">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3681,7 +3681,7 @@
     <animation id="SCAP_SleepingBag01_FM_2Human_Doggy_S4" frames="500">
         <actor gender="F" idleForm="32D5E">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D5F">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D5F">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3690,7 +3690,7 @@
     <animation id="SCAP_SleepingBag01_FM_2Human_Doggy_S5" frames="500">
         <actor gender="F" idleForm="32D6C">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D6D">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D6D">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3699,7 +3699,7 @@
     <animation id="SCAP_SleepingBag01_FM_2Human_Doggy_S6" frames="500">
         <actor gender="F" idleForm="32D6E">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D6F">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D6F">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3708,7 +3708,7 @@
 	<animation id="SCAP_CouchMemoryLounge01_FM_2Human_Sideways_S3" frames="500">
         <actor gender="F" idleForm="32D66">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D67">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D67">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3717,11 +3717,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S3" frames="500">
         <actor gender="F" idleForm="1034">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="1035">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="1035">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="1036">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="1036">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3730,11 +3730,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S4" frames="500">
         <actor gender="F" idleForm="1037">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="1038">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="1038">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="1039">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="1039">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3743,11 +3743,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S5" frames="500">
         <actor gender="F" idleForm="2FDA1">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA2">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA2">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="2FDA3">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="2FDA3">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3756,11 +3756,11 @@
 	<animation id="SCAP_Floor01_FMM_3Human_DoubleTeam_S6" frames="500">
         <actor gender="F" idleForm="32D60">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D61">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D61">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D62">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D62">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
@@ -3769,11 +3769,11 @@
     <animation id="SCAP_Floor01_FMM_3Human_ClimaxLoop_S7" frames="200">
         <actor gender="F" idleForm="32D63">
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D64">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D64">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>
-        <actor gender="M" startEquipmentSet="CockErect" idleForm="32D65">
+        <actor gender="M" startEquipmentSet="CockErect"idleForm="32D65">
             
             <morph id="Erection" to="1.0000000000001"/>
         </actor>

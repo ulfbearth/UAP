@@ -1,0 +1,68 @@
+{
+  "modName": "PenPos",
+  "keybinds": [
+    {
+      "id": "hkPenis1Inc",
+      "desc": "Penis1 Increase Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKPenis1Inc"
+      }
+    },
+    {
+      "id": "hkPenis1Dec",
+      "desc": "Penis1 Decrease Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKPenis1Dec"
+      }
+    },
+    {
+      "id": "hkBalls1Inc",
+      "desc": "Balls1 Increase Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKBalls1Inc"
+      }
+    },
+    {
+      "id": "hkBalls1Dec",
+      "desc": "Balls1 Decrease Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKBalls1Dec"
+      }
+    },	
+    {
+      "id": "hkPenisOffsetInc",
+      "desc": "Penis Offset Increase Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKPenisOffsetInc"
+      }
+    },
+    {
+      "id": "hkPenisOffsetDec",
+      "desc": "Penis Offset Decrease Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKPenisOffsetDec"
+      }
+    },
+    {
+      "id": "hkClearAdjustments",
+      "desc": "Penis Offset Decrease Hotkey",
+      "action": {
+        "type": "CallFunction",
+        "form": "PenPos.esp|FAB",
+        "function":  "HKClearAdjustments"
+      }
+    }	
+  ]
+}

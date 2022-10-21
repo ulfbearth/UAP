@@ -4,12 +4,12 @@
 	<!-- Female/Male Animations -->
 
 	<animation id="AtomicLust_Spork_MM_01" frames="304">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004D0BA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004D0BA">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004D0BB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004D0BB">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -17,12 +17,12 @@
 	</animation>
 
 	<animation id="AtomicLust_Spork_MM_02" frames="304">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004D0BC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004D0BC">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004D0BD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004D0BD">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -30,13 +30,13 @@
 	</animation>
 
 	<animation id="AtomicLust_Cowgirl_MM_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C91B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C91B">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C91C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C91C">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -45,13 +45,13 @@
 	</animation>
 
 	<animation id="AtomicLust_Cowgirl_MM_02" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C91D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C91D">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".825"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C91E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C91E">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -60,13 +60,13 @@
 	</animation>
 
 	<animation id="AtomicLust_Cowgirl_MM_03" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C91F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C91F">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".825"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C920">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C920">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -75,22 +75,22 @@
 	</animation>
 
 	<animation id="AtomicLust_Embrace_MM_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="000044D7">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="000044D7">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="000044D8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="000044D8">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_Kissing_MM_01" frames="360">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000540D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000540D">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000540E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000540E">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
@@ -99,12 +99,12 @@
 	<!-- Furniture Animations -->
 
 	<animation id="AtomicLust_BlowjobChair_MM_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043FBA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043FBA">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043FBB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043FBB">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -113,13 +113,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlBunkBed_MM_Bottom_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCCD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCCD">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCCE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCCE">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -128,13 +128,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlBunkBed_MM_Top_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCCB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCCB">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCCC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCCC">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -143,13 +143,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlDoubleBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003D530">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003D530">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003D531">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003D531">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -158,13 +158,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlDoubleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041203">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041203">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041204">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041204">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -173,13 +173,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlMedBay_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041209">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041209">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004120A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004120A">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -188,13 +188,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlMedBay_MM_InstituteInclined_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004120B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004120B">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004120C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004120C">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -203,13 +203,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlSingleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041207">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041207">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041208">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041208">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -218,13 +218,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlWallmountBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041205">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041205">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00041206">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00041206">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -233,13 +233,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlPreWarBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCD1">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCD1">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCD2">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCD2">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -248,13 +248,13 @@
 	</animation>
 
 	<animation id="AtomicLust_CowgirlVaultBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCCF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCCF">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0003DCD0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0003DCD0">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -263,13 +263,13 @@
 	</animation>
 
 	<animation id="AtomicLust_ReverseCowgirlVaultBed_MM_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C917">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C917">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0004C918">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C918">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -280,14 +280,14 @@
 	</animation>
 
 	<animation id="AtomicLust_ReverseCowgirlVaultBed_MM_Orgasm_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004C919">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C919">
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0004C91A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004C91A">
 			
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -298,12 +298,12 @@
 	</animation>
 
 	<animation id="AtomicLust_CuddleBed_MM_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001B959">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001B959">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001B95A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001B95A">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -311,12 +311,12 @@
 	</animation>
 
 	<animation id="AtomicLust_CryoPod_MM_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A7BA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000A7BA">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000A7BB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000A7BB">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -326,12 +326,12 @@
 	<!-- Spanking Animations -->
 
 	<animation id="AtomicLust_Spanking_MM_01_S1" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001C0F4">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001C0F4">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001C0F5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001C0F5">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -339,12 +339,12 @@
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_1TR2" frames="96">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001C88F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001C88F">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001C890">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001C890">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -352,12 +352,12 @@
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_S2" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001D7C5">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001D7C5">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001D02B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001D02B">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -365,12 +365,12 @@
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_2TR3" frames="51">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001DF5F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001DF5F">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001DF60">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001DF60">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -378,12 +378,12 @@
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_S3" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001EE93">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001EE93">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001EE94">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001EE94">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -391,12 +391,12 @@
 	</animation>
 
 	<animation id="AtomicLust_Spanking_MM_01_S4" frames="80">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001F62E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001F62E">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0001F62F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0001F62F">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -406,23 +406,23 @@
 	<!-- positionTree Animations -->
 
 	<animation id="AtomicLust_HoldingHands_MM_01" frames="60">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004307A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004307A">
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004307B">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004307B">
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_HoldingHandstoHoldingJerking_MM_01" frames="136">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004307E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004307E">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004307F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004307F">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -430,44 +430,44 @@
 	</animation>
 
 	<animation id="AtomicLust_HoldingHandstoHoldingKissing_MM_01" frames="65">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004307C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004307C">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004307D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004307D">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_HoldingKissing_MM_01" frames="60">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043080">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043080">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043081">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043081">
 			
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_StandingIdle_MM_01" frames="60">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043082">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043082">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043083">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043083">
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="0.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="AtomicLust_StandingIdletoHoldingHands_MM_01" frames="140">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043084">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043084">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043085">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043085">
 			<morph id="Erection" to="0.0001"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
@@ -476,17 +476,17 @@
 	<!-- Threesome Animations -->
 
 	<animation id="AtomicLust_Threesome_MM_01" frames="640">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005BAE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00005BAE">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005BB0">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00005BB0">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005BAF">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00005BAF">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -494,18 +494,18 @@
 	</animation>
 
 	<animation id="AtomicLust_Threesome_MM_02" frames="640">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043FBC">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043FBC">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043FBD">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043FBD">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043FBE">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043FBE">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -516,12 +516,12 @@
 	<!-- Male / Male Animations -->
 
 	<animation id="AtomicLust_Cowboy_MM_01" frames="640">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004381F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0004381F">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="00043820">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="00043820">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -529,13 +529,13 @@
 	</animation>
 
 	<animation id="AtomicLust_Rocket69_MM_01" frames="236">
-		<actor gender="M" startEquipmentSet="CockErect" idleForm="0002B43D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0002B43D">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Penis Adjust" to=".826"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0002B43E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="0002B43E">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>

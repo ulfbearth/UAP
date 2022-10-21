@@ -1,0 +1,20 @@
+<actionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+    <defaults />
+    
+    <action id="aCockFlaccid">
+        <self tags="tCockFlaccid">
+        </self>
+        <target>
+        </target>
+    </action>
+
+    
+    <action id="aCockErect">
+        <self tags="tCockErect">
+        </self>
+        <target>
+        </target>
+    </action>
+
+</actionData>

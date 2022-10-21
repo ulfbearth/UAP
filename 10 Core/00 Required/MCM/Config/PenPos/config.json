@@ -1,0 +1,81 @@
+{
+    "modName": "PenPos",
+    "displayName": "Universal Schlong Controller",
+    "content": [
+		{
+			"text": "<p align='center'><font size='24'>USC V1.0</font>",
+			"html": true,
+			"type": "text"
+		},
+		{
+			"type": "spacer",
+			"numLines": 1
+		},	        
+		{
+            "text": "Adjustment Setup",
+            "type": "section"
+        },		
+		{
+			"text": "Adjustment Step",
+			"type": "slider",
+			"help": "Determines bone rotation step size per hotkey press.",
+			"valueOptions": {
+				"min": 0.05,
+				"max": 1.0,
+				"step": 0.01,
+				"sourceType": "GlobalValue",
+				"sourceForm": "PenPos.esp|1"
+			}
+		},		
+		{
+			"type": "spacer",
+			"numLines": 1
+		},	        				
+		{
+            "text": "Hotkey Setup",
+            "type": "section"
+        },
+		{
+			"id": "hkPenis1Inc",
+			"text": "Penis1 UP",
+			"type": "hotkey",
+			"help": "Rotate Penis1 bone UP selected actor."
+		},
+		{
+			"id": "hkPenis1Dec",
+			"text": "Penis1 DOWN",
+			"type": "hotkey",
+			"help": "Rotate Penis1 bone DOWN on selected actor."
+		},
+		{
+			"id": "hkBalls1Inc",
+			"text": "Balls1 UP",
+			"type": "hotkey",
+			"help": "Rotate Balls1 bone UP on selected actor."
+		},
+		{
+			"id": "hkBalls1Dec",
+			"text": "Balls1 DOWN",
+			"type": "hotkey",
+			"help": "Rotate Balls1 bone DOWN on selected actor."
+		},
+		{
+			"id": "hkPenisOffsetInc",
+			"text": "Penis Offset UP",
+			"type": "hotkey",
+			"help": "Rotate Penis offset UP on selected actor."
+		},
+		{
+			"id": "hkPenisOffsetDec",
+			"text": "Penis Offset DOWN",
+			"type": "hotkey",
+			"help": "Rotate Penis offset DOWN on selected actor."
+		},
+		{
+			"id": "hkClearAdjustments",
+			"text": "Reset",
+			"type": "hotkey",
+			"help": "Clear all PenPos adjustments on selected actor."
+		}		
+	]
+}

@@ -1,0 +1,13 @@
+<equipmentRulesData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+    <defaults loadPriority="-1"/>
+
+    <tag id="tCockFlaccid">
+        <rule applyTo="*" emptySlot="33"/>
+    </tag>
+
+    <tag id="tCockErect">
+        <rule applyTo="*" emptySlot="33"/>
+    </tag>
+
+</equipmentRulesData>

@@ -10,7 +10,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="4524">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="4524">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -21,7 +21,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="2688">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2688">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -33,7 +33,7 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="2689">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="2689">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -45,7 +45,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="268A">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="268A">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -58,7 +58,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="3D7C">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3D7C">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -70,7 +70,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="3D7D">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3D7D">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -82,7 +82,7 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="3D7E">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3D7E">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -94,7 +94,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="3D7F">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="3D7F">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -107,7 +107,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="1EE8">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1EE8">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -119,7 +119,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="1EE9">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1EE9">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -131,7 +131,7 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="1EEA">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1EEA">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -143,7 +143,7 @@
 			<action id="FemaleMoan Orgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect" skeleton="Dog" idleForm="1EEB">
+		<actor gender="M" startEquipmentSet="CockErect"idleForm="1EEB">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

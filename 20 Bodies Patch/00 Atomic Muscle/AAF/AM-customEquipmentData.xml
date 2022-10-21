@@ -1,0 +1,9 @@
+<customEquipmentData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+
+    <defaults source="Atomic Muscle.esp"/>
+
+    <equipment itemTitle="Atomic Muscle Erection States">
+        <state form="D64" stateTitle="Flaccid" tags="tCockFlaccid"/>
+        <state form="803" stateTitle="Erect" tags="tCockErect"/>
+    </equipment>
+</customEquipmentData>
