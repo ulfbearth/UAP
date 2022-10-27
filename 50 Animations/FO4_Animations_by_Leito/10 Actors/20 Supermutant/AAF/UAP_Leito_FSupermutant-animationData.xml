@@ -7,7 +7,7 @@
 		<actor gender="F" idleForm="1EDC">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1EDD">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="1EDD">
 			<morph id="Erection Up" to="0.5"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -17,7 +17,7 @@
 		<actor gender="F" idleForm="4C8F">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="4C8C">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="4C8C">
 			<morph id="Erection Up" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -27,7 +27,7 @@
 		<actor gender="F" idleForm="B73D">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="B73E">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="B73E">
 			<morph id="Erection Down" to="1"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -37,7 +37,7 @@
 		<actor gender="F" idleForm="542A">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="542D">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="542D">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -46,7 +46,7 @@
 		<actor gender="F" idleForm="542B">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="542E">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="542E">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -55,7 +55,7 @@
 		<actor gender="F" idleForm="542C">
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="542F">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="542F">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -70,7 +70,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002E51">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01002E51">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -80,7 +80,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002E52">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01002E52">
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -90,7 +90,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002E53">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01002E53">
 			<morph id="Erection Up" to="2"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -102,7 +102,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01002E54">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01002E54">
 			<morph id="Erection Up" to="2"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
@@ -116,7 +116,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100DE30">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE30">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -127,7 +127,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100DE31">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE31">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -138,7 +138,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100DE32">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE32">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -149,7 +149,7 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100DE33">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100DE33">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -161,7 +161,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01007B14">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01007B14">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
@@ -173,7 +173,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01007B15">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01007B15">
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>

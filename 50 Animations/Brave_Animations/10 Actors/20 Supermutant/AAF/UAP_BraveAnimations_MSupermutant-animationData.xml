@@ -2,62 +2,62 @@
 	<defaults source="BraveAnims.esp"/>
 
 	<animation id="Brave_MM_SupermutantKissing" frames="190">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01001ECC" conditions="Foreplay">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="01001732">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="01001732">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Brave_MM_SupermutantKissToMissionary" frames="170">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044cd" conditions="Intermediary-20_59">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			
 			<morph id="Anus Spread" to="0.5" frames="50" start="70"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044d3">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d3">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Brave_MM_SupermutantMissionary1" frames="460">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044ce" conditions="Intermediary-20_59">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			
 			<morph id="Anus Spread" to="0.5"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044d4">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d4">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Brave_MM_SupermutantMissionary2" frames="220">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044cf" conditions="Intermediary-60_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			
 			<morph id="Anus Spread" to="0.5"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044d5">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d5">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Brave_MM_SupermutantMissionary3" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044d0" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -65,27 +65,27 @@
 			<morph id="Anus Spread" to="0.5"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044d6">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d6">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Brave_MM_SupermutantMissionary4" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044d1" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			
 			<morph id="Anus Spread" to="0.5"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044d7">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d7">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="Brave_MM_SupermutantMissionary5" frames="500">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010044d2" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
@@ -93,7 +93,7 @@
 			<morph id="Anus Spread" to="0.5"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="010044d8">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="010044d8">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>

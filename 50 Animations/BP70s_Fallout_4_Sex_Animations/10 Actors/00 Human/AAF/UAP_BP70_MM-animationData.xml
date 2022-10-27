@@ -4,7 +4,7 @@
 
 	<!-- Masturbation Animations -->
 	<animation id="rxl_bp70_male_bedmast" frames="360">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35E6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35E6">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -12,7 +12,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_male_couchmast" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12242">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12242">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -20,7 +20,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_male_couchmastfast" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12244">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12244">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -28,7 +28,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_male_toiletmast" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12246">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12246">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -40,12 +40,12 @@
 
 	<!-- Misc Animations -->
 	<animation id="rxl_bp70_mm_kissing" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="D642">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="D642">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="D643">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="D643">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -53,13 +53,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S1" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-0_6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="174F" conditions="Foreplay-0_6">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1750">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1750">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -68,13 +68,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S2" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-6_13">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1751" conditions="Foreplay-6_13">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1752">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1752">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -83,13 +83,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S3" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-13-19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1753" conditions="Foreplay-13-19">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1754">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1754">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -98,14 +98,14 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S4" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1755" conditions="Progress-20_59">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1756">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1756">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -116,14 +116,14 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_mistress_01_S5" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-60_100">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="98DE" conditions="Progress-60_100">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="98DF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="98DF">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -139,12 +139,12 @@
 
 	<!-- Footjob Animations -->
 	<animation id="FO4SA_Missionary_MM_footjob_01_S1" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1038D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1038D">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1038E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1038E">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -152,12 +152,12 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_footjob_01_S2" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35C8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35C8">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35C9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35C9">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -171,12 +171,12 @@
 
 	<!-- Blowjob Animations -->
 	<animation id="FO4SA_Blowjob_MM_01" frames="360" offset="0,0,0,180:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00006389">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00006389">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000638A"> 
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000638A"> 
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -188,12 +188,12 @@
 
 
 	<animation id="FO4SA_BlowjobGround_MM_01" frames="320" offset="0,0,0,180:0,-2,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A63">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A63">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A64">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A64">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -201,12 +201,12 @@
 	</animation>
 
 	<animation id="FO4SA_standing69_MM_01" frames="300" offset="0,0,-1.5,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1038F"> 
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1038F"> 
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="10390">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="10390">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -221,13 +221,13 @@
 
 	<!-- Cowgirl Animations -->
 	<animation id="FO4SA_Cowgirl_MM_01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000800">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000800">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000801"> 
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000801"> 
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -239,13 +239,13 @@
 
 
 	<animation id="FO4SA_Cowgirl_MM_Romantic_01" frames="120">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000FAD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000FAD">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000FAE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000FAE">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -257,12 +257,12 @@
 
 
 	<animation id="FO4SA_Lotus_MM_01" frames="150">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000808">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000808">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000809">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000809">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -277,13 +277,13 @@
 
 	<!-- Missionary Animations -->
 	<animation id="rxl_bp70_mm_romanticmissionary01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85C" conditions="Foreplay">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A85D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85D">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -292,13 +292,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_romanticmissionary02" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85E" conditions="Intermediary-20_46">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A85F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85F">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -307,13 +307,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_romanticmissionary03" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A860" conditions="Intermediary-46_73">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A861">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A861">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -322,13 +322,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_romanticmissionary04" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A862" conditions="Intermediary-73_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A863">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A863">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -337,14 +337,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_romanticmissionary05" frames="960">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A864" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A865">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A865">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -353,12 +353,12 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_01" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000802">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000802">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0"/>
 			<morph id="Anus Spread" to="0.618"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000803">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000803">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -368,12 +368,12 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Rough_01" frames="601">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000806">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000806">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000807">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000807">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -381,13 +381,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S1" frames="780">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000080A" conditions="Foreplay">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000080B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000080B">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -396,7 +396,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S2" frames="780">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000080C" conditions="Intermediary-20_46">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -404,7 +404,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".786"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000080D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000080D">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -416,7 +416,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S3" frames="780">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000080E" conditions="Intermediary-46_73">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -424,7 +424,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".786"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000080F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000080F">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -436,7 +436,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S4" frames="780">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000810" conditions="Intermediary-73_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -444,7 +444,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".786"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000811">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000811">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -456,7 +456,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_02_S5" frames="780">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000812" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -464,7 +464,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".786"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000813">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000813">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -478,13 +478,13 @@
 
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S1" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103B8" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="103B9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103B9">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -493,13 +493,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S1-2Trans" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11A9F" conditions="Intermediary-20_46">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11AA0">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA0">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -507,14 +507,14 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S2" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103BA" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="103BB">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103BB">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -523,13 +523,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S2-3Trans" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA1" conditions="Intermediary-46_73">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11AA2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA2">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -537,14 +537,14 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S3" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103BC" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="103BD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103BD">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -553,13 +553,13 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S3-4Trans" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA3" conditions="Intermediary-73_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11AA4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA4">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -567,14 +567,14 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S4" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103BE" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="103BF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103BF">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -583,26 +583,26 @@
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S4-5Trans" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA5" conditions="Climax">
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11AA6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11AA6">
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="FO4SA_Missionaryswish_MM_01_S5" frames="500" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103C0" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="103C1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="103C1">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -614,14 +614,14 @@
 
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_1" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEE7" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEE8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEE8">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -634,7 +634,7 @@
 
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2A" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEE9" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -642,7 +642,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEEA">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEEA">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -655,7 +655,7 @@
 
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3A" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEEB" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -663,7 +663,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEEC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEEC">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -676,7 +676,7 @@
 
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4A" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEED" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -684,7 +684,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEEE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEEE">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -696,7 +696,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_5A" frames="1400">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEEF" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -704,7 +704,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEF0">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF0">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -717,7 +717,7 @@
 
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_2B" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF3" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -725,7 +725,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.00001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEF4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF4">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -737,7 +737,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_3B" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF5" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -745,7 +745,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.00001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEF6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF6">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -757,7 +757,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_4B" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF7" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -765,7 +765,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.00001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEF8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF8">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -777,7 +777,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_Impregnate_01_5B" frames="1400">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEF9" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -785,7 +785,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.00001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000BEFA">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000BEFA">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -799,13 +799,13 @@
 
 	
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_kissing" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="3D6D" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="3D6E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="3D6E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -814,7 +814,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_startfucking" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6B22" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -822,7 +822,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="6B23">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6B23">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -832,7 +832,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_fuckfaster" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="72BD" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -840,7 +840,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".682"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="72BE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="72BE">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -851,7 +851,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_fuckfasterfinger" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="BF18" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -859,7 +859,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".682"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="BF19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="BF19">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -870,7 +870,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_thrust" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC07" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -878,7 +878,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".682"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC08">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC08">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -890,7 +890,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_thrustfinger" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC09" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -898,7 +898,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".682"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC0A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC0A">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -910,7 +910,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_orgasm" frames="600">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC0B" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -918,7 +918,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".682"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC0C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC0C">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -930,7 +930,7 @@
 	</animation>
 
 	<animation id="FO4SA_Missionary_MM_impregnate_cow_orgasmfinger" frames="600">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC0D" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -938,7 +938,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to=".682"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC0E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC0E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -956,13 +956,13 @@
 	<!-- Doggy Animations -->
 
 	<animation id="rxl_bp70_mm_pitdoggy_1" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-0_9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5454" conditions="Foreplay-0_9">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5455">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5455">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -971,13 +971,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_pitdoggy_2" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-10_19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5456" conditions="Foreplay-10_19">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5457">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5457">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -986,13 +986,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_pitdoggy_3" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_39">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5458" conditions="Intermediary-20_39">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5459">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5459">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1001,13 +1001,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_pitdoggy_4" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-40_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="545A" conditions="Intermediary-40_59">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="545B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="545B">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1016,13 +1016,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_pitdoggy_5" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_79">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="545C" conditions="Intermediary-60_79">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="545D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="545D">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1031,13 +1031,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_pitdoggy_6" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-80_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="545E" conditions="Intermediary-80_99">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="545F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="545F">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1046,13 +1046,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_pitdoggy_7" frames="500">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5460" conditions="Climax">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5461">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5461">
 			<action id="Edge150s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -1063,13 +1063,13 @@
 
 
 	<animation id="FO4SA_Doggy_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000804">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000804">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00000805">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000805">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1082,13 +1082,13 @@
 
 
 	<animation id="FO4SA_ProneBone_MM_01_S1" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D9C" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="15F1E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="15F1E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1097,12 +1097,12 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S1-2Trans" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17DA0" conditions="Intermediary-20_59">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="17D99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1110,7 +1110,7 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S2" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D9D" conditions="Intermediary-20_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1118,7 +1118,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="17D93">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D93">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1127,13 +1127,13 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S2-3Trans" frames="60">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17DA1" conditions="Intermediary-60_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="17D9B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D9B">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1141,7 +1141,7 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S3" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D9E" conditions="Intermediary-60_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1149,7 +1149,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="17D95">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D95">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1159,7 +1159,7 @@
 	</animation>
 
 	<animation id="FO4SA_ProneBone_MM_01_S4" frames="550">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D9F" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -1167,7 +1167,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="17D97">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="17D97">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -1183,14 +1183,14 @@
 
 	<!-- Standing/Carry Animations -->
 	<animation id="FO4SA_Standing_MM_01_S1" frames="1000">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D1" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000098D2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D2">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1200,7 +1200,7 @@
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S2" frames="1000">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D3" conditions="Intermediary-20_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1208,7 +1208,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000098D4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D4">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1219,7 +1219,7 @@
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S3" frames="1000">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D5" conditions="Intermediary-60_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1227,7 +1227,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000098D6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D6">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1238,7 +1238,7 @@
 	</animation>
 
 	<animation id="FO4SA_Standing_MM_01_S4" frames="1000">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D7" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -1246,7 +1246,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000098D8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000098D8">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -1262,13 +1262,13 @@
 
 	<!-- Spoon Animations -->
 	<animation id="rxl_bp70_mm_floorspoon01" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC66" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC67">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC67">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1277,13 +1277,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_floorspoon02" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC68" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC69">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC69">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1292,13 +1292,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_floorspoon03" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC6A" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC6B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC6B">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1307,13 +1307,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_floorspoon04" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC6C" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC6D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC6D">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1322,13 +1322,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_floorspoon05" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC6E" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="FC6F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="FC6F">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -1340,55 +1340,55 @@
 
 	<!-- Alt Animations-->
 	<animation id="rxl_bp70_mm_chairspankbase" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D0" conditions="Foreplay">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35D1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D1">
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_mm_chairspank1" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D2" conditions="Progress-20_59">
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35D3">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D3">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_mm_chairspank2" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-60_100">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D4" conditions="Progress-60_100">
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35D5">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D5">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_mm_chairspankfinger1" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D6" conditions="Progress-20_59">
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35D7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D7">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
 	</animation>
 
 	<animation id="rxl_bp70_mm_chairspankfinger2" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-60_100">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D8" conditions="Progress-60_100">
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35D9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35D9">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 		</actor>
@@ -1396,12 +1396,12 @@
 
 
 	<animation id="FO4SA_MM_malebodyworship" frames="240" offset="0,12,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DD90">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DD90">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DD91">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DD91">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1411,13 +1411,13 @@
 
 
 	<animation id="FO4SA_MM_armchaircow" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="543C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="543C">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="543D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="543D">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1433,19 +1433,19 @@
 	<!-- ============================================================================================= -->
 	<!-- ===================================== N-Some Animations ===================================== -->
 	<animation id="FO4SA_LoveTriangle_MM_01_S1" frames="640" offset="0,0,0,180:0,0,0,0:0,-5,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EF8" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001EF9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EF9">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001EF7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EF7">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1453,19 +1453,19 @@
 	</animation>
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S2" frames="720">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EFB" conditions="Progress-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001EFC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EFC">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001EFA">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EFA">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1473,20 +1473,20 @@
 	</animation>
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S3" frames="720" offset="0,0,0,180:0,0,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EFE" conditions="Progress-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001EFF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EFF">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001EFD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001EFD">
 			<action id="UAPMoans" loop="true" start="200"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1496,20 +1496,20 @@
 	</animation>
 
 	<animation id="FO4SA_LoveTriangle_MM_01_S4" frames="720">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-73_100">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001F01" conditions="Progress-73_100">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001F02">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001F02">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00001F00">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00001F00">
 			<action id="UAPMoans" loop="true" start="400" from="1" to="0" frames="50.555"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1528,13 +1528,13 @@
 	<!-- ===================================== Misc Animations =====================================-->
 	<!-- Double Bed -->
 	<animation id="FO4SA_MM_aftersexbedrelax" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5BDD" conditions="Foreplay">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5BDE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5BDE">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1543,7 +1543,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex01" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_39">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="637A" conditions="Intermediary-20_39">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1551,7 +1551,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="637B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="637B">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1563,7 +1563,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex02" frames="200" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-40_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="637C" conditions="Intermediary-40_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1571,7 +1571,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="637D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="637D">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1582,7 +1582,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex03" frames="200" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_79">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="637E" conditions="Intermediary-60_79">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1590,7 +1590,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="637F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="637F">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1601,7 +1601,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex04" frames="1000" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-80_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6380" conditions="Intermediary-80_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1609,7 +1609,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="6381">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6381">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1621,7 +1621,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_raunchydoublebedsex05" frames="800" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6382" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -1629,7 +1629,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="6383">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6383">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -1643,13 +1643,13 @@
 
 
 	<animation id="FO4SA_CowgirlBed_MM_01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000072C3">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000072C3">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000072C4"> 
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000072C4"> 
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1658,12 +1658,12 @@
 	</animation>
 
 	<animation id="FO4SA_CowgirlBed_MM_Pound_01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000ECB2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000ECB2">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000ECB3">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000ECB3">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1671,13 +1671,13 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyBed_MM_01" frames="300" offset="0,0,0,90:0,0,0,90">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000072C5">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000072C5">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000072C6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000072C6">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1694,12 +1694,12 @@
 
 	<!-- Chaise Animations-->
 	<animation id="FO4SA_ChaiseFuck_MM_01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A65">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A65">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A66">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A66">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1707,13 +1707,13 @@
 	</animation>
 
 	<animation id="FO4SA_ChaiseFuck_MM_02" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A67">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A67">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A68">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A68">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1722,13 +1722,13 @@
 	</animation>
 
 	<animation id="FO4SA_ChaiseFuck_MM_03" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A69">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A69">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A6A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A6A">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1738,13 +1738,13 @@
 	</animation>
 
 	<animation id="FO4SA_ChaiseFuck_MM_04" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A6B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A6B">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00007A6C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00007A6C">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1759,12 +1759,12 @@
 
 	<!-- Extractor Chair -->
 	<animation id="FO4SA_ExtractorChair_MM_01" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035E7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035E7">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035E8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035E8">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1772,12 +1772,12 @@
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_02" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035E9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035E9">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035EA">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035EA">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1785,13 +1785,13 @@
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_03" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035EB">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035EB">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035EC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035EC">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1801,13 +1801,13 @@
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_04" frames="360">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035ED">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035ED">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000035EE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000035EE">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1818,13 +1818,13 @@
 	</animation>
 
 	<animation id="FO4SA_ExtractorChair_MM_05" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00005BEE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005BEE">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00005BEF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00005BEF">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1841,13 +1841,13 @@
 
 	<!-- Park Bench-->
 	<animation id="FO4SA_MM_benchshaunconceptionsex1" frames="120">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E52E" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="E52F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E52F">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1856,12 +1856,12 @@
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex2" frames="96">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="E530">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E530">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="E531">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E531">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1869,12 +1869,12 @@
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex3" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="E532">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E532">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="E533">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E533">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1882,14 +1882,14 @@
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex4" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="CE50" conditions="Intermediary">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="CE51">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="CE51">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1899,7 +1899,7 @@
 	</animation>
 
 	<animation id="FO4SA_MM_benchshaunconceptionsex5" frames="1220">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E534" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -1907,7 +1907,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="E535">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="E535">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -1930,13 +1930,13 @@
 
 	<!-- Blowjob Animations -->
 	<animation id="FO4SA_MM_bartopsexperpendicular" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="ECD3">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="ECD3">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="ECD4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="ECD4">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -1946,13 +1946,13 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob01" frames="300" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-0_9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A07B" conditions="Foreplay-0_9">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A07C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A07C">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -1961,13 +1961,13 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob02" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-10_19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A07D" conditions="Foreplay-10_19">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A07E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A07E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1976,13 +1976,13 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob03" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A07F" conditions="Intermediary-20_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A080">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A080">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -1991,13 +1991,13 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob04" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A081" conditions="Intermediary-60_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A082">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A082">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2006,13 +2006,13 @@
 	</animation>
 
 	<animation id="FO4SA_MM_couchblowjob05" frames="480" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A083" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A084">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A084">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2024,13 +2024,13 @@
 	
 
 	<animation id="rxl_bp70_mm_toiletblowjob01" frames="180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-0_9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF15" conditions="Foreplay-0_9">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF16">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF16">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2039,13 +2039,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletblowjob02" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-10_19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF17" conditions="Foreplay-10_19">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF18">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF18">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2054,13 +2054,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletblowjob03" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF19" conditions="Intermediary-20_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF1A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF1A">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2069,13 +2069,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletblowjob04" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF1B" conditions="Intermediary-60_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF1C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF1C">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2084,13 +2084,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletblowjob05" frames="1060">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF1D" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF1E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF1E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2107,13 +2107,13 @@
 
 	
 	<animation id="FO4SA_RimjobCouch_MM_01" frames="240" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-0_9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="15781" conditions="Foreplay-0_9">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="15783">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="15783">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2122,13 +2122,13 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S1" frames="240" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay-10_19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112F8" conditions="Foreplay-10_19">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="112F9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112F9">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2137,7 +2137,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S2" frames="240" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112FA" conditions="Intermediary-20_46">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -2145,7 +2145,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="112FB">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112FB">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2157,7 +2157,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S3" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112FC" conditions="Intermediary-46_73">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -2165,7 +2165,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="112FD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112FD">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2177,7 +2177,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S4" frames="240" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112FE" conditions="Intermediary-73_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			
 			<action id="UAPMoans" loop="true"/>
@@ -2185,7 +2185,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="112FF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="112FF">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2197,7 +2197,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyCouch_MM_01_S5" frames="650" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11300" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -2205,7 +2205,7 @@
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11301">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11301">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2219,14 +2219,14 @@
 
 
 	<animation id="FO4SA_DoggyToilet_MM_01_S1" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CDC" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="18CDD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CDD">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2235,7 +2235,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyToilet_MM_01_S2" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CDE" conditions="Intermediary-20_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2243,7 +2243,7 @@
 			<morph id="Anus Spread" to="1.0000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="18CDF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CDF">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2253,7 +2253,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyToilet_MM_01_S3" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CE1" conditions="Intermediary-60_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2261,7 +2261,7 @@
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="18CE2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CE2">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2273,7 +2273,7 @@
 	</animation>
 
 	<animation id="FO4SA_DoggyToilet_MM_01_S4" frames="900">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CE3" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -2281,7 +2281,7 @@
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="18CE4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18CE4">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2299,13 +2299,13 @@
 
 	<!-- Missionary Animations -->
 	<animation id="rxl_bp70_mm_couchmissionary01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35C4" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35C5">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35C5">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2314,13 +2314,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchmissionary02" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35C6" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35C7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35C7">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2329,13 +2329,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchmissionary03" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35CA" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>	
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35CB">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35CB">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2344,13 +2344,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchmissionary04" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35CC" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35CD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35CD">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2359,14 +2359,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchmissionary05" frames="900">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35CE" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="35CF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="35CF">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2377,13 +2377,13 @@
 
 
 	<animation id="rxl_bp70_bed_mm_romanticmissionary01" frames="320" offset="0,0,43.5,0:0,0,43.5,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85C" conditions="Foreplay">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A85D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85D">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2392,13 +2392,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_bed_mm_romanticmissionary02" frames="320" offset="0,0,43.5,0:0,0,43.5,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85E" conditions="Intermediary-20_46">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A85F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A85F">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2407,13 +2407,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_bed_mm_romanticmissionary03" frames="320" offset="0,0,43.5,0:0,0,43.5,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A860" conditions="Intermediary-46_73">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A861">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A861">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2422,13 +2422,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_bed_mm_romanticmissionary04" frames="320" offset="0,0,43.5,0:0,0,43.5,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A862" conditions="Intermediary-73_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A863">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A863">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2437,14 +2437,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_bed_mm_romanticmissionary05" frames="960" offset="0,0,43.5,0:0,0,43.5,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A864" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="A865">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A865">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2454,13 +2454,13 @@
 
 
 	<animation id="FO4SA_MissionaryBed_MM_01" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000072C1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000072C1">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="0.618"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000072C2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000072C2">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2470,13 +2470,13 @@
 	</animation>
 
 	<animation id="FO4SA_MissionaryBed_MM_Pound_01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000ECB4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000ECB4">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0000ECB5">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0000ECB5">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2487,13 +2487,13 @@
 	</animation>
 
 	<animation id="FO4SA_MM_armchairmish" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="543A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="543A">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="543B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="543B">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2506,13 +2506,13 @@
 
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk01" frames="160" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1853B" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1853C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1853C">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2521,13 +2521,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_01" frames="320" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1947F" conditions="Intermediary-20_46">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001" start="160" frames="50"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19480">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19480">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2535,14 +2535,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk02" frames="800" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1853D" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1853E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1853E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2551,13 +2551,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_02" frames="300" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19481" conditions="Intermediary-46_73">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19482">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19482">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2565,14 +2565,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk03" frames="1000" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1853F" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="18540">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18540">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2581,13 +2581,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk_trans_03" frames="250" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19483" conditions="Intermediary-73_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19484">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19484">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -2596,14 +2596,14 @@
 
 	
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk04" frames="480" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1AB65" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1AB66">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1AB66">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2612,7 +2612,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_missionaryimpregnationrisk05" frames="1800" offset="0,0,0,180:0,0,0,180">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18541" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -2620,7 +2620,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="18542">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="18542">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2631,13 +2631,13 @@
 
 
 	<animation id="rxl_bp70_mm_deskanal01" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-0_9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19485" conditions="Progress-0_9">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19486">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19486">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2646,13 +2646,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal02" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-10_19">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19487" conditions="Progress-10_19">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19488">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19488">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2661,13 +2661,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal03" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-20_29">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19489" conditions="Progress-20_29">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1948A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1948A">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2676,13 +2676,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal04" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-30_39">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1948B" conditions="Progress-30_39">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1948C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1948C">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2691,14 +2691,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal05" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-40_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1948D" conditions="Progress-40_59">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1948E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1948E">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2707,14 +2707,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal06" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-60_79">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1948F" conditions="Progress-60_79">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19490">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19490">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2723,14 +2723,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal07" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-80_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19491" conditions="Progress-80_99">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19492">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19492">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2739,7 +2739,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_deskanal08" frames="600">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19493" conditions="Climax">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -2747,7 +2747,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="19494">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="19494">
 			<action id="Edge180s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2759,13 +2759,13 @@
 
 
 	<animation id="rxl_bp70_mm_toiletmissionary01" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF0B" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF0C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF0C">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2774,14 +2774,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletmissionary02" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF0D" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF0E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF0E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2790,14 +2790,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletmissionary03" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF0F" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF10">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF10">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2806,14 +2806,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletmissionary04" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF11" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF12">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF12">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2822,7 +2822,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_toiletmissionary05" frames="870">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF13" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -2830,7 +2830,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1FF14">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1FF14">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2844,13 +2844,13 @@
 
 	<!-- Cowgirl Animations -->
 	<animation id="rxl_bp70_mm_couchreversecowgirl01" frames="160">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="9908" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="9909">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="9909">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2859,13 +2859,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchreversecowgirl02" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="990A" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="990B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="990B">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2875,13 +2875,13 @@
 
 
 	<animation id="rxl_bp70_mm_couchreversecowgirl03" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="990C" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="990D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="990D">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2891,13 +2891,13 @@
 
 
 	<animation id="rxl_bp70_mm_couchreversecowgirl04" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="990E" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="990F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="990F">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2906,14 +2906,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchreversecowgirl05" frames="640">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="9910" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="9911">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="9911">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -2923,13 +2923,13 @@
 
 
 	<animation id="rxl_bp70_mm_couchcowgirl01" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B09" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B0A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B0A">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -2938,13 +2938,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_couchcowgirl02" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B0B" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B0C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B0C">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2953,13 +2953,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_couchcowgirl03" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B0D" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B0E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B0E">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2968,13 +2968,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_couchcowgirl04" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B0F" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B10">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B10">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -2983,14 +2983,14 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_couchcowgirl05" frames="1000">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B11" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="11B12">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="11B12">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -3000,13 +3000,13 @@
 
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk01" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D8FD" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D8FE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D8FE">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -3015,13 +3015,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_01" frames="400">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D905" conditions="Intermediary-20_46">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D906">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D906">
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3031,14 +3031,14 @@
 
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk02" frames="800">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D8FF" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D900">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D900">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3048,13 +3048,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_02" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D907" conditions="Intermediary-46_73">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D908">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D908">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3064,14 +3064,14 @@
 
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk03" frames="800">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D901" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D902">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D902">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3081,13 +3081,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk_trans_03" frames="280">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D909" conditions="Intermediary-73_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D90A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D90A">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3096,14 +3096,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk04" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1F770" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1F771">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1F771">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3113,7 +3113,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_prewarbed_cowgirlimpregnationrisk05" frames="1400">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D903" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
@@ -3121,7 +3121,7 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1D904">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1D904">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -3134,13 +3134,13 @@
 	<!-- Standing/Carry Animation-->
 
 	<animation id="rxl_bp70_mm_lockersex01" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDDF" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DDE0">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE0">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -3149,13 +3149,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_lockersex02" frames="360">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE1" conditions="Progress-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DDE2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE2">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3164,13 +3164,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_lockersex03" frames="360">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE3" conditions="Progress-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DDE4">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE4">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3179,13 +3179,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_lockersex04" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Progress-73_100">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE5" conditions="Progress-73_100">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DDE6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE6">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3194,14 +3194,14 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_lockersex05" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE7" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="DDE8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="DDE8">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			
@@ -3216,21 +3216,21 @@
 
 
 	<animation id="rxl_bp70_gayspitroast01" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FAB" conditions="Foreplay">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FAC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FAC">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FB1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FB1">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3240,21 +3240,21 @@
 	</animation>
 	
 	<animation id="rxl_bp70_gayspitroast02" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FB2" conditions="Intermediary-20_59">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FB6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FB6">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FB7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FB7">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3264,21 +3264,21 @@
 	</animation>
 
 	<animation id="rxl_bp70_gayspitroast03" frames="300">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FB8" conditions="Intermediary-60_99">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FB9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FB9">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FBA">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FBA">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3288,7 +3288,7 @@
 	</animation>
 
 	<animation id="rxl_bp70_gayspitroast04" frames="500">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FBB" conditions="Climax">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3296,14 +3296,14 @@
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FBC">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FBC">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="02000FBD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="02000FBD">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3316,13 +3316,13 @@
 	<!-- -->
 
 	<animation id="rxl_bp70_mm_modernbedmissionary01" frames="240" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A4B" conditions="Foreplay">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A4C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A4C">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -3331,12 +3331,12 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_modernbedmissionary01_trans" frames="610" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_39">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A4D" conditions="Intermediary-20_39">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A4E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A4E">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3344,13 +3344,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_modernbedmissionary02" frames="640" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_39">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A4F" conditions="Intermediary-20_39">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A50">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A50">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
@@ -3359,12 +3359,12 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_modernbedmissionary02_trans" frames="544" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-40_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A51" conditions="Intermediary-40_59">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A52">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A52">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3372,13 +3372,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_modernbedmissionary03" frames="480" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-40_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A53" conditions="Intermediary-40_59">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A54">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A54">
 			
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3388,12 +3388,12 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_modernbedmissionary03_trans" frames="600" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_79">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A55" conditions="Intermediary-60_79">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A56">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A56">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3401,13 +3401,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_modernbedmissionary04" frames="600" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_79">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A57" conditions="Intermediary-60_79">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A58">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A58">
 			
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3417,12 +3417,12 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_modernbedmissionary04_trans" frames="500" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-80_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A59" conditions="Intermediary-80_99">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A5A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A5A">
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
@@ -3430,13 +3430,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_modernbedmissionary05" frames="300" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-80_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1F04" conditions="Intermediary-80_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="1F05">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1F05">
 			
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3446,14 +3446,14 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_modernbedmissionary06" frames="550" offset="5.5,-92.35,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A5B" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="12A5C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="12A5C">
 			
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -3463,13 +3463,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_doublebedpussyplay01" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="1674F" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="16750">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16750">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
@@ -3478,13 +3478,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_doublebedpussyplay02" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16751" conditions="Intermediary-20_59">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="16752">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16752">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3494,13 +3494,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_doublebedpussyplay03" frames="240">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16753" conditions="Intermediary-60_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="16754">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16754">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3510,14 +3510,14 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_doublebedpussyplay04" frames="1000">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16755" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="16756">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="16756">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3528,13 +3528,13 @@
 	
 	
 	<animation id="rxl_bp70_mm_cowgirlseq01" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E39" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E3A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3A">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3544,13 +3544,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_cowgirlseq02" frames="320">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3B" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E3C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3C">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3560,13 +3560,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_cowgirlseq03" frames="288">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3D" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E3E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3E">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3576,13 +3576,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_cowgirlseq04" frames="272">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3F" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E40">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E40">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -3592,14 +3592,14 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_cowgirlseq05" frames="600" offset="0,6,0,0:0,0,0,0">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E41" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="2E42">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E42">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -3609,13 +3609,13 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_armchaircunny01" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Foreplay">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="547A" conditions="Foreplay">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="547C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="547C">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3625,13 +3625,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_armchaircunny02" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-20_46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="547D" conditions="Intermediary-20_46">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="547E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="547E">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3641,13 +3641,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_armchaircunny03" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-46_73">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="547F" conditions="Intermediary-46_73">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5480">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5480">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3657,13 +3657,13 @@
 	</animation>
 
 	<animation id="rxl_bp70_mm_armchaircunny04" frames="200">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Intermediary-73_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5481" conditions="Intermediary-73_99">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5482">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5482">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
@@ -3673,14 +3673,14 @@
 	</animation>
 	
 	<animation id="rxl_bp70_mm_armchaircunny05" frames="500">
-		<actor gender="M" startEquipmentSet="CockErect"conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5483" conditions="Climax">
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="5484">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="5484">
 			
 			<action id="Edge90s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>

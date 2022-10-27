@@ -4,12 +4,12 @@
 	<!-- Supermutant Animations -->
 
 	<animation id="ML_Blowjob_MM_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000F9B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000F9B">
 			
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000F9C">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="000F9C">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Up" to="0.3"/>
 			<morph id="Penis Adjust" to="0.3"/>
@@ -17,26 +17,26 @@
 	</animation>
 
 	<animation id="ML_PenisLick_MM_01" frames="195">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="004C70">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="004C70">
 			
 			<action id="addTongue"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="004C71">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="004C71">
 			<morph id="Erection" to="1.000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ML_Missionary_MM_Forced_01" frames="242">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100AF46">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100AF46">
 			
 			<morph id="Anus Spread" to="0.813"/>
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" target="1" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100AF47">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100AF47">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Up" to="0.35"/>
 			<morph id="Penis Adjust" to="0.40"/>
@@ -46,13 +46,13 @@
 
 
 	<animation id="ML_MissionarPipeRifle_MM_Forced_01" frames="254">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100B6E2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B6E2">
 			
 			<morph id="Anus Spread" to="0.813"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0100B6E3">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100B6E3">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Up" to="0.35"/>
 			<morph id="Penis Adjust" to="0.40"/>
@@ -60,26 +60,26 @@
 	</animation>
 
 	<animation id="ML_Doggy_MM_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="007A0D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="007A0D">
 			
 			<morph id="Anus Spread" to="0.858"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="007A0E">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="007A0E">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Penis Adjust" to="-0.30"/>
 		</actor>
 	</animation>
 
 	<animation id="ML_Cowgirl_MM_01" offset="0,0,0,0:5,2,0,0" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0081A9">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0081A9">
 			
 			<morph id="Anus Spread" to="0.950"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0081A8">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0081A8">
 			<morph id="Erection" to="1.20"/>
 			<morph id="Erection Up" to="0.20"/>
 			<morph id="Penis Adjust" to="0.20"/>
@@ -89,12 +89,12 @@
 	<!-- Feral Ghoul Animations -->
 
 	<animation id="ML_FG_Cowgirl_MM_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000F99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="000F99">
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="000F9A">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FeralGhoul" idleForm="000F9A">
 			<morph id="Erection Up" to="0.3"/>
 			<morph id="Erection" to="1.000000001"/>
 		</actor>
@@ -103,12 +103,12 @@
 	<!-- Deathclaw Animations -->
 
 	<animation id="ML_Fleshlight_MM_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0035A1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0035A1">
 			
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="0035A2">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0035A2">
 			<morph id="Erection Up" to="0.5"/>
 			<morph id="Scale" to="1"/>
 			<morph id="Erection" to="1.000000001"/>
@@ -116,26 +116,26 @@
 	</animation>
 
 	<animation id="ML_Tease_MM_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="004C6F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="004C6F">
 			
 			<morph id="Erection Up" to="1"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="004C6E">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="004C6E">
 			<morph id="Scale" to="1"/>
 			<morph id="Erection" to="1.000000001"/>
 		</actor>
 	</animation>
 
 	<animation id="ML_Dumpster_MM_01" frames="480">
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00A7AA">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00A7AA">
 			
 			<morph id="Anus Spread" to="1.493"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockErect"idleForm="00A7AB">
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="00A7AB">
 			<morph id="Erection Up" to="1.2"/>
 			<morph id="Scale" to="1"/>
 			<morph id="Length" to="1"/>
