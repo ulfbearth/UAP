@@ -1,16 +1,18 @@
 <positionTreeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
 	<defaults />
 
-	<tree id="Atomic_Lust_Gay_Love">
+	<tree id="Atomic_Lust_Gay_Love" strictExiting="true">
 
 
-		<branch id="Standing" positionID="[UAP] Atomic Lust - Gay Love Standing">
+		<branch id="Standing" positionID="[UAP] Atomic Lust - Gay Love Standing" time="10">
 
-			<branch id="Holding Hands" positionID="[UAP] Atomic Lust - Gay Love Holding Hands">
+			<branch id="Holding Hands" positionID="[UAP] Atomic Lust - Gay Love Holding Hands" time="10">
 
-				<branch id="Holding Kissing" positionID="[UAP] Atomic Lust - Gay Love Holding Kissing"></branch>
+				<branch id="Holding Kissing" positionID="[UAP] Atomic Lust - Gay Love Holding Kissing" time="15"></branch>
 
-				<branch id="Holding Jerking" positionID="[UAP] Atomic Lust - Gay Love Holding Hands to Holding Jerking"></branch>
+				<branch id="Holding Jerking" positionID="[UAP] Atomic Lust - Gay Love Holding Hands to Holding Jerking" time="15">
+					<branch id="Finish" positionID="[UAP] Atomic Lust - Gay Love Holding Hands to Holding Jerking" time="0" isExit="true"></branch>
+				</branch>
 
 
 			</branch>
@@ -20,16 +22,18 @@
 	</tree>
 
 
-	<tree id="AtomicLust_Spanking_MM_01_Tree">
+	<tree id="AtomicLust_Spanking_MM_01_Tree" strictExiting="true">
 
 
-		<branch id="Spanking" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 1)">
+		<branch id="Spanking" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 1)" time="15">
 
-			<branch id="Spanking (Stage 2)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 2)">
+			<branch id="Spanking (Stage 2)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 2)" time="15">
 
-				<branch id="Spanking (Stage 3)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 3)">
+				<branch id="Spanking (Stage 3)" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 3)" time="15">
 
-					<branch id="Spank" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 4)" isFlavor="true"></branch>
+					<branch id="Spank" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 4)" isFlavor="true" time="25">
+						<branch id="Finish" positionID="[UAP] Atomic Lust - Gay Spanking (Stage 4)" time="0" isExit="true"></branch>
+					</branch>
 
 				</branch>
 
@@ -42,10 +46,10 @@
 	</tree>
 
 
-	<tree id="AtomicLust_ReverseCowgirlVaultBed_MM_01_tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Staged)" time="0">
-			<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Main Course)" forceComplete="true" time="0">
-				<branch id="Orgasm" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Orgasm)" isExit="true" forceComplete="true" time="0"></branch>
+	<tree id="AtomicLust_ReverseCowgirlVaultBed_MM_01_tree"   strictExiting="true"  >
+		<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Main Course)" forceComplete="true" time="45">
+			<branch id="Orgasm" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Orgasm)" forceComplete="true" time="0">
+				<branch id="Finish" isExit="true" positionID="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Orgasm)" forceComplete="true" time="0"></branch>
 			</branch>
 		</branch>
 	</tree>

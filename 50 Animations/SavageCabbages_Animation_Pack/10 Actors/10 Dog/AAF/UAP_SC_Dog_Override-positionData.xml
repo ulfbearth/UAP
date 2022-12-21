@@ -199,4 +199,31 @@
         <position id="SC-FMH-Dog-Floor01-07ClimaxRestrained" animation="Null" tags="SavageCabbage,F_DogM,NoFurn,ClimaxM,Doggy,FromBehind,Rough,Aggressive,ClimaxM,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
         <position id="SC-FMH-Dog-Floor01-08FinishRestrained" animation="Null" tags="SavageCabbage,F_DogM,NoFurn,Finish,Doggy,FromBehind,Rough,Aggressive,Finish,Held7,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina,PenisToHand"/>
     
+        <!-- =============================================== 1.2.8 ================================================================================ -->
+
+        <position id="SC-FM-Dog-Armchair02-01Tease" location="ArmChair" animation="Null" tags="SavageCabbage,F_DogM,ArmChair,Foreplay,FromBack,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+        <position id="SC-FM-Dog-Armchair02-03Doggy" location="ArmChair" animation="Null" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Armchair02-04Doggy" location="ArmChair" animation="Null" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Armchair02-05Doggy" location="ArmChair" animation="Null" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Armchair02-06Doggy" location="ArmChair" animation="Null" tags="SavageCabbage,F_DogM,ArmChair,Sitting,FromBack,Neutral,MidStage,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Armchair02-07ClimaxLoop" location="ArmChair" animation="Null" tags="SavageCabbage,F_DogM,ArmChair,ClimaxM,Sitting,FromBack,Neutral,ClimaxM,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToVagina"/>
+
+        <position id="SC-FM-Dog-Bed03-01Tease" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Foreplay,FromFront,Neutral,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,PenisToHand"/>
+        <position id="SC-FM-Dog-Bed03-02Start" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Bed03-03Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Bed03-04Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Bed03-05Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Bed03-06Missionary" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Missionary,FromFront,Neutral,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Bed03-07Climax" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,ClimaxM,Missionary,FromFront,Neutral,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Bed03-08Finish" location="Single_Bed" animation="Null" tags="SavageCabbage,F_DogM,SingleBed,Finish,Missionary,FromFront,Neutral,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+
+        <position id="SC-FM-Dog-Ottoman01-01Tease" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,Foreplay,FromBehind,Rough,Aggressive,Tease,Held1,Love5,Stim7,Dom-5,NullToSelf,MouthToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-02Start" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,Doggy,FromBehind,Rough,Aggressive,Start,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-03Doggy" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-04Doggy" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,Doggy,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-05Doggy" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-06Doggy" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,FaceDown,FromBehind,Rough,Aggressive,MidStage,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-07Climax" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,ClimaxM,FaceDown,FromBehind,Rough,Aggressive,ClimaxM,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+        <position id="SC-FM-Dog-Ottoman01-08Finish" location="Ottoman" animation="Null" tags="SavageCabbage,F_DogM,Ottoman,Finish,FaceDown,FromBehind,Rough,Aggressive,Finish,Held3,Love5,Stim7,Dom-7,NullToSelf,PenisToVagina"/>
+    
     </positionData>

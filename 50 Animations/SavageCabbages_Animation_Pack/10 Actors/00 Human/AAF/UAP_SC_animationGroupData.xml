@@ -599,5 +599,74 @@
 		<stage animation="SCAP_DoubleBed02_FMF_3Human_ClimaxLoop_S7" loops="1"/> 
 		<stage animation="SCAP_DoubleBed02_FMF_3Human_Finish_S8" loops="1"/> 
 	</animationGroup> 
-
+	
+	<!-- 1.2.8 -->
+	
+	<animationGroup id="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal" sequential="true"> 
+		<stage animation="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S3" loops="1"/> 
+		<stage animation="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S4" loops="1"/> 
+		<stage animation="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S5" loops="1"/> 
+		<stage animation="SCAP_CouchChaise01_FM_2Human_ReverseCowgirlAnal_S6" loops="1"/> 
+		<stage animation="SCAP_CouchChaise01_FM_2Human_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_Crib01_FM_2Human_Sideways" sequential="true"> 
+		<stage animation="SCAP_Crib01_FM_2Human_Tease_S1" loops="1"/>
+		<stage animation="SCAP_Crib01_FM_2Human_Start_S2" loops="1"/>
+		<stage animation="SCAP_Crib01_FM_2Human_Sideways_S3" loops="1"/>
+		<stage animation="SCAP_Crib01_FM_2Human_Sideways_S4" loops="1"/>
+		<stage animation="SCAP_Crib01_FM_2Human_Sideways_S5" loops="1"/>
+		<stage animation="SCAP_Crib01_FM_2Human_Standing_S6" loops="1"/>
+		<stage animation="SCAP_Crib01_FM_2Human_ClimaxLoop_S7" loops="1"/>
+    </animationGroup>
+	
+	<animationGroup id="SCAP_Lockers01_FM_2Human_Standing" sequential="true"> 
+		<stage animation="SCAP_Lockers01_FM_2Human_Tease_S1" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_Start_S2" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_Standing_S3" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_Standing_S4" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_Standing_S5" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_Carry_S6" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_ClimaxLoop_S7" loops="1"/>
+		<stage animation="SCAP_Lockers01_FM_2Human_Finish_S8" loops="1"/>
+	</animationGroup>
+		
+	<animationGroup id="SCAP_ChairHigh01_FM_2Human_Doggy" sequential="true"> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_Tease_S1" loops="1"/> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_Start_S2" loops="1"/> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_Doggy_S3" loops="1"/> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_Doggy_S4" loops="1"/> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_Doggy_S5" loops="1"/> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_Doggy_S6" loops="1"/> 
+		<stage animation="SCAP_ChairHigh01_FM_2Human_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_Mattress01_FM_2Human_Missionary" sequential="true"> 
+		<stage animation="SCAP_Mattress01_FM_2Human_Tease_S1" loops="1"/>
+		<stage animation="SCAP_Mattress01_FM_2Human_Missionary_S3" loops="1"/>
+		<stage animation="SCAP_Mattress01_FM_2Human_Missionary_S4" loops="1"/> 
+		<stage animation="SCAP_Mattress01_FM_2Human_Missionary_S5" loops="1"/> 
+		<stage animation="SCAP_Mattress01_FM_2Human_Missionary_S6" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_SleepingBag01_FM_2Human_Doggy" sequential="true"> 
+		<stage animation="SCAP_SleepingBag01_FM_2Human_Tease_S1" loops="1"/> 
+		<stage animation="SCAP_SleepingBag01_FM_2Human_Start_S2" loops="1"/> 
+		<stage animation="SCAP_SleepingBag01_FM_2Human_Doggy_S3" loops="1"/> 
+		<stage animation="SCAP_SleepingBag01_FM_2Human_Doggy_S4" loops="1"/> 
+		<stage animation="SCAP_SleepingBag01_FM_2Human_Doggy_S5" loops="1"/> 
+		<stage animation="SCAP_SleepingBag01_FM_2Human_Doggy_S6" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_CouchMemoryLounge01_FM_2Human_Sideways" sequential="true"> 
+		<stage animation="SCAP_CouchMemoryLounge01_FM_2Human_Sideways_S3" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_Floor01_FMM_3Human_DoubleTeam" sequential="true"> 
+		<stage animation="SCAP_Floor01_FMM_3Human_DoubleTeam_S3" loops="1"/> 
+		<stage animation="SCAP_Floor01_FMM_3Human_DoubleTeam_S4" loops="1"/> 
+		<stage animation="SCAP_Floor01_FMM_3Human_DoubleTeam_S5" loops="1"/> 
+		<stage animation="SCAP_Floor01_FMM_3Human_DoubleTeam_S6" loops="1"/> 
+		<stage animation="SCAP_Floor01_FMM_3Human_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
 </animationGroupData>

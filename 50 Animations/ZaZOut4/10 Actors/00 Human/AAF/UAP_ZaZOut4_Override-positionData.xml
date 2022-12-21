@@ -1,0 +1,23 @@
+<positionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="Erect" stopMorphSet="Flaccid" offset="0,50,180" loadPriority="5"/>
+
+    <position id="PilloryOral_BJ-00" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-01" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-02" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-03" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-04" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-05" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-06" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PilloryOral_BJ-07" location="Hydraulic_Pillory" isHidden="true"/>
+
+
+    <position id="PillorySex_A-Pussy-00" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-01" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-02" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-03" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-04" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-05" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-06" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-07" location="Hydraulic_Pillory" isHidden="true"/>
+    <position id="PillorySex_A-Pussy-08" location="Hydraulic_Pillory" isHidden="true"/>
+</positionData>

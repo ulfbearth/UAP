@@ -9,7 +9,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="01007279">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
@@ -24,7 +24,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01007277" conditions="Intermediary-20_59">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001" start="70" frames="50"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0100727a">
@@ -40,7 +40,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			
 		</actor>
@@ -58,7 +58,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			
 		</actor>
@@ -75,7 +75,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01007a16" conditions="Climax">
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
@@ -92,7 +92,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 		</actor>
@@ -117,7 +117,7 @@
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="01009889">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
@@ -126,11 +126,11 @@
 	</animation>
 
 	<animation id="Brave_MM_DeathclawSpooning2" frames="320">
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100988e" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100988e" conditions="Intermediary-20_59">
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001" start="280" frames="50"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0100988a">
@@ -139,12 +139,12 @@
 	</animation>
 
 	<animation id="Brave_MM_DeathclawSpooning3" frames="416">
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100988f" conditions="Intermediary-20_59">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100988f" conditions="Intermediary-20_59">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0100988b">
@@ -154,12 +154,12 @@
 	</animation>
 
 	<animation id="Brave_MM_DeathclawSpooning4" frames="282">
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="01009890" conditions="Intermediary-60_99">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01009890" conditions="Intermediary-60_99">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0100988c">
@@ -169,12 +169,12 @@
 	</animation>
 
 	<animation id="Brave_MM_DeathclawSpooning5" frames="300">
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100a02a" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100a02a" conditions="Climax">
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0100a02c">
@@ -183,13 +183,13 @@
 	</animation>
 
 	<animation id="Brave_MM_DeathclawSpooning6" frames="500">
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100a02b" conditions="Climax">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100a02b" conditions="Climax">
 			<action id="Edge120s" from="0" to="1" frames="30"/>
 			<action id="UAPBlowjob" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Anus Spread" to="1.0000000000001"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" skeleton="Deathclaw" idleForm="0100a02d">
@@ -206,7 +206,7 @@
 	<animation id="Brave_MM_DeathclawMissionary1" frames="550">
 		<actor idleForm="0100af74" gender="M" conditions="Foreplay">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPBlowjob" loop="true" />
 		</actor>
@@ -219,7 +219,7 @@
 	<animation id="Brave_MM_DeathclawMissionary2Trans" frames="169">
 		<actor idleForm="0100af75" gender="M" conditions="Intermediary-20_59">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
@@ -231,7 +231,7 @@
 	<animation id="Brave_MM_DeathclawMissionary3" frames="500">
 		<actor idleForm="0100af76" gender="M" conditions="Intermediary-20_59">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
@@ -244,7 +244,7 @@
 	<animation id="Brave_MM_DeathclawMissionary4Trans" frames="70">
 		<actor idleForm="0100af77" gender="M" conditions="Intermediary-60_99">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
@@ -256,7 +256,7 @@
 	<animation id="Brave_MM_DeathclawMissionary5" frames="250">
 		<actor idleForm="0100af78" gender="M" conditions="Intermediary-60_99">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPMoans" loop="true" />
 		</actor>
@@ -269,7 +269,7 @@
 	<animation id="Brave_MM_DeathclawMissionary7Trans" frames="100">
 		<actor idleForm="0100af7a" gender="M" conditions="Climax">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 		</actor>
@@ -281,7 +281,7 @@
 	<animation id="Brave_MM_DeathclawMissionary8" frames="300">
 		<actor idleForm="0100af7b" gender="M" conditions="Climax">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="Edge" from="0" to="1" frames="30" />
 			<action id="UAPOrgasm" loop="true" />
 			<action id="Play-Pussy-CumLeak" loop="true" />

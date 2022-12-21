@@ -92,6 +92,8 @@
 		</actor>
 	</animation>
 
+	<!--======================================================== 1.2.8 ================================================================== -->	
+
 	<animation id="SCAP_F_BG_Standing02_Tease_S1" frames="500">
 		<actor gender="F" idleForm="2F5C2">
 		</actor>
@@ -99,6 +101,13 @@
 		</actor>
 	</animation>
 
+	<animation id="SCAP_F_BG_Standing02_Start_S2" frames="500">
+		<actor gender="F" idleForm="32D2C">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="32D2D">
+		</actor>
+	</animation>
+	
 	<animation id="SCAP_F_BG_Standing02_Blowjob_S3" frames="500">
 		<actor gender="F" idleForm="A182">
 		</actor>
@@ -126,4 +135,12 @@
 		<actor gender="M" skeleton="FeralGhoul" idleForm="2829A">
 		</actor>
 	</animation>
+	
+	<animation id="SCAP_F_BG_Standing02_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="32581">
+		</actor>
+		<actor gender="M" skeleton="FeralGhoul" idleForm="32582">
+		</actor>
+	</animation>
+
 </animationData>

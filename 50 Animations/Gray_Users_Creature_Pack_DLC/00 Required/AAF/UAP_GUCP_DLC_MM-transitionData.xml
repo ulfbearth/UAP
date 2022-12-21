@@ -3,28 +3,28 @@
 
 
 	<!-- Angler -->
-	<transition from="*" to="GUCP_Angler_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Angler_MM_01_Staged" to="*" animation="Null"/>
+
+
 
 
 
 	<!-- Gulper -->
-	<transition from="*" to="GUCP_Gulper_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Gulper_MM_01_Staged" to="*" animation="Null"/>
 
-	<transition from="*" to="GUCP_GulperLarge_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_GulperLarge_MM_01_Staged" to="*" animation="Null"/>
+
+
+
+
 
 
 
 	<!-- Fog Crawler -->
-	<transition from="*" to="GUCP_Fog_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Fog_MM_01_Staged" to="*" animation="Null"/>
+
+
 
 
 
 	<!-- Hermit -->
-	<transition from="*" to="GUCP_Hermit_MM_01_Staged" animation="Null"/>
-	<transition from="GUCP_Hermit_MM_01_Staged" to="*" animation="Null"/>
+
+
 
 </transitionData>

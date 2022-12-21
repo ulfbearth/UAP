@@ -8,7 +8,7 @@
 			<action id="UAPBlowjob" loop="true"/>
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="00000FA1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="00000FA1">
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection up" to="0.2"/>
 			<morph id="Erection" to="1.0000000000001"/>

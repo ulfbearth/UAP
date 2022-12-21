@@ -8,7 +8,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f9D">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>
@@ -19,7 +19,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01000f99">
 			<morph id="Erection" to="1.0000000000001"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 	</animation>

@@ -2,34 +2,34 @@
 	<defaults loadPriority="1"/>
 
 
-	<transition from="*" to="Leito_Canine_Doggy_1_Tree" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_1_Tree" animation="Null"/>
-	<transition from="*" to="Leito_Canine_Doggy_1_Staged" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_1_Staged" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_1_S1" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_1_S2" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_1_S3" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_1_S4" animation="Null"/>
 
 
-	<transition from="*" to="Leito_Canine_Doggy_2_Tree" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_2_Tree" animation="Null"/>
-	<transition from="*" to="Leito_Canine_Doggy_2_Staged" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_2_Staged" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_2_S1" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_2_S2" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_2_S3" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Doggy_2_S4" animation="Null"/>
 
 
-	<transition from="*" to="Leito_Canine_Missionary_1_Tree" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Missionary_1_Tree" animation="Null"/>
-	<transition from="*" to="Leito_Canine_Missionary_1_Staged" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Missionary_1_Staged" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Missionary_1_S1" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Missionary_1_S2" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Missionary_1_S3" animation="Null"/>
-	<transition from="none" to="Leito_Canine_Missionary_1_S4" animation="Null"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -3,10 +3,10 @@
 
 
 
-	<tree id="AtomicLust_Jerking_M_01_Tree" useConditions="true" strictExiting="true" disableConditionsWhenPCControlled="true">
-		<branch id="Playing Staged Sequence" positionID="[UAP] Atomic Lust - Male Jerking Off Staged" time="0">
-			<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Male Jerking Off (Main Course)" forceComplete="true" time="0">
-				<branch id="Orgasm" positionID="[UAP] Atomic Lust - Male Jerking Off (Orgasm)" isExit="true" forceComplete="true" time="30"></branch>
+	<tree id="AtomicLust_Jerking_M_01_Tree"   strictExiting="true"  >
+		<branch id="Play Main Course" positionID="[UAP] Atomic Lust - Male Jerking Off (Main Course)" forceComplete="true" time="35">
+			<branch id="Orgasm" positionID="[UAP] Atomic Lust - Male Jerking Off (Orgasm)" forceComplete="true" time="25">
+				<branch id="Finish" isExit="true" positionID="[UAP] Atomic Lust - Male Jerking Off (Orgasm)" time="0"></branch>
 			</branch>
 		</branch>
 	</tree>

@@ -757,4 +757,90 @@
 		<actor gender="M" skeleton="Supermutant" idleForm="2B875">
 		</actor>
 	</animation>
+	
+<!-- ==== 1.2.8 =========================================================================================================================== -->
+
+	<animation id="SCAP_F_SM_PickUpPostWar01_Tease_S1" frames="500">
+		<actor gender="F" idleForm="32555">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32556">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar01_Missionary_S3" frames="500">
+		<actor gender="F" idleForm="32557">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32558">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar01_Missionary_S4" frames="500">
+		<actor gender="F" idleForm="32559">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3255A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar01_Missionary_S5" frames="500">
+		<actor gender="F" idleForm="3255B">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3255C">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar01_Missionary_S6" frames="500">
+		<actor gender="F" idleForm="3255D">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3255E">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar01_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="3255F">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32560">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar02_Tease_S1" frames="500">
+		<actor gender="F" idleForm="32561">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32562">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar02_Doggy_S3" frames="500">
+		<actor gender="F" idleForm="32563">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32564">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar02_Doggy_S4" frames="500">
+		<actor gender="F" idleForm="32565">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32566">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar02_Doggy_S5" frames="500">
+		<actor gender="F" idleForm="32567">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="32568">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar02_Doggy_S6" frames="500">
+		<actor gender="F" idleForm="32569">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3256A">
+		</actor>
+	</animation>
+
+	<animation id="SCAP_F_SM_PickUpPostWar02_ClimaxLoop_S7" frames="200">
+		<actor gender="F" idleForm="3256B">
+		</actor>
+		<actor gender="M" skeleton="Supermutant" idleForm="3256C">
+		</actor>
+	</animation>
 </animationData>

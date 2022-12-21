@@ -13,14 +13,6 @@
 		<stage animation="SCAP_F_FG_Standing02_Finish_S8" loops="1"/> 
 	</animationGroup> 
 
-	<animationGroup id="SCAP_F_BG_Standing02_Blowjob" sequential="true"> 
-		<stage animation="SCAP_F_BG_Standing02_Tease_S1" loops="1"/> 
-		<stage animation="SCAP_F_BG_Standing02_Blowjob_S3" loops="1"/> 
-		<stage animation="SCAP_F_BG_Standing02_Blowjob_S4" loops="1"/> 
-		<stage animation="SCAP_F_BG_Standing02_Blowjob_S5" loops="1"/> 
-		<stage animation="SCAP_F_BG_Standing02_Blowjob_S6" loops="1"/> 
-	</animationGroup> 
-
 	<animationGroup id="SCAP_F_FG_BowlingBallReturn01_Doggy" sequential="true"> 
 		<stage animation="SCAP_F_FG_BowlingBallReturn01_Tease_S1" loops="1"/> 
 		<stage animation="SCAP_F_FG_BowlingBallReturn01_Start_S2" loops="1"/> 
@@ -73,10 +65,6 @@
 		<stage animation="SCAP_F_BG_Floor01_Doggy_S6" loops="1"/> 
 		<stage animation="SCAP_F_BG_Floor01_Climax_S7" loops="1"/> 
 		<stage animation="SCAP_F_BG_Floor01_Finish_S8" loops="1"/> 
-	</animationGroup> 
-
-	<animationGroup id="SCAP_F_FG_MetalBarrel01_Upright" sequential="true"> 
-		<stage animation="SCAP_F_FG_MetalBarrel01_Upright_S3" loops="1"/> 
 	</animationGroup> 
 
 	<animationGroup id="SCAP_F_FG_Refrigerator01_Upright" sequential="true"> 
@@ -527,10 +515,7 @@
 
 <!--======================================================== SM+FEVH Animations ================================================================== -->
 
-	<animationGroup id="SCAP_F_SMFEVH_Standing01_Doggy" sequential="true">
-		<stage animation="SCAP_F_SMFEVH_Standing01_Doggy_S3" loops="1"/>
-		<stage animation="SCAP_F_SMFEVH_Standing01_Doggy_S4" loops="1"/>
-	</animationGroup>
+
 
 <!--======================================================== Gorilla Animations ================================================================== -->
 
@@ -547,8 +532,118 @@
 
 <!--======================================================== Supermutant Behemoth Animations ================================================================== -->
 
+	<animationGroup id="SCAP_F_SMB_Floor03_Blowjob" sequential="true">
+		<stage animation="SCAP_F_SMB_Floor03_Handjob_S3" loops="1"/>
+		<stage animation="SCAP_F_SMB_Floor03_Titjob_S4" loops="1"/>
+		<stage animation="SCAP_F_SMB_Floor03_Blowjob_S5" loops="1"/>
+		<stage animation="SCAP_F_SMB_Floor03_Blowjob_S6" loops="1"/>
+	</animationGroup>
+	
+<!--======================================================== 1.2.8 ================================================================== -->	
+
+<!--======================================================== F_SM ================================================================== -->	
+
+
+	<animationGroup id="SCAP_F_SM_PickUpPostWar01_Missionary" sequential="true">
+		<stage animation="SCAP_F_SM_PickUpPostWar01_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar01_Missionary_S3" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar01_Missionary_S4" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar01_Missionary_S5" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar01_Missionary_S6" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar01_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_F_SM_PickUpPostWar02_Doggy" sequential="true">
+		<stage animation="SCAP_F_SM_PickUpPostWar02_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar02_Doggy_S3" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar02_Doggy_S4" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar02_Doggy_S5" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar02_Doggy_S6" loops="1"/>
+		<stage animation="SCAP_F_SM_PickUpPostWar02_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
+	
+<!--======================================================== F_D ================================================================== -->	
+	
+	<animationGroup id="SCAP_F_Dog_Armchair02_Doggy" sequential="true">
+		<stage animation="SCAP_F_Dog_Armchair02_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_Dog_Armchair02_Doggy_S3" loops="1"/>
+		<stage animation="SCAP_F_Dog_Armchair02_Doggy_S4" loops="1"/>
+		<stage animation="SCAP_F_Dog_Armchair02_Doggy_S5" loops="1"/>
+		<stage animation="SCAP_F_Dog_Armchair02_Doggy_S6" loops="1"/>
+		<stage animation="SCAP_F_Dog_Armchair02_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_F_Dog_Bed03_Missionary" sequential="true">
+		<stage animation="SCAP_F_Dog_Bed03_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_Start_S2" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_Missionary_S3" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_Missionary_S4" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_Missionary_S5" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_Missionary_S6" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_ClimaxLoop_S7" loops="1"/>
+		<stage animation="SCAP_F_Dog_Bed03_Finish_S8" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_F_Dog_Ottoman01_Doggy" sequential="true">
+		<stage animation="SCAP_F_Dog_Ottoman01_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_Start_S2" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_Doggy_S3" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_Doggy_S4" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_Doggy_S5" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_Doggy_S6" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_ClimaxLoop_S7" loops="1"/>
+		<stage animation="SCAP_F_Dog_Ottoman01_Finish_S8" loops="1"/>
+	</animationGroup>
+	
+<!--======================================================== F_FG ================================================================== -->	
+
+	<animationGroup id="SCAP_F_FG_Bed01_Missionary" sequential="true">
+		<stage animation="SCAP_F_FG_Bed01_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_Start_S2" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_Missionary_S3" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_Missionary_S4" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_Missionary_S5" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_Missionary_S6" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_ClimaxLoop_S7" loops="1"/>
+		<stage animation="SCAP_F_FG_Bed01_Finish_S8" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_F_FG_BowlingBallReturn02_Sitting" sequential="true">
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Start_S2" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Sitting_S3" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Sitting_S4" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Sitting_S5" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Sitting_S6" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_ClimaxLoop_S7" loops="1"/>
+		<stage animation="SCAP_F_FG_BowlingBallReturn02_Finish_S8" loops="1"/>
+	</animationGroup>
+	
+	<animationGroup id="SCAP_F_FG_MetalBarrel01_Upright" sequential="true">
+		<stage animation="SCAP_F_FG_MetalBarrel01_Upright_S3" loops="1"/>
+		<stage animation="SCAP_F_FG_MetalBarrel01_Upright_S4" loops="1"/>
+		<stage animation="SCAP_F_FG_MetalBarrel01_Upright_S5" loops="1"/>
+		<stage animation="SCAP_F_FG_MetalBarrel01_Upright_S6" loops="1"/>
+		<stage animation="SCAP_F_FG_MetalBarrel01_ClimaxLoop_S7" loops="1"/>
+	</animationGroup>
+	
+<!--======================================================== F_BG ================================================================== -->		
+
+	<animationGroup id="SCAP_F_BG_Standing02_Blowjob" sequential="true"> 
+		<stage animation="SCAP_F_BG_Standing02_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_BG_Standing02_Start_S2" loops="1"/> 		
+		<stage animation="SCAP_F_BG_Standing02_Blowjob_S3" loops="1"/> 
+		<stage animation="SCAP_F_BG_Standing02_Blowjob_S4" loops="1"/> 
+		<stage animation="SCAP_F_BG_Standing02_Blowjob_S5" loops="1"/> 
+		<stage animation="SCAP_F_BG_Standing02_Blowjob_S6" loops="1"/> 
+		<stage animation="SCAP_F_BG_Standing02_ClimaxLoop_S7" loops="1"/>  
+	</animationGroup> 
+	
+<!--======================================================== F_SMB ================================================================== -->		
+
 	<animationGroup id="SCAP_F_SMB_Floor01_Cowgirl" sequential="true">
 		<stage animation="SCAP_F_SMB_Floor01_Tease_S1" loops="1"/>
+		<stage animation="SCAP_F_SMB_Floor01_Start_S2" loops="1"/>
 		<stage animation="SCAP_F_SMB_Floor01_ReverseCowgirl_S3" loops="1"/>
 		<stage animation="SCAP_F_SMB_Floor01_Blowjob_S4" loops="1"/>
 		<stage animation="SCAP_F_SMB_Floor01_Cowgirl_S5" loops="1"/>
@@ -563,13 +658,16 @@
 		<stage animation="SCAP_F_SMB_Floor02_Missionary_S4" loops="1"/>
 		<stage animation="SCAP_F_SMB_Floor02_Missionary_S5" loops="1"/>
 		<stage animation="SCAP_F_SMB_Floor02_Missionary_S6" loops="1"/>
+		<stage animation="SCAP_F_SMB_Floor02_ClimaxLoop_S7" loops="1"/>
+		<stage animation="SCAP_F_SMB_Floor02_Finish_S8" loops="1"/>
 	</animationGroup>
+	
+<!--======================================================== F_SM_FEVH ================================================================== -->	
 
-	<animationGroup id="SCAP_F_SMB_Floor03_Blowjob" sequential="true">
-		<stage animation="SCAP_F_SMB_Floor03_Handjob_S3" loops="1"/>
-		<stage animation="SCAP_F_SMB_Floor03_Titjob_S4" loops="1"/>
-		<stage animation="SCAP_F_SMB_Floor03_Blowjob_S5" loops="1"/>
-		<stage animation="SCAP_F_SMB_Floor03_Blowjob_S6" loops="1"/>
+	<animationGroup id="SCAP_F_SMFEVH_Standing01_Doggy" sequential="true">
+		<stage animation="SCAP_F_SMFEVH_Standing01_Doggy_S3" loops="1"/>
+		<stage animation="SCAP_F_SMFEVH_Standing01_Doggy_S4" loops="1"/>
+		<stage animation="SCAP_F_SMFEVH_Standing01_Doggy_S5" loops="1"/>
 	</animationGroup>
 
 </animationGroupData>

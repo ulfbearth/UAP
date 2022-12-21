@@ -8,6 +8,13 @@
 		</actor>
 	</animation>
 
+    <animation id="SCAP_F_SMB_Floor01_Start_S2" frames="500">
+        <actor gender="F" idleForm="32583">
+        </actor>
+        <actor gender="M" skeleton="SupermutantBehemoth" idleForm="32584">
+        </actor>
+    </animation>
+
 	<animation id="SCAP_F_SMB_Floor01_ReverseCowgirl_S3" frames="500">
 		<actor gender="F" idleForm="2A141">
 		</actor>
@@ -85,6 +92,22 @@
 			<morph id="Erection Up" to="1"/>
 		</actor>
 	</animation>
+	
+    <animation id="SCAP_F_SMB_Floor02_ClimaxLoop_S7" frames="200">
+        <actor gender="F" idleForm="32D68">
+        </actor>
+        <actor gender="M" skeleton="SupermutantBehemoth" idleForm="32D69">
+            <morph id="Erection Up" to="1"/>
+        </actor>
+    </animation>
+
+    <animation id="SCAP_F_SMB_Floor02_Finish_S8" frames="500">
+        <actor gender="F" idleForm="32D6A">
+        </actor>
+        <actor gender="M" skeleton="SupermutantBehemoth" idleForm="32D6B">
+            <morph id="Erection Up" to="1"/>
+        </actor>
+    </animation>	
 
 	<animation id="SCAP_F_SMB_Floor03_Handjob_S3" frames="500">
 		<actor gender="F" idleForm="2A149">

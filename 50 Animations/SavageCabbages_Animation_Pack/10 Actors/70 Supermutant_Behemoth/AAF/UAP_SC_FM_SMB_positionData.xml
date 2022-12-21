@@ -3,7 +3,8 @@
     <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" loadPriority="1"/>
 
     <position id="SCAP_F_SMB_Floor01_Tease_S1" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,Tease,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
-    <position id="SCAP_F_SMB_Floor01_ReverseCowgirl_S3" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_SMB_Floor01_Start_S2"  isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,Start,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+	<position id="SCAP_F_SMB_Floor01_ReverseCowgirl_S3" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
     <position id="SCAP_F_SMB_Floor01_Blowjob_S4" isHidden="true" tags="SavageCabbage,F_SMutantM,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
     <position id="SCAP_F_SMB_Floor01_Cowgirl_S5" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
     <position id="SCAP_F_SMB_Floor01_Cowgirl_S6" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Cowgirl,FromFront,Rough,Aggressive,MidStage,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
@@ -15,7 +16,9 @@
     <position id="SCAP_F_SMB_Floor02_Missionary_S4" isHidden="true" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
     <position id="SCAP_F_SMB_Floor02_Missionary_S5" isHidden="true" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
     <position id="SCAP_F_SMB_Floor02_Missionary_S6" isHidden="true" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,MidStage,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
-
+    <position id="SCAP_F_SMB_Floor02_ClimaxLoop_S7"  isHidden="true" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,ClimaxM,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+    <position id="SCAP_F_SMB_Floor02_Finish_S8"  isHidden="true" tags="SavageCabbage,F_SMutantM,NoFurn,Missionary,FromFront,Rough,Aggressive,Finish,Held5,Love3,Stim5,Dom-5,NullToSelf,PenisToVagina"/>
+ 
     <position id="SCAP_F_SMB_Floor03_Handjob_S3" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Handjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToHand"/>
     <position id="SCAP_F_SMB_Floor03_Titjob_S4" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Titjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToNipples"/>
     <position id="SCAP_F_SMB_Floor03_Blowjob_S5" isHidden="true" tags="SavageCabbage,F_SMBehemoth,NoFurn,Blowjob,FromFront,Neutral,MidStage,Held3,Love1,Stim1,Dom-5,NullToSelf,PenisToMouth"/>

@@ -12,7 +12,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CB6">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
 		</actor>
@@ -26,7 +26,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CB7">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
 		</actor>
@@ -40,7 +40,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CB8">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>		
 		</actor>
@@ -53,7 +53,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CB9">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
 			</actor>
@@ -66,10 +66,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4507">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4507">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -81,10 +81,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4508">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4508">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -96,10 +96,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4509">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4509">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.3"/>
 		</actor>
@@ -111,10 +111,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="450A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="450A">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -127,10 +127,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A895">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A895">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -142,10 +142,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A896">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A896">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -157,10 +157,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A897">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A897">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.3"/>
 		</actor>
@@ -172,10 +172,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A898">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A898">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -191,7 +191,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="1740">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -202,10 +202,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="2E2A">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E2A">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.6"/>
 		</actor>
@@ -217,7 +217,7 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="2E2B">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E2B">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.7"/>
@@ -231,7 +231,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="2E2C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E2C">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.7"/>
@@ -249,7 +249,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="5C38">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
 		</actor>
@@ -264,7 +264,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="5C39">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
 		</actor>
@@ -279,7 +279,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="5C3A">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
 		</actor>
@@ -294,7 +294,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="5C3B">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1"/>
 		</actor>
@@ -310,7 +310,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="63E3">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.7"/>
 		</actor>
@@ -325,7 +325,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="63E4">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.3"/>
 		</actor>
@@ -340,7 +340,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="63E5">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.6"/>
 		</actor>
@@ -367,10 +367,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="A89D">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A89D">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -381,10 +381,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="A89E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A89E">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -395,10 +395,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="A89F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A89F">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -409,10 +409,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="A8A0">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A8A0">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -427,7 +427,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="1738">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -441,7 +441,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="1EE1">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -455,7 +455,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="1EE2">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -469,7 +469,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="1EE3">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -484,7 +484,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E39">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -498,7 +498,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3A">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -512,7 +512,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3B">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -526,7 +526,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E3C">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -538,10 +538,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4C8E">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4C8E">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -553,10 +553,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="2685">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2685">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.4"/>
 		</actor>
@@ -568,10 +568,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="2686">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2686">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.6"/>
 		</actor>
@@ -583,10 +583,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="2687">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="2687">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -602,7 +602,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E31">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -616,7 +616,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E32">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -630,7 +630,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E33">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -644,7 +644,7 @@
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="2E34">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -656,10 +656,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="450F">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="450F">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.5"/>
 		</actor>
@@ -671,10 +671,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="4510">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4510">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.5"/>
 		</actor>
@@ -686,10 +686,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="4511">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4511">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.6"/>
 		</actor>
@@ -701,7 +701,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="4512">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4512">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.9"/>
@@ -716,7 +716,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A8A5">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A8A5">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
@@ -730,7 +730,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A8A6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A8A6">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
@@ -744,7 +744,7 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A8A7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A8A7">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
@@ -758,7 +758,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="A8A8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="A8A8">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.8"/>
@@ -773,10 +773,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="6B86">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6B86">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
 		</actor>
@@ -788,10 +788,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="6B87">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6B87">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -803,10 +803,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="6B88">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6B88">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -818,10 +818,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="6B89">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="6B89">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1"/>
 		</actor>
@@ -834,7 +834,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7332">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7332">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.75"/>
@@ -848,7 +848,7 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7333">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7333">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.9"/>
@@ -862,7 +862,7 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7334">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7334">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 			<morph id="Erection" to="0.8"/>
@@ -876,7 +876,7 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7335">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7335">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<morph id="Erection" to="0.8"/>
@@ -891,10 +891,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4CEF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CEF">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
 		</actor>
@@ -906,10 +906,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4CF0">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CF0">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
 		</actor>
@@ -921,10 +921,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4CF1">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CF1">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
 		</actor>
@@ -936,10 +936,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="4CF2">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="4CF2">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.25"/>
 		</actor>
@@ -952,10 +952,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7AD5">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7AD5">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
 		</actor>
@@ -967,10 +967,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7AD6">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7AD6">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
 		</actor>
@@ -982,10 +982,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7AD7">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7AD7">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
 		</actor>
@@ -997,10 +997,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="7AD8">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7AD8">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.5"/>
 		</actor>
@@ -1013,10 +1013,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="7ADD">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7ADD">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
@@ -1028,10 +1028,10 @@
 			<action id="UAPMoans" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="7ADE">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7ADE">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
@@ -1043,10 +1043,10 @@
 			
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="7ADF">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7ADF">
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
@@ -1058,10 +1058,10 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="7AE0">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="7AE0">
 			<action id="UAPOrgasm" from="0" to="1" frames="30"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.5"/>
 		</actor>
@@ -1074,7 +1074,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="B71F">
 			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.2"/>
 		</actor>
@@ -1084,9 +1084,9 @@
 		<actor gender="F" idleForm="6367">
 			<action id="UAPAggMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="173C">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="173C">
 			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="1.2"/>
 		</actor>
@@ -1096,9 +1096,9 @@
 		<actor gender="F" idleForm="B720">
 			<action id="UAPAggMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp50" idleForm="B721">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="B721">
 			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="0.4"/>		
 		</actor>
@@ -1110,7 +1110,7 @@
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="B722">
 			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 		</actor>
 	</animation>
@@ -1119,9 +1119,9 @@
 		<actor gender="F" idleForm="B724">
 			<action id="UAPAggMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="B725">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="B725">
 			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Up" to="0.2"/>
 		</actor>
@@ -1131,9 +1131,9 @@
 		<actor gender="F" idleForm="B726">
 			<action id="UAPAggMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="B727">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="B727">
 			<action id="UAPAggMoans" loop="true"/>
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<morph id="Erection Down" to="1.5"/>
 		</actor>
@@ -1148,7 +1148,7 @@
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B043">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1161,7 +1161,7 @@
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B7F3">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1173,8 +1173,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100B7F4">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B7F4">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1188,8 +1188,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100B7F5">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100B7F5">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1203,8 +1203,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C737">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C737">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1217,8 +1217,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C738">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C738">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1231,8 +1231,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C739">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C739">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1246,8 +1246,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100C73A">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C73A">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1262,7 +1262,7 @@
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA1">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1274,8 +1274,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="01003DA2">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA2">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1289,7 +1289,7 @@
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA3">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1303,7 +1303,7 @@
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="01003DA4">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1318,7 +1318,7 @@
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035F8">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1330,8 +1330,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="010035F9">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035F9">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1345,7 +1345,7 @@
 			<action id="UAPMoans" loop="true"/>
 		</actor>
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035FA">
-			<morph id="Foreskin" to="0.000000000000001"/>
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1358,8 +1358,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="010035FB">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="010035FB">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1373,8 +1373,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004561">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01004561">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1387,8 +1387,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004562">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01004562">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1401,8 +1401,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004563">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01004563">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1416,8 +1416,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="01004564">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="01004564">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1432,8 +1432,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF96">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF96">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1446,8 +1446,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF97">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF97">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1460,8 +1460,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF98">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF98">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1475,8 +1475,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100BF99">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BF99">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1490,8 +1490,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CED9">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CED9">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1504,8 +1504,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CEDA">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEDA">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1518,8 +1518,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CEDB">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEDB">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1533,8 +1533,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockUp" idleForm="0100CEDC">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEDC">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
@@ -1548,8 +1548,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE1">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEE1">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1562,8 +1562,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE2">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEE2">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1576,8 +1576,8 @@
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE3">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEE3">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPMoans" loop="true"/>
@@ -1591,8 +1591,8 @@
 			<action id="UAPOrgasm" loop="true"/>
 			<action id="Play-Pussy-CumLeak" loop="true" />
 		</actor>
-		<actor gender="M" startEquipmentSet="CockDown" idleForm="0100CEE4">
-			<morph id="Foreskin" to="0.000000000000001"/>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100CEE4">
+			
 			<morph id="Erection" to="1.0000000000001"/>
 			<action id="Edge" from="0" to="1" frames="30"/>
 			<action id="UAPOrgasm" loop="true"/>
