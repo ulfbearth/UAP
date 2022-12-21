@@ -42,10 +42,15 @@ is slot index 33.
 			<unEquip bipedSlot="[A] L Leg"/>
 			<unEquip bipedSlot="[A] R Leg"/>
 		</condition>
-		<condition isFemale="false" raceFormID="79686" name="!Darius">
-			<addEquipment form="803" source="Atomic Muscle.esp"/>
+		<condition isFemale="false" skeleton="Human" raceFormID="!1097061" name="!Darius">
+			<addEquipment form="803" source="Atomic Muscle.esp" />
 		</condition>
-	</equipmentSet>
+		<condition isFemale="false" skeleton="Human" raceFormID="!1097061" name="!Darius">
+			<addEquipment form="F99" source="A-Body.esp" />
+		</condition>
+		<condition hasKeyword="UlfEquip_KW">
+			<reEquip bipedSlot="BODY"/>
+		</condition>
 
 	<equipmentSet id="reEquip">
 		<condition>

@@ -5,9 +5,26 @@
 
 
 
-	<equipmentSet id="CockErect">
-		<condition isFemale="false" skeleton="Human">
+	<equipmentSet id="CockFlaccid">
+		<condition isFemale="false" skeleton="Human" raceFormID="!1097061" name="!Darius">
+			<addEquipment form="D64" source="Atomic Muscle.esp" />
+		</condition>
+		<condition hasKeyword="UlfEquip_KW">
+			<reEquip bipedSlot="BODY"/>
 		</condition>
 	</equipmentSet>
+
+	<equipmentSet id="CockErect">
+		<condition isFemale="false" skeleton="Human" raceFormID="!1097061" name="!Darius">
+			<addEquipment form="803" source="Atomic Muscle.esp" />
+		</condition>
+		<condition isFemale="false" skeleton="Human" raceFormID="!1097061" name="!Darius">
+			<addEquipment form="F99" source="A-Body.esp" />
+		</condition>
+		<condition hasKeyword="UlfEquip_KW">
+			<reEquip bipedSlot="BODY"/>
+		</condition>
+	</equipmentSet>
+
 
 </equipmentSetData>
