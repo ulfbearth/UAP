@@ -424,7 +424,7 @@
     <position id="[UAP] SC-TwerkStart02" animationGroup="SCAP_TwerkStart02_F_1Human_01_Staged" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,Start,Held0,Love0,Stim1,Dom0,NullToSelf" />
     <position id="[UAP] SC-SexyDance02" animationGroup="SCAP_SexyDance02_F_1Human_01_Staged" tags="SavageCabbage,F,NoFurn,Dancing,SexyDance,Neutral,MidStage,Held0,Love0,Stim1,Dom0,NullToSelf" />
     <position id="[UAP] SC-StripPole" animationGroup="SCAP_StripPole_F_1Human_01_Staged" location="Strip_Pole" tags="SavageCabbage,F_M,StripPole,Dance,Neutral,MidStage,Held0,Love0,Stim3,Dom0,HandToNipples" />
-    <position id="[UAP] SC-LapDance01" animationGroup="SCAP_LapDance01_FM_2Human_LapDance" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Dancing,Loving,Held1,Love5,Stim3,Dom-3,NullToSelf,HandToNipples" />
+    <position id="[UAP] SC-LapDance01" animationGroup="SCAP_LapDance01_FM_2Human_LapDance" location="ArmChair" tags="SavageCabbage,F_M,ArmChair,Dancing,,Lapdance,Loving,Held1,Love5,Stim3,Dom-3,NullToSelf,HandToNipples" />
 
     <!-- Car Staged -->
 
