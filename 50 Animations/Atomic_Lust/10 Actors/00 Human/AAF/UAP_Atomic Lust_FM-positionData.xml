@@ -5,6 +5,8 @@
 
     <!-- Male/Female Animations -->
 
+    <position id="[UAP] Atomic Lust - Blowjob" animation="Atomic_Blowjob" tags="Rufgt,F_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToMouth"/>
+
     <position id="[UAP] Atomic Lust - Spork" animation="Atomic Spork" tags="Rufgt,F_M,NoFurn,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
 
     <position id="[UAP] Atomic Lust - Spork II" animation="Atomic Spork II" tags="Rufgt,F_M,NoFurn,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToVagina"/>
@@ -54,7 +56,7 @@
 
     <!-- Furniture Animations -->
 
-
+    <position id="[UAP] Atomic Lust - Atomic Flying-V (Player House Kitchen Table)" animation="Atomic_Flying-V_(Player_House_Kitchen_Table)" location="Player House Kitchen Table" tags="Rufgt,F_M,KitchenTable,Missionary,FromFront,Neutral,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToVagina"/>
     <position id="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed)" positionTree="Atomic Reversed Cowgirl (Vault Bed) Tree" location="Single Bed" tags="Rufgt,F_M,SingleBed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
     <position id="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Staged" animationGroup="Atomic Reversed Cowgirl (Vault Bed) Staged" isHidden="true" location="Single Bed" tags="Rufgt,F_M,SingleBed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
     <position id="[UAP] Atomic Lust - Reversed Cowgirl (Vault Bed) Main Course" animation="Atomic Reversed Cowgirl (Vault Bed)" isHidden="true" location="Single Bed" tags="Rufgt,F_M,SingleBed,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>

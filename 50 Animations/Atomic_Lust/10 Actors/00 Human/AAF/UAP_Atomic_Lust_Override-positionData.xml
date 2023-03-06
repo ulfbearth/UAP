@@ -3,6 +3,8 @@
 
     <!-- Male/Female Animations -->
 
+    <position id="Atomic Blowjob" animation="Null"/>
+
     <position id="Atomic Spork" animation="Null"/>
 
     <position id="Atomic Spork II" animation="Null"/>
@@ -58,6 +60,8 @@
 
 
     <!-- Furniture Animations -->
+
+    <position id="Atomic Flying-V (Player House Kitchen Table)" animation="Null" location="Player House Kitchen Table"/>
 
     <position id="Atomic Reversed Cowgirl (Vault Bed)" animation="Null"/>
 
