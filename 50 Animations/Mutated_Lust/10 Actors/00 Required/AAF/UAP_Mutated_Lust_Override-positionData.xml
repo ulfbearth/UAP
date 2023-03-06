@@ -3,27 +3,58 @@
 
     <!-- Supermutant Animations -->
 
-    <position id="Supermutant Penis Lick" animation="Supermutant Penis Lick" />
+    <position id="Supermutant Penis Lick" animation="Null"/>
 
-    <position id="Supermutant Forced Missionary" animation="Supermutant Forced Missionary" />
+    <position id="Supermutant Forced Missionary" animation="Null"/>
 
-    <position id="Supermutant Forced Missionary (Pipe Rifle)" animation="Supermutant Forced Missionary (Pipe Rifle)" />
+    <position id="Supermutant Forced Missionary (Pipe Rifle)" animation="Null"/>
 
-    <position id="Supermutant Blowjob" animation="Supermutant Blowjob" />
+    <position id="Supermutant Blowjob" animation="Null"/>
 
-    <position id="FEV Doggy" animation="FEV Doggy" location="FEV Chamber" />
+    <position id="FEV Doggy" animation="Null"/>
 
-    <position id="FEV Cowgirl" animation="FEV Cowgirl" location="FEV Chamber" />
+    <position id="FEV Cowgirl" animation="Null"/>
 
     <!-- Feral Ghoul Animations -->
 
-    <position id="Feral Ghoul Cowgirl" animation="Feral Ghoul Cowgirl" />
+    <position id="Feral Ghoul Cowgirl" animation="Null"/>
 
     <!-- Deathclaw Animations -->
 
-    <position id="Deathclaw Fleshlight" animation="Deathclaw Fleshlight" />
+    <position id="Deathclaw Fleshlight" animation="Null"/>
 
-    <position id="Deathclaw Tease" animation="Deathclaw Tease" />
+    <position id="Deathclaw Tease" animation="Null"/>
 
-    <position id="Deathclaw Dumpster Bang" animation="Deathclaw Dumpster Bang" location="Dumpster" />
+    <position id="Deathclaw Dumpster Bang" animation="Null"/>
+
+    
+	<!-- Super Mutant Animations -->
+
+	<position id="Mutated SM Jerking 1" animation="Null"/>
+
+	<position id="Mutated SM Cowgirl" animation="Null"/>
+
+	<position id="Mutated SM Forced Missionary" animation="Null"/>
+
+	<position id="Mutated SM Forced Missionary (Pipe Rifle)" animation="Null"/>
+
+	<position id="Mutated SM FEV Doggy" animation="Null"/>
+
+	<position id="Mutated SM FEV Cowgirl" animation="Null"/>
+
+	<position id="Mutated SM Penis Lick" animation="Null"/>
+
+	<position id="Mutated SM Blowjob" animation="Null"/>
+
+	<!-- Feral Ghoul Animations -->
+
+	<position id="Mutated FG Cowgirl" animation="Null"/>
+
+	<!-- Deathclaw Animations -->
+
+	<position id="Mutated DC Fleshlight" animation="Null"/>
+
+	<position id="Mutated DC Tease" animation="Null"/>
+
+	<position id="Mutated DC Dumpster Bang" animation="Null"/>
 </positionData>
