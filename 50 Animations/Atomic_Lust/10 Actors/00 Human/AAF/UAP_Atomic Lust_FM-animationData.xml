@@ -5,7 +5,7 @@
 
 	<!-- Male/Female Animations -->
 
-	<animation id="Atomic Blowjob" frames="1280">
+	<animation id="Atomic_Blowjob" frames="1280">
 		<actor gender="F" startEquipmentSet="CockErect" idleForm="0204E055">
 			<action id="BJ Face" target="0" to="0"/>
 			<action id="UAPBlowjob" loop="true"/>
