@@ -5,8 +5,9 @@
 
     <position id="[UAP] Atomic Lust - Gay Love" positionTree="Atomic_Lust_Gay_Love" tags="Rufgt,M_M,NoFurn,FromBehind,HoldingHands,FromFront,Neutral,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,HandToHand,HandToPenis"/>
 
-    <!-- Female/Male Animations -->
+    <!-- Male/Male Animations -->
 
+    <position id="[UAP] Atomic Lust - Gay Blowjob" animation="Atomic_Blowjob_MM" tags="Rufgt,M_M,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToMouth"/>
     <position id="[UAP] Atomic Lust - Gay Spork 1" animation="AtomicLust_Spork_MM_01" tags="Rufgt,M_M,NoFurn,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] Atomic Lust - Gay Spork 2" animation="AtomicLust_Spork_MM_02" tags="Rufgt,M_M,NoFurn,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] Atomic Lust - Gay Cowgirl 1" animation="AtomicLust_Cowgirl_MM_01" tags="Rufgt,M_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
@@ -22,7 +23,8 @@
     <position id="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Main Course)" location="Single Bed" isHidden="true" animation="AtomicLust_ReverseCowgirlVaultBed_MM_01" tags="Rufgt,M_M,SingleBed,RevCowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] Atomic Lust - Gay Cowgirl (Vault Bed, Reversed, Orgasm)" location="Single Bed" isHidden="true" animation="AtomicLust_ReverseCowgirlVaultBed_MM_Orgasm_01" tags="Rufgt,M_M,Hidden,Utility,SingleBed,RevCowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
 
-    <position id="[UAP] Atomic Lust - Gay Blowjob" location="Player House Chair,Player House Chair Kitchen" animation="AtomicLust_BlowjobChair_MM_01" tags="Rufgt,M_M,ArmChair,Blowjob,FromFront,Neutral,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
+    <position id="[UAP] Atomic Lust - Gay Atomic Flying-V (Player House Kitchen Table)" animation="Atomic_Flying-V_(Player_House_Kitchen_Table)_MM" location="Player House Kitchen Table" tags="Rufgt,M_M,KitchenTable,Missionary,FromFront,Neutral,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToAnus"/>
+    <position id="[UAP] Atomic Lust - Gay Blowjob (Player House Chair)" location="Player House Chair,Player House Chair Kitchen" animation="AtomicLust_BlowjobChair_MM_01" tags="Rufgt,M_M,ArmChair,Blowjob,FromFront,Neutral,Held3,Love3,Stim1,Dom-5,NullToSelf,PenisToMouth"/>
     <position id="[UAP] Atomic Lust - Gay Cowgirl (Bunk Bed, Bottom)" location="Bunk Bed" animation="AtomicLust_CowgirlBunkBed_MM_Bottom_01" tags="Rufgt,M_M,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] Atomic Lust - Gay Cowgirl (Bunk Bed, Top)" location="Bunk Bed" animation="AtomicLust_CowgirlBunkBed_MM_Top_01" tags="Rufgt,M_M,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
     <position id="[UAP] Atomic Lust - Gay Cowgirl (Double Bed)" location="Double Bed" animation="AtomicLust_CowgirlDoubleBed_MM_01" tags="Rufgt,M_M,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>

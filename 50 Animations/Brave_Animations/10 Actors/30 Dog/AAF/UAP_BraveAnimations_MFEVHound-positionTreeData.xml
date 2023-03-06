@@ -1,0 +1,35 @@
+<positionTreeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" />
+
+
+    <tree id="FEVHoundMissionary_MM_Tree" strictExiting="true">
+        <branch id="Lick Anus" positionID="[UAP] Brave - Gay FEVHound Pussy Licking" forceComplete="true" time="15">
+            <branch id="Lick Tiddies" positionID="[UAP] Brave - Gay FEVHound Breast Licking" forceComplete="true" time="15">
+                <branch id="Play Stage 1" positionID="[UAP] Brave - Gay FEVHound Missionary1a" forceComplete="true" time="35">
+                    <branch id="Play Stage 2" positionID="[UAP] Brave - Gay FEVHound Missionary1b" forceComplete="true" time="35">
+                        <branch id="Play Stage 3" positionID="[UAP] Brave - Gay FEVHound Missionary1c" forceComplete="true" time="35">
+                            <branch id="Play Stage 4" positionID="[UAP] Brave - Gay FEVHound Missionary2a" forceComplete="true" time="35">
+                                <branch id="Play Stage 5" positionID="[UAP] Brave - Gay FEVHound Missionary2b" forceComplete="true" time="35">
+                                    <branch id="Play Stage 6" positionID="[UAP] Brave - Gay FEVHound Missionary2c" forceComplete="true" time="35">
+                                        <branch id="Play Stage 7" positionID="[UAP] Brave - Gay FEVHound Missionary Part 3" forceComplete="true" time="35">
+                                            <branch id="Afterglow 1" positionID="[UAP] Brave - Gay FEVHound Missionary Afterglow1a" forceComplete="true" time="15">
+                                                <branch id="Afterglow 2" positionID="[UAP] Brave - Gay FEVHound Missionary Afterglow1b" forceComplete="true" time="15">
+                                                    <branch id="Afterglow 3" positionID="[UAP] Brave - Gay FEVHound Missionary Afterglow1c" forceComplete="true" time="15">
+                                                        <branch id="Finish" positionID="[UAP] Brave - Gay FEVHound Missionary Afterglow1c" time="0" isExit="true">
+
+                                                        </branch>
+                                                    </branch>
+                                                </branch>
+                                            </branch>
+                                        </branch>
+                                    </branch>
+                                </branch>
+                            </branch>
+                        </branch>
+                    </branch>
+                </branch>
+            </branch>
+        </branch>
+    </tree>
+
+</positionTreeData>

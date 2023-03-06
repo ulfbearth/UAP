@@ -4,23 +4,14 @@
 
 	<!--===================================== Deathclaw Animations =========================================-->
 	<animationGroup id="ML_FM_Deathclaw Dumpster Bang_staged" sequential="true">
-		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
-		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
-		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
-		<stage animation="ML_FM_Deathclaw Dumpster Bang"/>
+		<stage animation="ML_FM_Deathclaw Dumpster Bang" switchTo="[UAP] Mutated Lust - Deathclaw Fleshlight"/>
 	</animationGroup>
 
 	<animationGroup id="ML_FM_Deathclaw Fleshlight_staged" sequential="true">
 		<stage animation="ML_FM_Deathclaw Fleshlight"/>
-		<stage animation="ML_FM_Deathclaw Fleshlight"/>
-		<stage animation="ML_FM_Deathclaw Fleshlight"/>
-		<stage animation="ML_FM_Deathclaw Fleshlight"/>
 	</animationGroup>
 
 	<animationGroup id="ML_FM_Deathclaw Tease_staged" sequential="true">
-		<stage animation="ML_FM_Deathclaw Tease"/>
-		<stage animation="ML_FM_Deathclaw Tease"/>
-		<stage animation="ML_FM_Deathclaw Tease"/>
-		<stage animation="ML_FM_Deathclaw Tease"/>
+		<stage animation="ML_FM_Deathclaw Tease" switchTo="[UAP] Mutated Lust - Deathclaw Dumpster Bang"/>
 	</animationGroup>
 </animationGroupData>

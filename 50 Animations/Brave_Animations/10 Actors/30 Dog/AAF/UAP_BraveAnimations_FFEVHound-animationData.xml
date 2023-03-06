@@ -1,0 +1,169 @@
+<animationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="BraveAnims.esp" loadPriority="20"/>
+
+
+	<animation id="FEVHoundPussyLicking" frames="167">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100b719">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100b71a">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundPussyToBreastLicking" frames="40">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd2c">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd20">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundBreastLicking" frames="190">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd2d">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd21">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundBreastLickingToMissionary" frames="150">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd2e">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd22">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary1a" frames="110">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100cde8">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100cde7">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary1b" frames="110">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100d583">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100d585">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary1c" frames="110">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100d584">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100d586">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary2a" frames="105">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd2f">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd23">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary2b" frames="105">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd30">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd24">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary2c" frames="105">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd31">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd25">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary2to3" frames="40">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd32">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd26">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionary3" frames="100">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd33">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd27">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionaryOrgasm" frames="85">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd34">
+			<action id="UAPOrgasm" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd28">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionaryAfterglow1a" frames="200">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd35">
+			<action id="UAPMoans" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd29">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionaryAfterglow1b" frames="200">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd36">
+			<action id="UAPMoans" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd2a">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+	<animation id="FEVHoundMissionaryAfterglow1c" frames="200">
+		<actor gender="F" startEquipmentSet="CockErect" idleForm="0100dd37">
+			<action id="UAPMoans" loop="true"/>
+			<action id="Play-Pussy-CumLeak" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="FEVHound" idleForm="0100dd2b">
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+	
+</animationData>

@@ -3,6 +3,30 @@
 
 	<!-- Female/Male Animations -->
 
+
+	<animation id="Atomic_Blowjob_MM" frames="1280">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0204E055">
+			<action id="BJ Face" target="0" to="0"/>
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0204E056">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Atomic_Flying-V_(Player_House_Kitchen_Table)_MM" frames="592">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0204E7F0">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0204E7F1">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000001"/>
+		</actor>
+	</animation>
+
 	<animation id="AtomicLust_Spork_MM_01" frames="304">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="0004D0BA">
 			<action id="UAPMoans" loop="true"/>

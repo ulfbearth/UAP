@@ -3,6 +3,28 @@
 
 	<!-- Supermutant Animations -->
 
+	
+	<animation id="Mutated_SM_Jerking_1_MM" frames="280">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100C618">
+			<action id="UAPBlowjob" loop="true"/>
+			<morph id="Erection" to="1.0000000000000000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100C619">
+			<morph id="Erection" to="1.0000000000000000000000001"/>
+		</actor>
+	</animation>
+
+	<animation id="Mutated_SM_Cowgirl_MM" frames="240">
+		<actor gender="M" startEquipmentSet="CockErect" idleForm="0100BE7D">
+			<action id="UAPMoans" loop="true"/>
+			<morph id="Erection" to="1.0000000000000000000000001"/>
+		</actor>
+		<actor gender="M" startEquipmentSet="CockErect" skeleton="Supermutant" idleForm="0100BE7E">
+			<morph id="Erection" to="1.0000000000000000000000001"/>
+		</actor>
+	</animation>
+
+
 	<animation id="ML_Blowjob_MM_01" frames="480">
 		<actor gender="M" startEquipmentSet="CockErect" idleForm="000F9B">
 			

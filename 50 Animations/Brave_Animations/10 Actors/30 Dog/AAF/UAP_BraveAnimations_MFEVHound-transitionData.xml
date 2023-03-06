@@ -1,0 +1,13 @@
+<transitionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+    <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+
+
+
+   <!-- <transition from="FEVHoundPussyLicking_MM" to="FEVHoundBreastLicking_MM" animation="FEVHoundPussyToBreastLicking_MM"/> -->
+    <transition from="FEVHoundBreastLicking_MM" to="FEVHoundMissionary1a_MM" animation="FEVHoundBreastLickingToMissionary_MM"/>
+   <!--  <transition from="FEVHoundMissionary2c_MM" to="FEVHoundMissionary3_MM" animation="FEVHoundMissionary2to3_MM"/> -->
+   <transition from="FEVHoundMissionary3_MM" to="FEVHoundMissionaryAfterglow1a_MM" animation="FEVHoundMissionaryOrgasm_MM"/>
+    
+
+</transitionData>
